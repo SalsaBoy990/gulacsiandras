@@ -88,6 +88,7 @@ module.exports = {
     twitter: 'andrasgulacsi',
     linkedin: 'andrasgulacsi',
     facebook: 'andras.gulacsi.3',
+    fb_app_id: '1952613611721840',
     mailchimp: '#',
     year: new Date().getFullYear(),
     postdata,

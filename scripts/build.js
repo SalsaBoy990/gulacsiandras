@@ -29,13 +29,14 @@ function handleError (err) {
 }
 
 const postdata = config.site.postdata
+console.log(postdata)
 
 // Store the paths to the blogposts for the links in the index page
 let pathsToPosts = []
 let parts
 
 // the postdata is in descending order already (newest post first)
-for (let i = 0; i < postdata.length; i++) {
+for (let i = postdata.length - 1; i >= 0; i--) {
   parts = postdata[i].path.split('-')
   // console.log(parts[3])
 
@@ -45,13 +46,28 @@ for (let i = 0; i < postdata.length; i++) {
 }
 // console.log(pathsToPosts)
 
+// Iterator to fill the metas in the head with metadata (postDataAbc object, in abc order!)
+let iterator = 0
+
 // Build the blogposts
 // cwd: current working directory
 globP('**/*.ejs', { cwd: `${srcPath}/posts` })
   .then((files) => {
+    // console.log(files)
     files.forEach((file) => {
       const fileData = path.parse(file)
       // console.log(fileData)
+
+      // generate canonical url for the post, and the disqus system
+      let postUrl = config.site.url + '/'
+      postUrl += (fileData.name.split('-').join('/') + '.html')
+      // console.log(postUrl)
+
+      // generate post id for the post, and the disqus system
+      let postId = fileData.name.split('-')
+      postId.length = postId.length - 1
+      postId = postId.join('')
+      console.log(postId)
 
       const destPath = path.join(distPath, fileData.dir)
       // console.log(destPath)
@@ -62,9 +78,17 @@ globP('**/*.ejs', { cwd: `${srcPath}/posts` })
           return ejsRenderFile(`${srcPath}/posts/${file}`, Object.assign({}, config))
         })
         .then((pageContents) => {
-          return ejsRenderFile(`${srcPath}/layouts/blogpost.ejs`, Object.assign({}, config, { body: pageContents }))
+          return ejsRenderFile(`${srcPath}/layouts/blogpost.ejs`, Object.assign({}, config, {
+            body: pageContents,
+            postUrl: postUrl,
+            postId: postId,
+            postTitle: config.site.title + ': ' + config.site.postdata[iterator].title,
+            postDescription: config.site.postdata[iterator].description,
+            postImage: config.site.postdata[iterator].cover_image
+          }))
         })
         .then((layoutContent) => {
+          iterator++
           // to store parts of the filename
           let parts = []
 
@@ -92,6 +116,7 @@ globP('**/*.ejs', { cwd: `${srcPath}/posts` })
 // cwd: current working directory
 globP('**/*.ejs', { cwd: `${srcPath}/pages` })
   .then((files) => {
+    console.log(files)
     files.forEach((file) => {
       const fileData = path.parse(file)
       // console.log(fileData)
@@ -101,18 +126,38 @@ globP('**/*.ejs', { cwd: `${srcPath}/pages` })
       fse.mkdirs(destPath)
         .then(() => {
           // render page
-          return ejsRenderFile(`${srcPath}/pages/${file}`, Object.assign({}, config, { pathsToPosts: pathsToPosts }))
+          return ejsRenderFile(`${srcPath}/pages/${file}`, Object.assign({}, config, { pathsToPosts: pathsToPosts.reverse() }))
         })
         .then((pageContents) => {
           let name = fileData.base
+          // console.log(name)
           // render layout with page contents
           switch (name) {
             case 'index.ejs':
-              return ejsRenderFile(`${srcPath}/layouts/home.ejs`, Object.assign({}, config, { pathsToPosts: pathsToPosts, body: pageContents }))
+              return ejsRenderFile(`${srcPath}/layouts/home.ejs`, Object.assign({}, config, {
+                pathsToPosts: pathsToPosts.reverse(),
+                title: config.site.title,
+                body: pageContents,
+                canonicalUrl: config.site.url,
+                description: config.site.quote,
+                image: 'assets/images/me_smaller_hun.jpg'
+              }))
             case 'about.ejs':
-              return ejsRenderFile(`${srcPath}/layouts/about.ejs`, Object.assign({}, config, { body: pageContents }))
+              return ejsRenderFile(`${srcPath}/layouts/about.ejs`, Object.assign({}, config, {
+                title: 'Rólam / ' + config.site.title,
+                body: pageContents,
+                canonicalUrl: config.site.url + '/about',
+                description: config.site.description,
+                image: 'assets/images/me_smaller_hun.jpg'
+              }))
             case 'book.ejs':
-              return ejsRenderFile(`${srcPath}/layouts/book.ejs`, Object.assign({}, config, { body: pageContents }))
+              return ejsRenderFile(`${srcPath}/layouts/book.ejs`, Object.assign({}, config, {
+                title: 'A könyvem / ' + config.site.title,
+                body: pageContents,
+                canonicalUrl: config.site.url + '/book',
+                description: config.site.bookTitle,
+                image: 'assets/images/book_small.jpg'
+              }))
             default:
               return ejsRenderFile(`${srcPath}/layouts/blogpost.ejs`, Object.assign({}, config, { body: pageContents }))
           }

@@ -8,16 +8,21 @@
   
     <!-- MORE METAS ARE COMING HERE -->
     <meta name="description" content="<%= site.description %>">
-    <meta property="og:title" content="<%= site.title %>">
+    <meta property="og:title" content="<%= postTitle %>">
+    <meta property="og:url" content="<%= postUrl %>">
     <meta property="og:site_name" content="<%= site.title %>">
-    <meta property="og:description" content="<%= site.quote %>">
+    <meta property="og:description" content="<%= postDescription %>">
+    <meta property="og:image" content="<%= postImage %>">
     <meta property="og:type" content="website">
-    <meta property="fb:app_id" content="<%= site.fb_app_id %>" />
+
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="<%= site.twitter %>">
     <meta name="twitter:creator" content="<%= site.twitter %>">
-    <meta name="twitter:title" content="<%= site.title %>">
-    <meta name="twitter:description" content="<%= site.description %>">
+    <meta name="twitter:title" content="<%= postTitle %>">
+    <meta name="twitter:description" content="<%= postDescription %>">
+    <meta name="twitter:url" content="<%= postUrl %>">
+    <meta name="twitter:image" content="<%= postImage %>">
   
+    <link rel="canonical" href="<%= postUrl %>">
     <link href="./../../../assets/stylesheet/main.css" rel="stylesheet" type="text/css">
   </head>

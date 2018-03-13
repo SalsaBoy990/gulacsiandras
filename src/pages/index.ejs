@@ -2,7 +2,7 @@
 <div class="sm-col-12 md-col-10 lg-col-8 col-9 mx-auto align-left">
 
   
-<% for (var i = 0; i < site.postdata.length; i++) { %>
+<% for (var i = site.postdata.length - 1; i >= 0; i--) { %>
   <div class="pt1 m0">
     <p class="smallest gray mb0 merryweather"><%= site.dateFormatted[i] %></p>
     <a href="<%= pathsToPosts[i] %>" class="big pb1 bold-700 merryweather"><%= site.postdata[i].title %></a>
@@ -16,5 +16,5 @@
 
   </div>
 <% } %>
-  <p class="mb2 small" >Feliratkozás a <a href="http://eepurl.com/dneX1D">hírlevelemre</a>.</p>
+  <p class="mb2 small" >Feliratkozás a <a href="<%= site.mailchimp %>">hírlevelemre</a>.</p>
 </div>

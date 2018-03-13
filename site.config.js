@@ -1,14 +1,31 @@
 const postdata = require('./src/data/postdata.json')
 
+/*
+const postDataAbc = postdata.sort(compare)
+function compare (a, b) {
+  if (a.path < b.path) {
+    return -1
+  } else if (a.path > b.path) {
+    return 1
+  } else {
+    return 0
+  }
+}
+*/
+// console.log(postDataAbc)
+// console.log(postdata)
+
+// console.log(postDataAbc[0].title)
+
 let dateFormatted = []
 let dateParts = []
-let truncatedTitle = []
+// let truncatedTitle = []
 for (let i = 0; i < postdata.length; i++) {
   // split date string by the '-' delimiter into an array
   dateParts = postdata[i].date.split('-')
   // console.log(dateParts)
 
-  truncatedTitle.push(shorten(postdata[i].title, 60))
+  // truncatedTitle.push(shorten(postdata[i].title, 60))
 
   // replace month number with month name
   let month = dateParts[1]
@@ -65,8 +82,8 @@ for (let i = 0; i < postdata.length; i++) {
   }
 }
 
-console.log(truncatedTitle)
-
+// console.log(truncatedTitle)
+/*
 function shorten (text, maxLength) {
   let ret = text
   if (ret.length > maxLength) {
@@ -74,7 +91,7 @@ function shorten (text, maxLength) {
   }
   return ret
 }
-
+*/
 // console.log(dateFormatted)
 
 module.exports = {
@@ -83,16 +100,15 @@ module.exports = {
     title: 'Gulácsi András',
     quote: '„Az ideológiai alapú, utópisztikus gondolkodás ellen veszem fel a küzdelmet a tények, a tapasztalatok és a józan ész segítségével, hogy ne váljon pusztító ideológiák martalékává a társadalom.”',
     description: 'Egy full stack webfejlesztőnek készülő természettudós és amatőr táncos.',
+    bookTitle: 'A készülő könyvem: Rendezett emberi környezetet a világon!',
     email: 'guland@protonmail.com',
     github: 'SalsaBoy990',
     twitter: 'andrasgulacsi',
     linkedin: 'andrasgulacsi',
     facebook: 'andras.gulacsi.3',
-    fb_app_id: '1952613611721840',
-    mailchimp: '#',
+    mailchimp: 'http://eepurl.com/dneX1D',
     year: new Date().getFullYear(),
     postdata,
-    dateFormatted: dateFormatted,
-    truncatedTitle: truncatedTitle
+    dateFormatted: dateFormatted
   }
 }

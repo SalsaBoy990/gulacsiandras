@@ -29,7 +29,7 @@ function handleError (err) {
 }
 
 const postdata = config.site.postdata
-console.log(postdata)
+// console.log(postdata)
 
 // Store the paths to the blogposts for the links in the index page
 let pathsToPosts = []
@@ -44,9 +44,12 @@ for (let i = postdata.length - 1; i >= 0; i--) {
   // store the post links for the index page
   pathsToPosts.push(`/${parts[0]}/${parts[1]}/${parts[2]}/${parts[3]}.html`)
 }
+
+fse.writeFileSync('./src/data/postUrls.json', JSON.stringify(pathsToPosts), 'utf8')
+
 // console.log(pathsToPosts)
 
-// Iterator to fill the metas in the head with metadata (postDataAbc object, in abc order!)
+// Iterator to fill the metas in the head with metadata
 let iterator = 0
 
 // Build the blogposts
@@ -67,7 +70,7 @@ globP('**/*.ejs', { cwd: `${srcPath}/posts` })
       let postId = fileData.name.split('-')
       postId.length = postId.length - 1
       postId = postId.join('')
-      console.log(postId)
+      // console.log(postId)
 
       const destPath = path.join(distPath, fileData.dir)
       // console.log(destPath)
@@ -109,67 +112,5 @@ globP('**/*.ejs', { cwd: `${srcPath}/posts` })
   })
   .then(() => {
     console.log('Successful build! Blogposts OK.')
-  })
-  .catch(err => { console.error(err) })
-
-// Build subpages (in our example the index, about, book pages)
-// cwd: current working directory
-globP('**/*.ejs', { cwd: `${srcPath}/pages` })
-  .then((files) => {
-    console.log(files)
-    files.forEach((file) => {
-      const fileData = path.parse(file)
-      // console.log(fileData)
-
-      const destPath = path.join(distPath, fileData.dir)
-
-      fse.mkdirs(destPath)
-        .then(() => {
-          // render page
-          return ejsRenderFile(`${srcPath}/pages/${file}`, Object.assign({}, config, { pathsToPosts: pathsToPosts.reverse() }))
-        })
-        .then((pageContents) => {
-          let name = fileData.base
-          // console.log(name)
-          // render layout with page contents
-          switch (name) {
-            case 'index.ejs':
-              return ejsRenderFile(`${srcPath}/layouts/home.ejs`, Object.assign({}, config, {
-                pathsToPosts: pathsToPosts.reverse(),
-                title: config.site.title,
-                body: pageContents,
-                canonicalUrl: config.site.url,
-                description: config.site.quote,
-                image: 'assets/images/me_smaller_hun.jpg'
-              }))
-            case 'about.ejs':
-              return ejsRenderFile(`${srcPath}/layouts/about.ejs`, Object.assign({}, config, {
-                title: 'Rólam / ' + config.site.title,
-                body: pageContents,
-                canonicalUrl: config.site.url + '/about',
-                description: config.site.description,
-                image: 'assets/images/me_smaller_hun.jpg'
-              }))
-            case 'book.ejs':
-              return ejsRenderFile(`${srcPath}/layouts/book.ejs`, Object.assign({}, config, {
-                title: 'A könyvem / ' + config.site.title,
-                body: pageContents,
-                canonicalUrl: config.site.url + '/book',
-                description: config.site.bookTitle,
-                image: 'assets/images/book_small.jpg'
-              }))
-            default:
-              return ejsRenderFile(`${srcPath}/layouts/blogpost.ejs`, Object.assign({}, config, { body: pageContents }))
-          }
-        })
-        .then((layoutContent) => {
-          // save the html file
-          fse.writeFile(`${destPath}/${fileData.name}.html`, layoutContent)
-        })
-        .catch(err => { console.error(err) })
-    })
-  })
-  .then(() => {
-    console.log('Successful build! Subpages OK.')
   })
   .catch(err => { console.error(err) })

@@ -12,15 +12,16 @@
 
     <!-- BLOGPOST CONTENT -->
     <%- body %>
+    
+    <!-- NAVIGATION BAR -->
+    <%- include('../partials/navbar-post-bottom') %>
 
     <!-- COMMENTS -->
     <%- include('../partials/disqus')%>
 
   </main>
 
-  <!-- FOOTER, SOCIAL MEDIA -->
-  <%- include('../partials/footer') %>
-  <!-- NAVIGATION BAR -->
-  <%- include('../partials/navbar-post') %>
+  <!-- Tracker code, link to Netlify -->
+  <%- include('../partials/netlify_clicky') %>
 </body>
 </html>

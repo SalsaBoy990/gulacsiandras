@@ -1,31 +1,12 @@
 const postdata = require('./src/data/postdata.json')
 
-/*
-const postDataAbc = postdata.sort(compare)
-function compare (a, b) {
-  if (a.path < b.path) {
-    return -1
-  } else if (a.path > b.path) {
-    return 1
-  } else {
-    return 0
-  }
-}
-*/
-// console.log(postDataAbc)
-// console.log(postdata)
-
-// console.log(postDataAbc[0].title)
-
 let dateFormatted = []
 let dateParts = []
-// let truncatedTitle = []
+
 for (let i = 0; i < postdata.length; i++) {
   // split date string by the '-' delimiter into an array
   dateParts = postdata[i].date.split('-')
   // console.log(dateParts)
-
-  // truncatedTitle.push(shorten(postdata[i].title, 60))
 
   // replace month number with month name
   let month = dateParts[1]
@@ -82,22 +63,12 @@ for (let i = 0; i < postdata.length; i++) {
   }
 }
 
-// console.log(truncatedTitle)
-/*
-function shorten (text, maxLength) {
-  let ret = text
-  if (ret.length > maxLength) {
-    ret = ret.substr(0, maxLength - 3) + '…'
-  }
-  return ret
-}
-*/
 // console.log(dateFormatted)
 
 module.exports = {
   site: {
     url: 'https://www.gulacsiandras.blog',
-    title: 'Gulácsi András',
+    title: 'Gulácsi András Blogja',
     quote: '„Az ideológiai alapú, utópisztikus gondolkodás ellen veszem fel a küzdelmet a tények, a tapasztalatok és a józan ész segítségével, hogy ne váljon pusztító ideológiák martalékává a társadalom.”',
     description: 'Egy full stack webfejlesztőnek készülő természettudós és amatőr táncos.',
     bookTitle: 'A készülő könyvem: Rendezett emberi környezetet a világon!',

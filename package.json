@@ -4,9 +4,9 @@
   "description": "A simple Node.js based static site generator that uses EJS",
   "main": "./scripts/build.js",
   "scripts": {
-    "build": "node ./scripts/buildAll.js",
+    "build": "node ./scripts/buildPosts.js && node ./scripts/buildPages.js",
     "serve": "node ./scripts/serve.js",
-    "build-serve": "node ./scripts/buildAndRun.js",
+    "build-serve": "node ./scripts/buildAll.js && node ./scripts/serve.js",
     "table": "node ./database/mysql_table_tool.js",
     "mysql": "node ./database/mysql_db_tool.js"
   },

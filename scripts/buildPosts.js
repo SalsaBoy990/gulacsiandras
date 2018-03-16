@@ -25,6 +25,8 @@
 
   // copy assets folder to destination (contains images, scripts and css)
   fse.copy(`${srcPath}/assets`, `${distPath}/assets`, handleError())
+  // copy favicon folder to the root of /public folder
+  fse.copy(`${srcPath}/favicon`, `${distPath}`, handleError())
   function handleError (err) {
     if (err) throw err
     console.log('Successfully copied assets folder!')

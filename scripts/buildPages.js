@@ -68,7 +68,7 @@
                   image: 'https://d33wubrfki0l68.cloudfront.net/f0d3e9575ac2c831b151efd3e374d72859c0cab2/c5dc4/assets/images/book_small.jpg'
                 }))
               case 'a_hozzaszolasi_szabalyzat.ejs':
-                return ejsRenderFile(`${srcPath}/layouts/comment.ejs`, Object.assign({}, config, {
+                return ejsRenderFile(`${srcPath}/layouts/default.ejs`, Object.assign({}, config, {
                   title: 'A hozzászólási szabályzatom',
                   body: pageContents,
                   canonicalUrl: config.site.url + '/' + fileData.name,
@@ -76,7 +76,13 @@
                   image: ''
                 }))
               default:
-                return ejsRenderFile(`${srcPath}/layouts/blogpost.ejs`, Object.assign({}, config, { body: pageContents }))
+                return ejsRenderFile(`${srcPath}/layouts/not-found.ejs`, Object.assign({}, config, {
+                  title: '404 A keresett oldal nem található',
+                  body: pageContents,
+                  canonicalUrl: config.site.url + '/' + fileData.name,
+                  description: 'Biztos, hogy helyes ez a cím? Mert itt nem található semmilyen cikk.',
+                  image: ''
+                }))
             }
           })
           .then((layoutContent) => {

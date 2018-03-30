@@ -76,6 +76,7 @@ module.exports = {
     github: 'SalsaBoy990',
     twitter: 'andrasgulacsi',
     linkedin: 'andrasgulacsi',
+    minds: 'GulacsiAndras',
     facebook: 'andras.gulacsi.3',
     mailchimp: 'http://eepurl.com/dneX1D',
     year: new Date().getFullYear(),

@@ -529,7 +529,8 @@ html {
 }
 
 body {
-    color: #000;
+    color: #222;
+    background: #fffafa;
     font-family: "PT Sans", sans-serif;
     margin: 0;
     width: 100%;
@@ -631,7 +632,7 @@ blockquote {
 }
 
 .gray {
-    color: #727779
+    color: #6D7274
 }
 
 .dark-gray {
@@ -760,6 +761,16 @@ img {
     width: 40%;
 }
 
+.cover {
+    -webkit-box-shadow: 1px 1px 2px 2px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    1px 1px 2px 2px #ccc;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         1px 1px 2px 2px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    /*border: 1px solid #E1E3E4;*/
+    border-radius: 3px;
+    -webkit-filter: grayscale();
+    filter: grayscale();
+}
+
 iframe {
     display: block;
     width: 97.5%;
@@ -835,6 +846,15 @@ a:hover {
     margin-right: 0rem;
 }
 
+.icon {
+    -webkit-filter: grayscale();
+    filter: grayscale();
+}
+
+.grayscale {
+    -webkit-filter: grayscale();
+    filter: grayscale();
+}
 
 .unselectable {
     user-drag: none; 

@@ -3,16 +3,19 @@
 
   
 <% for (var i = site.postdata.length - 1, j = 0; i >= 0; i--) { %>
-  <div class="pt1 m0 mb2">
+  <div class="pt1 m0 mb1">
     <p class="smallest gray mb0 merryweather"><%= site.dateFormatted[i] %></p>
-    <a href="<%= pathsToPosts[j] %>" class="big pb1 bold-700 merryweather"><%= site.postdata[i].title %></a>
+    <a href="<%= pathsToPosts[j] %>" class="big mbhalf bold-700 merryweather"><%= site.postdata[i].title %></a>
 
-    <div class="mt1 border-bottom-black" style="display: inline-block">
+    <div class="mt1 border-shadow" style="display: inline-block; background: #fffffe;">
       <a href="<%= pathsToPosts[j++] %>">
         <img class="left m0 cover" style="width: 40%" src="<%= site.postdata[i].cover_image %>" alt="<%= site.postdata[i].title %>"/>
         <p class="dark-gray right m0 pbhalf pl1" style="width: 60%"><%= site.postdata[i].description %></p>
       </a>
     </div>
+    <% if (i === site.postdata.length - 1) { %>
+      <p class="mb3 clearfix small dark-gray italic align-center" >Ha szeretnél e-mailben értesülni az új írásokról, akkor <a href="<%= site.mailchimp %>">iratkozz fel a hírlevelemre</a>!</p>
+    <% } %>
 
   </div>
 <% } %>

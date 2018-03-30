@@ -615,9 +615,11 @@ ul {
 }
 
 blockquote {
+    background: seashell;
     font-style: italic;
     margin: 0 1rem 1rem
 }
+
 
 .white {
     color: #FCFFFD
@@ -762,19 +764,20 @@ img {
 }
 
 .cover {
-    -webkit-box-shadow: 1px 1px 2px 2px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
-    -moz-box-shadow:    1px 1px 2px 2px #ccc;  /* Firefox 3.5 - 3.6 */
-    box-shadow:         1px 1px 2px 2px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
     /*border: 1px solid #E1E3E4;*/
     border-radius: 3px;
-    -webkit-filter: grayscale();
-    filter: grayscale();
+    opacity: .75;
+}
+.cover:hover {
+    transition: 0.3s ease-in;
+    opacity: 1;
+    -webkit-filter: contrast(1);
+    filter: contrast(1);
 }
 
 iframe {
     display: block;
     width: 97.5%;
-    /*margin:auto;*/
     margin-top: 1.5rem;
     margin-bottom: .5rem;
 }
@@ -794,12 +797,20 @@ tr:nth-child(even) {
     border-top: 1px solid #ccc
 }
 
+.border-shadow {
+    -webkit-box-shadow: 1px 1px 2px 2px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    1px 1px 2px 2px #ccc;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         1px 1px 1px 1px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    /*border: 1px solid #E1E3E4;*/
+    border-radius: 3px;
+}
+
 .border-bottom {
     border-bottom: 1px solid #ccc
 }
 
 .border-bottom-black {
-    border-bottom: 1px solid #111
+    border-bottom: 2px solid #ccc
 }
 
 .border-none {
@@ -850,11 +861,11 @@ a:hover {
     -webkit-filter: grayscale();
     filter: grayscale();
 }
-
-.grayscale {
-    -webkit-filter: grayscale();
-    filter: grayscale();
+.icon:hover {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
 }
+
 
 .unselectable {
     user-drag: none; 

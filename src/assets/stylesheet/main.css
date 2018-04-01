@@ -551,7 +551,6 @@ h4,
 h5,
 h6 {
     font-family: "Merriweather", sans-serif;
-    /*font-weight: bold;*/
     margin: 2rem 0 0.75rem 0;
     -webkit-font-smoothing: initial;
     line-height: 1.25
@@ -629,10 +628,6 @@ blockquote {
     color: #E1E3E4
 }
 
-.silver {
-    color: #E0E0DC
-}
-
 .gray {
     color: #6D7274
 }
@@ -642,7 +637,7 @@ blockquote {
 }
 
 .black {
-    color: #111 /* #3A3A3A */
+    color: #111
 }
 
 .red {
@@ -764,7 +759,6 @@ img {
 }
 
 .cover {
-    /*border: 1px solid #E1E3E4;*/
     border-radius: 3px;
     opacity: .75;
 }

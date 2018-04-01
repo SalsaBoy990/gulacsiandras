@@ -8,7 +8,7 @@
     "serve": "node ./scripts/serve.js",
     "build-serve": "node ./scripts/buildAll.js && node ./scripts/serve.js",
     "table": "node ./database/mysql_table_tool.js",
-    "mysql": "node ./database/mysql_db_tool.js"
+    "db": "node ./database/mysql_db_tool.js"
   },
   "keywords": [
     "Node.js",

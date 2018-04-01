@@ -91,7 +91,8 @@
               postId: postId,
               postTitle: config.site.title + ': ' + config.site.postdata[iterator].title,
               postDescription: config.site.postdata[iterator].description,
-              postImage: config.site.postdata[iterator].cover_image
+              postImage: config.site.postdata[iterator].cover_image,
+              commentsEnabled: config.site.postdata[iterator].comments_enabled
             }))
           })
           .then((layoutContent) => {

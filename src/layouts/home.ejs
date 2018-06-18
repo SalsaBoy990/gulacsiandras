@@ -1,24 +1,13 @@
 <!DOCTYPE html>
 <html lang="hu">
-  <!-- HEAD -->
   <%- include('../partials/head') %>
 <body>
-
-  <!-- MAIN CONTENT -->
+  <%- include('../partials/header') %>
+  <%- include('../partials/navbar-home') %>
   <main class="m0 p0 clear-padding">
-
-    <!-- HEADER, NAVIGATION BAR -->
-    <%- include('../partials/navbar-home') %>
-
-    <!-- BLOGPOSTS -->
     <%- body %>
-
   </main>
-
-  <!-- FOOTER, SOCIAL MEDIA -->
   <%- include('../partials/footer') %>
-
-  <!-- Tracker code, link to Netlify -->
-  <%- include('../partials/netlify_clicky_invisible') %>
+  <%- include('../partials/bootstrap') %>
 </body>
 </html>

@@ -15,7 +15,6 @@
   const config = require('../site.config')
 
   const pathsToPosts = require('../src/data/postUrls.json')
-  // console.log(pathsToPosts)
 
   // source directory
   const srcPath = './src'
@@ -26,10 +25,8 @@
   // cwd: current working directory
   globP('**/*.ejs', { cwd: `${srcPath}/pages` })
     .then((files) => {
-      // console.log(files)
       files.forEach((file) => {
         const fileData = path.parse(file)
-        // console.log(fileData)
 
         const destPath = path.join(distPath, fileData.dir)
 
@@ -40,7 +37,7 @@
           })
           .then((pageContents) => {
             let name = fileData.base
-            // console.log(name)
+
             // render layout with page contents
             switch (name) {
               case 'index.ejs':
@@ -53,7 +50,7 @@
                 }))
               case 'about.ejs':
                 return ejsRenderFile(`${srcPath}/layouts/about.ejs`, Object.assign({}, config, {
-                  title: 'Rólam / ' + config.site.title,
+                  title: 'Magamról / ' + config.site.title,
                   body: pageContents,
                   canonicalUrl: config.site.url + '/about',
                   description: config.site.description,
@@ -69,18 +66,18 @@
                 }))
               case 'a_hozzaszolasi_szabalyzat.ejs':
                 return ejsRenderFile(`${srcPath}/layouts/default.ejs`, Object.assign({}, config, {
-                  title: 'A hozzászólási szabályzatom',
+                  title: 'Hozzászólási szabályzat / ' + config.site.title,
                   body: pageContents,
                   canonicalUrl: config.site.url + '/' + fileData.name,
-                  description: 'A blogom hozzászólási szabályzata. Kötelező érvényű mindenkire!',
+                  description: 'A blogom hozzászólási szabályzata.',
                   image: ''
                 }))
               default:
                 return ejsRenderFile(`${srcPath}/layouts/not-found.ejs`, Object.assign({}, config, {
-                  title: '404 A keresett oldal nem található',
+                  title: '404: A keresett oldal nem található / ' + config.site.title,
                   body: pageContents,
                   canonicalUrl: config.site.url + '/' + fileData.name,
-                  description: 'Biztos, hogy helyes ez a cím? Mert itt nem található semmilyen cikk.',
+                  description: 'Biztos, hogy helyes ez a cím?',
                   image: ''
                 }))
             }
@@ -92,8 +89,6 @@
           .catch(err => { console.error(err) })
       })
     })
-    .then(() => {
-      console.log('Successful build! Subpages OK.')
-    })
     .catch(err => { console.error(err) })
 })()
+console.log('Successful build! Subpages OK.')

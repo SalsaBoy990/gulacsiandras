@@ -1,22 +1,21 @@
-<!-- BLOGPOSTS -->
-<div class="sm-col-12 md-col-10 lg-col-8 col-9 mx-auto align-left">
-
-  
-<% for (var i = site.postdata.length - 1, j = 0; i >= 0; i--) { %>
-  <div class="plhalf prhalf pthalf m0 mb3 border-shadow">
-    <p class="smallest gray mb0 merryweather"><%= site.dateFormatted[i] %></p>
-    <a href="<%= pathsToPosts[j] %>" class="big mbhalf bold-700 merryweather"><%= site.postdata[i].title %></a>
-
-    <div class="mt1" style="display: inline-block; background: #fffffe;">
-      <a href="<%= pathsToPosts[j++] %>">
-        <img class="left m0 cover" style="width: 40%" src="<%= site.postdata[i].cover_image %>" alt="<%= site.postdata[i].title %>"/>
-        <p class="dark-gray right m0 pbhalf pl1" style="width: 60%"><%= site.postdata[i].description %></p>
-      </a>
-    </div>
-    <% if (i === site.postdata.length - 1) { %>
-      <p class="pbhalf clearfix small dark-gray italic align-center" >Ha szeretnél e-mailben értesülni az új írásokról, akkor <a href="<%= site.mailchimp %>">iratkozz fel a hírlevelemre</a>!</p>
+<div class="container mt3">
+  <div class="col-xs-12 col-sm-8 col-sm-offset-2 p0 align-left">
+    <% for (var i = 0; i < site.postData.length; i++) { %>
+    <article>
+      <div class="plhalf prhalf pthalf m0 mb3 border-full border-shadow clearfix" style="background: #fffff0;">
+        <div class="clearfix">
+          <p class="minimal gray mb0 pull-right"><span class="glyphicon glyphicon-time"></span> <%= site.dateFormatted[i] %></p>
+        </div>
+        <a href="<%= pathsToPosts[i] %>" class="big mbhalf bold-800 pt-sans m0"><%= site.postData[i].title %></a>
+        <hr>
+        <a href="<%= pathsToPosts[i] %>">
+          <img class="m0 img-responive" src="<%= site.postData[i].cover_image %>" alt="<%= site.postData[i].title %>"/>
+        </a>
+        <hr>
+        <p class="m0 pbhalf pl1"><%= site.postData[i].description %></p>
+        <a class="btn btn-primary pull-right mbhalf smallest" href="<%= pathsToPosts[i] %>">Tovább olvasom &raquo;</a>
+      </div>
+    </article>
     <% } %>
-
   </div>
-<% } %>
 </div>

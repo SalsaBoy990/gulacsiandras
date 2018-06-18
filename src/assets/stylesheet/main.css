@@ -529,9 +529,9 @@ html {
 }
 
 body {
-    color: #222;
-    background: #fffafa;
-    font-family: "PT Sans", sans-serif;
+    color: #333;
+    background: #fefefe;
+    font-family: "PT Serif", Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     width: 100%;
     height: 100%;
@@ -550,7 +550,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Merriweather", sans-serif;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-weight: 900;
     margin: 2rem 0 0.75rem 0;
     -webkit-font-smoothing: initial;
     line-height: 1.25
@@ -563,11 +564,11 @@ h4 a,
 h5 a,
 h6 a {
     text-decoration: none;
-    font-weight: 500
+    font-weight: 800
 }
 
-.merryweather {
-    font-family: "Merriweather", sans-serif;
+.pt-sans {
+    font-family: "PT Sans",  Helvetica, Arial, sans-serif;
 }
 
 
@@ -620,12 +621,44 @@ blockquote {
 }
 
 
+.tshadow-black {
+    text-shadow:
+        -1px -1px 0 #333,
+        1px -1px 0 #333,
+        -1px 1px 0 #333,
+        1px 1px 0 #333;
+}
+
+.tshadow-gray {
+    text-shadow:
+        -0.5px -0.5px 0 #999,
+        0.5px -0.5px 0 #999,
+        -0.5px 0.5px 0 #999,
+        0.5px 0.5px 0 #999;
+}
+
+.lh2 {
+    line-height: 2
+}
+
+.lh3 {
+    line-height: 2.5
+}
+
+.bg-white {
+    background-color: #FEFEFE
+}
+
 .white {
-    color: #FCFFFD
+    color: #FFFFF0
 }
 
 .light-gray {
-    color: #E1E3E4
+    color: #EFEFEF
+}
+
+.medium-gray {
+    color: #CCC
 }
 
 .gray {
@@ -641,11 +674,10 @@ blockquote {
 }
 
 .red {
-    color: #a21942
+    color: rgb(239, 41 , 0)
 }
 
-
-.letter-spacing {
+.expanded {
     letter-spacing: 1px
 }
 
@@ -673,6 +705,10 @@ blockquote {
     font-weight: 700
 }
 
+.bold-800 {
+    font-weight: 800
+}
+
 .uppercase {
     text-transform: uppercase
 }
@@ -683,6 +719,10 @@ blockquote {
 
 .no-underline {
     text-decoration: none
+}
+
+.minimal {
+    font-size: .7rem
 }
 
 .smallest {
@@ -701,6 +741,7 @@ blockquote {
     font-size: 1.5rem
 }
 
+
 .left {
     float: left
 }
@@ -714,21 +755,6 @@ blockquote {
 }
 
 .block {
-    display: block
-}
-
-
-code {
-    font-size: 0.825rem;
-    background: #E1E3E4;
-    padding: 0.125rem;
-    border-radius: 2px
-}
-
-pre code {
-    padding: 0.5rem;
-    white-space: pre;
-    overflow: auto;
     display: block
 }
 
@@ -754,10 +780,6 @@ img {
     width: 100%;
 }
 
-.book {
-    width: 40%;
-}
-
 .cover {
     border-radius: 3px;
     opacity: .75;
@@ -771,7 +793,7 @@ img {
 
 iframe {
     display: block;
-    width: 97.5%;
+    width: 100%;
     margin-top: 1.5rem;
     margin-bottom: .5rem;
 }
@@ -807,26 +829,63 @@ tr:nth-child(even) {
     border-bottom: 2px solid #ccc
 }
 
+.border-full {
+    border: 1px solid #ccc
+}
+
 .border-none {
     border: none
 }
 
+.tag {
+    display: inline;
+    background: #FFFFF0;
+    border: 1px solid #CCC;
+    padding: 0.25rem;
+    border-radius: 5px;
+    font-size: .9rem
+}
+
 body,
 html {
-    font-size: 20px;
-    font-family: "PT Sans", sans-serif;
+    font-size: 22px;
+    font-family: "PT Serif", Georgia, 'Times New Roman', Times, serif;
     line-height: 1.6667;
     margin: 0;
     padding: 0;
 }
 
-a {
-    color: hsl(190, 100%, 22%);
-    transition: color 0.3s ease-in
+hr {
+    border-color: #ccc;
+    margin: 0.5rem 0;
 }
 
+
+a {
+    color: #003981;
+    transition: color 0.3s ease-in
+}
 a:hover {
-    color: hsl(190, 100%, 3%)
+    color: rgb(0, 12, 15)
+}
+
+.footer-link a {
+    color: #CCC;
+}
+.footer-link a:hover {
+    transition: color 0.3s ease-in;
+    color: #CCC;
+    text-decoration: underline
+}
+
+.navbar-link a {
+    color: #FFFFF0;
+    transition: color 0.3s ease-in
+}
+.navbar-link a:hover {
+    transition: color 0.3s ease-in;
+    color: #FFFFF0;
+    text-decoration: underline
 }
 
 .profile {
@@ -838,26 +897,24 @@ a:hover {
     margin-right: 0.5rem;
 }
 
+.profile-small {
+    -webkit-filter: grayscale(50%);
+    filter: grayscale(50%);
+    box-shadow: 0.5px 0.5px 0.5px 0px #ccc;
+    width: 55px;
+    display: block;
+    border-radius: 50%;
+}
+
 .profile404 {
-    -webkit-filter: grayscale();
-    filter: grayscale();
     padding-top: 0;
     margin-top: 1rem;
-    border: 2px solid #a21942;
-    width: 110px;
-    height: 110px;
+    border: 2px solid rgb(239, 41 , 0);
+    width: 90px;
+    height: 90px;
     display: block;
     border-radius: 50%;
     margin-right: 0rem;
-}
-
-.icon {
-    -webkit-filter: grayscale();
-    filter: grayscale();
-}
-.icon:hover {
-    -webkit-filter: grayscale(0);
-    filter: grayscale(0);
 }
 
 
@@ -872,10 +929,59 @@ a:hover {
 
 ::-moz-selection {
     color: #fff;
-    background: hsl(190, 100%, 32%)
+    background: rgb(0, 90, 201)
 }
   
 ::selection {
     color: #fff;
-    background: hsl(190, 100%, 32%)
+    background: rgb(0, 90, 201)
+}
+
+
+.intro {
+    min-height: 225px;
+    background: url(../images/blackhole.jpg) no-repeat;
+    background-position: 50% 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.about {
+    min-height: 135px;
+    background: #003981
+}
+
+.rectangle {
+    height: 50px;
+    background: #003981;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.current-rectangle {
+    height: 50px;
+    background: #333;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    -webkit-box-shadow: 0px 1px 2px 1px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    0px 1px 2px 1px #ccc;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         0px 1px 2px 1px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.line-height-50 {
+    line-height: 50px
+}
+
+.post-date {
+    font-size: 0.8rem;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    color: #6D7274
+}
+
+.post-title {
+    margin-bottom: 2rem;
 }

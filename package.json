@@ -30,6 +30,6 @@
     "serve-favicon": "^2.4.5"
   },
   "devDependencies": {
-    "standard": "^11.0.0"
+    "standard": "^11.0.1"
   }
 }

@@ -1,21 +1,13 @@
 <!DOCTYPE html>
 <html lang="hu">
-  <!-- HEAD -->
   <%- include('../partials/head') %>
 <body>
-
-  <!-- MAIN CONTENT -->
-  <main class="pr1 pl1 clear-padding">
-
-    <!-- BLOGPOST CONTENT -->
-    <%- body %>
-
-  </main>
-
-  <!-- NAVIGATION BAR -->
+  <%- include('../partials/header') %>
   <%- include('../partials/navbar-404') %>
-
-  <!-- Tracker code, link to Netlify -->
-  <%- include('../partials/netlify_clicky') %>
+  <main>
+    <%- body %>
+  </main>
+  <%- include('../partials/footer') %>
+  <%- include('../partials/bootstrap') %>
 </body>
 </html>

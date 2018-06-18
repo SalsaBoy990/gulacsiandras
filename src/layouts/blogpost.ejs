@@ -1,27 +1,17 @@
 <!DOCTYPE html>
 <html lang="hu">
-  <!-- HEAD -->
   <%- include('../partials/head-post') %>
 <body>
-
-  <!-- MAIN CONTENT -->
-  <main class="mt1 pr1 pl1 clear-padding">
-
-    <!-- NAVIGATION BAR -->
-    <%- include('../partials/navbar-post') %>
-
-    <!-- BLOGPOST CONTENT -->
-    <%- body %>
-
-    <!-- COMMENTS -->
-    <%- include('../partials/disqus')%>
-
-    <!-- NAVIGATION BAR -->
-    <%- include('../partials/navbar-post') %>
-
+  <main>
+    <div class="container mt3">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2 p0 align-left">
+      <%- body %>
+      <%- include('../partials/navbar-post') %>
+      <%- include('../partials/disqus')%>
+      </div>
+    </div>
   </main>
-
-  <!-- Tracker code, link to Netlify -->
-  <%- include('../partials/netlify_clicky_invisible') %>
+  <%- include('../partials/footer-post') %>
+  <%- include('../partials/bootstrap') %>
 </body>
 </html>

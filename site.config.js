@@ -1,11 +1,11 @@
-const postdata = require('./src/data/postdata.json')
+const postData = require('./src/data/postData.json')
 
 let dateFormatted = []
 let dateParts = []
 
-for (let i = 0; i < postdata.length; i++) {
+for (let i = 0; i < postData.length; i++) {
   // split date string by the '-' delimiter into an array
-  dateParts = postdata[i].date.split('-')
+  dateParts = postData[i].date.split('-')
   // console.log(dateParts)
 
   // replace month number with month name
@@ -68,20 +68,18 @@ for (let i = 0; i < postdata.length; i++) {
 module.exports = {
   site: {
     url: 'https://www.gulacsiandras.blog',
-    title: 'Gulácsi András Blogja',
+    title: 'Gulácsi András blogja',
     author: 'Gulácsi András',
-    quote: '„Az ideológiai alapú, utópisztikus gondolkodás ellen veszem fel a küzdelmet a tények, a tapasztalatok és a józan ész segítségével, hogy ne váljon pusztító ideológiák martalékává a társadalom.”',
-    description: 'Egy full stack webfejlesztőnek készülő természettudós és amatőr táncos.',
-    bookTitle: 'A készülő könyvem: Rendezett emberi környezetet a világon!',
+    quote: 'Az ideológiai alapú, utópisztikus gondolkodás ellen veszem fel a küzdelmet a tények, a tapasztalatok és a józan ész segítségével, hogy ne váljon pusztító ideológiák martalékává a társadalom.',
+    description: 'Webdesigner, UI/UX designer, Frontend Developer, JavaScript, Node.js, SQL, Jekyll, Bootstrap 3, Angular 2+',
+    bookTitle: 'Rendezett emberi környezetet a világon!',
     email: 'guland@protonmail.com',
     github: 'SalsaBoy990',
-    twitter: 'andrasgulacsi',
     linkedin: 'andrasgulacsi',
-    minds: 'GulacsiAndras',
-    facebook: 'andras.gulacsi.3',
+    cv: 'http://docdro.id/GBVHms8',
     mailchimp: 'http://eepurl.com/dneX1D',
     year: new Date().getFullYear(),
-    postdata,
+    postData,
     dateFormatted: dateFormatted
   }
 }

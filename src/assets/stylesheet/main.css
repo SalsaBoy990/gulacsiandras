@@ -614,6 +614,13 @@ ul {
     padding-left: 1.5rem
 }
 
+.no-bullets {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    line-height: 1;
+}
+
 blockquote {
     background: seashell;
     font-style: italic;
@@ -697,6 +704,10 @@ blockquote {
     font-style: italic
 }
 
+.normal {
+    font-weight: 400
+}
+
 .bold {
     font-weight: 600
 }
@@ -757,6 +768,7 @@ blockquote {
 .block {
     display: block
 }
+
 
 table {
     margin-top: 1.5rem;
@@ -984,4 +996,12 @@ a:hover {
 
 .post-title {
     margin-bottom: 2rem;
+}
+
+.btn-primary {
+    background: #003981
+}
+
+.btn-primary:hover {
+    background: #333
 }

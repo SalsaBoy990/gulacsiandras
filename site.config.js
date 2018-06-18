@@ -2,11 +2,33 @@ const postData = require('./src/data/postData.json')
 
 let dateFormatted = []
 let dateParts = []
+let linkParts = []
+
+let yearPosted
+let posts2018 = []
+let posts2017 = []
+
+let links2018 = []
+let links2017 = []
 
 for (let i = 0; i < postData.length; i++) {
   // split date string by the '-' delimiter into an array
   dateParts = postData[i].date.split('-')
-  // console.log(dateParts)
+  linkParts = postData[i].filename.split('-')
+
+  yearPosted = dateParts[0]
+  switch (yearPosted) {
+    case '2018':
+      posts2018.push(postData[i].title)
+      links2018.push(`/${linkParts[0]}/${linkParts[1]}/${linkParts[2]}/${linkParts[3]}.html`)
+      break
+    case '2017':
+      posts2017.push(postData[i].title)
+      links2017.push(`/${linkParts[0]}/${linkParts[1]}/${linkParts[2]}/${linkParts[3]}.html`)
+      break
+    default:
+      break
+  }
 
   // replace month number with month name
   let month = dateParts[1]
@@ -63,7 +85,8 @@ for (let i = 0; i < postData.length; i++) {
   }
 }
 
-// console.log(dateFormatted)
+console.log(posts2018)
+console.log(links2018)
 
 module.exports = {
   site: {
@@ -80,6 +103,10 @@ module.exports = {
     mailchimp: 'http://eepurl.com/dneX1D',
     year: new Date().getFullYear(),
     postData,
-    dateFormatted: dateFormatted
+    dateFormatted: dateFormatted,
+    posts2018: posts2018,
+    posts2017: posts2017,
+    links2018: links2018,
+    links2017: links2017
   }
 }

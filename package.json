@@ -1,10 +1,12 @@
 {
   "name": "static-site-express",
-  "version": "1.0.0",
-  "description": "A simple Node.js based static site generator that uses EJS",
+  "version": "2.0.1",
+  "description": "A simple Node.js based static site generator that uses EJS and Markdown",
   "main": "./scripts/build.js",
   "scripts": {
     "build": "node ./scripts/buildPosts.js && node ./scripts/buildPages.js",
+    "build-pages": "node ./scripts/buildPages.js",
+    "build-posts": "node ./scripts/buildPosts.js",
     "serve": "node ./scripts/serve.js",
     "build-serve": "node ./scripts/buildAll.js && node ./scripts/serve.js",
     "table": "node ./database/mysql_table_tool.js",
@@ -25,6 +27,11 @@
     "ejs": "^2.5.7",
     "express": "^4.16.2",
     "fs-extra": "^5.0.0",
+    "markdown-it": "^8.4.1",
+    "markdown-it-implicit-figures": "^0.9.0",
+    "markdown-it-multimd-table": "^3.1.2",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
     "mysql": "^2.15.0",
     "readline-sync": "^1.4.9",
     "serve-favicon": "^2.4.5"

@@ -708,6 +708,10 @@ blockquote {
     font-weight: 400
 }
 
+strong {
+    font-weight: 600
+}
+
 .bold {
     font-weight: 600
 }
@@ -772,7 +776,7 @@ blockquote {
 
 table {
     margin-top: 1.5rem;
-    margin-bottom: .5rem;
+    margin-bottom: 1rem;
     font-size: .75rem;
     border-collapse: collapse;
     border-spacing: 0;
@@ -810,6 +814,9 @@ iframe {
     margin-bottom: .5rem;
 }
 
+th {
+    font-weight: 600;
+}
 
 th,
 td {
@@ -1002,6 +1009,10 @@ a:hover {
     background: #003981
 }
 
-.btn-primary:hover {
+.btn-primary:hover, .btn-primary:active {
     background: #333
+}
+
+.blog-archive {
+    font-size: 18px
 }

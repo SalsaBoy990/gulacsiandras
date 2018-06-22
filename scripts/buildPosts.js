@@ -66,8 +66,8 @@
   fse.writeFileSync('./src/data/postUrls.json', JSON.stringify(pathsToPosts), 'utf8')
 
   // Iterator to fill the metas in the head with metadata
-  let iterator = 0
-  let last = postData.length - 1
+  // reverse order, because md files are in ascending order by date
+  let iterator = postData.length - 1
 
   // Build the blogposts
   // cwd: current working directory
@@ -100,8 +100,8 @@
 
       // read layout data from file and then render layout with post contents
       const layoutContent = ejsRender(fse.readFileSync(`${srcPath}/layouts/blogpost.ejs`, 'utf-8'), Object.assign({}, config, {
-        title: config.site.postData[last].title,
-        date: config.site.dateFormatted[last],
+        title: config.site.postData[iterator].title,
+        date: config.site.dateFormatted[iterator],
         body: postContents,
         postUrl: postUrl,
         postId: postId,
@@ -111,8 +111,7 @@
         commentsEnabled: config.site.postData[iterator].comments_enabled
       }), { filename: `${srcPath}/layouts/blogpost.ejs` })
 
-      iterator++
-      last--
+      iterator--
 
       // to store parts of the filename
       let parts = []

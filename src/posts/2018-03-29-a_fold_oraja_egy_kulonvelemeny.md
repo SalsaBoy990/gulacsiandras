@@ -1,3 +1,13 @@
+---
+title: "A Föld Órája – egy különvélemény"
+date: "2018-03-29"
+excerpt: "Az egész mentalitás Föld Órája mögött az elektromosságot démonizálja. Én ezt nem tehetem, hanem helyette ünneplem azt, és mindazt, amit biztosított az emberiség számára."
+cover: "./assets/images/az_elektromossag_unneplese.jpg"
+comments: false
+topic: "antihumanizmus"
+---
+
+**Ross McKitrick**:
 2009-ben egy újságíró megkérdezte tőlem, hogy mit gondolok a Föld Órájának jelentőségéről.
 
 Itt a válaszom.

@@ -1,3 +1,13 @@
+---
+title: "Hány cigány él Magyarországon?"
+date: "2017-08-07"
+excerpt: "A magyarországi cigányság létszáma az elmúlt 110 évben megtízszereződött: 60 ezer főről 600 ezer főre gyarapodott 2003-ig. A becslésem szerint 2020-ra a számuk elérheti 800 ezer főt. A népszámlálások 2-szeresen alábecsülik a számukat."
+cover: "./assets/images/ciganyok.jpg"
+comments: false
+topic: "demográfia"
+---
+
+
 A népszámlálások adataiból az derül ki, hogy Magyarországon 2001 és 2011 között 53%-kal, 205 720 főről 315 583 főre nőtt a cigányok száma. A Központi Statisztikai Hivatal (KSH) népszámlálásai a nemzetiségre, az anyanyelvre, a családi, baráti közösségben használt nyelvre, és a kulturális kötődésre kérdeznek rá, de ezekre a válaszadás megtagadható. A nemzetiségi hovatartozásukról nem nyilatkozók száma 2001 és 2011 között két és félszeresére, 543 317 főről 1 398 731 főre emelkedett.
 
 Az 1. táblázatban az 1893-2003 közötti időszakban végzett mintavételek, cigányösszeírások eredményeit foglaltam össze. A reprezentatív szociológiai mintavételek a cigányok tényleges, a lakókörnyezet minősítése által meghatározott számát becsülték meg 1971-ben, 1993-ban és 2003-ban. Az 1893. évi cigányösszeírás egyedülálló a maga nevében, mivel hazánkban a mai napig nem történt ehhez hasonló, kifejezetten a cigányok számbavételét célzó kutatás.

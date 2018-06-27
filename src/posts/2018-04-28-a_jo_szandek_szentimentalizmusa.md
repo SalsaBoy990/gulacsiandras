@@ -1,3 +1,13 @@
+---
+title: "A jó szándék szentimentalizmusa"
+date: "2018-04-28"
+excerpt: "Az otthonunkhoz közel eső szenvedés sokkal erősebb jogot formálhat a rendelkezésre álló erőforrásokra. Tehát még a nem megérdemelt szenvedésről való tudás sem feltétlenül kötelez segítségre."
+cover: "./assets/images/altruism.jpg"
+comments: true
+topic: "liberalizmus"
+---
+
+
 Részlet John Kékes A liberalizmus ellen című könyvéből. Átvett cikk a Mandiner híroldalról.
 
 **Az otthonunkhoz közel eső szenvedés sokkal erősebb jogot formálhat a rendelkezésre álló erőforrásokra. Tehát még a nem megérdemelt szenvedésről való tudás sem feltétlenül kötelez segítségre.**
@@ -17,6 +27,9 @@ Az általános jó szándékkal az a baj, hogy eltereli a figyelmet a személyes
 Ezzel szemben föl lehet vetni, hogy amióta a világ világfaluvá alakult, azóta mindig van ok az általános jó szándékra, s mindig érvényes a korlátozott jó szándék egyetemessé és pártatlanná alakításának kötelezettsége. Ez az ellenvetés azonban azon a téves föltételezésen alapszik, hogy mások szenvedéséről tudni önmagában kötelez a segítésre. Csakhogy attól még, hogy tudjuk, sok bűnöző élete nyomorúságos, sokan közülük nem merik élvezni munkájuk gyümölcseit, hogy a zsarnokok alattvalóik gyűlöletétől szenvednek, vagy hogy a csecsenföldi orosz vagy a Tibetben állomásozó kínai katonák állandó életveszélynek vannak kitéve, még nem vagyunk arra kötelezve, hogy szenvedéseiket csökkentsük. Nem mindegy, hogy miért szenvednek az emberek.
 
 Tegyük fel azonban, hogy ismert tény, hogy távoli helyeken szenvednek: gyerekek, akik éheznek, ártatlanok, akiket megkínoznak, kiszolgáltatottak, akiket kizsákmányolnak. Ezek egyértelmű rosszak. Ám a világ tele van rosszal, az erőforrások szűkösek, gyakran igen nagy gyakorlati nehézségekbe ütközik a rossz leküzdése, és az otthonunkhoz közel eső szenvedés sokkal erősebb jogot formálhat a rendelkezésre álló erőforrásokra. Tehát még a nem megérdemelt szenvedésről való tudás sem feltétlenül kötelez segítségre.”
+
+**John Kékes**
+
 
 ## Felhasznált források
 

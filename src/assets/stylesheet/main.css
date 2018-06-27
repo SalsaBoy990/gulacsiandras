@@ -539,10 +539,16 @@ body {
 }
 
 body, p, blockquote,
-pre, figure, figcaption {
-  margin: 0;
-  padding: 0;
+figure, figcaption {
+    margin: 0;
+    padding: 0;
 }
+
+pre {
+    margin: 0 0 1rem 0;
+    padding: 0;
+}
+
 
 h1,
 h2,
@@ -656,6 +662,15 @@ blockquote {
     background-color: #FEFEFE
 }
 
+.bg-lightyellow {
+    background: #fffff0
+}
+
+.bg-lightgray {
+    background: #EFEFEF;
+    border-radius: 3px;
+}
+
 .white {
     color: #FFFFF0
 }
@@ -708,10 +723,6 @@ blockquote {
     font-weight: 400
 }
 
-strong {
-    font-weight: 600
-}
-
 .bold {
     font-weight: 600
 }
@@ -756,6 +767,9 @@ strong {
     font-size: 1.5rem
 }
 
+.large {
+    font-size: 1.7rem
+}
 
 .left {
     float: left
@@ -776,7 +790,7 @@ strong {
 
 table {
     margin-top: 1.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: .5rem;
     font-size: .75rem;
     border-collapse: collapse;
     border-spacing: 0;
@@ -814,9 +828,6 @@ iframe {
     margin-bottom: .5rem;
 }
 
-th {
-    font-weight: 600;
-}
 
 th,
 td {
@@ -1002,6 +1013,7 @@ a:hover {
 }
 
 .post-title {
+    text-transform: uppercase;
     margin-bottom: 2rem;
 }
 
@@ -1015,4 +1027,29 @@ a:hover {
 
 .blog-archive {
     font-size: 18px
+}
+
+.footer-description {
+    margin-left: 75px;
+    max-width: 400px
+}
+
+.headline-404 {
+    font-size: 6rem;
+    width: 240px;
+    margin-top: 0
+}
+
+.width-100pc {
+    width: 100%
+}
+
+.width-70pc {
+    width: 70%
+}
+
+.icon {
+    width: 1.33em;
+    height: 1.33em;
+    vertical-align: -15%;
 }

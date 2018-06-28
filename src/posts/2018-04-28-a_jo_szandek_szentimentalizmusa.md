@@ -34,4 +34,4 @@ Tegyük fel azonban, hogy ismert tény, hogy távoli helyeken szenvednek: gyerek
 ## Felhasznált források
 
 * John Kekes 1999: A liberalizmus ellen. Európa Kiadó, pp. 360-365.
-* Mandiner 2015:  [A jó szándék szentimentalizmusa](http://mandiner.hu/cikk/20150914_john_kekes_a_jo_szandek_szentimentalizmusa).
+* Mandiner 2015:  [A jó szándék szentimentalizmusa](http://mandiner.hu/cikk/20150914_john_kekes_a_jo_szandek_szentimentalizmusa){.underline}.

@@ -8,11 +8,8 @@
           <a href="<%= postsDataForIndexPage[i].pathToPost %>" class="large mbhalf bold-800 pt-sans uppercase m0"><%= postsDataForIndexPage[i].title %></a>
           <p class="minimal gray mb0"><span class="glyphicon glyphicon-time"></span> <%= postsDataForIndexPage[i].dateFormatted %></p>
           <hr>
-          <a href="<%= postsDataForIndexPage[i].pathToPost %>">
-            <img class="m0 img-responive" src="<%= postsDataForIndexPage[i].cover %>" alt="<%= postsDataForIndexPage[i].title %>"/>
-          </a>
           <p class="m0 pbhalf"><%= postsDataForIndexPage[i].excerpt %></p>
-          <a class="btn btn-md btn-primary pull-right mbhalf minimal uppercase" href="<%= postsDataForIndexPage[i].pathToPost %>">Tovább olvasom →</a>
+          <a class="btn btn-md btn-primary pull-right mbhalf minimal uppercase expanded" href="<%= postsDataForIndexPage[i].pathToPost %>">Tovább →</a>
         </div>
       </article>
       <% } %>

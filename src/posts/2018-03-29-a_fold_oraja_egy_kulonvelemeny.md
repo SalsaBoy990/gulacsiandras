@@ -47,5 +47,5 @@ Szeretek a természetben járni, de nem akarok ott élni, és megtagadom annak a
 
 ## Felhasznált forrás
 
-* Ross McKitrick: [Earth Hour: A Dissent.](https://www.mises.ca/earth-hour-a-dissent/) Mises Canada, 2012-04-01.
+* Ross McKitrick: [Earth Hour: A Dissent](https://www.mises.ca/earth-hour-a-dissent/){.underline}. Mises Canada, 2012-04-01.
 

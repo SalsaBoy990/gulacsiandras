@@ -25,4 +25,4 @@ Lemondtam a Neue Zürchernek írandó cikkemet, holott szívesen elmondanám a v
 ## Felhasznált források
 
 * Kertész Imre 2014: A végső kocsma. Magvető Kiadó, Budapest. pp. 224-225, 289-290.
-* Madiner 2015. [Európa öngyilkos liberalizmusáról](http://mandiner.hu/cikk/20150907_kertesz_imre_europa_ongyilkos_liberalizmusarol)
+* Madiner 2015. [Európa öngyilkos liberalizmusáról](http://mandiner.hu/cikk/20150907_kertesz_imre_europa_ongyilkos_liberalizmusarol){.underline}.

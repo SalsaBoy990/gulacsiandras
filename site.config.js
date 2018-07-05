@@ -11,7 +11,7 @@ module.exports = {
     email: 'guland@protonmail.com',
     github: 'SalsaBoy990',
     linkedin: 'andrasgulacsi',
-    cv: 'http://docdro.id/GBVHms8',
+    cv: 'http://docdro.id/6f2wR34',
     mailchimp: 'http://eepurl.com/dneX1D',
     currentYear: new Date().getFullYear()
   }

@@ -627,6 +627,15 @@ ul {
     line-height: 1;
 }
 
+.citation {
+    /*background: seashell;*/
+    font-style: italic;
+    color: #6D7269;
+    background-color: #FFFFF0;
+    font-size: 1.2rem;
+    margin: 0 1rem 1rem
+}
+
 blockquote {
     background: seashell;
     font-style: italic;

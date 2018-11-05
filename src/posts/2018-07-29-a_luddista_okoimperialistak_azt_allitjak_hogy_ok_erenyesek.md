@@ -4,7 +4,7 @@ date: "2018-07-29"
 excerpt: "A primitív mezőgazdaságot és az alultápláltságot emberi jogokként szentesítő über-organikus kampány. Az Agroökológia GMO-ellenes „organikus” élelmiszer aktivizmus a köbön. Gyakorlatilag mindent elutasít, ami lehetővé tette a modern mezőgazdaságot, hogy milliárdokkal több embert lásson el kevesebb és kevesebb földterületből és felszámolhatná az éhezést és az alultápláltságot világszerte. Ellenzi a biotechnológiát, a monokultúrás termesztést, a „nem-organikus” trágyákat és „vegyi” növényvédő szereket..."
 cover: ""
 comments: false
-topic: "anti-humanizmus áltudomány GMO agroökológia"
+topic: "mezőgazdaság"
 ---
 
 *Paul Driessen előszava*
@@ -37,7 +37,7 @@ Az Agroökológia olyan elferdített, de ravasz koncepciókat hirdet, mint az [�
 
 Vagy ahogyan ők mondják:
 
->Az élelmiszer önrendelkezés az emberek joga, hogy egészséges és kulturálisan helyénvaló élelmiszert termeljenek ökológiailag helyes és fenntartható módszerekkel, és a jogukat ahhoz, hogy a saját élelmiszer és mezőgazdasági rendszerüket maguk határozzák meg. Az élelmiszer rendszerek és politikák középpontjába a termelők, az elosztók és a fogyasztók törekvéseit és szükségleteit helyezi a piaci kereslet és a vállalatok helyett.” (Megjegyzés: ez a szokásos proletariátus kontra burzsoázia marxista mantrája.) Az élelmiszer önrendelkezés „azon termelési és betakarítási módszerekre helyezi a hangsúlyt, amelyek maximalizálják az ökoszisztémák hozzájárulását, elkerülik a költséges és mérgező bemeneteket, elősegítik a helyi élelemtermelő rendszerek ellenállási képességét a klímaváltozással szemben. **(Nyéléni Deklaráció 2007, a világ első globális fóruma az élelmiszer önrendelkezés témájában. Maliban.)**
+>Az élelmiszer önrendelkezés az emberek joga, hogy egészséges és kulturálisan helyénvaló élelmiszert termeljenek ökológiailag helyes és fenntartható módszerekkel, és a jogukat ahhoz, hogy a saját élelmiszer és mezőgazdasági rendszerüket maguk határozzák meg. Az élelmiszer rendszerek és politikák középpontjába a termelők, az elosztók és a fogyasztók törekvéseit és szükségleteit helyezi a piaci kereslet és a vállalatok helyett.” (Megjegyzés: ez a szokásos proletariátus kontra burzsoázia marxista mantrája.) Az élelmiszer önrendelkezés „azon termelési és betakarítási módszerekre helyezi a hangsúlyt, amelyek maximalizálják az ökoszisztémák hozzájárulását, elkerülik a költséges és mérgező bemeneteket, elősegítik a helyi élelemtermelő rendszerek ellenállási képességét a klímaváltozással szemben. **(Nyéléni Deklaráció 2007, a világ első globális fóruma az élelmiszer önrendelkezés témájában. Maliban.)**{.red}
 
 Egyes pártolók egészen a latin-amerikai társadalom [„újra-parasztosítására”](https://www.iss.nl/sites/corporate/files/4_Rosset_Torres_2013.pdf) törekszenek!
 
@@ -62,7 +62,7 @@ Elizabeth Ajele pedig ezt mondta neki (Roy Innis-nek):
 
 Egyelő mértékben releváns, hogy hogyan lesznek képesek azok a modern mezőgazdaság eljövetele előtti mezőgazdasági gyakorlatok, amelyek alig voltak képesek fenntartani a családokat és a falvakat, a világot élelmezni? Ahogy Dr. Borlaug 2006-ban mondta:
 
->„A bolygónkon 6,5 milliárd ember él. Ha mi kizárólag csak „organikus” trágyát és módszereket használnánk a termőföldeken, akkor csupán 4 milliárd ember tudnánk élelmezni. Én nem látok 2,5 milliárd embert önként jelentkezni, hogy eltűnjön.”
+>„A bolygónkon 6,5 milliárd ember él. **Ha mi kizárólag csak „organikus” trágyát és módszereket használnánk a termőföldeken, akkor csupán 4 milliárd ember tudnánk élelmezni.**{.red} Én nem látok 2,5 milliárd embert önként jelentkezni, hogy eltűnjön.”
 
 Az Agroökológia hirdetői, mint például a Greenpeace, a Food & Water Watch, Pesticide Action Network, Union of Concerned Scientists és a La Via Campesina (A Paraszti Út) kevés figyelmet fordít a fentiekre. Túlságosan elfoglaltak az emberek a „veszélyes” hibrid vetőmagoktól, a GMO-któl, az agroüzletágtól, a mezőgazdasági gépektől és a vegyszerektől való „megmentésében”. Nem mintha bármelyikük valaha is akarna valamelyik primitív farmon gürcölni, amiket ők úgy felmagasztalnak.
 

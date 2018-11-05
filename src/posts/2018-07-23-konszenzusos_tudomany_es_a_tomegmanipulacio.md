@@ -4,7 +4,7 @@ date: "2018-07-23"
 excerpt: "Bernays lehetővé tette a tehetős ügyfeleinek, hogy a háttérben rejtőzködve saját érdekeik szerint befolyásolhassák az emberek tömegeit. Úgy vélte, hogy a közvélemény tudományos manipulálása szükséges a társadalmi káosz és konfliktus elkerülése érdekében. Mestere volt annak, hogyan győzzön meg tömegeket arról, hogy szükségtelen dolgokra vágyjanak. Röviden: a tudat alatt rejtőző vágyaikat tömegcikk vásárlásában éljék ki a profit maximalizálása érdekében"
 cover: ""
 comments: false
-topic: "pszichológia tömegmanipuláció tudomány"
+topic: "pszichológia"
 ---
 
 
@@ -27,5 +27,3 @@ Azon adómentességet élvező, nem-profit szervezeteket követik nyomon a CORE 
 A szervezetek egy része félrevezető neveket használ, hogy elrejtsék a szélsőséges hitvallásukat, és képmutató és félrevezető tevékenységet folytatnak. Például: [Union of Concerned Scientists](https://www.activistfacts.com/organizations/145-union-of-concerned-scientists/), [Center for Science in the Public Interest](https://www.activistfacts.com/organizations/13-center-for-science-in-the-public-interest/). Mindkettőben szerepel a tudomány szó, hogy a tudományosság látszatát keltsék és hitelesnek tűnjenek a média vagy az emberek szemében. A [Physicians Committee for Responsible Medicine (PCRM)](https://www.activistfacts.com/organizations/23-physicians-committee-for-responsible-medicine/) szervezet úgy tűnik, mintha orvosokból álló szervezet lenne. Valójában a tagok 95%-ának semmilyen orvosi végzettsége nincsen. A PCRM egy fanatikus állatvédő szervezet, amely azon munkálkodik, hogy az amerikaiak asztaláról eltávolítsa a tojást, a tejet, a húst és a tengeri állatokat, valamint betiltsa az állatok használatát a tudományos kutatásokban. Azt akarják elhitetni, hogy a vegetáriánus étrend magasabb rendűsége az orvosi közösség véleményét tükrözi.
 
 Az Union for Concerned Scientists (UCS, Aggódó Tudósok Szövetsége) egy radikális „környezetvédő” szervezet, ami úgy próbálja magát megkülönböztetni más zöld szervezetektől, hogy meggyőzi a médiát, hogy a szervezet javaslatai a tudományos közösségen belüli konszenzust tükrözik. Ez teszi az UCS-t olyan veszélyessé. Azt hitetik el az emberekkel, hogy a fősodratú tudomány támogatja az ő radikális hitvallásukat.
-
-*Folytatása következik...*

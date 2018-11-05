@@ -4,7 +4,7 @@ date: "2018-07-13"
 excerpt: "Hogy a pszichológusok körében jóval több a baloldali és liberális beállítódású, mint a jobboldali-konzervatív, személyesen nem lep meg túlságosan (teljesen tudománytalan megfigyelésem, hogy a pszichiáterek között mintha ez kevésbé lenne így), de a kérdést most tudományosan is megvizsgálták. A személyes politikai véleménynél érdekesebb kérdés, hogy a pszichológusok mennyire tudnak függetlenek maradni saját szimpátiáiknál – most már erre is van adat. Liberális elfogultság a lélektudományokban."
 cover: ""
 comments: false
-topic: "pszichológia előítélet diszkrimináció gyűlölet"
+topic: "pszichológia"
 ---
 
 Hogy a pszichológusok körében jóval több a baloldali és liberális beállítódású, mint a jobboldali-konzervatív, személyesen nem lep meg túlságosan (teljesen tudománytalan megfigyelésem, hogy a pszichiáterek között mintha ez kevésbé lenne így), de a kérdést most tudományosan is megvizsgálták. A személyes politikai véleménynél érdekesebb kérdés, hogy a pszichológusok mennyire tudnak függetlenek maradni saját szimpátiáiknál – most már erre is van adat. Liberális elfogultság a lélektudományokban.

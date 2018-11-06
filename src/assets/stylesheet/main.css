@@ -470,7 +470,7 @@ ul {
 
 .no-bullets {
     list-style-type: none;
-    margin-left: 0.5rem;
+    margin-left: 0rem;
     padding-left: 0;
     line-height: 1.1;
 }

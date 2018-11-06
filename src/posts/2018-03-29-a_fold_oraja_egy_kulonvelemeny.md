@@ -2,8 +2,8 @@
 title: "A Föld Órája – egy különvélemény"
 date: "2018-03-29"
 excerpt: "Az egész mentalitás Föld Órája mögött az elektromosságot démonizálja. Én ezt nem tehetem, hanem helyette ünneplem azt, és mindazt, amit biztosított az emberiség számára."
-cover: "./assets/images/az_elektromossag_unneplese.jpg"
-comments: false
+coverImage: "villamossag.jpg"
+comments: true
 topic: "antihumanizmus"
 ---
 
@@ -22,7 +22,7 @@ A világ szegényei közül rengetegen kegyetlen környezeti viszonyok között 
 
 Aki látni szeretné a helyi viszonyok javulását a Harmadik Világban, annak fel kell ismernie a fosszilis tüzelésű erőművek által szolgáltatott olcsó elektromossághoz való hozzáférés fontosságát. Elvégre a Nyugat is így fejlődött.
 
-**Az egész mentalitás Föld Órája mögött az elektromosságot démonizálja. Én ezt nem tehetem, hanem helyette ünneplem azt, és mindazt, amit biztosított az emberiség számára.**
+> **Az egész mentalitás Föld Órája mögött az elektromosságot démonizálja. Én ezt nem tehetem, hanem helyette ünneplem azt, és mindazt, amit biztosított az emberiség számára.**{.red}
 
 A Föld Órája a tudatlanságot, a szegénységet és a visszamaradottságot dicsőíti. Az emberi szabadság legnagyobb motorjának elutasításával az antihumanizmusnak szentelt egy órává válik. Jelentéktelen berendezések jelentéktelen időre való kikapcsolásának álszent gesztusát szorgalmazza egy valamilyen rosszul meghatározott, „a Földnek” nevezett absztrakció hódolatának, miközben képmutató módon megtartja az állandó, megbízható villamosság tényleges előnyeit.
 
@@ -45,7 +45,7 @@ Szeretek a természetben járni, de nem akarok ott élni, és megtagadom annak a
 *Guelph-i Egyetem, Kanada*
 
 
-## Felhasznált forrás
+## Irodalom
 
-* Ross McKitrick: [Earth Hour: A Dissent](https://www.mises.ca/earth-hour-a-dissent/){.underline}. Mises Canada, 2012-04-01.
+* Ross McKitrick: [Earth Hour: A Dissent](https://www.mises.ca/earth-hour-a-dissent/). Mises Canada, 2012-04-01.
 

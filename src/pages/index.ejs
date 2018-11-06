@@ -4,8 +4,8 @@
     <div class="row">
       <div class="col-xs-12 col-sm-7 pl2 pr1">
         <div class="mb3">
-        <h1 class="big uppercase gray mb2">Aktuális cikkjeim</h1>
-        <% for (var i = 0; i < (postsDataForIndexPage.length - articleLimit); i++) { %>
+        <h1 class="big uppercase gray mb2">Aktuális cikkeim</h1>
+        <% for (var i = 0; i < articleLimit; i++) { %>
         <article>
           <div class="prhalf pthalf mr1 mb3">
             <a href="<%= postsDataForIndexPage[i].pathToPost %>" class="no-underline">
@@ -23,7 +23,7 @@
         </div>
 
         <div id="archive">
-        <% for (var i = (postsDataForIndexPage.length - articleLimit); i < postsDataForIndexPage.length; i++) { %>
+        <% for (var i = articleLimit; i < postsDataForIndexPage.length; i++) { %>
           <article>
             <div class="prhalf pthalf mr1 mb3">
               <a href="<%= postsDataForIndexPage[i].pathToPost %>" class="no-underline">
@@ -275,7 +275,7 @@
         <div>
           <h4 class="mt0 pthalf mb1 dark-gray smallest">Kapcsolatfelvétel</h4>
 
-          <form name="contact" class="arial mlhalf" method="POST" netlify-honeypot="bot-field" netlify>
+          <form name="contact" class="arial" method="POST" netlify-honeypot="bot-field" netlify>
             <p class="hidden">
               <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
             </p>

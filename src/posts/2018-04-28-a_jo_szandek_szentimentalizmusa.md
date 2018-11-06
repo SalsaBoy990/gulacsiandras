@@ -2,13 +2,13 @@
 title: "A jó szándék szentimentalizmusa"
 date: "2018-04-28"
 excerpt: "Az otthonunkhoz közel eső szenvedés sokkal erősebb jogot formálhat a rendelkezésre álló erőforrásokra. Tehát még a nem megérdemelt szenvedésről való tudás sem feltétlenül kötelez segítségre."
-cover: "./assets/images/altruism.jpg"
+coverImage: "altruizmus.jpg"
 comments: true
 topic: "liberalizmus"
 ---
 
 
-Részlet John Kékes A liberalizmus ellen című könyvéből. Átvett cikk a Mandiner híroldalról.
+Részlet **John Kékes** A liberalizmus ellen című könyvéből. Átvett cikk a Mandiner híroldalról.
 
 **Az otthonunkhoz közel eső szenvedés sokkal erősebb jogot formálhat a rendelkezésre álló erőforrásokra. Tehát még a nem megérdemelt szenvedésről való tudás sem feltétlenül kötelez segítségre.**
   
@@ -28,10 +28,7 @@ Ezzel szemben föl lehet vetni, hogy amióta a világ világfaluvá alakult, az�
 
 Tegyük fel azonban, hogy ismert tény, hogy távoli helyeken szenvednek: gyerekek, akik éheznek, ártatlanok, akiket megkínoznak, kiszolgáltatottak, akiket kizsákmányolnak. Ezek egyértelmű rosszak. Ám a világ tele van rosszal, az erőforrások szűkösek, gyakran igen nagy gyakorlati nehézségekbe ütközik a rossz leküzdése, és az otthonunkhoz közel eső szenvedés sokkal erősebb jogot formálhat a rendelkezésre álló erőforrásokra. Tehát még a nem megérdemelt szenvedésről való tudás sem feltétlenül kötelez segítségre.”
 
-**John Kékes**
-
-
-## Felhasznált források
+## Irodalom
 
 * John Kekes 1999: A liberalizmus ellen. Európa Kiadó, pp. 360-365.
-* Mandiner 2015:  [A jó szándék szentimentalizmusa](http://mandiner.hu/cikk/20150914_john_kekes_a_jo_szandek_szentimentalizmusa){.underline}.
+* Mandiner 2015:  [A jó szándék szentimentalizmusa](http://mandiner.hu/cikk/20150914_john_kekes_a_jo_szandek_szentimentalizmusa)

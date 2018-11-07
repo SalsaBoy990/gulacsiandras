@@ -9,31 +9,31 @@ A vészmadarak évek óta azt hajtogatják, hogy az ásványi erőforrások, bel
 
 Az igazság az, hogy minden nemzedék valóban kimeríti az ásványi tartalékokat (mineral reserve). Például a réz (Cu) jelenlegi tartalékai elég hamar el fognak fogyni. Nem beszélve az ónról (Sn), a volfrámról (W), a tantálról (Ta) és a többi fémről. Ezek a tartalékok tényleg el fognak fogyni egy nemzedék vagy több idő alatt. **Az ásványi tartalékok mindazok az ércek és ásványi anyagok, amelyeket várhatóan az eljövendő nemzedék elhasznál majd.**
 
-Az 1. táblázatban a Római Klub 1972-es jelentésének, A növekedés határainak (Limits to Growth) jóslatai láthatók az „erőforrások kimerüléséről”. Látható, hogy az előrejelzések többsége nem jött be. Nem fogytunk ki olyan dolgokból, amikből már réges-rég ki kellett volna fogynunk.
+Az 1. táblázatban a Római Klub 1972-es jelentésének, A növekedés határainak (Limits to Growth) jóslatai láthatók az „erőforrások kimerüléséről”. Látható, hogy az előrejelzések többsége nem jött be. Nem fogytunk ki olyan dolgokból, amikből már réges-rég ki kellett volna fogynunk. A statikus index azt jelenti, hogy az éves felhasználás üteme változatlan, míg az exponenciális index esetén a felhasználás üteme exponenciálisan nő.
 
 
 |    |  | Statikus index |  | Exponenciális index |  |
  --- | --- | --- | --- | --- | ---	
-|Erőforrás| Globális tartalékok | Évek 1971-től | Időpont	| Évek 1971-től | Időpont |	
-| Alumínium | 1,17E+09 t | 100 | 2071 | 31 | **2002** |
+|Erőforrás| Globális tartalékok | Évek 1971-től | Kimerülés éve | Évek 1971-től | Kimerülés éve |	
+| **Alumínium** | 1,17E+09 t | 100 | 2071 | 31 | 2002 |
 | Króm | 7,75E+08 t | 420 | 2391 | 95 | 2066 |
 | Kőszén | 5,00E+12 t | 2300 | 4271 | 111 | 2082 |
 | Kobalt | 2,18E+06 t | 110 | 2081 | 60 | 2031 |
-| Réz | 3,08E+08 t | 36 | **2007** | 21 | **1992** |
-| Arany | 1,10E+04 t | 11 | **1982** | 9 | **1980** |
+| **Réz** | 3,08E+08 t | 36 | 2007 | 21 | 1992 |
+| **Arany** | 1,10E+04 t | 11 | 1982 | 9 | 1980 |
 | Vas | 1,00E+11 t | 240 | 2211 | 93 | 2064 |
-| Ólom | 9,10E+07 t | 26 | **1997** | 21 | **1992** |
-| Mangán | 8,00E+08 t | 97 | 2068 | 46 | **2017** |
-| Higany | 1,16E+05 t | 13 | **1984** | 13 | **1984** |
-| Molibdén | 4,90E+06 t | 79 | 2050 | 34 | **2005** |
+| **Ólom** | 9,10E+07 t | 26 | 1997 | 21 | 1992 |
+| **Mangán** | 8,00E+08 t | 97 | 2068 | 46 | 2017 |
+| **Higany** | 1,16E+05 t | 13 | 1984 | 13 | 1984 |
+| **Molibdén** | 4,90E+06 t | 79 | 2050 | 34 | 2005 |
 | Nikkel | 6,67E+07 t | 150 | 2121 | 53 | 2024 |
-| Platina csoport fémei | 1,33E+04 t | 130 | 2101 | 47 | **2018** |
-| Ezüst | 1,71E+05 t | 16 | **1987** | 13 | **1984** |
-| Ón | 4,37E+06 t | 17 | **1988** | 15 | **1986** |
-| Wolfrám | 1,32E+06 t | 40 | **2011** | 28 | **1999** |
-| Cink | 1,23E+08 t | 23 | **1994** | 18 | **1989** |
-| Kőolaj | 4,55E+11 hordó | 31 | **2002** | 20 | **1991** |
-| Földgáz | 3,23E+13 m3 | 38 | **2009** | 22 | **1993** |
+| **Platina csoport fémjei** | 1,33E+04 t | 130 | 2101 | 47 | 2018 |
+| **Ezüst** | 1,71E+05 t | 16 | 1987 | 13 | 1984 |
+| **Ón** | 4,37E+06 t | 17 | 1988 | 15 | 1986 |
+| **Volfrám** | 1,32E+06 t | 40 | 2011 | 28 | 1999 |
+| **Cink** | 1,23E+08 t | 23 | 1994 | 18 | 1989 |
+| **Kőolaj** | 4,55E+11 hordó | 31 | 2002 | 20 | 1991 |
+| **Földgáz** | 3,23E+13 m^3^ | 38 | 2009 | 22 | 1993 |
 [1. táblázat: A nem megújuló természeti „erőforrások kimerülése” (Meadows, D. et al. 1972). A mértékegységeket átváltottam metrikus tonnára, illetve köbméterre. 1 hordó = 159 liter.]
 
 Mi volt a fő oka a hatalmas tévedésüknek? Talán szerencsések voltunk a lelőhelyek felfedezésében? Esetleg. Vagy talán a technológia fejlődése tette lehetővé a kinyerhető ásvány vagy érc mennyiségének növelését? Elképzelhető. Olyan forrásból is kivonhatjuk az erőforrást, amiből azelőtt gazdaságosan lehetetlen lett volna (például az olajpala és a palagáz kitermelése hidraulikus frakcionálással). Ezen felül sok minden helyettesíthető. Például a telefonvezetékeket réz helyett optikai szálból (üvegszál) is készíthetjük, így több réz áll rendelkezésünkre a vízcsövekhez.
@@ -63,9 +63,9 @@ A Római Klub (Club of Rome) nevű nem-kormányzati szervezetet 1968-ban alapít
 
 A Római Klub kezdte meg az emberek riogatását a világ pusztulásával, a nyersanyagok kimerülésével (Meadows 1972: A növekedés határai / Limits to Growth) és a globális felmelegedéssel (Al Gore 2007: Kényelmetlen Igazság / An Inconvenient Truth).
 
-![A növekedés határai című könyv fedőlapja (1972)](/assets/images/limits_to_growth_1972.jpg)
+![A növekedés határai című könyv fedőlapja (1972)](/assets/images/limits_to_growth_1972.jpg){.medium-img}
 
-Paul R. Ehrlich ökológus, Thomas Malthus követője, malthusiánus. Malthus azt állította még a XVIII. század végén, hogy az emberiség szaporodásával nem tud majd lépést tartani az erőforrások bővülése, ami szükségszerűen az emberiség pusztulásához fog vezetni, ezért le kell csökkenteni a népesség számát a kívánt szintre. Az elmélete csupán okoskodás: szerinte az erőforrások bővülése számtani, míg a népesség növekedése mértani haladvány szerint nő, viszont ennek alátámasztására semmilyen empirikus bizonyítékot nem mutatott fel, mert nincsen olyan. Visszatérve Ehrlich-re, a fő könyve, A népességbomba (The Population Bomb) 1968-ban jelent meg. Szerinte az emberiség túlszaporodott, és az erőforrások szűkössége miatt emberek százmilliói fognak éhen halni, ha nem cselekszünk.
+Paul R. Ehrlich politikai ökológus, Thomas Malthus követője, malthusiánus. Malthus azt állította még a XVIII. század végén, hogy az emberiség szaporodásával nem tud majd lépést tartani az erőforrások bővülése, ami szükségszerűen az emberiség pusztulásához fog vezetni, ezért le kell csökkenteni a népesség számát a kívánt szintre. Az elmélete csupán okoskodás: szerinte az erőforrások bővülése számtani, míg a népesség növekedése mértani haladvány szerint nő, viszont ennek alátámasztására semmilyen empirikus bizonyítékot nem mutatott fel, mert nincsen olyan. Visszatérve Ehrlich-re, a fő könyve, A népességbomba (The Population Bomb) 1968-ban jelent meg. Szerinte az emberiség túlszaporodott, és az erőforrások szűkössége miatt emberek százmilliói fognak éhen halni, ha nem cselekszünk.
 
 Ez a buta kijelentés is tőle származik:
 
@@ -77,9 +77,9 @@ Paul Ehrlich után John P. Holdren és John Harte is elfogadta Julian Simon kih�
 
 Ehrlich tévedett a hihetetlen arányú éhezések bekövetésében 1975-ig, hogy százmilliók fognak éhen halni a 70-es és 80-as években, és hogy a világ belép a szűkösség korába, amikor a kereslet rendkívül megnő az árak drasztikus emelkedését eredményezve. Nem csoda, hogy a nyersanyagok magasabb árára fogadott. Viszont megjegyzendő, hogyha például 30 évre előre fogadtak volna, vagy ha az összes fontos nyersanyagot figyelembe vették volna, akkor Ehrlich nyert volna.
 
-1990-ben Paul Ehrlich „a környezeti problémák jobb közmegértésének” előmozdításáért a MacArthur Alapítványtól félmillió dollár támogatással járó „géniusz díjat” kapott. John D. Holdren még 1981-ben kapott „géniusz díjat”. Julian Simon (1. kép) sosem kapott ilyen díjat és sosem kapott akkora médiavisszhangot, mint Ehrlich. Ezért is gondoltam arra, hogy beleveszem a cikkbe az elhíresült Simon-Ehrlich fogadást.
+1990-ben Paul Ehrlich „a környezeti problémák jobb közmegértésének” előmozdításáért a MacArthur Alapítványtól félmillió dollár támogatással járó „géniusz díjat” kapott. John D. Holdren még 1981-ben kapott „géniusz díjat”. Julian Simon (1. kép) sosem kapott ilyen díjat és akkora médiavisszhangot sem, mint Ehrlich. Ezért is gondoltam arra, hogy beleveszem a cikkbe az elhíresült Simon-Ehrlich fogadást.
 
-![1. kép: Julian Lincoln Simon (1932-1998). Közgazdász professzor](/assets/images/julian_simon.png)
+![1. kép: Julian Lincoln Simon (1932-1998). Közgazdász professzor](/assets/images/julian_simon.png){.medium-img}
 
 
 Simon fő műve A legfőbb erőforrás (The Ultimate Resource, 1981) címet viseli, melynek fő gondolata röviden így foglalható össze: Simon úgy érvelt, hogy

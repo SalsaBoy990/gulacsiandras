@@ -80,4 +80,6 @@ Simon fő műve A legfőbb erőforrás (The Ultimate Resource, 1981) címet vise
 
 ## Egy kis érdekesség - kiegészítés (2018-11-07)
 
-Milton Friedman 1978-as beszéde az USA energiapolitikájáról! Egyelőre nincs időm lefordítani, de angol felirattal megtekinthető (14 perces a videó)
+Milton Friedman (Nobel díjas amerikai közgazdász) 1978-as beszéde az USA energiapolitikájáról, az energiaforrások "kimerüléséről"! Egyelőre nincs időm lefordítani, de angol felirattal megtekinthető (14 perces a videó):
+
+@[youtube](WjdJH-KrxKE)

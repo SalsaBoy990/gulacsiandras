@@ -56,3 +56,20 @@ Ehrlich tévedett a hihetetlen arányú éhezések bekövetésében 1975-ig, hog
 Simon fő műve A legfőbb erőforrás (The Ultimate Resource, 1981) címet viseli, melynek fő gondolata röviden így foglalható össze: Simon úgy érvelt, hogy
 
 >„egy szabadon megszabott árakkal és biztosított tulajdonjogokkal jellemezhető piacgazdaságban, egy értékes erőforrás árának emelkedése csak ideiglenes tud lenni, hiszen az emberek számára ösztönzést nyújtana többet felkutatni belőle, nagyobb hatékonysággal előállítani és használni, és helyettesítőket kifejleszteni. **Hosszú távon még a nem-megújuló erőforrások is kevésbé szűkössé fognak válni, mivel azokat végső soron az állandóan megújuló és örökké növekvő emberi intellektus hozza létre.**{.red}”
+
+
+## Irodalom
+
+1. Desrochers, P. 2015: [The Simon-Ehrlich Wager 25 Years On.](http://www.spiked-online.com/newsite/article/the-simonehrlich-wager-25-years-on) – Spiked, 2015-09-29.  (letöltve: 2016-07-17)
+
+2. Meadows, D. H. – Meadows, D. L. – Randers, J. – Behrens III, W. W. 1972: [The Limits to Growth. A Report for the Club of Rome's Project on the Predicament of Mankind.](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf) - Universe Books, New York. 
+
+3. Worstall, T. 2013: [But Every Generation Does Indeed Exhaust Its Mineral Reserves.](http://www.forbes.com/sites/timworstall/2013/01/20/but-every-generation-does-indeed-exhaust-its-mineral-reserves/) – Forbes, 2013-01-20.  (letöltve: 2016-07-17)
+
+* [Julian Simon](https://en.wikipedia.org/wiki/Julian_Simon) (letöltve: 2016-07-17)
+
+* [MacArthur Fellows Program](https://en.wikipedia.org/wiki/MacArthur_Fellows_Program) (letöltve: 2016-07-17)
+
+* [Simon-Ehrlich fogadás](https://en.wikipedia.org/wiki/Simon%E2%80%93Ehrlich_wager) (letöltve: 2016-07-17)
+
+* [A legfőbb erőforrás](https://en.wikipedia.org/wiki/The_Ultimate_Resource) (letöltve: 2016-07-17)

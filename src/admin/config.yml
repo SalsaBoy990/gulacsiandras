@@ -22,6 +22,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "A cikk címe", name: "title", widget: "string"}
       - {label: "A publikálás dátuma", name: "date", widget: "string"}
+      - {label: "A cikk kivonata", name: "excerpt", widget: "string"}
       - {label: "A borítókép fájlneve kiterjesztéssel", name: "coverImage", widget: "string"}
       - {label: "A hozzászólások engedélyezése", name: "comments", widget: "boolean", default: true}
       - {label: "Témakör", name: "topic", widget: "string"}

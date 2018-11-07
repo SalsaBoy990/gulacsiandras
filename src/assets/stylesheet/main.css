@@ -746,6 +746,10 @@ img {
     width: calc(100% - 2rem);
 }
 
+.medium-img {
+    width: 50%;
+}
+
 .darkened {
     background: #777;
     background: rgba(0, 0, 0, 0.6);

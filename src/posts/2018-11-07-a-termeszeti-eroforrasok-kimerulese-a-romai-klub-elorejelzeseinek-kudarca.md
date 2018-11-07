@@ -1,6 +1,8 @@
 ---
 title: A természeti erőforrások kimerülése? A Római Klub előrejelzéseinek kudarca
 date: '2018-11-07'
+excerpt: >-
+  Hosszú távon még a nem-megújuló erőforrások is kevésbé szűkössé fognak válni, mivel azokat végső soron az állandóan megújuló és örökké növekvő emberi intellektus hozza létre...
 coverImage: banyaszat.jpg
 comments: true
 topic: természeti erőforrások
@@ -16,23 +18,36 @@ Az 1. táblázatban a Római Klub 1972-es jelentésének, A növekedés határai
  --- | --- | --- | --- | --- | ---	
 |Erőforrás| Globális tartalékok | Évek 1971-től | Kimerülés éve | Évek 1971-től | Kimerülés éve |	
 | **Alumínium** | 1,17E+09 t | 100 | 2071 | 31 | 2002 |
-| Króm | 7,75E+08 t | 420 | 2391 | 95 | 2066 |
-| Kőszén | 5,00E+12 t | 2300 | 4271 | 111 | 2082 |
-| Kobalt | 2,18E+06 t | 110 | 2081 | 60 | 2031 |
+| Króm | 7,75E+08 t | 420 | 2391 | 95 | 2066
+ |
+| Kőszén | 5,00E+12 t | 2300 | 4271 | 111 | 2082
+ |
+| Kobalt | 2,18E+06 t | 110 | 2081 | 60 | 2031
+ |
 | **Réz** | 3,08E+08 t | 36 | 2007 | 21 | 1992 |
 | **Arany** | 1,10E+04 t | 11 | 1982 | 9 | 1980 |
-| Vas | 1,00E+11 t | 240 | 2211 | 93 | 2064 |
-| **Ólom** | 9,10E+07 t | 26 | 1997 | 21 | 1992 |
-| **Mangán** | 8,00E+08 t | 97 | 2068 | 46 | 2017 |
-| **Higany** | 1,16E+05 t | 13 | 1984 | 13 | 1984 |
+| Vas | 1,00E+11 t | 240 | 2211 | 93 | 2064
+ |
+| **Ólom** | 9,10E+07 t | 26 | 1997 | 21 | 1992
+ |
+| **Mangán** | 8,00E+08 t | 97 | 2068 | 46 | 2017
+ |
+| **Higany** | 1,16E+05 t | 13 | 1984 | 13 | 1984
+ |
 | **Molibdén** | 4,90E+06 t | 79 | 2050 | 34 | 2005 |
-| Nikkel | 6,67E+07 t | 150 | 2121 | 53 | 2024 |
-| **Platina csoport fémjei** | 1,33E+04 t | 130 | 2101 | 47 | 2018 |
-| **Ezüst** | 1,71E+05 t | 16 | 1987 | 13 | 1984 |
+| Nikkel | 6,67E+07 t | 150 | 2121 | 53 | 2024
+ |
+| **Platina csoport fémjei** | 1,33E+04 t | 130 | 2101 | 47 | 2018
+ |
+| **Ezüst** | 1,71E+05 t | 16 | 1987 | 13 | 1984
+ |
 | **Ón** | 4,37E+06 t | 17 | 1988 | 15 | 1986 |
-| **Volfrám** | 1,32E+06 t | 40 | 2011 | 28 | 1999 |
-| **Cink** | 1,23E+08 t | 23 | 1994 | 18 | 1989 |
-| **Kőolaj** | 4,55E+11 hordó | 31 | 2002 | 20 | 1991 |
+| **Volfrám** | 1,32E+06 t | 40 | 2011 | 28 | 1999
+ |
+| **Cink** | 1,23E+08 t | 23 | 1994 | 18 | 1989
+ |
+| **Kőolaj** | 4,55E+11 hordó | 31 | 2002 | 20 | 1991
+ |
 | **Földgáz** | 3,23E+13 m^3^ | 38 | 2009 | 22 | 1993 |
 [1. táblázat: A nem megújuló természeti „erőforrások kimerülése” (Meadows, D. et al. 1972). A mértékegységeket átváltottam metrikus tonnára, illetve köbméterre. 1 hordó = 159 liter.]
 
@@ -91,7 +106,8 @@ Simon fő műve A legfőbb erőforrás (The Ultimate Resource, 1981) címet vise
 
 1. Desrochers, P. 2015: [The Simon-Ehrlich Wager 25 Years On.](http://www.spiked-online.com/newsite/article/the-simonehrlich-wager-25-years-on) – Spiked, 2015-09-29.  (letöltve: 2016-07-17)
 
-2. Meadows, D. H. – Meadows, D. L. – Randers, J. – Behrens III, W. W. 1972: [The Limits to Growth. A Report for the Club of Rome's Project on the Predicament of Mankind.](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf) - Universe Books, New York. 
+2. Meadows, D. H. – Meadows, D. L. – Randers, J. – Behrens III, W. W. 1972: [The Limits to Growth. A Report for the Club of Rome's Project on the Predicament of Mankind.](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf
+) - Universe Books, New York. 
 
 3. Worstall, T. 2013: [But Every Generation Does Indeed Exhaust Its Mineral Reserves.](http://www.forbes.com/sites/timworstall/2013/01/20/but-every-generation-does-indeed-exhaust-its-mineral-reserves/) – Forbes, 2013-01-20.  (letöltve: 2016-07-17)
 

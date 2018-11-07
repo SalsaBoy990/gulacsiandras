@@ -34,7 +34,7 @@ Csak azokat az érclelőhelyeket nyilvánítják tartalékká, amiket az elköve
 
 Az ásványi nyersanyagok (fémek, szénhidrogének, kőszén) nem fognak kimerülni közeljövőben. Még évszázadokig, akár évezredekig is kitarthatnak.
 
-A Római Klub (Club of Rome) nevű nem-kormányzati szervezetet 1968-ban alapították. Két fő alapítója az olasz iparmágnás, Aurelio Peccei és a skót tudós, Alexander King. Feltételezhetően David Rockefeller is társalapítója a szervezetnek. Az elitklub tagja közé egykori államfők, bürokraták, diplomaták, tudósok, az üzleti világ jelentős szereplői, tudósok tartoznak. , csak néhány nevet felemlítve, John. D. Rockefeller, Henry Kissinger, Mihail Gorbacsov, BILL CLINTON, TED TURNER, AL GORE, GEORGE SOROS, ANNE EHRLICH (biológus, PAUL EHRLICH felesége).
+A Római Klub (Club of Rome) nevű nem-kormányzati szervezetet 1968-ban alapították. Két fő alapítója az olasz iparmágnás, Aurelio Peccei és a skót tudós, Alexander King. Feltételezhetően David Rockefeller is társalapítója volt a szervezetnek. Az elitklub tagja közé egykori államfők, bürokraták, diplomaták, tudósok, az üzleti világ jelentős szereplői és nagyra törő, karrierista tudósok tartoznak.
 
 A Római Klub kezdte meg az emberek riogatását a világ pusztulásával, a nyersanyagok kimerülésével (Meadows 1972: A növekedés határai / Limits to Growth) és a globális felmelegedéssel (Al Gore 2007: Kényelmetlen Igazság / An Inconvenient Truth).
 

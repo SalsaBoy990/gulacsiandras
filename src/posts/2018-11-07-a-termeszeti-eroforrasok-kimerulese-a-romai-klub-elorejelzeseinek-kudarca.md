@@ -38,7 +38,7 @@ A Római Klub (Club of Rome) nevű nem-kormányzati szervezetet 1968-ban alapít
 
 A Római Klub kezdte meg az emberek riogatását a világ pusztulásával, a nyersanyagok kimerülésével (Meadows 1972: A növekedés határai / Limits to Growth) és a globális felmelegedéssel (Al Gore 2007: Kényelmetlen Igazság / An Inconvenient Truth).
 
-![A növekedés határai című könyv fedőlapja (1972)]()
+![A növekedés határai című könyv fedőlapja (1972)](/assets/images/limits_to_growth_1972.jpg)
 
 Paul R. Ehrlich ökológus, Thomas Malthus követője, malthusiánus. Malthus azt állította még a XVIII. század végén, hogy az emberiség szaporodásával nem tud majd lépést tartani az erőforrások bővülése, ami szükségszerűen az emberiség pusztulásához fog vezetni, ezért le kell csökkenteni a népesség számát a kívánt szintre. Az elmélete csupán okoskodás: szerinte az erőforrások bővülése számtani, míg a népesség növekedése mértani haladvány szerint nő, viszont ennek alátámasztására semmilyen empirikus bizonyítékot nem mutatott fel, mert nincsen olyan. Visszatérve Ehrlich-re, a fő könyve, A népességbomba (The Population Bomb) 1968-ban jelent meg. Szerinte az emberiség túlszaporodott, és az erőforrások szűkössége miatt emberek százmilliói fognak éhen halni, ha nem cselekszünk.
 
@@ -54,7 +54,7 @@ Ehrlich tévedett a hihetetlen arányú éhezések bekövetésében 1975-ig, hog
 
 1990-ben Paul Ehrlich „a környezeti problémák jobb közmegértésének” előmozdításáért a MacArthur Alapítványtól félmillió dollár támogatással járó „géniusz díjat” kapott. John D. Holdren még 1981-ben kapott „géniusz díjat”. Julian Simon (1. kép) sosem kapott ilyen díjat és sosem kapott akkora médiavisszhangot, mint Ehrlich. Ezért is gondoltam arra, hogy beleveszem a cikkbe az elhíresült Simon-Ehrlich fogadást.
 
-![1. kép: Julian Lincoln Simon (1932-1998). Közgazdász professzor]()
+![1. kép: Julian Lincoln Simon (1932-1998). Közgazdász professzor](/assets/images/julian_simon.png)
 
 
 Simon fő műve A legfőbb erőforrás (The Ultimate Resource, 1981) címet viseli, melynek fő gondolata röviden így foglalható össze: Simon úgy érvelt, hogy

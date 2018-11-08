@@ -1,8 +1,8 @@
 ---
-title: Az emelkedett légköri szén-dioxid koncentráció pozitív hatása a növényzetre
-date: '2018-11-20'
+title: Az emelkedett légköri szén-dioxid-koncentráció pozitív hatása a növényzetre
+date: '2018-11-08'
 excerpt: >-
-  A légköri szén-dioxid koncentráció növekedése hatással lehet a növények
+  A légköri szén-dioxid-koncentráció növekedése hatással lehet a növények
   fiziológiájára és növekedésére. Megemelkedett szén-dioxid-szint mellett a
   legtöbb növényfaj gyorsabban fotoszintetizál, gyorsabb növekedést, csökkent
   vízfelhasználást és csökkent nitrogén és fehérje szöveti koncentrációt mutat.
@@ -10,8 +10,10 @@ excerpt: >-
   nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja.
 coverImage: gabona.jpg
 comments: true
-topic: 'szén-dioxid, növényzet'
+topic: szén-dioxid
 ---
+*A tanulmányom*
+
 Az alábbi részletek [Dr. Mőcsényi Mihály (1919–2017)](https://hu.wikipedia.org/wiki/Mőcsényi_Mihály) kertészmérnök [előadásából](https://www.youtube.com/watch?v=ZLscfVwVyo8) származnak.  Mőcsényi Mihály Kossuth-, Széchenyi- és Sir Geoffrey Jellicoe-díjas magyar kertészmérnök, tájépítész, egyetemi tanár, a tájrendezés magyarországi oktatásának megalapozója, az önálló Tájépítészeti Kar (Corvinus Egyetem) létrehozója. 1991 és 1993 között a Kertészeti Egyetem (ma Corvinus) rektora volt. 1976–1986 között a Tájépítészek Nemzetközi Szövetsége (IFLA) alelnöke, majd 1986–1990 között elnöke, e tisztségében világkongresszusok szervezője, vezetője, előadója volt.
 
 > „Malthus a XVIII. század végén azt mondta, hogy ki fog halni az emberiség, mert az élelemtermelés számtani, míg az emberiség növekedése mértani haladvány szerint fog nőni. Nagyot tévedett! Nem számolhatott azzal, hogy **az ipari forradalom azzal, hogy a fosszilis energiákat felszabadítva egyre növekvő mértékben szaporítja a légkör CO~2~-tartalmát, hihetetlen mértékű termésnövekedés fog alakulni.**{.red}”
@@ -20,12 +22,10 @@ Annyit hozzátennék, hogy a szén-dioxid koncentráció emelkedése mellett, eb
 
 > „A szén-dioxid növényi táplálék, légtrágya. **A növények szárazanyag-tartalmának 1%-a kerül a talajból a növényzetbe. A tápanyagok zömét (99%-át) a levegőből veszi fel a vegetáció.**{.red} Az asszimilált szárazanyag tartalom 99%-ából 50% a szén, 45% a hidrogén, 0,5-1% szervetlen anyag (P, K, Na), a többi oxigén. A növények a táplálékot vízben oldottan veszik fel, továbbá azért is van szükségük H~2~O-ra, hogy a testhőmérsékletüket optimális szinten tartsák. 20-25 °C-nál a legtermelékenyebbek. A C3-as típusú növényekhez képest a C4-esek lényegesen magasabb hőmérsékleten fotoszintetizálnak és produktivitásuk is magasabb. Az első fotoszintézis folyamatban 4 szénatomot kötnek meg.”
 
-> „1 m^2^-nyi földfelületen élő növényzet, ami a levélfelületet tekintve általában 5-szöröse vagy több az alapterületnek (levélfelületi index), 1 óra alatt 25 légköbméter levegő szén-dioxidját az utolsó molekuláig elhasználja! A karbon korszak óriáspáfrányai a lényegesen nagyobb légköri CO~2~-koncentráció lehetőségét hasznosították, sokkal produktívabbak voltak, viszont a CO~2~-koncentráció csökkenésével nagy részük kipusztulhatott. **Amennyiben nem volna a légkörnek CO~2~-utánpótlása (bomlás, fosszilis tüzelőanyagok égetése), 35 év alatt a levegő összes szén-dioxid-tartalma elfogyna!**{.red}”
+> „1 m^2^-nyi földfelületen élő növényzet, ami a levélfelületet tekintve általában 5-szöröse vagy több az alapterületnek (levélfelületi index), 1 óra alatt 25 légköbméter levegő szén-dioxidját az utolsó molekuláig elhasználja! A karbon korszak óriáspáfrányai a lényegesen nagyobb légköri CO~2~-koncentráció lehetőségét hasznosították, sokkal produktívabbak voltak [a hatalmas karbon kori kőszéntelepek megléte is bizonyítja a fokozott biomassza termelést], viszont a CO~2~-koncentráció csökkenésével nagy részük kipusztulhatott. **Amennyiben nem volna a légkörnek CO~2~-utánpótlása (bomlás, fosszilis tüzelőanyagok égetése), 35 év alatt a levegő összes szén-dioxid-tartalma elfogyna!**{.red}”
 
 > „**A második világháborút megelőzően egy hektárnyi mezőgazdasági területen átlagosan 14 mázsa búza, 20-22 mázsa kukorica termett. Napjainkban, ha a csapadékmennyiség kielégítő, 80-100 mázsa búza, illetve 120-150 mázsa kukorica terem egy hektáron. Az 50 évvel ezelőtti 6-7-szerese.**{.red}”
  
-[A hatalmas karbon kori kőszéntelepek megléte is bizonyítja a fokozott biomassza termelést.]
-
 A növények anyagcseréjében (metabolizmusában) központi szerepet játszik a CO~2~. Fotoszintetizáló organizmusok a légköri CO~2~-t a szén kémiai redukciójával veszik fel. Ezzel nyerik a kémiai energiát életműködésük fenntartásához és saját szerves szervezetük felépítéséhez szükséges szerves molekulákat. A szerves molekulákba fotoszintézisen keresztül asszimilált szén, hidrogén és oxigén egy tipikus növény teljes szárazanyag-tartalmának 96 %-át teszi ki (Marschner, H. 1995).
 
 Az emelkedett CO~2~-koncentráció vegetációra gyakorolt hatását úgy szokás vizsgálni, hogy a CO~2~ a mostani és a jövőbeli, megemelkedett légköri koncentrációjánál, általában üvegházakban vagy kamrákban termesztett növények növekedését hasonlítják össze, eltéréseket után kutatva. Viszont a valóságnak jobban megfelelnek a szabad levegőn végzett szén-dioxid dúsítási technikákkal ([Free-Air Carbon Dioxide Enrichment](http://en.wikipedia.org/wiki/Free-air_concentration_enrichment), FACE) végzett kutatások, melyek során vízszintes vagy függőleges csövekkel vesznek körül egy kísérleti parcellát, amik szén-dioxidban dúsított levegőt áramoltatnak a növények közé. A CO~2~-koncentrációt szenzorokkal mérik, és visszajeleznek a számítógépnek, ami a csövekben áramló CO~2~ áramlását szabályozza. Az 1. képen körkörös kialakítású kísérleti parcellák láthatók.
@@ -56,7 +56,7 @@ Természetesen ez a földfelszín közelében nem igaz! Például erdők esetén
 
 Számos kísérlet során bebizonyosodott, hogy **egyes fajok pozitívan reagálnak az emelkedett CO~2~ koncentrációra, ha külön termesztik őket, viszont, ha kevert növényi közösségekben csökken a növekedésük, a vetélytárs növények növekedése fokozódik, amelyek kiszorítják** (Poorter, H. – Navas, M. L. 2003). A monokultúrában termesztett gabonanövényeket ez a veszély nem fenyegeti. 
 
-A jelenlegi bizonyítékok azt mutatják, hogy a légköri szén-dioxid koncentráció növekedése jelentős hatással lehet a növények fiziológiájára és növekedésére. Megemelkedett CO~2~-szint mellett a legtöbb növényfaj **magasabb fotoszintetikus rátát, gyorsabb növekedést, csökkent vízfelhasználást és csökkent nitrogén és fehérje szöveti koncentrációt mutat**. A CO~2~ emelkedése nemcsak a mezőgazdasági termelés nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja. Az emelkedett szén-dioxid hatásai nem egységesek; egyes fajok, különösen, melyek a fotoszintézis C4 variánsát alkalmazzák, gyengébb választ mutatnak (vagy nem is reagálnak a jelenlegihez képest emelkedett CO~2~-ra, ellentétben a C3-asokkal). A növekvő légköri CO~2~ koncentráció ennek következtében valószínűleg összetett hatásokat gyakorol a növényközösségek növekedésére és összetételére (Taub, D. R. 2010).
+A jelenlegi bizonyítékok azt mutatják, hogy a légköri szén-dioxid koncentráció növekedése jelentős hatással lehet a növények fiziológiájára és növekedésére. Megemelkedett CO~2~-szint mellett a legtöbb növényfaj **gyorsabb fotoszintézist, gyorsabb növekedést, csökkent vízfelhasználást és csökkent nitrogén és fehérje szöveti koncentrációt mutat**. A CO~2~ emelkedése nemcsak a mezőgazdasági termelés nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja. Az emelkedett szén-dioxid hatásai nem egységesek; egyes fajok, különösen, melyek a fotoszintézis C4 variánsát alkalmazzák, gyengébb választ mutatnak (vagy nem is reagálnak a jelenlegihez képest emelkedett CO~2~-ra, ellentétben a C3-asokkal). A növekvő légköri CO~2~ koncentráció ennek következtében valószínűleg összetett hatásokat gyakorol a növényközösségek növekedésére és összetételére (Taub, D. R. 2010).
 
 A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év ütemben emelkedett (Liu, S. et al. 2010). A legmagasabb emelkedő trend a középső és az északi magas (30° feletti) földrajzi szélességeken figyelhető meg (trend: +0,0032/év). Kiemelkedően nőtt a LAI Európában, Szibériában, Indiában, Észak-Amerikában és Dél-Kanadában, a Szaharától délre (Száhel-övezet), Ausztrália délnyugati részén és a Kgalagadi-medencében (a dél-afrikai Kalahári-sivatagban), míg észrevehetően csökkent Délkelet-Ázsiában, Kína délkeleti részein, Közép-Afrikában (erdőirtások), Dél-Amerika középső és déli részein (szintén erdőirtások) és Észak-Amerika sarkvidéki területein („tundra-zöldülés”) (1. ábra).
 
@@ -68,7 +68,7 @@ Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a 
 
 Cook, B. I. – Pau, S. (2013) eredményei azt mutatják, hogy a legelőterületek degradációja nem világszerte elterjedt jelenség, és a legelők produktivitása széles körben emelkedett az utóbbi három évtizedben (1982-2008 között).
 
-A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica és a rizs globális terméshozamával (a FAO adatai)  hasonlítottam össze 1960-2013 között. Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). Egyértelmű a kapcsolat a hőmérséklet és a terméshozamok között (r^2^=0,71-0,73).
+A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica és a rizs globális terméshozamával (a FAO adatai)  hasonlítottam össze 1960-2013 között. Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). Egyértelmű a kapcsolat a hőmérséklet és a terméshozamok között (r^2^=0,71-0,73). A hőmérséklet emelkedésével együtt mozog a termésátlag emelkedése. Természetesen nem csak a hosszabb tenyészidőszak és az emelkedett légköri szén-dioxid szint kedvező hatásának tudható mindez be, hanem a műtrágyáknak, növényvédő szereknek és a jobb vetőmagoknak is. Egyértelműen látszik a globális felmelegedés és a modern civilizáció vívmányainak a pozitív hatása a mezőgazdaságra.
 
 ![3. ábra: A BEST globális átlaghőmérsékletek és a FAO globális termésátlagok alakulása 1960-tól 2013-ig](/assets/images/best.jpg)
 
@@ -84,7 +84,7 @@ A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica 
 
 5. de Graaff, M. A. – van Groenigen, K. J. et al. 2006: Interactions between plant growth and soil nutrient cycling under elevated CO2: a meta-analysis. – Global Change Biology 12. pp. 2077-2091.
 
-6. Donohue, R. J. – Roderick, M. L. – McVicar, T. R. – Farquhar, G. D. 2013: [Impact of CO~2~ fertilization on maximum foliage cover across the globe’s warm, arid environments.](http://onlinelibrary.wiley.com/doi/10.1002/grl.50563/pdf) – Geophysical Research Letters 40. 12. pp. 3031-3035.
+6. Donohue, R. J. – Roderick, M. L. – McVicar, T. R. – Farquhar, G. D. 2013: [Impact of CO2 fertilization on maximum foliage cover across the globe’s warm, arid environments.](http://onlinelibrary.wiley.com/doi/10.1002/grl.50563/pdf) – Geophysical Research Letters 40. 12. pp. 3031-3035.
 
 7. Leakey, A. D. B. – AINSWORTH, E. A. et al. 2009: Elevated CO2 effects on plant carbon, nitrogen, and water relations; six important lessons from FACE. – Journal of Experimental Botany 60. pp. 2859-2876.
 

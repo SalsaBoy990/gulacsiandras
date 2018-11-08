@@ -96,18 +96,12 @@ A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica 
 
 12. Poorter, H. – Navas, M. L. 2003: Plant growth and competition at elevated CO2: on winners, losers and functional groups. – New Phytologist 157. pp. 175-198.
 
-13. Taub, D. R. 2010: [Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants.](http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108) – Nature Education Knowledge 3. 10. :21 
+13. Starr, S. (nincs év). [Catastrophic Climatic Consequences of Nuclear Conflict](http://inesap.org/node/11). International Network of Engineers and Scientists Against Proliferation, INESAP.
+
+14. Taub, D. R. 2010: [Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants.](http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108) – Nature Education Knowledge 3. 10. :21 
 
 
 * [BEST hőmérsékleti adatsor](http://berkeleyearth.lbl.gov/auto/Global/Full_TAVG_complete.txt)
 
 * [FAO terméshozam adatok](http://faostat3.fao.org/download/Q/*/E)
-
-
-
-http://inesap.org/node/11, http://www.nucleardarkness.org/warconsequences/reducedcanadianwheatgrowing/ (letöltve: 2015-09-04)
-http://s0.geograph.org.uk/photos/34/90/349053_a5a91788.jpg (letöltve: 2014-03-26) 
-
-
-
 

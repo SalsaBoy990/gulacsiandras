@@ -61,5 +61,41 @@ Számos kísérlet során bebizonyosodott, hogy egyes fajok pozitívan reagálna
 
 A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év ütemben emelkedett (Liu, S. et al. 2010). A legmagasabb emelkedő trend a középső és az északi magas (30° feletti) földrajzi szélességeken figyelhető meg (+0,0032/év). Kiemelkedően nőtt a LAI Európában, Szibériában, Indiában, Észak-Amerikában és Dél-Kanadában, a Szaharától délre (Száhel-övezet), Ausztrália délnyugati részén és a Kgalagadi-medencében (a dél-afrikai Kalahári-sivatagban); míg észrevehetően csökkent Délkelet-Ázsiában, Kína délkeleti részein, Közép-Afrikában (erdőirtások), Dél-Amerika középső és déli részein (szintén erdőirtások) és Észak-Amerika sarkvidéki területein („tundra-zöldülés”).
 
+Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a levélfelület növelkedése, viszont a mérsékelt övben, illetve a magas földrajzi szélességeken nagyobb részt a hőmérséklet meghatározó. A felmelegedés hosszabb tenyészidőszakot, nagyobb növekedést eredményez. Példaként bemutatom a búza termesztésére alkalmas területeket Kanadában jelenleg, és 1- 2 °C-os hőmérsékletcsökkenés esetén (a jelenlegihez képest)
+
+A következő ábrákon a BEST globális átlaghőmérséklet adatsort  a búza, a kukorica és a rizs globális terméshozamával (FAO)  hasonlítom össze 1960-2013 között.  Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). A regresszióanalízis statisztikailag szignifikáns kapcsolatot mutat a hőmérséklet és a terméshozamok között (r2=0,71-0,73).
+
+## Irodalom
+
+AINSWORTH, E. A. – LONG, S. P. 2005: What have we learned from 15 years of free-air CO2 enrichment (FACE)? A meta-analytic review of the responses of photosynthesis, canopy properties and plant production to rising CO2. – New Phytologist 165. pp. 351-372.
+AINSWORTH, E. A. – ROGERS, A. 2007: The response of photosynthesis and stomatal conductance to rising (CO2): mechanisms and environmental interactions.  – Plant, Cell and Environment 30. pp. 258-270.
+AINSWORTH, E. A. 2008: Rice production in a changing climate: a meta-analysis of responses to elevated carbon dioxide and elevated ozone concentration. – Global Change Biology 14. pp. 1642-1650.
+COOK, B. I. – PAU, S. 2013: A Global Assessment of Long-Term Greening and Browning. Trends in Pasture Lands Using the GIMMS LAI3g Dataset. – Remote Sensing 5. pp. 2492-2512. doi:10.3390/rs5052492 http://www.mdpi.com/2072-4292/5/5/2492/pdf
+DE GRAAFF, M. A. – VAN GROENIGEN, K. J. et al. 2006: Interactions between plant growth and soil nutrient cycling under elevated CO2: a meta-analysis. – Global Change Biology 12. pp. 2077-2091.
+DONOHUE, R. J. – RODERICK, M. L. – MCVICAR, T. R. – FARQUHAR, G. D. 2013: Impact of CO2 fertilization on maximum foliage cover across the globe’s warm, arid environments. – Geophysical Research Letters 40. 12. pp. 3031-3035. http://onlinelibrary.wiley.com/doi/10.1002/grl.50563/pdf
+HÉJJAS I. 2013: Az élet megóvása és a környezetvédelem - Tények és hiedelmek. Czupi Kiadó, Nagykanizsa. 151 p. http://www.enpol2000.hu/index2.php?option=com_resource&task=show_file&id=2175
+LEAKEY, A. D. B. – AINSWORTH, E. A. et al. 2009: Elevated CO2 effects on plant carbon, nitrogen, and water relations; six important lessons from FACE. – Journal of Experimental Botany 60. pp. 2859-2876.
+LIU, S.  – LIU, R. – LIU, Y. 2010. Spatial and temporal variation of global LAI during 1981–2006. – Journal of Geographical Sciences 20 pp. 323-332.
+LONG, S. P. – AINSWORTH, E. A. et al. 2006: Food for thought: Lower-than-expected crop yield stimulation with rising CO2 concentrations. – Science 312. pp. 1918-1921.
+LOS, S. O. 2013: Analysis of trends in fused AVHRR and MODIS NDVI data for 1982–2006: Indication for a CO2 fertilization effect in global vegetation. Global Biogeochemical Cycles 27. pp. 318–330. doi:10.1002/gbc.20027 http://onlinelibrary.wiley.com/doi/10.1002/gbc.20027/pdf
+MARSCHNER, H. 1995: Mineral Nutrition of Higher Plants, 2nd ed. Academic Press, London.
+MOORE, R. – CLARK, W. D. – KINGSLEY, R. S. – VODOPICH, D. 1995: Botany. William C Brown Pub.
+POORTER, H. – NAVAS, M. L. 2003: Plant growth and competition at elevated CO2: on winners, losers and functional groups. – New Phytologist 157. pp. 175-198.
+TAUB, D. R. 2010: Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants. – Nature Education Knowledge 3. 10. :21 http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108
+
+
+BEST hőmérsékleti adatsor: http://berkeleyearth.lbl.gov/auto/Global/Full_TAVG_complete.txt	
+Enyhe telek Magyarországon. Kapanyél blog, 2012-02-16.
+	http://kapanyel.blog.hu/2012/02/16/enyhe_telek_magyarorszagon?utm_source=ketrec&utm_medium=link&utm_content=2012_02_16&utm_campaign=index (letöltve: 2015-09-05)
+FAO: http://faostat3.fao.org/download/Q/*/E
+http://en.wikipedia.org/wiki/Free-air_concentration_enrichment (letöltve: 2015-09-03)
+http://hyperphysics.phy-astr.gsu.edu/hbase/biology/imgbio/c3c4.gif (letöltve: 2015-09-04)
+http://hyperphysics.phy-astr.gsu.edu/hbase/biology/phoc.html (letöltve: 2015-09-04)
+http://inesap.org/node/11, http://www.nucleardarkness.org/warconsequences/reducedcanadianwheatgrowing/ (letöltve: 2015-09-04)
+http://static.guim.co.uk/sys-images/Books/Pix/pictures/2010/3/10/1268222690808/Eggborough-power-station-001.jpg (fényképezte: MURDO MACLEOD), http://s0.geograph.org.uk/photos/34/90/349053_a5a91788.jpg (letöltve: 2014-03-26) 
+http://www.revisescience.co.uk/2011/images/0911photosynthesisequation.gif (letöltve: 2015-09-04)
+https://hu.wikipedia.org/wiki/Mőcsényi_Mihály (letöltve: 2015-08-16)
+https://www.youtube.com/watch?v=ZLscfVwVyo8 (letöltve: 2015-08-16)
+
 
 

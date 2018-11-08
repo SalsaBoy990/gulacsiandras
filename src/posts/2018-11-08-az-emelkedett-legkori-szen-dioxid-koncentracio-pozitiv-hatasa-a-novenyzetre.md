@@ -20,7 +20,7 @@ Annyit hozzátennék, hogy a szén-dioxid koncentráció emelkedése mellett, eb
 
 > „A szén-dioxid növényi táplálék, légtrágya. **A növények szárazanyag-tartalmának 1%-a kerül a talajból a növényzetbe. A tápanyagok zömét (99%-át) a levegőből veszi fel a vegetáció.**{.red} Az asszimilált szárazanyag tartalom 99%-ából 50% a szén, 45% a hidrogén, 0,5-1% szervetlen anyag (P, K, Na), a többi oxigén. A növények a táplálékot vízben oldottan veszik fel, továbbá azért is van szükségük H~2~O-ra, hogy a testhőmérsékletüket optimális szinten tartsák. 20-25 °C-nál a legtermelékenyebbek. A C3-as típusú növényekhez képest a C4-esek lényegesen magasabb hőmérsékleten fotoszintetizálnak és produktivitásuk is magasabb. Az első fotoszintézis folyamatban 4 szénatomot kötnek meg.”
 
-> „**1 m^2^-nyi földfelületen élő növényzet**{.red}, ami a levélfelületet tekintve általában 5-szöröse vagy több az alapterületnek (levélfelületi index), **1 óra alatt 25 légköbméter levegő szén-dioxidját az utolsó molekuláig elhasználja!**{.red} A karbon korszak óriáspáfrányai a lényegesen nagyobb légköri CO~2~-koncentráció lehetőségét hasznosították, sokkal produktívabbak voltak, viszont a CO~2~-koncentráció csökkenésével nagy részük kipusztulhatott. **Amennyiben nem volna a légkörnek CO~2~-utánpótlása (bomlás, fosszilis tüzelőanyagok égetése), 35 év alatt a levegő összes szén-dioxid-tartalma elfogyna!**{.red}”
+> „1 m^2^-nyi földfelületen élő növényzet, ami a levélfelületet tekintve általában 5-szöröse vagy több az alapterületnek (levélfelületi index), 1 óra alatt 25 légköbméter levegő szén-dioxidját az utolsó molekuláig elhasználja! A karbon korszak óriáspáfrányai a lényegesen nagyobb légköri CO~2~-koncentráció lehetőségét hasznosították, sokkal produktívabbak voltak, viszont a CO~2~-koncentráció csökkenésével nagy részük kipusztulhatott. **Amennyiben nem volna a légkörnek CO~2~-utánpótlása (bomlás, fosszilis tüzelőanyagok égetése), 35 év alatt a levegő összes szén-dioxid-tartalma elfogyna!**{.red}”
 
 > „**A második világháborút megelőzően egy hektárnyi mezőgazdasági területen átlagosan 14 mázsa búza, 20-22 mázsa kukorica termett. Napjainkban, ha a csapadékmennyiség kielégítő, 80-100 mázsa búza, illetve 120-150 mázsa kukorica terem egy hektáron. Az 50 évvel ezelőtti 6-7-szerese.**{.red}”
  
@@ -64,7 +64,7 @@ A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év
 
 Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a levélfelület növekedése, viszont a mérsékelt övben, illetve a magas földrajzi szélességeken nagyobb részt a hőmérséklet meghatározó. A felmelegedés hosszabb tenyészidőszakot, nagyobb növekedést eredményez. Példaként mutatom a búza termesztésére alkalmas területeket Kanadában jelenleg, és 1- 2 °C-os hőmérsékletcsökkenés esetén (a jelenlegihez képest) (2. ábra). Ez az ábra egy globális nukleáris háború éghajlatra gyakorolt lehetséges hatásait (nukleáris tél) elemző jelentésből származik.
 
-![2. ábra: Kanada búzatermő területei jelenleg, 1 °C-os és 2 °C-os átlaghőmérséklet csökkenés esetén (Starr, S.)](/assets/images/canada.jpg)
+![2. ábra: Kanada búzatermő területei jelenleg, 1 °C-os és 2 °C-os átlaghőmérséklet csökkenés esetén (Starr, S.)](/assets/images/canada.jpg){.medium-img}
 
 Cook, B. I. – Pau, S. (2013) eredményei azt mutatják, hogy a legelőterületek degradációja nem világszerte elterjedt jelenség, és a legelők produktivitása széles körben emelkedett az utóbbi három évtizedben (1982-2008 között).
 

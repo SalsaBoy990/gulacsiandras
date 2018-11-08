@@ -46,9 +46,9 @@ A FACE kísérletek bebizonyították, hogy
 
 A fotoszintézis típusa is meghatározó az emelkedett CO~2~-re adott válaszreakciókban. A legtöbb növényfaj (85%) a C3 fotoszintézist használja, míg a többi fajban két fiziológiailag eltérő folyamat játszódik le: a C4 (a növényfajok 0,4%-a) vagy a CAM fotoszintézis (10%, pl. kaktusz, orchidea, ananász). Továbbá létezik a C3-C4 között átmenet. A C4-es növények közé tartoznak a trópusi és szubtrópusi fűfélék (pl. kukorica, cukornád, cirok, köles). C3-as növények, mint például a búza, a rizs, az árpa, a zab, a rozs, a gyapjú, a cukorrépa, a dohány, a szójabab stb., illetve a legtöbb fafaj.
 
-További érdekesség, hogy léteznek szén-dioxid kompenzációs pontok, vagyis azon légköri CO~2~-koncentrációk, melyek esetén az adott növényfaj nettó fotoszintézise teljesen leáll. Magyarul a növény növekedése teljesen leáll! A bruttó fotoszintézis a teljes CO~2~-megkötés mértéke, de ebből légzéskor elvész egy rész, ezt levonva megkapjuk a nettó fotoszintézist. **A növények a C3 fotoszintézis alkalmazása esetén minimum 50-100 ppm-nyi, a C3-C4 átmenetnél még kevesebb szén-dioxidot igényelnek, végezetül a C4-es növények egészen a 0 ppm-ig életben maradnak** (Moore, R. et al. 1995).
+További érdekesség, hogy léteznek [szén-dioxid kompenzációs pontok](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/phoc.html), vagyis azon légköri CO~2~-koncentrációk, melyek esetén az adott növényfaj nettó fotoszintézise teljesen leáll. Magyarul a növény növekedése teljesen leáll, amit valameddig képes tolerálni, de végül elpusztul! A bruttó fotoszintézis a teljes CO~2~-megkötés mértéke, de ebből légzéskor elvész egy rész, ezt levonva megkapjuk a nettó fotoszintézist. **A C3 fotoszintézist alkalmazó növények esetén ez a pont 50-100 ppm körüli, a C3-C4 átmenetnél még alacsonyabb, végezetül a C4-es növényeknél a legalacsonyabb.** (Moore, R. et al. 1995).
 
-A szén-dioxid biztonságos szintje legalább 100 ppm. Ha ez alá süllyed, veszélyzónába kerülünk, viszont szerencsére ennél 4-szer magasabb a légköri szén-dioxid koncentráció (400 ppm felett vagyunk valamivel). A jégkorszakok idején a jégfúrómag-vizsgálatok alapján a szén-dioxid koncentráció esetenként 160-180 ppm-re is lecsökkent! A jégbe zárt légbuborékokban mérték meg a szén-dioxid koncentrációt, ami hűen tükrözi az ezer, százezer évvel ezelőtti légköri viszonyokat. Az utóbbi évtizedekben az antarktiszi, az északi-sarki és a hawaii-i Mauna Loa Obszervatóriumban mért koncentrációk szinte megegyeznek, bizonyítva, hogy globálisan tökéletesen elkeveredik a légkörben a szén-dioxid, a háttérkoncentráció 400 ppm körüli.
+A szén-dioxid biztonságos szintje legalább 200 ppm. Minél több, annál jobb. Ha ez alá süllyed, veszélyzónába kerülünk, viszont szerencsére ennél 2-szer magasabb a légköri szén-dioxid koncentráció (400 ppm felett vagyunk valamivel). A jégkorszakok idején a jégfúrómag-vizsgálatok alapján a szén-dioxid koncentráció esetenként 160-180 ppm-re is lecsökkent! A jégbe zárt légbuborékokban mérték meg a szén-dioxid koncentrációt, ami hűen tükrözi az ezer, százezer évvel ezelőtti légköri viszonyokat. Az utóbbi évtizedekben az antarktiszi, az északi-sarki és a hawaii-i Mauna Loa Obszervatóriumban mért koncentrációk szinte megegyeznek, bizonyítva, hogy globálisan tökéletesen elkeveredik a légkörben a szén-dioxid, a háttérkoncentráció 400 ppm körüli.
 
 Természetesen ez a földfelszín közelében nem igaz! Például erdők esetén jelentős a különbség a nappali és az éjszakai koncentrációk között, hiszen nappal a szén-dioxidot kivonja a növényzet a fotoszintézis során, míg éjszaka a respiráció során a növény cukrot éget el, amihez oxigén von ki a levegőből és szén-dioxidot bocsát ki. Különösen nagy lehet a napszakos ingás egy üvegházban, ahol a légáramlás korlátozott. Szélcsendes időben a közlekedés és az ipar által kibocsátott szén-dioxid sem keveredik el olyan gyorsan, ezáltal megemelve a helyi koncentrációt. Szeles időben viszont mindez fordított. A trópusokon az erdő- és avarégetések is jelentős időszakos szén-dioxid források. Évszakos ingadozást is mutat a szén-dioxid koncentráció: télen magasabb, nyáron alacsonyabb, mivel télen a lombhullató erdők nem fotoszintetizálnak. Ez kifejezetten a mérsékelt övre vonatkozik.
 
@@ -56,11 +56,17 @@ Számos kísérlet során bebizonyosodott, hogy **egyes fajok pozitívan reagál
 
 A jelenlegi bizonyítékok azt mutatják, hogy a légköri szén-dioxid koncentráció növekedése jelentős hatással lehet a növények fiziológiájára és növekedésére. Megemelkedett CO~2~-szint mellett a legtöbb növényfaj **magasabb fotoszintetikus rátát, gyorsabb növekedést, csökkent vízfelhasználást és csökkent nitrogén és fehérje szöveti koncentrációt mutat**. A CO~2~ emelkedése nemcsak a mezőgazdasági termelés nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja. Az emelkedett szén-dioxid hatásai nem egységesek; egyes fajok, különösen, melyek a fotoszintézis C4 variánsát alkalmazzák, gyengébb választ mutatnak (vagy nem is reagálnak a jelenlegihez képest emelkedett CO~2~-ra, ellentétben a C3-asokkal). A növekvő légköri CO~2~ koncentráció ennek következtében valószínűleg összetett hatásokat gyakorol a növényközösségek növekedésére és összetételére (Taub, D. R. 2010).
 
-A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év ütemben emelkedett (Liu, S. et al. 2010). A legmagasabb emelkedő trend a középső és az északi magas (30° feletti) földrajzi szélességeken figyelhető meg (trend: +0,0032/év). Kiemelkedően nőtt a LAI Európában, Szibériában, Indiában, Észak-Amerikában és Dél-Kanadában, a Szaharától délre (Száhel-övezet), Ausztrália délnyugati részén és a Kgalagadi-medencében (a dél-afrikai Kalahári-sivatagban), míg észrevehetően csökkent Délkelet-Ázsiában, Kína délkeleti részein, Közép-Afrikában (erdőirtások), Dél-Amerika középső és déli részein (szintén erdőirtások) és Észak-Amerika sarkvidéki területein („tundra-zöldülés”).
+A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év ütemben emelkedett (Liu, S. et al. 2010). A legmagasabb emelkedő trend a középső és az északi magas (30° feletti) földrajzi szélességeken figyelhető meg (trend: +0,0032/év). Kiemelkedően nőtt a LAI Európában, Szibériában, Indiában, Észak-Amerikában és Dél-Kanadában, a Szaharától délre (Száhel-övezet), Ausztrália délnyugati részén és a Kgalagadi-medencében (a dél-afrikai Kalahári-sivatagban), míg észrevehetően csökkent Délkelet-Ázsiában, Kína délkeleti részein, Közép-Afrikában (erdőirtások), Dél-Amerika középső és déli részein (szintén erdőirtások) és Észak-Amerika sarkvidéki területein („tundra-zöldülés”) (1. ábra).
 
-Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a levélfelület növekedése, viszont a mérsékelt övben, illetve a magas földrajzi szélességeken nagyobb részt a hőmérséklet meghatározó. A felmelegedés hosszabb tenyészidőszakot, nagyobb növekedést eredményez. Példaként mutatom a búza termesztésére alkalmas területeket Kanadában jelenleg, és 1- 2 °C-os hőmérsékletcsökkenés esetén (a jelenlegihez képest).
+![1. ábra: A becsült LAI-értékek lineáris trendjeinek térbeli eloszlása 1981 júliusa és 2006 decembere között (Liu, S. et al. 2010)]()
 
-A következő ábrákon a BEST globális átlaghőmérséklet adatsort a búza, a kukorica és a rizs globális terméshozamával (a FAO adatai)  hasonlítom össze 1960-2013 között. Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). Egyértelmű a kapcsolat a hőmérséklet és a terméshozamok között (r2=0,71-0,73).
+Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a levélfelület növekedése, viszont a mérsékelt övben, illetve a magas földrajzi szélességeken nagyobb részt a hőmérséklet meghatározó. A felmelegedés hosszabb tenyészidőszakot, nagyobb növekedést eredményez. Példaként mutatom a búza termesztésére alkalmas területeket Kanadában jelenleg, és 1- 2 °C-os hőmérsékletcsökkenés esetén (a jelenlegihez képest) (2. ábra).
+
+![2. ábra: Kanada búzatermő területei jelenleg, 1 °C-os és 2 °C-os átlaghőmérséklet csökkenés esetén]()
+
+Cook, B. I. – Pau, S. (2013) eredményei azt mutatják, hogy a legelőterületek degradációja nem világszerte elterjedt jelenség, és a legelők produktivitása széles körben emelkedett az utóbbi három évtizedben.
+
+A következő ábrákon a BEST globális átlaghőmérséklet adatsort a búza, a kukorica és a rizs globális terméshozamával (a FAO adatai)  hasonlítom össze 1960-2013 között. Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). Egyértelmű a kapcsolat a hőmérséklet és a terméshozamok között (r^2^=0,71-0,73).
 
 ## Irodalom
 
@@ -80,26 +86,30 @@ A következő ábrákon a BEST globális átlaghőmérséklet adatsort a búza, 
 
 8. Liu, S.  – Liu, R. – Liu, Y. 2010. Spatial and temporal variation of global LAI during 1981–2006. – Journal of Geographical Sciences 20 pp. 323-332.
 
-LONG, S. P. – AINSWORTH, E. A. et al. 2006: Food for thought: Lower-than-expected crop yield stimulation with rising CO2 concentrations. – Science 312. pp. 1918-1921.
-LOS, S. O. 2013: Analysis of trends in fused AVHRR and MODIS NDVI data for 1982–2006: Indication for a CO2 fertilization effect in global vegetation. Global Biogeochemical Cycles 27. pp. 318–330. doi:10.1002/gbc.20027 http://onlinelibrary.wiley.com/doi/10.1002/gbc.20027/pdf
-MARSCHNER, H. 1995: Mineral Nutrition of Higher Plants, 2nd ed. Academic Press, London.
-MOORE, R. – CLARK, W. D. – KINGSLEY, R. S. – VODOPICH, D. 1995: Botany. William C Brown Pub.
-POORTER, H. – NAVAS, M. L. 2003: Plant growth and competition at elevated CO2: on winners, losers and functional groups. – New Phytologist 157. pp. 175-198.
-TAUB, D. R. 2010: Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants. – Nature Education Knowledge 3. 10. :21 http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108
+9. Long, S. P. – Ainsworth, E. A. et al. 2006: Food for thought: Lower-than-expected crop yield stimulation with rising CO2 concentrations. – Science 312. pp. 1918-1921.
+
+10. Los, S. O. 2013: [Analysis of trends in fused AVHRR and MODIS NDVI data for 1982–2006: Indication for a CO2 fertilization effect in global vegetation.](http://onlinelibrary.wiley.com/doi/10.1002/gbc.20027/pdf) Global Biogeochemical Cycles 27. pp. 318–330. doi:10.1002/gbc.20027 
+
+11. Marschner, H. 1995: Mineral Nutrition of Higher Plants, 2nd ed. Academic Press, London.
+
+12. Moore, R. – Clark, W. D. – Kingsley, R. S. – Vodopich, D. 1995: Botany. William C Brown Pub.
+
+13. Poorter, H. – Navas, M. L. 2003: Plant growth and competition at elevated CO2: on winners, losers and functional groups. – New Phytologist 157. pp. 175-198.
+
+14. Taub, D. R. 2010: [Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants.](http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108) – Nature Education Knowledge 3. 10. :21 
 
 
-BEST hőmérsékleti adatsor: http://berkeleyearth.lbl.gov/auto/Global/Full_TAVG_complete.txt	
-Enyhe telek Magyarországon. Kapanyél blog, 2012-02-16.
-	http://kapanyel.blog.hu/2012/02/16/enyhe_telek_magyarorszagon?utm_source=ketrec&utm_medium=link&utm_content=2012_02_16&utm_campaign=index (letöltve: 2015-09-05)
-FAO: http://faostat3.fao.org/download/Q/*/E
-http://en.wikipedia.org/wiki/Free-air_concentration_enrichment (letöltve: 2015-09-03)
-http://hyperphysics.phy-astr.gsu.edu/hbase/biology/imgbio/c3c4.gif (letöltve: 2015-09-04)
+* [BEST hőmérsékleti adatsor](http://berkeleyearth.lbl.gov/auto/Global/Full_TAVG_complete.txt)
+
+* [FAO terméshozam adatok](http://faostat3.fao.org/download/Q/*/E)
+
+
+
+
 http://hyperphysics.phy-astr.gsu.edu/hbase/biology/phoc.html (letöltve: 2015-09-04)
 http://inesap.org/node/11, http://www.nucleardarkness.org/warconsequences/reducedcanadianwheatgrowing/ (letöltve: 2015-09-04)
-http://static.guim.co.uk/sys-images/Books/Pix/pictures/2010/3/10/1268222690808/Eggborough-power-station-001.jpg (fényképezte: MURDO MACLEOD), http://s0.geograph.org.uk/photos/34/90/349053_a5a91788.jpg (letöltve: 2014-03-26) 
-http://www.revisescience.co.uk/2011/images/0911photosynthesisequation.gif (letöltve: 2015-09-04)
-https://hu.wikipedia.org/wiki/Mőcsényi_Mihály (letöltve: 2015-08-16)
-https://www.youtube.com/watch?v=ZLscfVwVyo8 (letöltve: 2015-08-16)
+http://s0.geograph.org.uk/photos/34/90/349053_a5a91788.jpg (letöltve: 2014-03-26) 
+
 
 
 

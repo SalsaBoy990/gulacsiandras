@@ -28,7 +28,7 @@ A növények anyagcseréjében (metabolizmusában) központi szerepet játszik a
 
 Az emelkedett CO~2~-koncentráció vegetációra gyakorolt hatását úgy szokás vizsgálni, hogy a CO~2~ a mostani és a jövőbeli, megemelkedett légköri koncentrációjánál, általában üvegházakban vagy kamrákban termesztett növények növekedését hasonlítják össze, eltéréseket után kutatva. Viszont a valóságnak jobban megfelelnek a szabad levegőn végzett szén-dioxid dúsítási technikákkal ([Free-Air Carbon Dioxide Enrichment](http://en.wikipedia.org/wiki/Free-air_concentration_enrichment), FACE) végzett kutatások, melyek során vízszintes vagy függőleges csövekkel vesznek körül egy kísérleti parcellát, amik szén-dioxidban dúsított levegőt áramoltatnak a növények közé. A CO~2~-koncentrációt szenzorokkal mérik, és visszajeleznek a számítógépnek, ami a csövekben áramló CO~2~ áramlását szabályozza. Az 1. képen körkörös kialakítású kísérleti parcellák láthatók.
 
-![1. kép: FACE kísérleti parcellák a szén-dioxid növényzetre gyakorolt hatásnak kutatására]()
+![1. kép: FACE kísérleti parcellák a szén-dioxid növényzetre gyakorolt hatásnak kutatására](/assets/images/face.jpg)
 
 ## Mik a megfigyelt hatások?
 
@@ -58,11 +58,11 @@ A jelenlegi bizonyítékok azt mutatják, hogy a légköri szén-dioxid koncentr
 
 A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év ütemben emelkedett (Liu, S. et al. 2010). A legmagasabb emelkedő trend a középső és az északi magas (30° feletti) földrajzi szélességeken figyelhető meg (trend: +0,0032/év). Kiemelkedően nőtt a LAI Európában, Szibériában, Indiában, Észak-Amerikában és Dél-Kanadában, a Szaharától délre (Száhel-övezet), Ausztrália délnyugati részén és a Kgalagadi-medencében (a dél-afrikai Kalahári-sivatagban), míg észrevehetően csökkent Délkelet-Ázsiában, Kína délkeleti részein, Közép-Afrikában (erdőirtások), Dél-Amerika középső és déli részein (szintén erdőirtások) és Észak-Amerika sarkvidéki területein („tundra-zöldülés”) (1. ábra).
 
-![1. ábra: A becsült LAI-értékek lineáris trendjeinek térbeli eloszlása 1981 júliusa és 2006 decembere között (Liu, S. et al. 2010)]()
+![1. ábra: A becsült LAI-értékek lineáris trendjeinek térbeli eloszlása 1981 júliusa és 2006 decembere között (Liu, S. et al. 2010)](/assets/images/kizoldules.jpg)
 
 Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a levélfelület növekedése, viszont a mérsékelt övben, illetve a magas földrajzi szélességeken nagyobb részt a hőmérséklet meghatározó. A felmelegedés hosszabb tenyészidőszakot, nagyobb növekedést eredményez. Példaként mutatom a búza termesztésére alkalmas területeket Kanadában jelenleg, és 1- 2 °C-os hőmérsékletcsökkenés esetén (a jelenlegihez képest) (2. ábra).
 
-![2. ábra: Kanada búzatermő területei jelenleg, 1 °C-os és 2 °C-os átlaghőmérséklet csökkenés esetén]()
+![2. ábra: Kanada búzatermő területei jelenleg, 1 °C-os és 2 °C-os átlaghőmérséklet csökkenés esetén](/assets/images/canada.jpg)
 
 Cook, B. I. – Pau, S. (2013) eredményei azt mutatják, hogy a legelőterületek degradációja nem világszerte elterjedt jelenség, és a legelők produktivitása széles körben emelkedett az utóbbi három évtizedben.
 

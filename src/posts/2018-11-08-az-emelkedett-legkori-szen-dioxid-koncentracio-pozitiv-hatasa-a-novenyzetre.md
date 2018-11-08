@@ -60,13 +60,15 @@ A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év
 
 ![1. ábra: A becsült LAI-értékek lineáris trendjeinek térbeli eloszlása 1981 júliusa és 2006 decembere között (Liu, S. et al. 2010)](/assets/images/kizoldules.jpg)
 
-Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a levélfelület növekedése, viszont a mérsékelt övben, illetve a magas földrajzi szélességeken nagyobb részt a hőmérséklet meghatározó. A felmelegedés hosszabb tenyészidőszakot, nagyobb növekedést eredményez. Példaként mutatom a búza termesztésére alkalmas területeket Kanadában jelenleg, és 1- 2 °C-os hőmérsékletcsökkenés esetén (a jelenlegihez képest) (2. ábra).
+Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a levélfelület növekedése, viszont a mérsékelt övben, illetve a magas földrajzi szélességeken nagyobb részt a hőmérséklet meghatározó. A felmelegedés hosszabb tenyészidőszakot, nagyobb növekedést eredményez. Példaként mutatom a búza termesztésére alkalmas területeket Kanadában jelenleg, és 1- 2 °C-os hőmérsékletcsökkenés esetén (a jelenlegihez képest) (2. ábra). Ez az ábra egy globális nukleáris háború éghajlatra gyakorolt lehetséges hatásait (nukleáris tél) elemző jelentésből származik.
 
-![2. ábra: Kanada búzatermő területei jelenleg, 1 °C-os és 2 °C-os átlaghőmérséklet csökkenés esetén](/assets/images/canada.jpg)
+![2. ábra: Kanada búzatermő területei jelenleg, 1 °C-os és 2 °C-os átlaghőmérséklet csökkenés esetén (Starr, S.)](/assets/images/canada.jpg)
 
-Cook, B. I. – Pau, S. (2013) eredményei azt mutatják, hogy a legelőterületek degradációja nem világszerte elterjedt jelenség, és a legelők produktivitása széles körben emelkedett az utóbbi három évtizedben.
+Cook, B. I. – Pau, S. (2013) eredményei azt mutatják, hogy a legelőterületek degradációja nem világszerte elterjedt jelenség, és a legelők produktivitása széles körben emelkedett az utóbbi három évtizedben (1982-2008 között).
 
-A következő ábrákon a BEST globális átlaghőmérséklet adatsort a búza, a kukorica és a rizs globális terméshozamával (a FAO adatai)  hasonlítom össze 1960-2013 között. Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). Egyértelmű a kapcsolat a hőmérséklet és a terméshozamok között (r^2^=0,71-0,73).
+A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica és a rizs globális terméshozamával (a FAO adatai)  hasonlítottam össze 1960-2013 között. Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). Egyértelmű a kapcsolat a hőmérséklet és a terméshozamok között (r^2^=0,71-0,73).
+
+![3. ábra: A BEST globális átlaghőmérsékletek és a FAO globális termésátlagok alakulása 1960-tól 2013-ig](/assets/images/best.jpg)
 
 ## Irodalom
 
@@ -88,15 +90,13 @@ A következő ábrákon a BEST globális átlaghőmérséklet adatsort a búza, 
 
 9. Long, S. P. – Ainsworth, E. A. et al. 2006: Food for thought: Lower-than-expected crop yield stimulation with rising CO2 concentrations. – Science 312. pp. 1918-1921.
 
-10. Los, S. O. 2013: [Analysis of trends in fused AVHRR and MODIS NDVI data for 1982–2006: Indication for a CO2 fertilization effect in global vegetation.](http://onlinelibrary.wiley.com/doi/10.1002/gbc.20027/pdf) Global Biogeochemical Cycles 27. pp. 318–330. doi:10.1002/gbc.20027 
+10. Marschner, H. 1995: Mineral Nutrition of Higher Plants, 2nd ed. Academic Press, London.
 
-11. Marschner, H. 1995: Mineral Nutrition of Higher Plants, 2nd ed. Academic Press, London.
+11. Moore, R. – Clark, W. D. – Kingsley, R. S. – Vodopich, D. 1995: Botany. William C Brown Pub.
 
-12. Moore, R. – Clark, W. D. – Kingsley, R. S. – Vodopich, D. 1995: Botany. William C Brown Pub.
+12. Poorter, H. – Navas, M. L. 2003: Plant growth and competition at elevated CO2: on winners, losers and functional groups. – New Phytologist 157. pp. 175-198.
 
-13. Poorter, H. – Navas, M. L. 2003: Plant growth and competition at elevated CO2: on winners, losers and functional groups. – New Phytologist 157. pp. 175-198.
-
-14. Taub, D. R. 2010: [Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants.](http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108) – Nature Education Knowledge 3. 10. :21 
+13. Taub, D. R. 2010: [Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants.](http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108) – Nature Education Knowledge 3. 10. :21 
 
 
 * [BEST hőmérsékleti adatsor](http://berkeleyearth.lbl.gov/auto/Global/Full_TAVG_complete.txt)
@@ -105,8 +105,6 @@ A következő ábrákon a BEST globális átlaghőmérséklet adatsort a búza, 
 
 
 
-
-http://hyperphysics.phy-astr.gsu.edu/hbase/biology/phoc.html (letöltve: 2015-09-04)
 http://inesap.org/node/11, http://www.nucleardarkness.org/warconsequences/reducedcanadianwheatgrowing/ (letöltve: 2015-09-04)
 http://s0.geograph.org.uk/photos/34/90/349053_a5a91788.jpg (letöltve: 2014-03-26) 
 

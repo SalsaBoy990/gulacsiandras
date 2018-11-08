@@ -56,4 +56,10 @@ A szén-dioxid a levegő nedvességtartalmával reakcióba lépve szénsavat ké
 
 Évszakos ingadozást is mutat a szén-dioxid koncentráció: télen magasabb, nyáron alacsonyabb. Különösen a mérsékelt övben, ahol 4 évszak van. Az állandó
 
+Számos kísérlet során bebizonyosodott, hogy egyes fajok pozitívan reagálnak az emelkedett CO2 koncentrációra, ha külön termesztik őket, viszont, ha kevert növényi közösségekben csökken a növekedésük, a vetélytárs növények növekedése fokozódik, amelyek kiszorítják (POORTER, H. – NAVAS, M. L. 2003). A monokultúrában termesztett gabonanövényeket ez a veszély nem fenyegeti. 
+	A jelenlegi bizonyítékok azt mutatják, hogy a légköri szén-dioxid koncentráció növekedése jelentős hatással lehet a növények fiziológiájára és növekedésére. Megemelkedett CO2-szint mellett a legtöbb növényfaj magasabb fotoszintetikus rátát, gyorsabb növekedést, csökkent vízfelhasználást és csökkent nitrogén és fehérje szöveti koncentrációt mutat. A CO2 emelkedése nemcsak a mezőgazdasági termelés nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja. Az emelkedett szén-dioxid hatásai nem egységesek; egyes fajok, különösen, melyek a fotoszintézis C4 variánsát alkalmazzák, gyengébb választ mutatnak (vagy nem is reagálnak a jelenlegihez képest emelkedett CO2-ra, ellentétben a C3-asokkal). A növekvő légköri CO2 koncentráció ennek következtében valószínűleg összetett hatásokat gyakorol a növényközösségek növekedésére és összetételére (TAUB, D. R. 2010).
+
+A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év ütemben emelkedett (Liu, S. et al. 2010). A legmagasabb emelkedő trend a középső és az északi magas (30° feletti) földrajzi szélességeken figyelhető meg (+0,0032/év). Kiemelkedően nőtt a LAI Európában, Szibériában, Indiában, Észak-Amerikában és Dél-Kanadában, a Szaharától délre (Száhel-övezet), Ausztrália délnyugati részén és a Kgalagadi-medencében (a dél-afrikai Kalahári-sivatagban); míg észrevehetően csökkent Délkelet-Ázsiában, Kína délkeleti részein, Közép-Afrikában (erdőirtások), Dél-Amerika középső és déli részein (szintén erdőirtások) és Észak-Amerika sarkvidéki területein („tundra-zöldülés”).
+
+
 

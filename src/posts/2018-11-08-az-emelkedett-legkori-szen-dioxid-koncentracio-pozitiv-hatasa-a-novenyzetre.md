@@ -12,7 +12,18 @@ coverImage: gabona.jpg
 comments: true
 topic: 'szén-dioxid, növényzet'
 ---
-Az alábbi részletek Dr. Mőcsényi Mihály (1919–2017) kertészmérnök [előadásából](https://www.youtube.com/watch?v=ZLscfVwVyo8) származnak.  Mőcsényi Mihály Kossuth-, Széchenyi- és Sir Geoffrey Jellicoe-díjas magyar kertészmérnök, tájépítész, egyetemi tanár, a tájrendezés magyarországi oktatásának megalapozója, az önálló Tájépítészeti Kar (Corvinus Egyetem) létrehozója. 1991 és 1993 között a Kertészeti Egyetem (ma Corvinus) rektora volt. 1976–1986 között a Tájépítészek Nemzetközi Szövetsége (IFLA) alelnöke, majd 1986–1990 között elnöke, e tisztségében világkongresszusok szervezője, vezetője, előadója volt.
+Az alábbi részletek [Dr. Mőcsényi Mihály (1919–2017)](https://hu.wikipedia.org/wiki/Mőcsényi_Mihály) kertészmérnök [előadásából](https://www.youtube.com/watch?v=ZLscfVwVyo8) származnak.  Mőcsényi Mihály Kossuth-, Széchenyi- és Sir Geoffrey Jellicoe-díjas magyar kertészmérnök, tájépítész, egyetemi tanár, a tájrendezés magyarországi oktatásának megalapozója, az önálló Tájépítészeti Kar (Corvinus Egyetem) létrehozója. 1991 és 1993 között a Kertészeti Egyetem (ma Corvinus) rektora volt. 1976–1986 között a Tájépítészek Nemzetközi Szövetsége (IFLA) alelnöke, majd 1986–1990 között elnöke, e tisztségében világkongresszusok szervezője, vezetője, előadója volt.
+
+> „Malthus a XVIII. század végén azt mondta, hogy ki fog halni az emberiség, mert az élelemtermelés számtani, míg az emberiség növekedése mértani haladvány szerint fog nőni. Nagyot tévedett! Nem számolhatott azzal, hogy **az ipari forradalom azzal, hogy a fosszilis energiákat felszabadítva egyre növekvő mértékben szaporítja a légkör CO^2^-tartalmát, hihetetlen mértékű termésnövekedés fog alakulni.**{.red}”
+
+Annyit hozzátennék, hogy a szén-dioxid koncentráció emelkedése mellett, ebben a terméshozam-növekedésben a műtrágyák és a növényvédő szerek és a nagyobb hozamú vetőmagok kifejlesztése, valamint a mezőgazdaság gépesítése döntő szerepet játszott. Így teljes a kép.
+
+> „A szén-dioxid növényi táplálék, légtrágya. **A növények szárazanyag-tartalmának 1%-a kerül a talajból a növényzetbe. A tápanyagok zömét (99%-át) a levegőből veszi fel a vegetáció.**{.red} Az asszimilált szárazanyag tartalom 99%-ából 50% a szén, 45% a hidrogén, 0,5-1% szervetlen anyag (P, K, Na), a többi oxigén. A növények a táplálékot vízben oldottan veszik fel, továbbá azért is van szükségük H~2~O-ra, hogy a testhőmérsékletüket optimális szinten tartsák. 20-25 °C-nál a legtermelékenyebbek. A C3-as típusú növényekhez képest a C4-esek lényegesen magasabb hőmérsékleten fotoszintetizálnak és produktivitásuk is magasabb. Az első fotoszintézis folyamatban 4 szénatomot kötnek meg.
+> **1 m^2^-nyi földfelületen élő növényzet**{.red}, ami a levélfelületet tekintve általában 5-szöröse vagy több az alapterületnek (levélfelületi index), **1 óra alatt 25 légm3 levegő szén-dioxidját az utolsó molekuláig elhasználja!**{.red} A karbon korszak óriáspáfrányai a lényegesen nagyobb légköri CO^2^-koncentráció lehetőségét hasznosították, sokkal produktívabbak voltak, viszont a CO^2^-koncentráció csökkenésével nagy részük kipusztulhatott. **Amennyiben nem volna a légkörnek CO2-utánpótlása (bomlás, fosszilis tüzelőanyagok égetése), 35 év alatt a levegő összes szén-dioxid-tartalma elfogyna!**{.red}
+> **A második világháborút megelőzően egy hektárnyi mezőgazdasági területen átlagosan 14 mázsa búza, 20-22 mázsa kukorica termett. Napjainkban, ha a csapadékmennyiség kielégítő, 80-100 mázsa búza, illetve 120-150 mázsa kukorica terem egy hektáron. Az 50 évvel ezelőtti 6-7-szerese.**{.red}
+ 
+[A hatalmas karbon kori kőszéntelepek megléte is bizonyítja a fokozott biomassza termelést.]
+
 
 
 

@@ -30,7 +30,7 @@ A növények anyagcseréjében (metabolizmusában) központi szerepet játszik a
 
 Az emelkedett CO~2~-koncentráció vegetációra gyakorolt hatását úgy szokás vizsgálni, hogy a CO~2~ a mostani és a jövőbeli, megemelkedett légköri koncentrációjánál, általában üvegházakban vagy kamrákban termesztett növények növekedését hasonlítják össze, eltéréseket után kutatva. Viszont a valóságnak jobban megfelelnek a szabad levegőn végzett szén-dioxid dúsítási technikákkal ([Free-Air Carbon Dioxide Enrichment](http://en.wikipedia.org/wiki/Free-air_concentration_enrichment), FACE) végzett kutatások, melyek során vízszintes vagy függőleges csövekkel vesznek körül egy kísérleti parcellát, amik szén-dioxidban dúsított levegőt áramoltatnak a növények közé. A CO~2~-koncentrációt szenzorokkal mérik, és visszajeleznek a számítógépnek, ami a csövekben áramló CO~2~ áramlását szabályozza. Az 1. képen körkörös kialakítású kísérleti parcellák láthatók.
 
-![1. kép: FACE kísérleti parcellák a szén-dioxid növényzetre gyakorolt hatásnak kutatására](/assets/images/face.jpg)
+![1. kép: FACE kísérleti parcellák a szén-dioxid növényzetre gyakorolt hatásainak kutatására](/assets/images/face.jpg)
 
 ## Mik a megfigyelt hatások?
 
@@ -40,7 +40,7 @@ A gázcserenyílásokon (sztomata) keresztül a növény gázcserét folytat a k
 
 A FACE kísérletek bebizonyították, hogy
 
-* a teljes növény **vízfelhasználása 5-20%-kal csökken** emelkedett CO~2~-koncentráció mellett (Leakey, A. D. B. et al. 2009).
+* a teljes növény **vízfelhasználása 5-20%-kal csökkent** emelkedett CO~2~-koncentráció mellett (Leakey, A. D. B. et al. 2009).
 
 * Másodlagos fiziológiai hatások. Gyorsabb növekedés: **a felszín feletti szárazanyag 17%-kal, míg a felszín alatti több mint 30%-kal nőtt** (Ainsworth, E. A. – Long, S. P. 2005, de Graaff, M. A. et al. 2006). A növekedés megfigyelhető a haszonnövények terméshozamában: **12-14%-os hozamnövekedés a búza, rizs és a szójabab esetén** (Ainsworth, E. A. 2008, Long, S. P. et al. 2006).
 
@@ -48,7 +48,7 @@ A FACE kísérletek bebizonyították, hogy
 
 A fotoszintézis típusa is meghatározó az emelkedett CO~2~-re adott válaszreakciókban. A legtöbb növényfaj (85%) a C3 fotoszintézist használja, míg a többi fajban két fiziológiailag eltérő folyamat játszódik le: a C4 (a növényfajok 0,4%-a) vagy a CAM fotoszintézis (10%, pl. kaktusz, orchidea, ananász). Továbbá létezik a C3-C4 között átmenet. A C4-es növények közé tartoznak a trópusi és szubtrópusi fűfélék (pl. kukorica, cukornád, cirok, köles). C3-as növény például a búza, a rizs, az árpa, a zab, a rozs, a gyapjú, a cukorrépa, a dohány, a szójabab stb., illetve a legtöbb fafaj.
 
-További érdekesség, hogy léteznek [szén-dioxid kompenzációs pontok](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/phoc.html), vagyis azon légköri CO~2~-koncentrációk, melyek esetén az adott növényfaj nettó fotoszintézise teljesen leáll. Magyarul a növény növekedése teljesen leáll, amit valameddig képes tolerálni, de végül elpusztul! A bruttó fotoszintézis a teljes CO~2~-megkötés mértéke, de ebből légzéskor elvész egy rész, ezt levonva kapjuk meg a nettó fotoszintézist. **A C3 fotoszintézist alkalmazó növények esetén ez a pont 50-100 ppm körüli, a C3-C4 átmenetnél még alacsonyabb, végezetül a C4-es növényeknél a legalacsonyabb.** (Moore, R. et al. 1995).
+További érdekesség, hogy léteznek [szén-dioxid kompenzációs pontok](http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/phoc.html), vagyis azon légköri CO~2~-koncentrációk, melyek esetén az adott növényfaj nettó fotoszintézise teljesen leáll. Magyarul a növény növekedése teljesen leáll, amit valameddig képes tolerálni, de végül elpusztul! A bruttó fotoszintézis a teljes CO~2~-megkötés mértéke, de ebből légzéskor elvész egy rész, ezt levonva kapjuk meg a nettó fotoszintézist. **A C3 fotoszintézist alkalmazó növények esetén ez a pont 50-100 ppm körüli, a C3-C4 átmenetnél még alacsonyabb, míg a C4-es növényeknél a legalacsonyabb.** (Moore, R. et al. 1995).
 
 A szén-dioxid biztonságos szintje legalább 200 ppm. Minél több, annál jobb. Ha ez alá süllyed, veszélyzónába kerülünk, viszont szerencsére ennél 2-szer magasabb a légköri szén-dioxid koncentráció (400 ppm felett vagyunk valamivel). A jégkorszakok idején a jégfúrómag-vizsgálatok alapján a szén-dioxid koncentráció esetenként 160-180 ppm-re is lecsökkent! A jégbe zárt légbuborékokban mérték meg a szén-dioxid koncentrációt, ami hűen tükrözi az ezer, százezer évvel ezelőtti légköri viszonyokat. Az utóbbi évtizedekben az antarktiszi, az északi-sarki mérőállomásokon és a hawaii-i Mauna Loa Obszervatóriumban mért koncentrációk szinte megegyeznek, bizonyítva, hogy globálisan tökéletesen elkeveredik a légkörben a szén-dioxid, a háttérkoncentráció 400 ppm körüli.
 
@@ -57,6 +57,9 @@ Természetesen ez a földfelszín közelében nem igaz! Például erdők esetén
 Számos kísérlet során bebizonyosodott, hogy **egyes fajok pozitívan reagálnak az emelkedett CO~2~ koncentrációra, ha külön termesztik őket, viszont, ha kevert növényi közösségekben csökken a növekedésük, a vetélytárs növények növekedése fokozódik, amelyek kiszorítják** (Poorter, H. – Navas, M. L. 2003). A monokultúrában termesztett gabonanövényeket ez a veszély nem fenyegeti. 
 
 A jelenlegi bizonyítékok azt mutatják, hogy a légköri szén-dioxid koncentráció növekedése jelentős hatással lehet a növények fiziológiájára és növekedésére. Megemelkedett CO~2~-szint mellett a legtöbb növényfaj **gyorsabb fotoszintézist, gyorsabb növekedést, csökkent vízfelhasználást és csökkent nitrogén és fehérje szöveti koncentrációt mutat**. A CO~2~ emelkedése nemcsak a mezőgazdasági termelés nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja. Az emelkedett szén-dioxid hatásai nem egységesek; egyes fajok, különösen, melyek a fotoszintézis C4 variánsát alkalmazzák, gyengébb választ mutatnak (vagy nem is reagálnak a jelenlegihez képest emelkedett CO~2~-ra, ellentétben a C3-asokkal). A növekvő légköri CO~2~ koncentráció ennek következtében valószínűleg összetett hatásokat gyakorol a növényközösségek növekedésére és összetételére (Taub, D. R. 2010).
+
+
+## Globális kizöldülés
 
 A levélfelületi index (LAI) az elmúlt 26 évben általánosságban 0,0013/év ütemben emelkedett (Liu, S. et al. 2010). A legmagasabb emelkedő trend a középső és az északi magas (30° feletti) földrajzi szélességeken figyelhető meg (trend: +0,0032/év). Kiemelkedően nőtt a LAI Európában, Szibériában, Indiában, Észak-Amerikában és Dél-Kanadában, a Szaharától délre (Száhel-övezet), Ausztrália délnyugati részén és a Kgalagadi-medencében (a dél-afrikai Kalahári-sivatagban), míg észrevehetően csökkent Délkelet-Ázsiában, Kína délkeleti részein, Közép-Afrikában (erdőirtások), Dél-Amerika középső és déli részein (szintén erdőirtások) és Észak-Amerika sarkvidéki területein („tundra-zöldülés”) (1. ábra).
 
@@ -68,7 +71,7 @@ Részben az emelkedett légköri szén-dioxid-koncentrációnak köszönhető a 
 
 Cook, B. I. – Pau, S. (2013) eredményei azt mutatják, hogy a legelőterületek degradációja nem világszerte elterjedt jelenség, és a legelők produktivitása széles körben emelkedett az utóbbi három évtizedben (1982-2008 között).
 
-A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica és a rizs globális terméshozamával (a FAO adatai)  hasonlítottam össze 1960-2013 között. Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). Egyértelmű a kapcsolat a hőmérséklet és a terméshozamok között (r^2^=0,71-0,73). A hőmérséklet emelkedésével együtt mozog a termésátlag emelkedése. Természetesen nem csak a hosszabb tenyészidőszak és az emelkedett légköri szén-dioxid szint kedvező hatásának tudható mindez be, hanem a műtrágyáknak, növényvédő szereknek és a jobb vetőmagoknak is. Egyértelműen látszik a globális felmelegedés és a modern civilizáció vívmányainak a pozitív hatása a mezőgazdaságra.
+A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica és a rizs globális terméshozamával (a FAO adatai)  hasonlítottam össze 1960-2013 között. Az ábrán hőmérsékleti anomáliák szerepelnek, melyek a választott (1951-1980) referenciaidőszaki átlagtól vett eltéréseket mutatják (1951-1980 hőmérsékleti átlaga 8,69±0,05 °C). Egyértelmű a kapcsolat a hőmérséklet és a terméshozamok között (r^2^=0,71-0,73). A hőmérséklet emelkedésével együtt mozog a termésátlag. Természetesen nem csak a hosszabb tenyészidőszak és az emelkedett légköri szén-dioxid szint kedvező hatásának tudható mindez be, hanem a műtrágyáknak, növényvédő szereknek és a jobb vetőmagoknak is. Egyértelműen látszik a globális felmelegedés és a modern civilizáció vívmányainak a pozitív hatása a mezőgazdaságra.
 
 ![3. ábra: A BEST globális átlaghőmérsékletek és a FAO globális termésátlagok alakulása 1960-tól 2013-ig](/assets/images/best.jpg)
 

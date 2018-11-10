@@ -102,11 +102,11 @@ Viszont senki nem tud napi egymillió reggelit elfogyasztani. Ha az egy főre es
 
 A FAO adatbázisában megtalálható a napi teljes élelemfogyasztás kalóriában (kilokalória, kcal), valamint a napi fehérje- és zsírfogyasztás grammban kifejezve. Itt látható az utóbbi 50 év változása (2-4. ábrák):
 
-![2. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos energiabevitelének (kcal/fő/nap) alakulása 1961-2013 között](/assets/images/energiabevitel.png)
+![2. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos energiabevitelének (kcal/fő/nap) alakulása 1961-2013 között](/assets/images/energiabevitel.jpg)
 
-![3. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos fehérjefogyasztása (g/fő/nap) alakulása 1961-2013 között](/assets/images/feherjefogyasztas.png)
+![3. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos fehérjefogyasztása (g/fő/nap) alakulása 1961-2013 között](/assets/images/feherjefogyasztas.jpg)
 
-![4. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos zsírfogyasztása (g/fő/nap) alakulása 1961-2013 között](/assets/images/zsirfogyasztas.png)
+![4. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos zsírfogyasztása (g/fő/nap) alakulása 1961-2013 között](/assets/images/zsirfogyasztas.jpg)
 
 
 A diagramok lenyűgöző eredményeket mutat. 1960 és 2000 között megduplázódott a világnépesség: 3-ról 6 milliárdra emelkedett. Most már 7 milliárd felett vagyunk. Hogy azonos szinten maradjon a fogyasztási szint, az összes megtermelt élelmiszer mennyiségének a duplájára kellett emelkednie. És meg is dupláztuk, sőt még több is lett. **A legkevésbé fejlett országok esetén a népesség még gyorsabban nőtt: 1961 óta megháromszorozódott, de az élemiszerfogyasztásuk az 1990-es évek elejéig szintben maradt. És azóta emelkedésnek indult a fogyasztás.**

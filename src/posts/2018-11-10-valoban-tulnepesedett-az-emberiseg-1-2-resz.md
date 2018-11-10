@@ -110,3 +110,125 @@ Tehát a Malthus és követőinek a sötét jóslatait a valóság cáfolja. Hi�
 
 A cikksorozatom második részében a világnépesség jövőbeli alakulásával kapcsolatos prognózisokat szedem ízekre. Megnézzük, hogy Malthus követői hogyan vélekednek az emberekről és milyen megoldásokat javasolnak a népesség lecsökkentésére, egy nem létező probléma ellen.
 
+
+## Irodalom
+
+Diamond, J. 1999
+http://www.slideshare.net/wal147/19th-century-public-health-booklet
+Paul R. Ehrlich 1968 The Population Bomb
+Malthus, T. R. 1826, 1789
+Julian Simon 1981 The Ultimate Resource
+Willis Eschenbach Malthus Redux https://wattsupwiththat.com/2017/12/10/malthus-redux/
+Anthony Watts Great moments in failed predictions
+https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/
+Willis Eschenbach I Am So Tired of Malthus
+https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/
+http://www.fao.org/faostat/en/#data/CC
+
+
+## Melléklet
+
+### A legkevésbé fejlett országok listája
+* Afganisztán
+* Angola
+* Banglades
+* Benin
+* Burkina Faso
+* Kambodzsa
+* Közép-Afrikai Köztársaság
+* Csád
+* Dzsibuti
+* Etiópia
+* Gambia
+* Guinea
+* Bissau-Guinea
+* Haiti
+* Kiribati
+* Laosz
+* Lesotho
+* Libéria
+* Madagaszkár
+* Malawi
+* Mali
+* Mauritánia
+* Mozambik
+* Mianmar (egykori Burma)
+* Nepál
+* Niger
+* Ruanda
+* São Tomé és Príncipe
+* Szenegál
+* Sierra Leone
+* Salamon-szigetek
+* Szudán (egykori)
+* Kelet-Timor
+* Togo
+* Uganda
+* Tanzánia
+* Vanuatu
+* Jemen
+* Zambia
+
+### Kis fejlődő szigetországok
+* Antigua és Barbuda
+* Bahama -szigetek
+* Barbados
+* Belize
+* Bermuda
+* Zöld-foki Köztársaság (Cabo Verde)
+* Kuba
+* Dominika
+* Dominikai Köztársaság
+* Fidzsi-szigetek
+* Francia-Polinézia
+* Grenada
+* Bissau-Guinea
+* Guyana
+* Haiti
+* Jamaica
+* Kiribati
+* Maldív-szigetek
+* Mauritius
+* Új-Kaledónia
+* Saint Kitts és Nevis
+* Saint Lucia
+* Saint Vincent és a Grenadine-szigetek
+* Szamoa
+* São Tomé és Príncipe
+* Salamon-szigetek
+* Suriname
+* Kelet-Timor
+* Trinidad és Tobago
+* Vanuatu
+
+### Szárazföldbe zárt fejlődő országok
+* Afganisztán
+* Örményország
+* Azerbajdzsán
+* Bolívia
+* Botswana
+* Burkina Faso
+* Közép-afrikai Köztársaság
+* Csád
+* Etiópia
+* Kazahsztán
+* Kirgizisztán
+* Laosz
+* Lesotho
+* Malawi
+* Mali
+* Mongólia
+* Nepál
+* Niger
+* Paraguay
+* Moldova
+* Ruanda
+* Szváziföld
+* Tádzsikisztán
+* Makedónia
+* Türkmenisztán
+* Uganda
+* Üzbegisztán
+* Zambia
+* Zimbabwe
+

@@ -113,15 +113,15 @@ A cikksorozatom második részében a világnépesség jövőbeli alakulásával
 
 ## Irodalom
 
-1. Anthony Watts 2013: [Great moments in failed predictions.](https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/) WUWT.
+1. Anthony Watts (2013): [Great moments in failed predictions.](https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/) WUWT.
 
-2. Jared Diamond 1999:
+2. Jared Diamond (1999): Guns, Germs, and Steel: The Fates of Human Societies. W. W. Norton & Company, Inc., New York, NY. 496 p.
 
-3. Julian Simon 1981: The Ultimate Resource
+3. Julian Lincoln Simon (1981): The Ultimate Resource. Princeton University Press, UK. 418 p.
 
-4. Paul R. Ehrlich 1968: The Population Bomb
+4. Paul Ralph Ehrlich 1968: The Population Bomb. Ballantine Books, New York. 223 p.
 
-5. Malthus, T. R. 1826, 1789
+5. Thomas Robert Malthus (1826): [An Essay on the Principle of Population, or a View of its Past and Present Effects on Human Happiness; with an Inquiry into our Prospects respecting the Future Removal or Mitigation of the Evils which it Occasions. 6. kiadás, 2. kötet.](http://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-vol-2-1826-6th-ed) John Murray, London.
 
 6. Willis Eschenbach 2010: [I Am So Tired of Malthus.](https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/)
 

@@ -7,11 +7,11 @@ excerpt: >-
   térek ki, mely szerint az élelemtermelés nem tud lépést tartani a népesség
   növekedésével, ami katasztrófához vezet. Az adatok viszont teljes egészében
   cáfolják, hogy mindez így lenne. A Föld nem túlnépesedett. Ne higgyetek az
-  antihumanistáknak, hogy az emberiség létszámát le kell csökkenteni "a kívánt
-  szintre", hogy elkerüljük a nem létező ökológiai összeomlást!
+  antihumanistáknak, hogy az emberiség létszámát le kell csökkenteni „a kívánt
+  szintre”, hogy elkerüljük a nem létező ökológiai összeomlást!
 coverImage: tulnepesedes.png
 comments: true
-topic: Népesedés
+topic: Túlnépesedés
 ---
 A kérdés megválaszolásához, gondolatban vissza kell repülnünk a negyedidőszaki pleisztocén eljegesedések végéhez, a **holocén** földtörténeti kor kezdetéhez, tehát Kr. e. 10 000-ig. Ez volt az időszak, amikor az éghajlat erőteljes felmelegedésének a következtében a legutóbbi eljegesedés (Würm glaciális) a jégtakarók visszahúzódásával véget ért, lehetővé téve ezzel a letelepedést, az emberi civilizáció létrejöttét.
 
@@ -109,11 +109,11 @@ A FAO adatbázisában megtalálható a napi teljes élelemfogyasztás kalóriáb
 ![4. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos zsírfogyasztása (g/fő/nap) alakulása 1961-2013 között](/assets/images/zsirfogyasztas.jpg)
 
 
-A diagramok lenyűgöző eredményeket mutat. 1960 és 2000 között megduplázódott a világnépesség: 3-ról 6 milliárdra emelkedett. Most már 7 milliárd felett vagyunk. Hogy azonos szinten maradjon a fogyasztási szint, az összes megtermelt élelmiszer mennyiségének a duplájára kellett emelkednie. És meg is dupláztuk, sőt még több is lett. **A legkevésbé fejlett országok esetén a népesség még gyorsabban nőtt: 1961 óta megháromszorozódott, de az élemiszerfogyasztásuk az 1990-es évek elejéig szintben maradt. És azóta emelkedésnek indult a fogyasztás.**
+A diagramok lenyűgöző eredményeket mutatnak. 1960 és 2000 között megduplázódott a világnépesség: 3-ról 6 milliárdra emelkedett. Most már 7 milliárd felett vagyunk. Hogy azonos szinten maradjon a fogyasztási szint, az összes megtermelt élelmiszer mennyiségének a duplájára kellett emelkednie. És meg is dupláztuk, sőt még több is lett. **A legkevésbé fejlett országok esetén a népesség még gyorsabban nőtt: 1961 óta megháromszorozódott, de az élelmiszerfogyasztásuk az 1990-es évek elejéig szintben maradt. És azóta emelkedésnek indult a fogyasztás.**
 
 De a **napi fehérjefogyasztás is emelkedett, még a legfejletlenebb országok esetén is** – közelít a világátlag felé.
 
-**Ma sokkal jobban el vagyunk látva élelemmel, mint a korábbi történelem során valaha is voltunk!** Nem csak a gazdagok, hanem a szegények is. Persze még így is milliók éheznek, de idővel, kemény munkával mindenhol megszüntethető lehet az éhezés.
+**Ma sokkal jobban el vagyunk látva élelemmel, mint a történelem során valaha is voltunk!** Nem csak a gazdagok, hanem a szegények is. Persze még így is milliók éheznek, de idővel, kemény munkával mindenhol megszüntethető lehet az éhezés.
 
 Tehát a Malthus és követőinek a sötét jóslatait a valóság cáfolja. Hiába duplázódott meg a világnépesség, az élelemtermelés több mint megkétszereződött! A hamis próféták lelepleződtek.
 

@@ -41,7 +41,7 @@ Az első és a második ipari forradalom hatására az újabb és nagyobb energi
 
 A kezdetekben a városok magas népsűrűsége, zsúfoltsága és a leromlott higiéniás viszonyok miatt súlyos járványok tizedelték a népességet, továbbá a légszennyező szénpor és szmog miatt a tüdővész is szedte áldozatait. Az ipari munkások olcsó emeletes bérházakba zsúfolódtak, sokszor egy családnak egy szoba jutott vagy a pinceszinten laktak. A közegészségügy fejlődésével és az erdőirtások miatt elmocsarasodott területek lecsapolásával azonban visszaszorultak a korra jellemző jelentős járványok (pl. a pestis, a gümőkor/tuberkulózis, a kolera és a malária), melynek következtében a halálozási arány lecsökkent, ami a kor magas születési aránya miatt „népességrobbanáshoz” vezetett.
 
-A közegészségügy javulásához például a városi közkutak felszámolása is hozzájárult, melyek melegágyai voltak a kolerának. John Snow, brit orvos a London Soho negyedében 1854-ben kitört kolerajárvány során rájött a halálozások és a közkutak közötti kapcsolatra, ugyanis mind a mintegy 600 áldozat mindegyike a negyed egyik közkútjának [fertőzött vizéből ivott.](http://www.slideshare.net/wal147/19th-century-public-health-booklet) A járványok ellen az orvostudomány fellendülésével védőoltásokat, gyógyszereket fejlesztettek ki, a közkutakat felszámolták, a vezetékes tiszta ivóvizet bevezették, a szennyvízcsatornákat kiépítették, a városi szemétszállítás is megindult, az utcaszélességet szabályozták, stb..
+A közegészségügy javulásához például a városi közkutak felszámolása is hozzájárult, melyek melegágyai voltak a kolerának (1. kép). John Snow, brit orvos a London Soho negyedében 1854-ben kitört kolerajárvány során rájött a halálozások és a közkutak közötti kapcsolatra, ugyanis mind a mintegy 600 áldozat mindegyike a negyed egyik közkútjának [fertőzött vizéből ivott.](http://www.slideshare.net/wal147/19th-century-public-health-booklet) A járványok ellen az orvostudomány fellendülésével védőoltásokat, gyógyszereket fejlesztettek ki, a közkutakat felszámolták, a vezetékes tiszta ivóvizet bevezették, a szennyvízcsatornákat kiépítették, a városi szemétszállítás is megindult, az utcaszélességet szabályozták, stb..
 
 ![1. kép: A John Snow nevű kocsma London Soho negyedében a Broadwick (korábban: Broad) és a Lexington (korábban: Cambridge) utca sarkán. Itt volt 1854-ben egy hatalmas kolera kitörés 616 áldozattal. A járványt tanulmányozva, az orvos John Snow rájött, hogy a vízen keresztül terjed a betegség. Éppen azon a sarkon, ahol a kocsma áll, ott volt előtte a kolerával fertőzött kút (amit utána megszüntettek), ahonnan az ivóvizet nyerték a lakosok. A kocsmában mindenki csak sört ivott, ezért nem lett senki beteg. Sam Smith kocsmáját a kiváló orvos tiszteletére később átnevezték.](/assets/images/john_snow.jpg)
 
@@ -61,7 +61,9 @@ A történelem során, a városokba zsúfolódó népesség túlzott növekedés
 
 ## Thomas Malthus elmélete a túlnépesedésről
 
-Az ipari forradalom korában jelentek meg legelőször azok az elképzelések, amelyek szerint **az emberi túlnépesedésből katasztrófa ered, mivel az élelmiszertermelés nem tud majd lépést tartani a növekvő népességgel.** Thomas Robert Malthus (1766-1834) a «Tanulmány a népesedés törvényéről» (An Essay on the Principle of Population) című művében megállapítja, hogy amíg az élelmiszertermelés csak lineárisan, számtani sor szerint tud növekedni (1, 2, 3, 4, 5, …), addig a népesség mértani haladvány szerint nő (1, 2, 4, 8, 16, …). Ez természetesen semmi több, mint helytelen okoskodás, semmi adattal nem támasztja alá a spekulációit. Egyes egyetemek bizonyos szakjain tanítják Malthus tudománytalan elméletét.
+Az ipari forradalom korában jelentek meg legelőször azok az elképzelések, amelyek szerint **az emberi túlnépesedésből katasztrófa ered, mivel az élelmiszertermelés nem tud majd lépést tartani a növekvő népességgel.** Thomas Robert Malthus (1766-1834) a «Tanulmány a népesedés törvényéről» (An Essay on the Principle of Population) című művében megállapítja, hogy amíg az élelmiszertermelés csak lineárisan, számtani sor szerint tud növekedni (1, 2, 3, 4, 5, …), addig a népesség mértani haladvány szerint nő (1, 2, 4, 8, 16, …) (1. ábra). Ez természetesen semmi több, mint helytelen okoskodás, semmi adattal nem támasztja alá a spekulációit. Egyes egyetemek bizonyos szakjain tanítják Malthus tudománytalan elméletét.
+
+![1. ábra: Az élelmiszer-termelés és a népességszám növekedése Malthus szerint. A görbék alapjául szolgáló értékek kitaláltak](/assets/images/malthus.jpg)
 
 Malthus szerint az emberiség rövid időn belül válsághelyzetbe kerül, mivel az élelmiszertermelés nem fog tudni lépést tartani a népességnövekedéssel. Ez akkor fog bekövetkezni, amikor a két görbe metszi egymást. Hogy ez a tendencia ne váljon végzetessé, arról szerinte maga a természet fog gondoskodni a háborúk, a betegségek és a bűn segítségével. A megoldást a központilag irányított népességkorlátozásban: a kései házasságkötésekben, a prostitúcióban, a fogamzásgátlásban, az abortuszban és a cölibátusban, másrészt pedig a már bekövetkezett túlnépesedések visszafogására, éhezések, járványok és háborúk kirobbantásában látta.
 
@@ -71,19 +73,19 @@ Malthus volt az első antihumanista ember a világon. Innen eredeztethető az os
 
 Malthus elképzelései szerint:
 
->„A tisztaság helyett, annak ellenkezőjére kell biztatnunk a szegényeket. A városainkban az utcákat keskenyebbé kell tenni, több embert kell bezsúfolni a házakba, és elő kell segíteni a pestis terjedését. (…) Vidéken a falvakat a poshadt állóvizek közelébe kell létesíteni, és kifejezetten támogatni kell a települések létesítését a mocsarak környékén, és egyéb egészségtelen környezetekben. (…) **De mindenek felett, meg kell gátolnunk a pusztító betegségek elleni orvosságok terjedését, és azokat a jó szándékú, de hibásan gondolkodó embereket, akik azt hiszik, hogy jót tesznek az emberiségnek azzal, ha teljesen megállítanak különböző járványokat**” (Malthus, T. R. 1826).
+>„A tisztaság helyett, annak ellenkezőjére kell biztatnunk a szegényeket. A városainkban az utcákat keskenyebbé kell tenni, több embert kell bezsúfolni a házakba, és elő kell segíteni a pestis terjedését. (…) Vidéken a falvakat a poshadt állóvizek közelébe kell létesíteni, és kifejezetten támogatni kell a települések létesítését a mocsarak környékén, és egyéb egészségtelen környezetekben. (…) **De mindenek felett, meg kell gátolnunk a pusztító betegségek elleni orvosságok terjedését, és azokat a jó szándékú, de hibásan gondolkodó embereket, akik azt hiszik, hogy jót tesznek az emberiségnek azzal, ha teljesen megállítanak különböző járványokat**{.red}” (Malthus, T. R. 1826).
 
 Ugye milyen kedves és jó ember volt Malthus!
 
 Malthusnak vannak követői is. 1968-ban Paul R. Ehrlich, „politikai ökológus” azt írta **A népességbomba** (The Population Bomb) nevet viselő könyvében, hogy az emberiség élelmezéséért folytatott háború elveszett és súlyos élelmiszerhiány lép majd fel az USA-ban.
 
-> „Az 1970-es években ... százmilliók fognak halálra éhezni”
+> „Az 1970-es években ... százmilliók fognak éhen halni”
 
 és hogy a 80-as évekre a Föld legfontosabb erőforrásainak a többsége ki fog merülni. **Előrejelzése szerint 65 millió amerikai halt volna éhen 1980-1989 között, továbbá 1999-ig az USA össznépessége 22,6 millióra csökkent volna.** Az USA problémája relatíve csekély volna a világ többi részéhez képest.
 
 Részlet Paul Ehrlich a Brit Biológiai Intézetben 1971 szeptemberében tartott beszédéből: 
 
->„2000-re az Egyesült Királyság gyakorlatilag egy kis csoportnyi alultáplált sziget lesz 70 milliónyi éhes emberrel… **Ha szerencsejátékos lennék, akkor minden pénzemet feltenném arra, hogy Anglia 2000-ben megszűnik létezni**”.
+>„2000-re az Egyesült Királyság gyakorlatilag egy kis csoportnyi alultáplált sziget lesz 70 milliónyi éhes emberrel… **Ha szerencsejátékos lennék, akkor minden pénzemet feltenném arra, hogy Anglia 2000-ben megszűnik létezni**{.red}”.
 
 Ehrlich 1968-ban írta, hogy
 
@@ -98,9 +100,16 @@ A kérdés megválaszolására szerencsére rendelkezésünkre áll a FAO (az EN
 A **napi átlagos energiabevitel (kcal/fő/nap)** egy jó mérőszáma egy közösség jólétének, mivel széles körben használható. Más mérőszámokat a kiugró értékek torzítják. Vegyük példának az egy főre eső átlagos jövedelmet! Mivel egy ember milliószor gazdagabb lehet, mint egy másik, éppen ezért az egy főre eső átlagos jövedelmet néhány dúsgazdag egyén erősen elferdíti – magasabb lesz az átlag.
 Viszont senki nem tud napi egymillió reggelit elfogyasztani. Ha az egy főre eső energiabevitel, fehérje- és zsírfogyasztás (g/fő/nap) megemelkedik, az szükségképpen széles körű változások indikátora a népesség körében.
 
-A FAO adatbázisában megtalálható a napi teljes élelemfogyasztás kalóriában (kilokalória, kcal), valamint a napi fehérje- és zsírfogyasztás grammban kifejezve. Itt látható az utóbbi 50 év változása:
+A FAO adatbázisában megtalálható a napi teljes élelemfogyasztás kalóriában (kilokalória, kcal), valamint a napi fehérje- és zsírfogyasztás grammban kifejezve. Itt látható az utóbbi 50 év változása (2-4. ábrák):
 
-A diagram lenyűgöző eredményeket mutat. 1960 és 2000 között megduplázódott a világnépesség: 3-ról 6 milliárdra emelkedett. Most már 7 milliárd felett vagyunk. Hogy azonos szinten maradjon a fogyasztási szint, az összes megtermelt élelmiszer mennyiségének a duplájára kellett emelkednie. És meg is dupláztuk, sőt még több is lett. **A legkevésbé fejlett országok esetén a népesség még gyorsabban nőtt: 1961 óta megháromszorozódott, de az élemiszerfogyasztásuk az 1990-es évek elejéig szintben maradt. És azóta emelkedésnek indult a fogyasztás.**
+![2. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos energiabevitelének (kcal/fő/nap) alakulása 1961-2013 között](/assets/images/energiabevitel.png)
+
+![3. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos fehérjefogyasztása (g/fő/nap) alakulása 1961-2013 között](/assets/images/feherjefogyasztas.png)
+
+![4. ábra: A különböző fejlettségű országcsoportok egy főre eső napi átlagos zsírfogyasztása (g/fő/nap) alakulása 1961-2013 között](/assets/images/zsirfogyasztas.png)
+
+
+A diagramok lenyűgöző eredményeket mutat. 1960 és 2000 között megduplázódott a világnépesség: 3-ról 6 milliárdra emelkedett. Most már 7 milliárd felett vagyunk. Hogy azonos szinten maradjon a fogyasztási szint, az összes megtermelt élelmiszer mennyiségének a duplájára kellett emelkednie. És meg is dupláztuk, sőt még több is lett. **A legkevésbé fejlett országok esetén a népesség még gyorsabban nőtt: 1961 óta megháromszorozódott, de az élemiszerfogyasztásuk az 1990-es évek elejéig szintben maradt. És azóta emelkedésnek indult a fogyasztás.**
 
 De a **napi fehérjefogyasztás is emelkedett, még a legfejletlenebb országok esetén is** – közelít a világátlag felé.
 
@@ -123,7 +132,7 @@ A cikksorozatom második részében a világnépesség jövőbeli alakulásával
 
 5. Thomas Robert Malthus (1826): [An Essay on the Principle of Population, or a View of its Past and Present Effects on Human Happiness; with an Inquiry into our Prospects respecting the Future Removal or Mitigation of the Evils which it Occasions. 6. kiadás, 2. kötet.](http://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-vol-2-1826-6th-ed) John Murray, London.
 
-6. Willis Eschenbach 2010: [I Am So Tired of Malthus.](https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/)
+6. Willis Eschenbach 2010: [I Am So Tired of Malthus.](https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/) WUWT.
 
 7. Willis Eschenbach 2017: [Malthus Redux.](https://wattsupwiththat.com/2017/12/10/malthus-redux/) WUWT.
 

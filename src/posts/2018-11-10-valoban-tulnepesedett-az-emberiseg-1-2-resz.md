@@ -113,17 +113,21 @@ A cikksorozatom második részében a világnépesség jövőbeli alakulásával
 
 ## Irodalom
 
-Diamond, J. 1999
-http://www.slideshare.net/wal147/19th-century-public-health-booklet
-Paul R. Ehrlich 1968 The Population Bomb
-Malthus, T. R. 1826, 1789
-Julian Simon 1981 The Ultimate Resource
-Willis Eschenbach Malthus Redux https://wattsupwiththat.com/2017/12/10/malthus-redux/
-Anthony Watts Great moments in failed predictions
-https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/
-Willis Eschenbach I Am So Tired of Malthus
-https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/
-http://www.fao.org/faostat/en/#data/CC
+1. Anthony Watts 2013: [Great moments in failed predictions.](https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/) WUWT.
+
+2. Jared Diamond 1999:
+
+3. Julian Simon 1981: The Ultimate Resource
+
+4. Paul R. Ehrlich 1968: The Population Bomb
+
+5. Malthus, T. R. 1826, 1789
+
+6. Willis Eschenbach 2010: [I Am So Tired of Malthus.](https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/)
+
+7. Willis Eschenbach 2017: [Malthus Redux.](https://wattsupwiththat.com/2017/12/10/malthus-redux/) WUWT.
+
+* [FAOSTAT](http://www.fao.org/faostat/en/#data/CC)
 
 
 ## Melléklet

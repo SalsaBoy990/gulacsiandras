@@ -6,9 +6,7 @@ excerpt: >-
   túlnépesedés kérdéseit járom körbe. Különösképpen Thomas Malthus elméletére
   térek ki, mely szerint az élelemtermelés nem tud lépést tartani a népesség
   növekedésével, ami katasztrófához vezet. Az adatok viszont teljes egészében
-  cáfolják, hogy mindez így lenne. A Föld nem túlnépesedett. Ne higgyetek az
-  antihumanistáknak, hogy az emberiség létszámát le kell csökkenteni „a kívánt
-  szintre”, hogy elkerüljük a nem létező ökológiai összeomlást!
+  cáfolják, hogy mindez így lenne. A Föld nem túlnépesedett.
 coverImage: tulnepesedes.png
 comments: true
 topic: Túlnépesedés

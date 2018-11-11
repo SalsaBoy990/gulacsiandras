@@ -7,7 +7,7 @@ excerpt: >-
   térek ki, mely szerint az élelemtermelés nem tud lépést tartani a népesség
   növekedésével, ami katasztrófához vezet. Az adatok viszont teljes egészében
   cáfolják, hogy mindez így lenne. A Föld nem túlnépesedett.
-coverImage: tulnepesedes.png
+coverImage: tulnepesedes.jpg
 comments: true
 topic: Túlnépesedés
 ---

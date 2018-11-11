@@ -716,6 +716,7 @@ header a:hover {
 }
 
 table {
+    font-family: Arial, Helvetica, sans-serif;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     font-size: .75rem;
@@ -731,6 +732,15 @@ figcaption {
     font-style: italic;
     margin-left: 1rem;
     margin-right: 1rem;
+}
+
+caption {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: .8rem;
+    font-style: italic;
+    color: #303030;
 }
 
 img {

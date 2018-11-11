@@ -17,25 +17,25 @@ Az 1. táblázatban a Római Klub 1972-es jelentésének, A növekedés határai
 |    |   |  Statikus index || Exponenciális index ||
 |Erőforrás| Globális tartalékok | Évek 1971-től | Kimerülés éve | Évek 1971-től | Kimerülés éve |	
  --- | --- | :---: | :---: | :---: | :---: |	
-| **Alumínium** | 1,17E+09 t | 100 | 2071 | 31 | 2002 |
+| **Alumínium**{.red} | 1,17E+09 t | 100 | 2071 | 31 | 2002 |
 | Króm | 7,75E+08 t | 420 | 2391 | 95 | 2066 |
 | Kőszén | 5,00E+12 t | 2300 | 4271 | 111 | 2082 |
 | Kobalt | 2,18E+06 t | 110 | 2081 | 60 | 2031 |
-| **Réz** | 3,08E+08 t | 36 | 2007 | 21 | 1992 |
-| **Arany** | 1,10E+04 t | 11 | 1982 | 9 | 1980 |
+| **Réz**{.red} | 3,08E+08 t | 36 | 2007 | 21 | 1992 |
+| **Arany**{.red} | 1,10E+04 t | 11 | 1982 | 9 | 1980 |
 | Vas | 1,00E+11 t | 240 | 2211 | 93 | 2064 |
-| **Ólom** | 9,10E+07 t | 26 | 1997 | 21 | 1992 |
-| **Mangán** | 8,00E+08 t | 97 | 2068 | 46 | 2017 |
-| **Higany** | 1,16E+05 t | 13 | 1984 | 13 | 1984 |
-| **Molibdén** | 4,90E+06 t | 79 | 2050 | 34 | 2005 |
+| **Ólom**{.red} | 9,10E+07 t | 26 | 1997 | 21 | 1992 |
+| **Mangán**{.red} | 8,00E+08 t | 97 | 2068 | 46 | 2017 |
+| **Higany**{.red} | 1,16E+05 t | 13 | 1984 | 13 | 1984 |
+| **Molibdén**{.red} | 4,90E+06 t | 79 | 2050 | 34 | 2005 |
 | Nikkel | 6,67E+07 t | 150 | 2121 | 53 | 2024 |
-| **Platina csoport fémjei** | 1,33E+04 t | 130 | 2101 | 47 | 2018 |
-| **Ezüst** | 1,71E+05 t | 16 | 1987 | 13 | 1984 |
-| **Ón** | 4,37E+06 t | 17 | 1988 | 15 | 1986 |
-| **Volfrám** | 1,32E+06 t | 40 | 2011 | 28 | 1999 |
-| **Cink** | 1,23E+08 t | 23 | 1994 | 18 | 1989 |
-| **Kőolaj** | 4,55E+11 hordó | 31 | 2002 | 20 | 1991 |
-| **Földgáz** | 3,23E+13 m^3^ | 38 | 2009 | 22 | 1993 |
+| **Platina csoport fémjei**{.red} | 1,33E+04 t | 130 | 2101 | 47 | 2018 |
+| **Ezüst**{.red} | 1,71E+05 t | 16 | 1987 | 13 | 1984 |
+| **Ón**{.red} | 4,37E+06 t | 17 | 1988 | 15 | 1986 |
+| **Volfrám**{.red} | 1,32E+06 t | 40 | 2011 | 28 | 1999 |
+| **Cink**{.red} | 1,23E+08 t | 23 | 1994 | 18 | 1989 |
+| **Kőolaj**{.red} | 4,55E+11 hordó | 31 | 2002 | 20 | 1991 |
+| **Földgáz**{.red} | 3,23E+13 m^3^ | 38 | 2009 | 22 | 1993 |
 [1. táblázat: A nem megújuló természeti „erőforrások kimerülése” (Meadows, D. et al. 1972). A mértékegységeket átváltottam metrikus tonnára, illetve köbméterre. 1 hordó = 159 liter.]
 
 Mi volt a fő oka a hatalmas tévedésüknek? Talán szerencsések voltunk a lelőhelyek felfedezésében? Esetleg. Vagy talán a technológia fejlődése tette lehetővé a kinyerhető ásvány vagy érc mennyiségének növelését? Elképzelhető. Olyan forrásból is kivonhatjuk az erőforrást, amiből azelőtt gazdaságosan lehetetlen lett volna (például az olajpala és a palagáz kitermelése hidraulikus frakcionálással). Ezen felül sok minden helyettesíthető. Például a telefonvezetékeket réz helyett optikai szálból (üvegszál) is készíthetjük, így több réz áll rendelkezésünkre a vízcsövekhez.

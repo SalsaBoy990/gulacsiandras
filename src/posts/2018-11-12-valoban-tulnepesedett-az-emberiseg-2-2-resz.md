@@ -19,11 +19,13 @@ Kanada népsűrűsége 3,2 fő/km^2^, az USA-é 35 fő/km^2^, Magyarországé 10
 
 ![1. ábra: A Föld országainak népsűrűsége](/assets/images/nepsuruseg.jpg)
 
-##A demográfiai átmenet modellje
+## A demográfiai átmenet modellje
 
 A médiában és az ökológusoktól állandóan azt hallani, hogy a népesség exponenciálisan növekszik. Nos, ez abszolút nem igaz! A népesség alakulása logisztikus görbét mutat ([Pierre-Francois Verhulst növekedési modellje](https://en.wikipedia.org/wiki/Pierre_Fran%C3%A7ois_Verhulst)). A logisztikus görbe úgy néz ki, hogy eleinte lassan emelkedik, majd van egy robbanásszerű, gyorsan felívelő része, majd a végén megint ellaposodik. Nos az országok népessége időben egy ilyen görbét rajzol ki.
 
 A demográfiai átmenet modellje írja le a népesség időbeli változását. Maga az elképzelés nem új: 1929-ben az amerikai szociológus, Warren S. Thompson kezdte el az megfigyelt változásokat értelmezni, vagyis az átmeneteket az iparosodott társadalmak születési és halálozási arányszámai között (1000 főre eső születések, illetve halálozások száma) az utóbbi több mint 200 évben. A modell általános és a legtöbb ország népesedésére érvényes. A 2. ábrán látható fekete görbe jelzi a népességszám változását: ez egy logisztikus görbe.
+
+![2. ábra: A demográfiai átmenet modellje. A fekete görbe a népességszámot, a vörös a halálozási, míg a kék görbe a születési arányszámot jelöli (1000 főre viszonyítva)](/assets/images/demografiai_atmenet.gif)
 
 A demográfiai átmenet modell lényeg a következő (Keith Montgomery 2000 alapján módosítva):
 

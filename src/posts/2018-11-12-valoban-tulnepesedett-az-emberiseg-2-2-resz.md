@@ -43,7 +43,7 @@ Kanada népsűrűsége 3,2 fő/km^2^, az USA-é 35 fő/km^2^, Magyarországé 10
 
 A médiában és az ökológusoktól állandóan azt hallani, hogy a népesség exponenciálisan növekszik. Nos, ez abszolút nem igaz! A népesség alakulása logisztikus görbét mutat ([Pierre-Francois Verhulst növekedési modellje](https://en.wikipedia.org/wiki/Pierre_Fran%C3%A7ois_Verhulst)). A logisztikus görbe úgy néz ki, hogy eleinte lassan emelkedik, majd van egy robbanásszerű, gyorsan felívelő része, majd a végén megint ellaposodik. Nos az országok népessége időben egy ilyen görbét rajzol ki.
 
-A demográfiai átmenet modellje írja le a népesség időbeli változását. Maga az elképzelés nem új: 1929-ben az amerikai szociológus, Warren S. Thompson kezdte el az megfigyelt változásokat értelmezni, vagyis az átmeneteket az iparosodott társadalmak születési és halálozási arányszámai között (1000 főre eső születések, illetve halálozások száma) az utóbbi több mint 200 évben. A modell általános és a legtöbb ország népesedésére érvényes. A 4. ábrán látható fekete görbe jelzi a népességszám változását: ez egy logisztikus görbe.
+A demográfiai átmenet modellje írja le a népesség időbeli változását. Maga az elképzelés nem új: 1929-ben az amerikai szociológus, Warren S. Thompson kezdte el a megfigyelt változásokat értelmezni, vagyis az átmeneteket az iparosodott társadalmak születési és halálozási arányszámai között (1000 főre eső születések, illetve halálozások száma) az utóbbi több mint 200 évben. A modell általános és a legtöbb ország népesedésére érvényes. A 4. ábrán látható fekete görbe jelzi a népességszám változását: ez egy logisztikus görbe.
 
 ![4. ábra: A demográfiai átmenet modellje. A fekete görbe a népességszámot, a vörös a halálozási, míg a kék görbe a születési arányszámot jelöli (1000 főre viszonyítva)](/assets/images/demografiai_atmenet.gif)
 
@@ -94,7 +94,7 @@ Ebben a szakaszban vannak ma a népességrobbanáson már túljutott arab, ázsi
 
 Újra egyensúlyba kerül a népesség. A születések és a halálozások alacsony szinten állandósulnak. A népesség öregedő korszerkezetet mutat.
 
-USA, Kanada, Ausztrália, Új-Zéland, Franciaország, Belgium, Hollandia, Nagy-Britannia, Svájc, Svédország és a Koreai Köztársaság
+Ezek az országok tartoznak ide: USA, Kanada, Ausztrália, Új-Zéland, Franciaország, Belgium, Hollandia, Nagy-Britannia, Svájc, Svédország és a Koreai Köztársaság (Dél-Korea).
 
 Földünk számos, főként európai országában a születések száma úgy lecsökkent, hogy a népesség fogyásnak indult: Olaszország, Németország, Lengyelország, Horvátország, Csehország, Magyarország, Szlovénia, Oroszország, Bulgária, Észtország, Ukrajna, Japán stb. esetén.
 
@@ -107,17 +107,17 @@ Nézzük meg milyen megoldásokat javasolnak az antihumanisták a túlnépesedé
 
 ### John Holdren
 
-Holdren az Ehrlich házaspárral együtt írt könyvében, ami az »Ecoscience: Population, Resources, Environment« (Ökotudomány: Népesség, Erőforrások, Környezet) címet viseli és 1977-ben adták ki, számos javaslatot, elképzelést vázol fel, ami a népességrobbanást megállítaná, ahogy részletezi [a javaslatainak listájában](http://zombietime.com/john_holdren/):
+Holdren az Ehrlich házaspárral együtt írt könyvében, ami az *»Ecoscience: Population, Resources, Environment«* (Ökotudomány: Népesség, Erőforrások, Környezet) címet viseli és 1977-ben adták ki, számos javaslatot, elképzelést vázol fel, ami a népességrobbanást megállítaná, ahogy részletezi [a javaslatainak listájában](http://zombietime.com/john_holdren/):
 
 * *A nőket rá kell kényszeríteni a terhességük megszakítására, akár szeretnék, akár nem.*
 
 * *Kényszersterilizáció azon anyáknak, akik túl vannak már a második vagy harmadik gyereken. Természetesen ez az apákra is vonatkozna.*
 
-* *A népesség széles körű sterilizálása érdekében az ivóvízbe és ételeibe szándékosan meddőséget okozó gyógyszereket kell tenni.* [Nyilvánvalóan ez az embertelen javaslat kivitelezhetetlen. Már az elképzelésnek megoldásként való felmerülése is visszataszító és emberiségellenes.]
+* *A népesség széles körű sterilizálása érdekében az ivóvízbe és ételeibe szándékosan meddőséget okozó gyógyszereket kell tenni.* [Nyilvánvalóan ez az embertelen javaslat kivitelezhetetlen. Már az elképzelésnek megoldásként való felmerülése is visszataszító.]
 
 * *A gyereküket egyedül nevelő anyáktól és a tinédzser korú anyáktól az akaratuk ellenére el kell venni a gyereküket és más pároknak adni, hogy azok neveljék fel helyettük.*
 
-* *A „társadalmi elfajzáshoz hozzájáruló (értsd nemkívánatos)” személyeket „törvényileg rá lehetne kényszeríteni, hogy reprodukciós felelősséget vállaljanak” – más szavakkal, legyen gyerekük vagy sterilizálják őket.*
+* *A „társadalmi elfajzáshoz hozzájáruló (értsd nemkívánatos)” személyeket „törvényileg rá lehetne kényszeríteni, hogy reprodukciós felelősséget vállaljanak” – más szavakkal, ne legyen gyerekük vagy sterilizálják őket.*
 
 * *Egy nemzetek feletti „Planetáris Rezsim” szükségeltetik a globális gazdaság ellenőrzésére, valamint hogy a legapróbb részletekbe menően megszabja az amerikaiak életét – egy nemzetközi fegyveres rendfenntartó erőn keresztül.*
 
@@ -127,15 +127,15 @@ A hisztérikusok számára kulcsfontosságú egy olyan mechanizmus keresése, am
 
 Ez így hitelesnek, törvényesnek és elfogadhatónak hangzik, amíg észre nem veszed, hogy a hatalmat átadja másnak. Ki határozza meg, hogy a válság mikortól számítva olyan súlyos, hogy a társadalomra veszélyt jelent?
 
-Az Ökotudomány című könyv egy Harrison Brown (1917-1986, amerikai nukleáris kémikus, geofizikus), idézettel kezdődik, ami Brown 1954-es, a »The Challenge of Mens Future« (Az ember kihívásai a jövőben) címet viselő, túlnépesedésről és az emberi nem elfajzásáról szóló könyvéből származik. (Brown egy széles körű eugenika program létrehozásának volt a híve, hogy „az emberi nem elfajzását” a „gyengeelméjűek” kényszersterilizálásával elkerüljük.) Ez egyáltalán nem véletlen, ugyanis Holdren-nek nagy példaképe a néhai Harrison Brown. Olyannyira nagyra tartotta a fizikust, hogy 1986-ban társszerzője volt [egy esszés kötetnek Harrison Brown tiszteletére](http://zombietime.com/john_holdren_and_harrison_brown/), amiben elismerését és helyeslését fejezte ki Brown elképzelései iránt.
+Holdren-ék Ökotudomány című könyve egy Harrison Brown (1917-1986, amerikai nukleáris kémikus, geofizikus), idézettel kezdődik, ami Brown 1954-es, a *»The Challenge of Men's Future«* (Az ember kihívásai a jövőben) címet viselő, túlnépesedésről és az emberi nem elfajzásáról szóló könyvéből származik. (Brown egy széles körű eugenika program létrehozásának volt a híve, hogy „az emberi nem elfajzását” a „gyengeelméjűek” kényszersterilizálásával elkerüljük.) Ez egyáltalán nem véletlen, ugyanis Holdren-nek nagy példaképe a néhai Harrison Brown. Olyannyira nagyra tartotta a fizikust, hogy 1986-ban társszerzője volt [egy esszés kötetnek Harrison Brown tiszteletére](http://zombietime.com/john_holdren_and_harrison_brown/), amiben elismerését és helyeslését fejezte ki Brown elképzelései iránt.
 
-Néhány hosszabb idézet talán jobban rávilágít Brown bomlott elméjére (BROWN, H. 1954):
+Néhány hosszabb idézet talán jobban rávilágít Brown bomlott elméjére:
 
-> „Lehet-e valamit tenni az emberi faj hosszú távú degenerációjának megelőzésére? Sajnos jelen pillanatban nem kevesebbet, mint megakadályozni a szaporodást azon személyek között, akik a társadalomra nézve egyértelműen veszélyes, szembeötlő hiányosságokat mutatnak, amelyek köztudottan örökletes természetűek. **Ennél fogva sterilizálhatnánk vagy más módon eltántoríthatnánk a gyengeelméjűeket a párosodástól.**{.red} Még tovább mehetnénk és megpróbálhatnánk módszeresen eltávolítani őket a társadalomból azáltal, hogy eltiltanánk a szaporodástól azokat, akik fizikai hiányosságok, mint például veleszületett süketség, butaság, vakság vagy a végtagok hiánya, súlyos örökletes formáitól szenvednek.”
+> „Lehet-e valamit tenni az emberi faj hosszú távú degenerációjának megelőzésére? Sajnos jelen pillanatban nem kevesebbet, mint megakadályozni a szaporodást azon személyek között, akik a társadalomra nézve egyértelműen veszélyes, szembeötlő hiányosságokat mutatnak, amelyek köztudottan örökletes természetűek. **Ennél fogva sterilizálhatnánk vagy más módon tántoríthatnánk el a gyengeelméjűeket a párosodástól.**{.red} Még tovább mehetnénk és megpróbálhatnánk módszeresen eltávolítani őket a társadalomból azáltal, hogy eltiltanánk a szaporodástól azokat, akik fizikai hiányosságok, mint például veleszületett süketség, butaság, vakság vagy a végtagok hiánya, súlyos örökletes formáitól szenvednek.”
 
 > „Legelőször, az emberek lebeszélhetik az alkalmatlan személyeket a szaporodásról. Másodjára, azokat az embereket, akiket alkalmasnak ítéltek a fizikai és mentális tesztelés és az ősei előéletének vizsgálata alapján, bátoríthatják a szaporodásra.”
 
-> „Habár kétségkívül léteznek számos egyéni eltérések, úgy tűnik, hogy **a gyengeelméjűek, az idióták, a buták és a visszamaradottak, valamint az átlag alatti egyedek a társadalmunkban jelen pillanatban túlszaporodják a felsőbbrendűeket.**{.red} (...) Egy széleskörű eugenikai programot kellene létrehozni, amely azon politikai irányelvek létrehozását célozná, ami bátorítaná a rátermett és egészséges személyeket, hogy több utódot vállaljanak és eltántorítsák az arra alkalmatlanokat a túlzott mértékű szaporodástól.”
+> „Habár kétségkívül léteznek számos egyéni eltérések, úgy tűnik, hogy **a gyengeelméjűek, az idióták, a buták, a visszamaradottak és az átlag alatti egyedek a társadalmunkban jelen pillanatban túlszaporodják a felsőbbrendűeket.**{.red} (...) Egy széleskörű eugenikai programot kellene létrehozni, amely azon politikai irányelvek létrehozását célozná, ami bátorítaná a rátermett és egészséges személyeket, hogy több utódot vállaljanak és eltántorítsák az arra alkalmatlanokat a túlzott mértékű szaporodástól.”
 
 
 > „Az életre nehezedő általános nyomás hajlamos azon személyeket előnyben részesíteni, akik képesek a városi és a gyári élethez alkalmazkodni. A munkacsoportok között, a kiválasztó hatások azok számára kedveznek, akik képesek csoportokban dolgozni, és akik az utasításokat aprólékos gonddal végre tudják hajtani.”

@@ -187,7 +187,14 @@ A Föld el képes tartani még sok milliárddal több embert. Nem lesz ökológi
 
 * United Nations, Department of Economic and Social Affairs, Population Division (2017). [Probabilistic Population Projections based on the World Population Prospects: The 2017 Revision. Population Division, DESA.](http://esa.un.org/unpd/wpp/)
 
+* [Világbank - Népességnövekedés üteme %-ban](http://data.worldbank.org/indicator/SP.DYN.TFRT.IN)
+
+* [Világbank - Termékenységi arányszám](http://data.worldbank.org/indicator/SP.DYN.TFRT.IN)
+
 
 ## Melléklet
 
-feltöltés alatt...
+
+![A népességnövekedés üteme a Föld egyes országaiban, 1980-2010 (a Világbank adatai)](/assets/images/nepessegnovekedes.jpg)
+
+![Az egy nőre jutó átlagos gyerekszám a Föld egyes országaiban, 1980-2010 (a Világbank adatai)](/assets/images/termekenyseg.jpg)

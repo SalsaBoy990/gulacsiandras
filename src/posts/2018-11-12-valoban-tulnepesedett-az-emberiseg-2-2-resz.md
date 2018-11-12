@@ -1,6 +1,6 @@
 ---
 title: Valóban túlnépesedett az emberiség? 2/2. rész
-date: '2018-11-20'
+date: '2018-11-13'
 excerpt: >-
   A cikksorozatban a világnépesség jövőbeli alakulásának prognózisait, a
   túlnépesedés kérdéseit járom körbe. Különösképpen Thomas Malthus elméletére

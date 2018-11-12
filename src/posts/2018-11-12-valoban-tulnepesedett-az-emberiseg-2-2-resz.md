@@ -103,17 +103,85 @@ Azt nem tudni, hogy lehetséges-e a megújulás, hogy vissza tudjuk fordítani a
 
 ## Az antihumanisták hogyan szeretnék legyőzni a „túlnépesedést”?
 
-A félművelt, antihumanista értelmiségiek mindig előhozakodnak a „nagyszerű tervükkel”, hogy le kell csökkenteni a világnépességet az általuk kívánatos fenntartható szintre. Nyilván ők szabnák meg, hogy szerintük mi lenne az „optimális” szint és ugyanúgy megmondanák, hogy kik az „alacsonyabb rendűek”, a „haszontalan evők”, akiktől meg kell szabadulni, hogy megmentsék az emberiséget a „túlnépesedés veszélyeitől”. Régen attól rettegtek ezek az értelmiségiek, hogy az gyengeelméjűek és fogyatékosok túlszaporodják a társadalom felsőbbrendű tagjait, éppen ezért kényszersterilizációnak kell alávetni ezeket az egyedeket, hogy ne szaporodjanak, és ezáltal az emberi nem elfajzását elkerüljük. Ennek áltudományos alapja az eugenika!
+Nézzük meg milyen megoldásokat javasolnak az antihumanisták a túlnépesedés megfékezésére! Bár Paul Ehrlich és John Holdren (Obama elnök Tudományért és Technológiáért Felelős Tanácsadója, az eugenika híve) összes jóslata teljesen tévesnek bizonyult, azonban ez nem akadályozza meg a szélsőségeseket abban, hogy ne lássák az emberek feletti totális uralom szükségét. Egyesek úgy gondolják, hogy bizonyos embereknek nem szabadna létezni, az emberiség létszámát le kell csökkenteni a kívánatos szintre.
+
+### John Holdren
+
+Holdren az Ehrlich házaspárral együtt írt könyvében, ami az »Ecoscience: Population, Resources, Environment« (Ökotudomány: Népesség, Erőforrások, Környezet) címet viseli és 1977-ben adták ki, számos javaslatot, elképzelést vázol fel, ami a népességrobbanást megállítaná, ahogy részletezi [a totalitárius javaslatainak listájában](http://zombietime.com/john_holdren/):
+
+* *A nőket rá kell kényszeríteni a terhességük megszakítására, akár szeretnék, akár nem.*
+
+* *Kényszersterilizáció azon anyáknak, akik túl vannak már a második vagy harmadik gyereken. Természetesen ez az apákra is vonatkozna.*
+
+* *A népesség széles körű sterilizálása érdekében az ivóvízbe és ételeibe szándékosan meddőséget okozó gyógyszereket kell tenni.* [Nyilvánvalóan ez az embertelen javaslat kivitelezhetetlen. Már az elképzelésnek megoldásként való felmerülése is visszataszító és emberiségellenes.]
+
+* *A gyereküket egyedül nevelő anyáktól és a tinédzser korú anyáktól az akaratuk ellenére el kell venni a gyereküket és más pároknak adni, hogy azok neveljék fel helyettük.*
+
+* *A „társadalmi elfajzáshoz hozzájáruló (értsd nemkívánatos)” személyeket „törvényileg rá lehetne kényszeríteni, hogy reprodukciós felelősséget vállaljanak” – más szavakkal, legyen gyerekük vagy sterilizálják őket.*
+
+* *Egy nemzetek feletti „Planetáris Rezsim” szükségeltetik a globális gazdaság ellenőrzésére, valamint hogy a legapróbb részletekbe menően megszabja az amerikaiak életét – egy nemzetközi fegyveres rendfenntartó erőn keresztül.*
+
+A hisztérikusok számára kulcsfontosságú egy olyan mechanizmus keresése, amely megkerüli a drákói, totalitárius ellenőrzéssel szembeni közösségi ellenállást, különösképpen az USA-ában, annak alkotmányos garanciáival együtt. Holdren egy módszert javasolt az Alkotmány megkerülésére az Alkotmányon keresztül. Ezt írta:
+
+> „Valóban, azt a következtetést vontuk le, hogy a népességkontroll törvényeket, beleértve azon törvényeket, melyek kényszerabortuszt írnak elő, fenn lehetne tartani a jelenlegi Alkotmány alatt, ha a népesedési válság elegendően súlyos lesz ahhoz, hogy veszélyeztesse a társadalmat.”
+
+Ez így hitelesnek, törvényesnek és elfogadhatónak hangzik, amíg észre nem veszed, hogy a hatalmat átadja másnak. Ki határozza meg, hogy a válság mikortól számítva olyan súlyos, hogy a társadalomra veszélyt jelent?
+
+Az Ökotudomány című könyv egy Harrison Brown (amerikai nukleáris kémikus, geofizikus), idézettel kezdődik, ami Brown 1954-es, a »The Challenge of Mens Future« (Az ember kihívásai a jövőben) címet viselő, túlnépesedésről és az emberi nem elfajzásáról szóló könyvéből származik. (Brown egy széles körű eugenika program létrehozásának volt a híve, hogy „az emberi nem elfajzását” a „gyengeelméjűek” kényszersterilizálásával elkerüljük.) Ez egyáltalán nem véletlen, ugyanis Holdren-nek nagy példaképe a néhai Harrison Brown. Olyannyira nagyra tartotta a fizikust, hogy 1986-ban társszerzője volt [egy esszés kötetnek Harrison Brown tiszteletére](http://zombietime.com/john_holdren_and_harrison_brown/), amiben elismerését és helyeslését fejezte ki Brown elképzelései iránt.
+
+Néhány hosszabb idézet talán jobban rávilágít Brown bomlott elméjére (BROWN, H. 1954):
+
+> „Lehet-e valamit tenni az emberi faj hosszú távú degenerációjának megelőzésére? Sajnos jelen pillanatban nem kevesebbet, mint megakadályozni a szaporodást azon személyek között, akik a társadalomra nézve egyértelműen veszélyes, szembeötlő hiányosságokat mutatnak, amelyek köztudottan örökletes természetűek. **Ennél fogva sterilizálhatnánk vagy más módon eltántoríthatnánk a gyengeelméjűeket a párosodástól.**{.red} Még tovább mehetnénk és megpróbálhatnánk módszeresen eltávolítani őket a társadalomból azáltal, hogy eltiltanánk a szaporodástól azokat, akik fizikai hiányosságok, mint például veleszületett süketség, butaság, vakság vagy a végtagok hiánya, súlyos örökletes formáitól szenvednek.”
+
+> „Legelőször, az emberek lebeszélhetik az alkalmatlan személyeket a szaporodásról. Másodjára, azokat az embereket, akiket alkalmasnak ítéltek a fizikai és mentális tesztelés és az ősei előéletének vizsgálata alapján, bátoríthatják a szaporodásra.”
+
+> „Habár kétségkívül léteznek számos egyéni eltérések, úgy tűnik, hogy **a gyengeelméjűek, az idióták, a buták és a visszamaradottak, valamint az átlag alatti egyedek a társadalmunkban jelen pillanatban túlszaporodják a felsőbbrendűeket.**{.red} (...) Egy széleskörű eugenikai programot kellene létrehozni, amely azon politikai irányelvek létrehozását célozná, ami bátorítaná a rátermett és egészséges személyeket, hogy több utódot vállaljanak és eltántorítsák az arra alkalmatlanokat a túlzott mértékű szaporodástól.”
+
+
+> „Az életre nehezedő általános nyomás hajlamos azon személyeket előnyben részesíteni, akik képesek a városi és a gyári élethez alkalmazkodni. A munkacsoportok között, a kiválasztó hatások azok számára kedveznek, akik képesek csoportokban dolgozni, és akik az utasításokat aprólékos gonddal végre tudják hajtani.”
+
+> **„A precíz népességkontrollt soha sem lehet összeegyeztethetővé tenni egy szabad társadalom elképzelésével (...) Az emberek egy szuperfaja**{.red} vagy az Istenek egy bizottsága kell, hogy objektíven tanulmányozzon minket és ésszerű (magatartás)mintát tervezzen.”
+
+> „Először is, az bőségesen nyilvánvaló, hogy **a népességstabilizáció és egy teljesen független, szuverén államokból álló világ egymással összeférhetetlen.**{.red} A népességet nem lehet stabilizálni megállapodásokkal annál jobban, mint amennyire a fegyverzet színvonalát megegyezéssel állandósítani lehet. És, mint az utóbbi esetben, egy világhatóság szükségeltetik, melynek hatalmában áll, meghatározott területeken, közvetlenül az egyénekre alkalmazandó törvényeket hozni, értelmezni és érvényre juttatni. Valóban, a népességstabilizáció egyike a kettő fő problémának [a másik a független államok megléte], amivel egy világkormánynak szükségszerűen foglalkoznia kell.”
+
+### Paul Ehrlich
+
+A New York Times napilapban 2014-ben jelent meg egy interjú Ehrlich-hel. Évtizedek múltán azt gondolnánk, hogy beismeri a tévedését. Épp ellenkezőleg:
+
+>„A jóslatok nem feltétlenül következnek be. A kritikusok előjönnek, és megnézik ezeket a kis történeteket, amelyek nem fognak bekövetkezni. [Akkor mégis minek írtad bele a könyvedbe ezeket, ha tudod, hogy nem következnek be?] És amikor nem következtek be, azt mondják, hogy Ehrlich tévedett”
+
+– nyilatkozta a mindenben tévedő, antihumanista ökológus. Tovább folytatva az interjút,
+
+>„Mostanában kritikával illettek, mert évekkel ezelőtt azt állítottam, fogadnék arra, hogy Nagy-Britannia 2000-ben nem fog létezni. Nos, Nagy-Britannia valóban létezett 2000-ben, de ez csupán 14 éve volt. **A dolgok egyike, amit az emberek nem értenek, hogy egy ökológus számára az időzítés nagyon, de nagyon különbözik az átlagemberétől**{.red}.”
+
+Ezt is kijelentette:
+
+>„Az elképzelés, hogy a nők annyi gyereket vállaljanak, amennyit csak akarnak, számomra pontosan ugyanolyan elgondolás, mintha **mindenki annyi szemetet dobhat a szomszéd udvarába, amennyit csak akar**{.red}.”
+
+Azt nem tudom eldönteni, hogy ez csak a fejlődő országokban születő gyerekekre érti, vagy esetleg a saját lányára is érvényes?
+
+## Végszó
+
+Az antihumanista értelmiségiek mindig előhozakodnak a „nagyszerű tervükkel”, hogy le kell csökkenteni a világnépességet az általuk kívánatos fenntartható szintre. Nyilván ők szabnák meg, hogy szerintük mi lenne az „optimális” szint és ugyanúgy megmondanák, hogy kik az „alacsonyabb rendűek”, a „haszontalan evők”, akiktől meg kell szabadulni, hogy megmentsék az emberiséget a „túlnépesedés veszélyeitől”. Régen attól rettegtek ezek az értelmiségiek, hogy az gyengeelméjűek és fogyatékosok túlszaporodják a társadalom felsőbbrendű tagjait, éppen ezért kényszersterilizációnak kell alávetni ezeket az egyedeket, hogy ne szaporodjanak, és ezáltal az emberi nem elfajzását elkerüljük.
 
 A Föld el képes tartani még sok milliárddal több embert. Nem lesz ökológiai összeomlás. Az ökológusoknak fogalma sincsen a gazdaságról, sem pedig a demográfiáról. Ha tanulmányozták volna a demográfiai átmenet modelljét, ha tudnák, hogy az iparosodás és a gazdaság fejlődése megállítja a népszaporulatot, akkor nem terjesztenék az áltudományos ostobaságaikat a túlnépesedésről. Nem a népességnövekedés a probléma, hanem a gazdasági fejletlenség.
 
 ## Irodalom
 
-1. Montgomery, K. (2000): [The Demographic Transition.](http://pages.uwc.edu/keith.montgomery/Demotrans/demtran.htm) University of Wisconsin-Marathon County 
-2. Thompson, W. S. (1929): Population. – American Journal of Sociology 34(6), pp. 959-975.
-3. Ball, T. (2014): [Overpopulation: The Fallacy Behind The Fallacy Of Global Warming](https://wattsupwiththat.com/2014/01/05/overpopulation-the-fallacy-behind-the-fallacy-of-global-warming/)
+1. Ball, T. (2014): [Overpopulation: The Fallacy Behind The Fallacy Of Global Warming](https://wattsupwiththat.com/2014/01/05/overpopulation-the-fallacy-behind-the-fallacy-of-global-warming/)
 
-4. Ball, T. (2015): [Opinion: CO2 is the Demon Because Malthus and Ehrlich Were Wrong About Overpopulation](https://wattsupwiththat.com/2015/04/26/opinion-co2-is-the-demon-because-malthus-and-ehrlich-were-wrong-about-overpopulation/)
+2. Ball, T. (2015): [Opinion: CO2 is the Demon Because Malthus and Ehrlich Were Wrong About Overpopulation](https://wattsupwiththat.com/2015/04/26/opinion-co2-is-the-demon-because-malthus-and-ehrlich-were-wrong-about-overpopulation/)
+
+3. Ehrlich, P. R. – Ehrlich, A. H. – Holdren, J. P. (1977): [Ecoscience: Population, Resources, Environment.](https://ia902705.us.archive.org/23/items/Ecoscience_17/JohnHoldren-Ecoscience.pdf) W.H. Freeman & Co. pp. 786-788, 837-838, 917, 942-943. (*A letöltendő fájl mérete 239 MB!!*)
+
+4. Montgomery, K. (2000): [The Demographic Transition.](http://pages.uwc.edu/keith.montgomery/Demotrans/demtran.htm) University of Wisconsin-Marathon County
+
+5. Smith, K. R. – Fesharaki, F. – Holdren, J. P. (1986): [Earth and the human future : essays in honor of Harrison Brown.](http://www.worldcat.org/search?q=no:012370755) Westview Press, Boulder. 258 p.
+
+6. Thompson, W. S. (1929): Population. – American Journal of Sociology 34(6), pp. 959-975.
+
+
+* United Nations, Department of Economic and Social Affairs, Population Division (2004): [World Population to 2300.](http://www.un.org/esa/population/publications/longrange2/WorldPop2300final.pdf) Annex Table 1. pp. 179.
 
 * United Nations, Department of Economic and Social Affairs, Population Division (2017). [Probabilistic Population Projections based on the World Population Prospects: The 2017 Revision. Population Division, DESA.](http://esa.un.org/unpd/wpp/)
 

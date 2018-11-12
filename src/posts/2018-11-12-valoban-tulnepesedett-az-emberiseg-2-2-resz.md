@@ -11,6 +11,9 @@ coverImage: tulnepesedes.jpg
 comments: true
 topic: Túlnépesedés
 ---
+A cikksorozat első részét [itt érhetitek el.](https://www.gulacsiandras.blog/2018/11/10/valoban-tulnepesedett-az-emberiseg-1-2-resz)
+
+
 ## A világnépesség előrejelzései
 
 Elsőként megvizsgáltam a világnépesség számának az előrejelzések szerinti lehetséges jövőbeli alakulását. Az ENSZ Gazdasági és Társadalmi Ügyek Osztályának Népesedési Csoportjának (UN DESA) két előrejelzése is rendelkezésre áll 2004-ből és a felülvizsgált 2017-es jelentés.

@@ -107,7 +107,7 @@ Nézzük meg milyen megoldásokat javasolnak az antihumanisták a túlnépesedé
 
 ### John Holdren
 
-Holdren az Ehrlich házaspárral együtt írt könyvében, ami az »Ecoscience: Population, Resources, Environment« (Ökotudomány: Népesség, Erőforrások, Környezet) címet viseli és 1977-ben adták ki, számos javaslatot, elképzelést vázol fel, ami a népességrobbanást megállítaná, ahogy részletezi [a totalitárius javaslatainak listájában](http://zombietime.com/john_holdren/):
+Holdren az Ehrlich házaspárral együtt írt könyvében, ami az »Ecoscience: Population, Resources, Environment« (Ökotudomány: Népesség, Erőforrások, Környezet) címet viseli és 1977-ben adták ki, számos javaslatot, elképzelést vázol fel, ami a népességrobbanást megállítaná, ahogy részletezi [a javaslatainak listájában](http://zombietime.com/john_holdren/):
 
 * *A nőket rá kell kényszeríteni a terhességük megszakítására, akár szeretnék, akár nem.*
 

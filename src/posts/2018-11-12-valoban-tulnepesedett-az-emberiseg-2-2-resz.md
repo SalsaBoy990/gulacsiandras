@@ -172,13 +172,15 @@ A Föld el képes tartani még sok milliárddal több embert. Nem lesz ökológi
 
 2. Ball, T. (2015): [Opinion: CO2 is the Demon Because Malthus and Ehrlich Were Wrong About Overpopulation](https://wattsupwiththat.com/2015/04/26/opinion-co2-is-the-demon-because-malthus-and-ehrlich-were-wrong-about-overpopulation/)
 
-3. Ehrlich, P. R. – Ehrlich, A. H. – Holdren, J. P. (1977): [Ecoscience: Population, Resources, Environment.](https://ia902705.us.archive.org/23/items/Ecoscience_17/JohnHoldren-Ecoscience.pdf) W.H. Freeman & Co. pp. 786-788, 837-838, 917, 942-943. (*A letöltendő fájl mérete 239 MB!!*)
+3. Brown, H. (1954): The Challenge Of Man's Future. The Viking Press, New York. 290 p.
 
-4. Montgomery, K. (2000): [The Demographic Transition.](http://pages.uwc.edu/keith.montgomery/Demotrans/demtran.htm) University of Wisconsin-Marathon County
+4. Ehrlich, P. R. – Ehrlich, A. H. – Holdren, J. P. (1977): [Ecoscience: Population, Resources, Environment.](https://ia902705.us.archive.org/23/items/Ecoscience_17/JohnHoldren-Ecoscience.pdf) W.H. Freeman & Co. pp. 786-788, 837-838, 917, 942-943. (*A letöltendő fájl mérete 239 MB!!*)
 
-5. Smith, K. R. – Fesharaki, F. – Holdren, J. P. (1986): [Earth and the human future : essays in honor of Harrison Brown.](http://www.worldcat.org/search?q=no:012370755) Westview Press, Boulder. 258 p.
+5. Montgomery, K. (2000): [The Demographic Transition.](http://pages.uwc.edu/keith.montgomery/Demotrans/demtran.htm) University of Wisconsin-Marathon County
 
-6. Thompson, W. S. (1929): Population. – American Journal of Sociology 34(6), pp. 959-975.
+6. Smith, K. R. – Fesharaki, F. – Holdren, J. P. (1986): [Earth and the human future : essays in honor of Harrison Brown.](http://www.worldcat.org/search?q=no:012370755) Westview Press, Boulder. 258 p.
+
+7. Thompson, W. S. (1929): Population. – American Journal of Sociology 34(6), pp. 959-975.
 
 
 * United Nations, Department of Economic and Social Affairs, Population Division (2004): [World Population to 2300.](http://www.un.org/esa/population/publications/longrange2/WorldPop2300final.pdf) Annex Table 1. pp. 179.
@@ -187,3 +189,5 @@ A Föld el képes tartani még sok milliárddal több embert. Nem lesz ökológi
 
 
 ## Melléklet
+
+feltöltés alatt...

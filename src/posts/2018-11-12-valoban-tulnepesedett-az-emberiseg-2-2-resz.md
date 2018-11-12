@@ -11,7 +11,23 @@ coverImage: tulnepesedes.jpg
 comments: true
 topic: Túlnépesedés
 ---
-A Föld jelenlegi népességszáma kb. 7,5 milliárd fő, de a népsűrűség sokkal értelmesebb mérőszáma a „túlnépesedésnek”. A legtöbb ember a tengerpart mentén, a deltákon, a folyók árterén, síkságokon él. Ami az összes szárazföld 5%-át teszi ki. Hasonítsuk össze a világ második legnagyobb területű országát Kanadát (9,98 millió km^2^), ahol az össznépesség száma 2013-ban 35,1 millió volt, Kalifornia államával (424 ezer km^2^), ahol a 2010-es adatok szerint 37,3 millió ember él! Kanada nagy része gyakorlatilag lakatlan.
+## A világnépesség előrejelzései
+
+Elsőként megvizsgáltam a világnépesség számának az előrejelzések szerinti lehetséges jövőbeli alakulását. Az ENSZ Gazdasági és Társadalmi Ügyek Osztályának Népesedési Csoportjának (UN DESA) két előrejelzése is rendelkezésre áll 2004-ből és a felülvizsgált 2017-es jelentés.
+
+A Föld népességszáma 7,6 milliárd fő (2017). Ennek 60%-a Ázsiában (4,5 milliárd fő), 17%-a Afrikában (1,3 milliárd fő), 10% Európában (742 millió fő), 9% Latin-Amerikában és a Karibi-térségben (646 millió fő) és a fennmaradó 6% Észak-Amerikában (361 millió fő) és Óceániában (41 millió fő) él.
+
+Elég jelentős különbség van a becslések között: még a demográfusok sem tudják biztosan a világnépesség tetőzésének időpontját. 2004-ben a kutatócsoport még úgy vélte, hogy a világnépesség, miután eléri a 8,9 milliárd főt 2050-ben, lassabb ütemben fog tovább emelkedni egészen 2075-ig, amikor is 9,22 milliárd főnél fog tetőzni az emberiség létszáma a közepes forgatókönyv szerint. 2175-re kicsit lejjebb csúszik 8,43 milliárd főre, és ezután fokozatosan 8,97 milliárd főre fog emelkedni a népességszám. (1-2. ábra) (UN DESA 2004).
+
+Ezzel szemben, a 2017-es tanulmány azt prognosztizálja, hogy 2030-ra 8,6 milliárdra, 2050-re 9,8 milliárdra, míg 2100-ra 11,2 milliárdra emelkedik a világnépesség. Tehát az újabb előrejelzés nagyobb növekedési ütemet feltételez és a tetőzés időpontja is későbbre tolódott (1-2. ábra) (UN DESA 2017). Ebből világosan látszik, hogy nagyon bizonytalanok ezek a jóslatok: az újabb adatokra már lényegesen különböző eredményeket kapunk, ami arra utal, hogy a demográfusok még nem tudnak eleget a népesedési folyamatok mozgatórugóiról.
+
+Mindössze 27% esélyt adnak arra, hogy valamivel 2100 előtt stabilizálódni fog a népesség, esetleg elkezd utána csökkenni. Ázsia népessége feltételezhetően 2050-ben fog tetőzni, utána csökkenésnek indul (2100-ban lesz 4,8 milliárd, vagyis alig több, mint ma). Afrika növekedése lesz a legnagyobb mértékű: 2100-ra akár 4,5 milliárdan is lehetnek (jelenleg 1,3 milliárd fő körül vannak). Európa lakossága 2100-ra a mai 742 millióról 653 millióra csökkenhet. A Karibi-térség, Észak-Amerika lakossága enyhe növekedést fog mutatni a feltételezések szerint. Óceánia lakossága 41-ről 72 millióra emelkedhet (75%-os növekedés). Magyarország népessége 6,4 millióra csökkenhet 2100-ig.
+
+Láthatjuk tehát, hogy a Föld népességszáma nem fog a „végtelenségig” emelkedni és talán az évszázad végére elméletileg stabilizálódni fog 11 milliárd fő körül.
+
+## A „túlnépesedés” igazi mérőszáma a népsűrűség
+
+A népsűrűség sokkal értelmesebb mérőszáma a „túlnépesedésnek”. A legtöbb ember a tengerpart mentén, a deltákon, a folyók árterén, síkságokon él. Ami az összes szárazföld 5%-át teszi ki. Hasonítsuk össze a világ második legnagyobb területű országát Kanadát (9,98 millió km^2^), ahol az össznépesség száma 2013-ban 35,1 millió volt, Kalifornia államával (424 ezer km^2^), ahol a 2010-es adatok szerint 37,3 millió ember él! Kanada nagy része gyakorlatilag lakatlan.
 
 Egyesek úgy világítják meg a népsűrűség globális jelentéktelenségét, hogy elméletben belezsúfolnak mindenkit Texas állam területébe. Texas területe felkerekítve 700 ezer km^2^. Tehát 7,5 milliárd embert, ha belezsúfolunk az államba, akkor egy km^2^-re nagyjából 10 ezer 700 ember jutna. Az más kérdés, hogy nem tudnának egymás hegyén hátán megélni ennyien. Ilyen magas népsűrűség csak a megalopoliszokban, a 10 milliónál népesebb óriásvárosokban figyelhető meg: például az indiai Mumbay (Bombay) tengerparti kikötővárosában a népsűrűséget 28 és fél ezer fő/km^2^-re becsülik! A legnagyobb mégis a Fülöp-szigeteki Manilában, ahol 43 ezer ember él zsúfolódik össze egy km^2^-en. Mekkora nyomor! Ezzel szemben Szingapúr a világ egyik legélhetőbb országa (egy városállam egy szigeten), annak ellenére, hogy a népsűrűsége 7 és fél ezer fő/km²^! De ezek nagyon szélsőséges példák.
 
@@ -79,6 +95,9 @@ USA, Kanada, Ausztrália, Új-Zéland, Franciaország, Belgium, Hollandia, Nagy-
 Földünk számos, főként európai országában a születések száma úgy lecsökkent, hogy a népesség fogyásnak indult: Olaszország, Németország, Lengyelország, Horvátország, Csehország, Magyarország, Szlovénia, Oroszország, Bulgária, Észtország, Ukrajna, Japán stb. esetén.
 
 Azt nem tudni, hogy lehetséges-e a megújulás, hogy vissza tudjuk fordítani a kihalásunkat, meg tudjuk-e menteni a kultúránkat és a fejlett civilizációt, melyet nagyszerű eleink építettek fel, különben hiába hozták meg kemény munkával azt a hatalmas áldozatot, hogy nekünk jobb életünk legyen, mint nekik volt, amiről ők csak álmodhattak. Itt állok és semmi lehetőséget nem látok a pusztulás elkerülésére. Ide vezetett a nagy demokrácia, ahol a buta többség úgy döntött, hogy kihal. Lehet, hogy visszafordíthatatlan a társadalom károsodása. Európa lehull a porba, mint a Római Birodalom.
+
+
+## Az antihumanisták hogyan szeretnék legyőzni a „túlnépesedést”?
 
 A félművelt, antihumanista értelmiségiek mindig előhozakodnak a „nagyszerű tervükkel”, hogy le kell csökkenteni a világnépességet az általuk kívánatos fenntartható szintre. Nyilván ők szabnák meg, hogy szerintük mi lenne az „optimális” szint és ugyanúgy megmondanák, hogy kik az „alacsonyabb rendűek”, a „haszontalan evők”, akiktől meg kell szabadulni, hogy megmentsék az emberiséget a „túlnépesedés veszélyeitől”. Régen attól rettegtek ezek az értelmiségiek, hogy az gyengeelméjűek és fogyatékosok túlszaporodják a társadalom felsőbbrendű tagjait, éppen ezért kényszersterilizációnak kell alávetni ezeket az egyedeket, hogy ne szaporodjanak, és ezáltal az emberi nem elfajzását elkerüljük. Ennek áltudományos alapja az eugenika!
 

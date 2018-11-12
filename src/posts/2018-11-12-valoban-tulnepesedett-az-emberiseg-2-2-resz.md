@@ -23,11 +23,11 @@ Ezzel szemben, a 2017-es tanulmány azt prognosztizálja, hogy 2030-ra 8,6 milli
 
 ![1. ábra: A világ népességszámának előrejelzése 2100-ig (UN DESA 2017), illetve 2300-ig (UN DESA 2004). A történeti adatok (1960-2015) forrása a Világbank. Az UN DESA (United Nations Department of Economic and Social Affairs Population Division) az ENSZ Gazdasági és Társadalmi Ügyek Osztályának Népesedési Csoportja. Az ő modelljeiket ábrázoltam. A 2004-es jelentés 2300-ig vizsgálta a népesség lehetséges jövőbeli alakulását. A 2017-es, legújabb eredmények nagyobb ütemű növekedést mutatnak. A piros szaggatott vonalak a 95%-os bizonyossági tartományt (Cl) jelölik, ami az alkalmazott modellek bizonytalanságát fejezi ki, tehát a várható értékek 95%-os valószínűséggel az alsó és a felső határ által kijelölt tartományba esnek. A kékkel jelölt vonal a medián (a sorba rendezett értékek közül a középső érték).](/assets/images/population2017.jpg)
 
-![Az UN DESA (2014, 2017) előrejelzésekre logisztikus görbéket illesztettem. A demográfiai átmenet modelljét (később) jobban leköveti a logisztikus növekedés Vermhulst-féle modellje (szigmoid görbe). Nem kérdés, hogy a népességnövekedés a jövőben meg fog állni.](/assets/images/population2017_2.jpg)
+![2. ábra: Az UN DESA (2014, 2017) előrejelzésekre logisztikus görbéket illesztettem. A demográfiai átmenet modelljét (később) jobban leköveti a logisztikus növekedés Vermhulst-féle modellje (szigmoid görbe). Nem kérdés, hogy a népességnövekedés a jövőben meg fog állni.](/assets/images/population2017_2.jpg)
 
 Mindössze 27% esélyt adnak arra, hogy valamivel 2100 előtt stabilizálódni fog a népesség, esetleg elkezd utána csökkenni. Ázsia népessége feltételezhetően 2050-ben fog tetőzni, utána csökkenésnek indul (2100-ban lesz 4,8 milliárd, vagyis alig több, mint ma). Afrika növekedése lesz a legnagyobb mértékű: 2100-ra akár 4,5 milliárdan is lehetnek (jelenleg 1,3 milliárd fő körül vannak). Európa lakossága 2100-ra a mai 742 millióról 653 millióra csökkenhet. A Karibi-térség, Észak-Amerika lakossága enyhe növekedést fog mutatni a feltételezések szerint. Óceánia lakossága 41-ről 72 millióra emelkedhet (75%-os növekedés). Magyarország népessége 6,4 millióra csökkenhet 2100-ig.
 
-Láthatjuk tehát, hogy a Föld népességszáma nem fog a „végtelenségig” emelkedni és talán az évszázad végére elméletileg stabilizálódni fog 11 milliárd fő körül.
+Láthatjuk tehát, hogy a Föld népességszáma nem fog a „végtelenségig” emelkedni és talán az évszázad végére elméletileg stabilizálódni fog 11 milliárd fő körül. De nem vennék rá mérget, hogy így lesz. Lehet, hogy több.
 
 ## A „túlnépesedés” igazi mérőszáma a népsűrűség
 
@@ -35,9 +35,9 @@ A népsűrűség sokkal értelmesebb mérőszáma a „túlnépesedésnek”. A 
 
 Egyesek úgy világítják meg a népsűrűség globális jelentéktelenségét, hogy elméletben belezsúfolnak mindenkit Texas állam területébe. Texas területe felkerekítve 700 ezer km^2^. Tehát 7,5 milliárd embert, ha belezsúfolunk az államba, akkor egy km^2^-re nagyjából 10 ezer 700 ember jutna. Az más kérdés, hogy nem tudnának egymás hegyén hátán megélni ennyien. Ilyen magas népsűrűség csak a megalopoliszokban, a 10 milliónál népesebb óriásvárosokban figyelhető meg: például az indiai Mumbay (Bombay) tengerparti kikötővárosában a népsűrűséget 28 és fél ezer fő/km^2^-re becsülik! A legnagyobb mégis a Fülöp-szigeteki Manilában, ahol 43 ezer ember él zsúfolódik össze egy km^2^-en. Mekkora nyomor! Ezzel szemben Szingapúr a világ egyik legélhetőbb országa (egy városállam egy szigeten), annak ellenére, hogy a népsűrűsége 7 és fél ezer fő/km²^! De ezek nagyon szélsőséges példák.
 
-Kanada népsűrűsége 3,2 fő/km^2^, az USA-é 35 fő/km^2^, Magyarországé 106 fő/km^2^, tehát jóval sűrűbben lakott. De nézzük még meg 182 milliós Nigériát, ahol a népsűrűség 200 fő/km^2^, vagyis durván kétszerese a magyarországinak, és mégis több mint 18-szor annyian élnek ott. Nem sokkal „túlnépesedettebb”, mint hazánk. Más afrikai országok viszont szinte „üresek”, lakatlanok. Ilyen például Angola, ahol a 2013-as adatok szerint 21 millióan élnek (utánanéztem: ma már 30 millióan). Az ország területe 1 és ¼ millió km^2^, így a népsűrűség mindössze 24 fő/km²^!  Természetesen a legtöbb ember a part menti nagyobb városokban koncentrálódik. A Föld tekintélyes része lakatlan. A világtérképen látszik, hogy a Földön a legmagasabb népsűrűség Dél-Kelet-Ázsiában, illetve Európában koncentrálódik – a Föld többi részén általában sokkal alacsonyabb a népsűrűség (1. ábra).
+Kanada népsűrűsége 3,2 fő/km^2^, az USA-é 35 fő/km^2^, Magyarországé 106 fő/km^2^, tehát jóval sűrűbben lakott. De nézzük még meg 182 milliós Nigériát, ahol a népsűrűség 200 fő/km^2^, vagyis durván kétszerese a magyarországinak, és mégis több mint 18-szor annyian élnek ott. Nem sokkal „túlnépesedettebb”, mint hazánk. Más afrikai országok viszont szinte „üresek”, lakatlanok. Ilyen például Angola, ahol a 2013-as adatok szerint 21 millióan élnek (utánanéztem: ma már 30 millióan). Az ország területe 1 és ¼ millió km^2^, így a népsűrűség mindössze 24 fő/km²^!  Természetesen a legtöbb ember a part menti nagyobb városokban koncentrálódik. A Föld tekintélyes része lakatlan. A világtérképen látszik, hogy a Földön a legmagasabb népsűrűség Dél-Kelet-Ázsiában, illetve Európában koncentrálódik – a Föld többi részén általában sokkal alacsonyabb a népsűrűség (3. ábra).
 
-![1. ábra: A Föld országainak népsűrűsége](/assets/images/nepsuruseg.jpg)
+![3. ábra: A Föld országainak népsűrűsége](/assets/images/nepsuruseg.jpg)
 
 ## A demográfiai átmenet modellje
 
@@ -103,7 +103,7 @@ Azt nem tudni, hogy lehetséges-e a megújulás, hogy vissza tudjuk fordítani a
 
 ## Az antihumanisták hogyan szeretnék legyőzni a „túlnépesedést”?
 
-Nézzük meg milyen megoldásokat javasolnak az antihumanisták a túlnépesedés megfékezésére! Bár Paul Ehrlich és John Holdren (Obama elnök Tudományért és Technológiáért Felelős Tanácsadója, az eugenika híve) összes jóslata teljesen tévesnek bizonyult, azonban ez nem akadályozza meg a szélsőségeseket abban, hogy ne lássák az emberek feletti totális uralom szükségét. Egyesek úgy gondolják, hogy bizonyos embereknek nem szabadna létezni, az emberiség létszámát le kell csökkenteni a kívánatos szintre.
+Nézzük meg milyen megoldásokat javasolnak az antihumanisták a túlnépesedés megfékezésére! Bár Paul Ehrlich és John Holdren (Obama volt elnök Tudományért és Technológiáért Felelős Tanácsadója volt) összes jóslata teljesen tévesnek bizonyult, azonban ez nem akadályozza meg a szélsőségeseket abban, hogy ne lássák az emberek feletti totális uralom szükségét. Egyesek úgy gondolják, hogy bizonyos embereknek nem szabadna létezni, az emberiség létszámát pedig le kell csökkenteni a kívánatos szintre.
 
 ### John Holdren
 

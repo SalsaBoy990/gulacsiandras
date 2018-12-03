@@ -1,7 +1,7 @@
 ---
 title: >-
   Félelemkeltés a GMO-kkal és a vegyszerekkel. A zöld szervezetek kapcsolata az
-  organikus élelmiszerlobbival.
+  organikus élelmiszerlobbival. 1. rész.
 date: '2018-12-04'
 excerpt: >-
   Az antihumanista zöldek azért ellenzik a GMO-élelmiszereket és folytatnak a
@@ -72,7 +72,7 @@ A glifozát olyan kis dózisban, mint amiben az ember szervezetébe kerül, nem 
 
 Az emberek többsége napi rendszerességgel fogyaszt kávét, és mégsem gondol bele, hogy **a koffein a glifozátnál majdnem 30-szor mérgezőbb vegyület**, ugyanis a glifozát LD50 dózisa 5600 mg/testtömegkg, a koffeiné pedig csak 192 mg/testtömegkg. Mégsem követeli senki sem a koffein betiltását! Az LD50 dózis mg/testtömegkg mértékegységben van megadva, tehát az ember testtömegével be kell szorozni! Az LD a letális dózis rövidítése. Az LD50 az a dózis, ami a kísérleti patkányok felét megöli (Canadian Centre for Occupational Health and Safety).
 
-Ha egy 80 kg-os férfit tekintünk, akkor egyszerre el kellene fogyasztania 192•80 = 15360 milligramm (mg), azaz 15,36 gramm koffeint, hogy halálos mérgezést kapjon. Hány csésze főzött kávét kellene ehhez egyszerre elfogyasztania? Tegyük fel, hogy egy csésze kávé átlagosan 100 mg koffeint tartalmaz (Authority Nutrition 2016), tehát 15360 / 100 = 154 csésze kávét kellene meginnia egyszerre. Ha egy csésze 1 deciliter vizet tartalmaz, akkor összesen 154 deciliter, azaz 15 liter víz egyszeri elfogyasztásáról van szó. A víz letális dózisa 80 kg-os férfi esetén 80•90000 mg, azaz durván 7,2 liter (a H2O LD50 dózisa 90000 mg/kg). Tehát akár a vízmérgezéstől is meghalhatunk, még mielőtt a koffein végezne velünk! Az általános törvényt levonhatjuk: **a dózis teszi a mérget.**{.red} Nem kell gyomirtót inni, és akkor nem lesz baja senkinek. A glifozát íze egyébként olyan, mint a szappané. A fogyasztása után nem halmozódik fel a szervezetben, hanem a vizelettel és a széklettel eltávozik.
+Ha egy 80 kg-os férfit tekintünk, akkor egyszerre el kellene fogyasztania 192•80 = 15360 milligramm (mg), azaz 15,36 gramm koffeint, hogy halálos mérgezést kapjon. Hány csésze főzött kávét kellene ehhez egyszerre elfogyasztania? Tegyük fel, hogy egy csésze kávé átlagosan 100 mg koffeint tartalmaz (Authority Nutrition 2016), tehát 15360 / 100 = 154 csésze kávét kellene meginnia egyszerre. Ha egy csésze 1 deciliter vizet tartalmaz, akkor összesen 154 deciliter, azaz 15 liter víz egyszeri elfogyasztásáról van szó. A víz letális dózisa 80 kg-os férfi esetén 80•90000 mg, azaz durván 7,2 liter (a H~2~O LD50 dózisa 90000 mg/kg). Tehát akár a vízmérgezéstől is meghalhatunk, még mielőtt a koffein végezne velünk! Az általános törvényt levonhatjuk: **a dózis teszi a mérget.**{.red} Nem kell gyomirtót inni, és akkor nem lesz baja senkinek. A glifozát íze egyébként olyan, mint a szappané. A fogyasztása után nem halmozódik fel a szervezetben, hanem a vizelettel és a széklettel eltávozik.
 
 2015-ben végeztek egy vizsgálatot a német sörök körében a glifozát tartalmukra vonatkozóan. Literenként 0,46 és 29,7 mikrogramm (μg) között voltak a mért értékek (Umweltinstitut München 2016). A mikrogramm a milligramm 1000-ed része. A Német Sörfőzők Szövetségének nyilatkozata szerint
 
@@ -80,24 +80,253 @@ Ha egy 80 kg-os férfit tekintünk, akkor egyszerre el kellene fogyasztania 192�
 
 A német sörfogyasztás átlagosan **107 liter/fő évente**. Nyomnyi mennyiségű szermaradvány miatt keltenek hisztériát a zöldek. Hiába ismételgetik szüntelenül, hogy a „glifozát rákot okoz”, ez az állítás attól még nem lesz igaz. Ez egyébként az „argumentum ad nauseam” érvelési technika, ami az állítás igaz voltáról úgy próbál meggyőzni, hogy gyakran elismétli ugyanazt, sokaknak. Ha valamit kellő ideig és hatással ismételgetnek, az emberek egy idő után hajlamosak elfogadni igaznak – talán mert megszokottá válik, mint egy ismerős bútordarab, észrevétlenül része lesz az ember gondolkodásának (Argumentum ad nauseam, Wikipedia).
 
-
-| Sörök | Gyártó | Glifozát-tartalom, µg/l |
-| --- | --- | ---|
-
-Hasseröder Pils	Anheuser-Busch InBev	29,74
-Jever Pils	Radeberger Gruppe	23,04
-Warsteiner Pils	Warsteiner Gruppe	20,73
-Radeberger Pilsner	Radeberger Gruppe	12,01
-Veltins Pilsener	Veltins	5,78
-Oettinger Pils	Oettinger Brauerei	3,86
-König Pilsener	Bitburger Braugruppe	3,35
-Krombacher Pils	Krombacher Brauerei	2,99
-Erdinger Wießbier	Erdinger Weißbräu	2,92
-Paulaner Wießbier	Paulaner Brauereigruppe	0,66
-Bitburger Pils	Bitburger Braugruppe	0,55
-Beck's Pils	Anheuser-Busch InBev	0,5
-Franzischkaner Wießbier	Anheuser-Busch InBev	0,49
-Augustiner Helles	Augustiner Bräu	0,46
+Sörök | Gyártó | Glifozát-tartalom, µg/l
+--- | --- | ---
+Hasseröder Pils | Anheuser-Busch InBev |29,74
+Jever Pils | Radeberger Gruppe | 23,04
+Warsteiner Pils | Warsteiner Gruppe | 20,73
+Radeberger Pilsner | Radeberger Gruppe | 12,01
+Veltins Pilsener | Veltins | 5,78
+Oettinger Pils | Oettinger Brauerei | 3,86
+König Pilsener | Bitburger Braugruppe | 3,35
+Krombacher Pils | Krombacher Brauerei | 2,99
+Erdinger Wießbier | Erdinger Weißbräu | 2,92
+Paulaner Wießbier | Paulaner Brauereigruppe | 0,66
+Bitburger Pils | Bitburger Braugruppe | 0,55
+Beck's Pils | Anheuser-Busch InBev | 0,5
+Franzischkaner Wießbier | Anheuser-Busch InBev | 0,49
+Augustiner Helles | Augustiner Bräu | 0,46
 [1. táblázat: A vizsgált német sörökben mért glifozát koncentrációk (µg/l). Forrás: Umweltinstitut München 2016.]
+
+Tovább maradva a kávés példánál, mennyi vizet kellene ahhoz meginni, hogy annyi koffeint vigyünk be a szervezetünkbe, mint amennyi egy csésze kávéban található, ha például literenként 5 µg koffein található az általunk fogyasztott vízben (például, ha a víz a Dunából származik)? Egy csésze kávéban legyen kb. 100 mg koffein. 5 µg = 0,005 mg. Tehát: 100 / 0,005 = 20 000 liter vizet kellene egyszerre meginnunk, hogy egy csésze kávé hatását elérjük!
+	A GMO-ellenes Heinrich Böll Intézet egy másik felmérést végzett, amiben az emberi vizeletben található glifozát maradványok koncentrációját mérték. A vizeletben mért átlagos koncentráció 1,08 ng/mL (nanogramm/milliliter) volt. 1 mg/L = 1000 ng/mL, tehát literenként 0,00108 mg glifozát ürül ki a szervezetből (Urinale 2015). A referenciadózis az a napi kitettség, ami még nem okoz semmilyen kimutatható káros hatást az egész emberi élethosszra vonatkozóan (angolul NOAEL = No Observed Adverse Effect Level). Ez a határérték a glifozát esetén az emberre 2 mg/testtömeg kg/nap (U. S. EPA 1993). Annyi megjegyzendő, hogy ez a kísérleti patkányoknál 175 mg/kg/nap, de 100-szoros bizonytalansági faktort alkalmazva az emberre, kerekítve 2 mg/kg/nap a határérték. Vagyis például egy 80 kg-os férfi esetén ez 160 mg/liter. Mennyi ehhez képest a vizeletben mért koncentráció? Naponta 1-2 liter vizelete van egy embernek. Tegyük fel most, hogy éppen 2 liter. Ez durván tartalmaz 0,002 mg glifozátot. Tehát: legalább 160/0,002 = 80000-szer akkora dózisban kellene naponta glifozátot fogyasztani, hogy annak bármilyen megfigyelt káros élettani hatása legyen az egész élettartam alatt!
+
+## A GM-vetőmagok szabadalma
+
+Ami a GM-vetőmagok szabadalmát illeti, a hagyományos vetőmagokhoz hasonlóan (!) 20-30 évig biztosítja a gyártó cég számára a jogot, hogy kizárólag saját maga állítsa elő a szabadalmaztatott vetőmagját, melynek kifejlesztése százmillió dollárokba került. A szabadalom lejárta után bárki, akinek van hozzá eszköze, előállíthatja a vetőmagot. Ez teljesen megszokott dolog az összes találmány, szellemi termék stb. esetén, minden gazdasági szektorban.
+
+A Monsanto szabadalma a glifozát gyomirtóra (herbicid) már **2000-ben lejárt**, így azóta már sok cég gyártja a szert. **A világ glifozáttermelésének már 40%-a kínai vállalatoktól származik**{.red} (például, csak a három legnagyobbat említve, Zhejiang Wynca Chemical Group Co. Ltd., Nantong Jiangshan Agrochemicals Co. Ltd., Jiangsu Yangnong Chemical Group Ltd.), akik az előállított gyomirtó nagy részét külföldre exportálják (HILTON, C. W. 2012).
+
+## A „GMO” elnevezés teljesen tudománytalan jogi kategória
+
+A GMO jogi definíciója az Európai Parlament és a Tanács 2001/18/EK irányelve alapján a
+
+> „„GMO” olyan szervezet, az ember kivételével, amelyben a genetikai anyagot olyan módon változtatták meg, amely nem fordulna elő a természetben párosodás, illetve természetes rekombináció útján.”
+
+A GMO jogi és nem természettudományos kategória. A törvény kifejezetten a molekuláris géntechnológiai eljárásokkal létrehozott élőlényekre korlátozza a GMO-k fogalmát. Tudományosan nézve viszont minden olyan élőlény, aminek a génállománya a tevékenységünk hatására megváltozott, génmódosult. Az emberek, a háziasított állatok és a nemesített növények is a GMO-k közé tartoznak (1. ábra).
+
+![1. ábra: A káposzta, a kelbimbó, a karalábé, a kelkáposzta, brokkoli és a karfiol ugyanazon növényfajból, a vadkáposztából (Brassica oleracea) lett kinemesítve. Ezek sem fordulnának elő a természetben az ember nélkül, és ugyanúgy megváltozott a génállományuk (KOTTKE, J. 2013).]()
+
+Még megemlítendő a magyar alkotmányban deklarált GMO-mentesség agyréme:
+
+> „XX. cikk (1) Mindenkinek joga van a testi és lelki egészséghez. (2) Az (1) bekezdés szerinti jog érvényesülését genetikailag módosított élőlényektől mentes mezőgazdasággal, az egészséges élelmiszerekhez és az ivóvízhez való hozzáférés biztosításával, a munkavédelem és az egészségügyi ellátás megszervezésével, a sportolás és a rendszeres testedzés támogatásával, valamint a környezet védelmének biztosításával segíti elő.”
+
+A testi és lelki egészséghez való jognak az égvilágon semmi köze nincsen a GMO-mentességhez, mert a „GMO-k” nem veszélyesek. Maga a „GMO” egy teljesen tudománytalan elnevezés, ami a géntechnológia megbélyegzésére szolgál a biocégek szájíze szerint, holott a nemesítés is génmódosított terméket hoz létre.
+
+Tudományosan így lenne helyes a meghatározás: **minden földi élőlény, beleértve az embert is, génmódosított organizmus.** Erre bizonyítékul szolgál az egész földi evolúciós folyamat. A génállomány folyamatosan változik, új fajok jönnek létre, más, kevésbé sikeresek, illetve azok, melyeknek az ideje lejárt, kipusztulnak. A baktériumokból a növények irányába történő génátvitel egy teljesen természetes folyamat (horizontális géntranszfer), amit a genetikusok ki is használnak, amikor például gént ültetnek a növénybe egy baktériumból.
+
+## A GMO-ellenesség köre egy tisztességtelen és csaló üzletág épült
+
+A GMO-ellenes, zöld nem-kormányzati szervezeteket az organikus élelmiszeripari lobbi támogatja nagy pénzösszegekkel. Mi a biocégek üzleti stratégiája?
+
+**A bioélelmiszerek világpiaca mára elérte a 63 milliárd amerikai dollárt, míg a „természetes” termékek piaca az USA-ban egyedül meghaladta a 290 milliárd dollárt**{.red} (mindenhol amerikai dollárban adom meg az értékeket a későbbiekben is). Kay Hamilton (Promar International) az 1999-es Organikus Élelmiszer Konferencián (Organic Food Conference) úgy érvelt, hogy
+
+> **„Ha az olcsóbb, hagyományosan termelt termékek jelentette fenyegetéseket eltávolítjuk, akkor a biotermékek fejlesztésének lehetősége korlátozottá válik**{.red}.”
+
+Tehát az organikus piac növekedési lehetőségei korlátozottak lennének, ha a biztonságos élelmiszertermelésre leselkedő fenyegetéseket eltávolítanánk (SCHROEDER, J. et al. 2015).
+
+A növényvédőszerek, a hormonok, az antibiotikumok és a GMO-k biztonságosságára vonatkozó vélt és kitalált aggodalmak a bioélelmiszer szektor eladásait növelő kulcsfontosságú elemek (2. ábra). Ezért keltenek félelmet a GMO-k nem létező veszélyeivel a nagy organikus cégek lobbicsoportjai.
+
+![Egy 1679 személyt megkérdező kérdőív eredményei. A megkérdezettek hány százaléka választotta az adott jellemzőt az alábbi két kérdésre válaszolva: 11. kérdés: Az alábbi listából mely jellemzők azok, amelyekre az „organikus” kifejezés utalhat? 12. kérdés: Az alábbi listából mely jellemzők azok, amelyekre a „természetes” kifejezés utalhat? (Beyond Natural and Organic 2010, The Hartman Group Inc.) (In. SCHROEDER, J. et al. 2015).]()
+
+
+A legnagyobb GMO-ellenes, zöld NGO szervezetek, melyeket a nagy biocégek (például a Whole Foods, az Applegate Organic, az Earthbound Farm, a Lundberg és a Stonyfield Organic) finanszíroznak: a **Sierra Club**, a **National Resource Defence Council**, az **Environmental Working Group**, a **Food & Water Watch**, az **Organic Consumers Association**, a **Beyond Pesticides** és a **Rodale Institute** (MILLER, M. 2016) (2. táblázat).
+
+A médiában az a demagóg szöveg megy, hogy a Monsanto korrupt és csak a profit érdekli, de az emberek egészsége nem és a környezet megóvása sem. A 2016. évi adatok alapján a **Whole Foods Market Inc. organikus vállalat árbevétele 15,72 milliárd, míg a Monsantóé 13,49 milliárd dollár volt**{.red} (adatok: MarketWatch). Az organikus cégek összesített árbevétele **43,3 milliárd dollár** volt 2015-ben az USA-ban, az Organikus Fogyasztók Egyesületének (Organic Consumers Association) adatai szerint (OTA 2015). Ezek szerint az organikus vállalatok is csak a profitra hajtanak? Viszont ők még meg is tévesztik a fogyasztókat. A GMO-ellenes lobbi nagyon hasonló a dohánylobbihoz: amíg előbbiek a GMO-k biztonságosságát, addig az utóbbiak a dohányzás és a rákos megbetegedések közötti kapcsolatot tagadják. Mindkettő mögött a hatalmas üzlet lehet a fő motiváció.
+
+A Monsanto-nak nagyon rossz a sajtója, amit az ellenfelei maximálisan kihasználnak. De ezért nem a géntechnológia a felelős, ami még sehol nem volt még akkoriban, amikor az Agent Orange-t gyártották.^2^ Az organikus lobbi által pénzelt Organikus Fogyasztók Egyesülete már az 1990-es évek óta folytatja a „Millions Against Monsanto” (Milliók a Monsanto Ellen) elnevezésű kampányát (1. kép). A GMO-ellenesség sokszor valójában Monsanto-ellenességet takar, aminek az üzlethez és a zöld ideológiához van köze. A tudomány ebben nem játszik szerepet, csupán az áltudomány és egyes végletekig korrupt tudósok.
+
+![1. kép: Az Organikus Fogyasztók Egyesületének honlapja: Milliók a Monsanto Ellen.]()
+
+^2^Főleg a vietnámi háborúban (1955-1975, illetve az USA kilépett már belőle 1973-ban) bevetett Agent Orange (hatóanyagok: 2,4-D, 2,4,5-T, valamint rákkeltő dioxinnal volt szennyezett, ami a 2,4,5-T gyártási mellékterméke volt) gyomirtó miatt van a Monsanto-nak rossz megítélése, amit az egykori Monsanto és 8 másik cég gyártott. Ők voltak a háború alatti beszállítók. Az amerikai hadsereg természetesen nem igazán törődött a hosszú távú egészségügyi hatásokkal. Amerikai gépek permetezték az esőerdőket, hogy a sűrű dzsungellombozatot ritkítsák, hogy az ellenséges, kommunista erők ott ne találjanak fedezéket és ne termeszthessenek élelmiszert. Ez később tömegével eredményezett súlyos megbetegedéseket (400 ezer áldozat), valamint születési rendellenességeket (500 ezer torzszülött) a vietnámiak körében. A Vietnámi Vörös kereszt szerint 1 millió vietnami küzd egészségügyi problémákkal vagy nyomorék az Agent Orange miatt, viszont az USA kormánya szerint ez a szám megbízhatatlan. A Vietnámban harcoló amerikai katonákat egyébként arról tájékoztatták, hogy a vegyszer ártalmatlan. Az amerikai veteránok között is történtek megbetegedések az Agent Orange miatt (Agent Orange, Wikipedia).{.medium}
+
+## A zöld organikus lobbiszervezetek harca a GMO címkézésért
+
+Az organikus lobbiszervezetek szintén igyekeznek elérni, hogy a GMO-alapanyagokat tartalmazó élelmiszereket címkézzék, pontosabban megbélyegezzék. Az organikus élelmiszeripar szintén használ a saját ökotermékeire címkéket. Ez azt a célt szolgálja, hogy az organikus lobbi által megtévesztett fogyasztók könnyebben megkülönböztessék a „rossz” élelmiszereket a „jótól”, és a „bio” megjelölésű, tehát a „kóser” termékeket vegyék le a polcról. Majd később látni fogjuk, hogy a bio minősítésű termékek (2. kép) fogyasztása semmilyen többletelőnnyel nem jár. A gazdag nagyvárosiak a legnagyobb „tudatos” fogyasztói ezeknek a drága luxustermékeknek. Ezért is van olyan hatalmas üzlet a biotermékek gyártásában. A véleményem az, hogy általában nem jár rosszul az ember akkor, ha hazai termelőtől vásárol élelmiszert a piacon.
+
+![2. kép: Az EU bio logója. Amelyik terméken rajta van, az bio minősítésű (kép: Biokultúra Egyesület).]()
+
+## Irodalom
+
+* ÁBRAHÁM R. – ÉRSEK T. – KUROLI G. – NÉMETH L. – REISINGER P. (2011). [Növényvédelem. Rezisztencia kialakulása a növényvédő szerekkel szemben. (internetes tananyag)](http://www.tankonyvtar.hu/hu/tartalom/tamop425/0010_1A_Book_08_Novenyvedelem/ch05s03.html)
+
+* AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE (AAAS) (2012). [Statement by the AAAS Board of Directors On Labeling of Genetically Modified Foods, 2012-10-20.](http://www.aaas.org/sites/default/files/AAAS_GM_statement.pdf)
+
+* AMES, B. N. – PROFET, M. – GOLD, L. S. (1990). Dietary pesticides (99.99% all natural). – Proc. Natl. Acad. Sci. USA (Medical Sciences) 87. pp. 7777-7781.
+
+* [Az Európai Parlament és a Tanács 2001/18/EK irányelve (2001. március 12.) a géntechnológiával módosított szervezetek környezetbe történő szándékos kibocsátásáról és a 90/220/EGK tanácsi irányelv hatályon kívül helyezéséről.](http://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri=CELEX:32001L0018&rid=4)
+
+* BfR (2015). [BfR-contribution to the EU-approval process of glyphosate is finalised. BfR Communication No. 008/2015.](http://www.bfr.bund.de/cm/349/bfr-contribution-to-the-eu-approval-process-of-glyphosate-is-finalised.pdf)
+
+* Céleres Ambiental (2009). [Social and Environmental Benefits from the Agricultural Biotechnology in Brazil: 1996 – 2009.](http://www.celeresambiental.com.br/pdf/PressRelease2009_Ambiental01_Eng.pdf)
+
+* CHOUDHARY, B. – GAUR, K. (2015.) [Biotech Cotton in India, 2002 to 2014. ISAAA Series of Biotech Crop Profiles. – ISAAA: Ithaca, NY. 34 p.](https://www.isaaa.org/resources/publications/biotech_crop_profiles/bt_cotton_in_india-a_country_profile/download/Bt_Cotton_in_India-2002-2014.pdf)
+
+* CLIVE, J. (2016). [ISAAA Brief 52-2016: Executive Summary. ISAAA (International Service for the Acquisition of Agri-biotech Applications).](http://www.isaaa.org/resources/publications/briefs/52/executivesummary/default.asp)
+
+* DARVAS B. (1999). [Nézőpontok, ha különböznek (Homage to Árpád Pusztai).](http://mek.oszk.hu/03200/03216/html/#76) – Biokémia 23, pp. 99-102.
+
+* EFSA (2016). [Glyphosate: EFSA responds to critics.](http://www.efsa.europa.eu/en/press/news/160113)
+
+* EFSA (2017). [The 2015 European Union report on pesticide residues in food.](http://onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4791/full) EFSA Journal 15(4): e04791 DOI:10.2903/j.efsa.2017.4791
+
+* FAO/WHO (2016). [Joint FAO/WHO Meeting On Pesticide Residues.](http://www.who.int/foodsafety/jmprsummary2016.pdf?ua=1) Summary Report.
+ 
+* FOX, J. L. 1996: Bt cotton infestations renew resistance concerns. – Nature Biotechnology 14, pp. 1070-1071.
+
+* GEORGE, S. (2009). Lugánói tanulmány. Kairosz Kiadó, Budapest. 266 p.
+
+* HOWARD, P. H. (2009). [Visualizing Consolidation in the Global Seed Industry: 1996-2008. – Sustainability](http://www.mdpi.com/2071-1050/1/4/1266/pdf) 1. pp. 1266-1287. DOI:10.3390/su1041266
+
+* KLÜMPER, W.  –  QAIM, M. (2014). A Meta-Analysis of the Impacts of Genetically Modified Crops. – PLoS ONE 9(11): e111629. doi:10.1371/journal.pone.0111629
+
+* KUTASI J. (2007). [Fermentációs biotechnológia. (internetes tananyag)](http://www.tankonyvtar.hu/hu/tartalom/tkt/fermentacios/ch02s05.html)
+
+* LOMBARDO, L. (2014). Genetic use restriction technologies: a review. – Plant Biotechnology Journal 12(8), pp. 995-1005. DOI:10.1111/pbi.12242 http://onlinelibrary.wiley.com/doi/10.1111/pbi.12242/full
+
+* [Magyarország Alaptörvénye.](https://net.jogtar.hu/jr/gen/hjegy_doc.cgi?docid=A1100425.ATV)
+
+* MESNAGE, R. – DEFARGE, N. – ROCQUE, L-M. – DE VENDÔMOIS, J. S. – SÉRALINI , G-E. (2015). [Laboratory Rodent Diets Contain Toxic Levels of Environmental Contaminants: Implications for Regulatory Tests.](https://doi.org/10.1371/journal.pone.0128429) – PLoS ONE 10(7): e0128429. 
+
+* Nébih (2017). [ECHA szakvélemény: nincs rákkeltő hatása a glifozátnak.](http://portal.nebih.gov.hu/-/echa-szakvelemeny-nincs-rakkelto-hatasa-a-glifozatnak)
+
+* NICOLIA, A. – MANZO, A. – VERONESI, F. – ROSELLINI, D. (2013). [An overview of the last 10 years of genetically engineered crop safety research.](https://geneticliteracyproject.org/wp-content/uploads/2013/10/Nicolia-20131.pdf) – Critical Reviews in Biotechnology 34(1), pp. 77-88.
+
+* PLEWIS, I. (2014a). [Indian farmer suicides: Is GM cotton to blame?](https://doi.org/10.1111/j.1740-9713.2014.00719.x) – Significance, Special Issue: Poverty and development.
+
+* PLEWIS, I. (2014b). [Hard Evidence: does GM cotton lead to farmer suicide in India? The Conversation.](https://theconversation.com/hard-evidence-does-gm-cotton-lead-to-farmer-suicide-in-india-24045)
+
+* PLOS ONE (2015). [Correction: Laboratory Rodent Diets Contain Toxic Levels of Environmental Contaminants: Implications for Regulatory Tests.](https://doi.org/10.1371/journal.pone.0135542) PLoS ONE 10(8): e0135542.
+
+* SCHROEDER, J. – CHASSY, B. – TRIBE, D. – BROOKES, G. – KERSHEN, D. (2015). [Organic Marketing Report. –  Academic Review.](http://hoards.com/sites/default/files/Academics-Review_Organic-Marketing-Report.pdf)
+http://organicnetwork.biz/organic-marketing-report-2015/
+
+* SÉRALINI, G-E. – CLAIR, E. – MESNAGE, R. – GRESS, S. – DEFARGE, N. – MALATESTA, M.  – HENNEQUIN, D. – DE VENDÔMOIS, J. S. (2012). [Long term toxicity of a Roundup herbicide and a Roundup-tolerant genetically modified maize.](http://www.sciencedirect.com/science/article/pii/S0278691512005637) – Food and Chemical Toxicology 50(11), pp. 4221-4231.
+
+* SÉRALINI, G-E. – CLAIR, E. – MESNAGE, R. – GRESS, S. – DEFARGE, N. – MALATESTA, M. – HENNEQUIN, D. – DE VENDÔMOIS, J. S. (2014). Republished study: long-term toxicity of a Roundup herbicide and a Roundup-tolerantgenetically modified maize. – Environmental Sciences Europe 26(14). DOI: 10.1186/s12302-014-0014-5
+
+* SMITH-SPANGLER, C. – BRANDEAU, M. L. – HUNTER, G. E. – BAVINGER, J. C. – PEARSON, M. – ESCHBACH, P. J. – SUNDARAM, V. – LIU, H. – SCHIRMER, P. – STAVE, C. – OLKIN, I. –BRAVATA, D. M. (2012). Are Organic Foods Safer or Healthier Than Conventional Alternatives? A Systematic Review. – Annals of Internal Medicine 157. 5. pp. 348-366.
+
+* TUOMISTO, L. H. – HODGE, D. I. – RIORDAN, P. – MACDONALD, W. D. (2012). Does organic farming reduce environmental impacts? – A meta-analysis of European research. – Journal of Environmental Management 112. pp. 309-320.
+
+* U.S. EPA (1993). [R.E.D. Facts. Glyphosate. EPA-738-F-93-011](https://www3.epa.gov/pesticides/chem_search/reg_actions/reregistration/fs_PC-417300_1-Sep-93.pdf)
+
+* U.S. EPA (2016). [Glyphosate Issue Paper: Evaluation of Carcinogenic Potential.](http://src.bna.com/iE2)
+
+* VENETIANER P. (2011). [4. A géntechnológia helye a genetikai beavatkozások között.](http://zoldbiotech.hu/articles/2012-04/6/book-small_MAGYAR%20VEGSO.pdf) – In. BALÁZS E. – DUDITS D. – SÁGI L. (szerk.): Genetikailag módosított élőlények (GMO-k) a tények tükrében. Magyar fehér könyv. – Szeged. pp. 13-18.
+ 
+* WHO IARC (2015). IARC Monographs Volume 112: evaluation of five organophosphate insecticides and herbicides. http://www.iarc.fr/en/media-centre/iarcnews/pdf/MonographVolume112.pdf
+
+### Internetes források
+
+* A Monsanto Intern 2016. http://www.amonsantointern.com/blog/2016/6/12/myth-number-one-monsanto-employees-only-eat-organic-non-gmo
+
+* Agent Orange, Wikipedia. https://hu.wikipedia.org/wiki/Agent_Orange
+ANTICS K. (2013). A génmódosított növények kockázatairól. Gazdazóna. http://www.gazdazona.hu/2013/05/08/a-genmodositott-novenyek-kockazatairol/
+
+* Argumentum ad nauseam, Wikipedia. https://hu.wikipedia.org/wiki/Argumentum_ad_nauseam
+
+* Authority Nutrition (2016). https://authoritynutrition.com/how-much-caffeine-in-coffee/
+
+* BBC Science Focus (2012). Szabadtéri Agrármúzeum? http://m.cdn.blog.hu/cr/criticalbiomass/image/201203/bbc_science_focus_2012_01_02-PoppJ_interj%C3%BA.pdf
+
+* BOOBIS, A. –MORETTO, A. –COHEN, S. (2017). WHO’s IARC under fire for ignoring exculpatory data on glyphosate: Should it be reformed or abolished? Genetic Literacy Project. https://geneticliteracyproject.org/2017/06/16/whos-iarc-fire-ignoring-exculpatory-data-glyphosate-reformed-abolished/
+
+* Canadian Centre for Occupational Health and Safety. https://www.ccohs.ca/oshanswers/chemicals/ld50.html
+
+* Collegium Ramazzini. http://www.collegiumramazzini.org/fellows.asp
+CRIIGEN. http://www.criigen.org/Qui-Sommes-Nous#element-equipe-list--content
+
+* DA SILVEIRA, E. (2013). More cellulose per square centimeter. Pesquisa FAPESP. http://revistapesquisa.fapesp.br/en/2013/04/01/more-cellulose-per-square-centimeter/
+
+* DESPAIN, D. (2015). Organic industry and other funders behind Séralini’s anti-GMO studies. Genetic Literacy Project. https://geneticliteracyproject.org/2015/06/18/organic-industry-and-other-funders-behind-seralinis-anti-gmo-studies/
+
+* EDF (2016). Annual Report 2016. https://www.edf.org/sites/default/files/EDF_AR2016.pdf
+
+* GM Watch (2002). Prodigene officials may face jail/Contamination could be AIDS vaccine or blood thickener. http://www.gmwatch.org/en/latest-listing/41-2002/3278-prodigene-officials-may-face-jailcontamination-could-be-aids-vaccine-or-blood-thickener
+
+* HILTON, C. W. (2012). Monsanto & the Global Glyphosate Market: Case Study. The Wiglaf Journal. http://www.wiglafjournal.com/pricing/2012/06/monsanto-the-global-glyphosate-market-case-study/
+
+* Idők Jelei (2012). Biotech farmok: Vakcinák és gyógyszerek a GMO termésben. (A honlap nem megbízható hírforrás!) http://idokjelei.hu/2012/10/biotech-farmok-vakcinak-es-gyogyszerek-a-gmo-termesben/
+
+* Index (2012). GMO-élelmiszerek mellett érvelt, kirúgták. http://index.hu/tudomany/2012/03/29/genmodositott_elelmiszerek_mellett_ervelt_kirugtak/
+
+* KATIRAEE, L. (2015a). GMOs and Patents: Part 1 – Terminator Genes. Biology Fortified. https://www.biofortified.org/2015/12/gmos-and-patents-part-1-terminator-genes/
+
+* KATIRAEE, L. (2015b). GMOs and Patents: Part 2 – Lawsuits against Farmers. Biology Fortified. https://www.biofortified.org/2015/12/lawsuits-against-farmers/
+
+* KATIRAEE, L. (2015c). GMOs and Patents: Part 3 – Lawsuits for inadvertent contamination. Biology Fortified. https://www.biofortified.org/2015/12/lawsuits-for-inadvertent-contamination/
+
+* KELLY, J. – STIER, J. (2017). Who’s Getting Money from NIH?. National Review. http://www.nationalreview.com/article/446335/nih-grants-ramazzini-iarc-may-not-meet-scientific-standards
+
+* KLOOR, K. (2014). The Rich Allure of a Peasant Champion. Discover. http://blogs.discovermagazine.com/collideascape/2014/10/23/rich-allure-vandana-shiva/#.WTm7uzd94nT
+
+* KOTTKE, J. (2013). The magical Brassica oleracea plant. http://kottke.org/13/09/the-magical-brassica-oleracea-plant
+
+* KOVÁCS V. (nincs év). Inzulin. Gruiz Katalin Biotechnológiai ismeretek c. tárgyához készült prezentáció, BME. http://enfo.agt.bme.hu/drupal/sites/default/files/inzulinGKj%20%281%29.pdf
+
+* Laissez-Faire Republic. Right-Wing Conspiracy Theories and Left-Wing Conspiracy Theories Compared. http://laissez-fairerepublic.com/paranoias.htm
+
+* MarketWatch. A Monsanto és a Whole Foods. http://www.marketwatch.com/investing/stock/mon/financials, http://www.marketwatch.com/investing/stock/wfm/financials
+
+* MCCARTHY, M. (1999). GM food banned in Monsanto canteen. The Independent. http://www.independent.co.uk/environment/gm-food-banned-in-monsanto-canteen-737948.html
+
+* MILLER, M. (2016). Who funds the grassroots anti-GMO movement? Genetic Literacy Project. https://geneticliteracyproject.org/2016/09/15/funds-grassroots-anti-gmo-movement/
+
+* Millions Against Monsanto. https://www.organicconsumers.org/campaigns/millions-against-monsanto/what-you-need-know-about-gmo-labeling
+
+* Monsanto (2015). 2015 TUG. U.S. Technology Use Guide and IRM Overview. http://www.monsanto.com/sitecollectiondocuments/technology-use-guide.pdf (pp. 32-33.)
+
+* Monsanto. http://www.monsanto.com/newsviews/pages/what-monsanto-serves-in-its-cafeterias.aspx
+
+* NAGY-RADICS B. (2012). A Séralini-kísérlet kritikája – A GM-érme két oldala. Zöldbiotech. http://www.zoldbiotech.hu/cikk/323-A-S-ralini-k-s-rlet-kritik-ja-A-GM-rme-k-t-oldala
+Natural Society (2012). ‘Biofarms’ to Integrate Vaccines, Pharmaceuticals into GMO ‘Biopharmaceutical’ Crops. (A honlap nem megbízható hírforrás!) http://naturalsociety.com/biofarms-vaccines-pharmaceuticals-gmo-biopharmaceutical-crops/
+
+* NORERO, D. (2015). Latin American GMO powerhouse Brazil expands portfolio of crops with intro of new herbicide resistant soy. Genetic Literacy Project. https://www.geneticliteracyproject.org/2015/09/09/latin-american-gmo-powerhouse-brazil-expands-portfolio-of-crops-with-intro-of-new-herbicide-resistant-soy/
+
+* OKSENBERG, N. (2015). Why don’t farmers save seeds? Biology Fortified. https://www.biofortified.org/2015/06/why-dont-farmers-save-seeds/
+
+* ORANSKY, I. (2014). Republished Seralini GMO-rat study was not peer-reviewed, says editor. Retraction Watch. http://retractionwatch.com/2014/06/26/republished-seralini-gmo-rat-study-was-not-peer-reviewed-says-editor/
+
+* OTA (2015). U.S. organic sales post new record of $43.3 billion in 2015. https://www.ota.com/news/press-releases/19031
+
+* PORTERFIELD, A. (2016). Can water protect you from glyphosate ‘poisoning’? Gilles-Eric Séralini’s homeopathy “detox” hoax. Genetic Literacy Project. https://www.geneticliteracyproject.org/2016/12/21/can-water-protect-glyphosate-poisoning-gilles-eric-seralinis-homeopathy-detox-hoax/
+
+* Promar International. http://www.promar-international.com/default.aspx
+Ramazzini Institute. https://www.ramazzini.org/en/
+
+* SHIVA, V. (2013). Seed Monopolies, GMOs and Farmer Suicides in India – A response to Nature. Navdanya's Diary. http://www.navdanya.org/blog/?p=744
+
+* SPECTER, M. (2014). Seeds Of Doubt. An activist’s controversial crusade against genetically modified crops. The New Yorker. http://www.newyorker.com/magazine/2014/08/25/seeds-of-doubt
+
+* Syngenta (2016). Syngenta Seeds, LLC Stewardship Agreement. http://www.syngenta-us.com/stewardship/downloads/syngentastewardshipagreement.pdf
+
+* TRIBE, D. (2012a). Auchan and Carrefour financed CRIIGEN studies on GMOs. GMO Pundit. http://gmopundit.blogspot.hu/2012/09/auchan-and-carrefour-financed-criigen.html
+
+* TRIBE, D. (2012b). Etude Anti-Ogm de Séralini : les petits soldats de la Fondation pour le progrès de l’homme. GMO Pundit. http://gmopundit.blogspot.hu/2012/11/etude-anti-ogm-de-seralini-les-petits.html
+
+* Umweltinstitut München (2016). Hopfen und Malz verloren: Glyphosat-Rückstände im deutschen Bier. http://www.umweltinstitut.org/fileadmin/Mediapool/Downloads/02_Mitmach-Aktionen/11_Rettet_das_Reinheitsgebot/Glyphosat_Untersuchung_Umweltinstitut_2016.pdf
+
+* Urinale (2015). Auswertung von 2011 Humanurinproben auf ihren Glyphosatgehalt. http://www.urinale.org/wp-content/uploads/2016/03/PK-Daten-Handout.pdf
+
+* VARGA M. (2012). A józan ész és a GMO-mentesség. Zöldbiotech. http://www.zoldbiotech.hu/cikk/15-A-jozan-esz-es-a-GMO-mentesseg
+
+
+
+
+
+
+
+
 
 

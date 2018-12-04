@@ -137,7 +137,7 @@ Tehát az organikus piac növekedési lehetőségei korlátozottak lennének, ha
 
 A növényvédőszerek, a hormonok, az antibiotikumok és a GMO-k biztonságosságára vonatkozó vélt és kitalált aggodalmak a bioélelmiszer szektor eladásait növelő kulcsfontosságú elemek (2. ábra). Ezért keltenek félelmet a GMO-k nem létező veszélyeivel a nagy organikus cégek lobbicsoportjai.
 
-![Egy 1679 személyt megkérdező kérdőív eredményei. A megkérdezettek hány százaléka választotta az adott jellemzőt az alábbi két kérdésre válaszolva: 11. kérdés: Az alábbi listából mely jellemzők azok, amelyekre az „organikus” kifejezés utalhat? 12. kérdés: Az alábbi listából mely jellemzők azok, amelyekre a „természetes” kifejezés utalhat? (Beyond Natural and Organic 2010, The Hartman Group Inc.) (In. SCHROEDER, J. et al. 2015).]()
+![Egy 1679 személyt megkérdező kérdőív eredményei. A megkérdezettek hány százaléka választotta az adott jellemzőt az alábbi két kérdésre válaszolva: 11. kérdés: Az alábbi listából mely jellemzők azok, amelyekre az „organikus” kifejezés utalhat? 12. kérdés: Az alábbi listából mely jellemzők azok, amelyekre a „természetes” kifejezés utalhat? (Beyond Natural and Organic 2010, The Hartman Group Inc.) (In. SCHROEDER, J. et al. 2015).](/assets/images/organikus.png)
 
 
 A legnagyobb GMO-ellenes, zöld NGO szervezetek, melyeket a nagy biocégek (például a Whole Foods, az Applegate Organic, az Earthbound Farm, a Lundberg és a Stonyfield Organic) finanszíroznak: a **Sierra Club**, a **National Resource Defence Council**, az **Environmental Working Group**, a **Food & Water Watch**, az **Organic Consumers Association**, a **Beyond Pesticides** és a **Rodale Institute** (MILLER, M. 2016) (2. táblázat).

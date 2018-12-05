@@ -17,7 +17,7 @@ coverImage: gmo_corn.jpg
 comments: true
 topic: GMO
 ---
-Az antihumanista zöldek azért ellenzik a GMO-élelmiszereket és folytatnak a GMO-cégek ellen kampányokat, mert a nagy organikus élelmiszeripari cégek (mint például a Whole Food Market, a Stonyfield Organic, az Applegate Organic, az Earthbound Farm és a Lundberg) hatalmas összegekkel finanszírozzák őket. A „szép és jóságos” biocégek üzleti stratégiája, hogy elhitetik az emberekkel, hogy a „csúnya és gonosz” nagy vegyipari és biotechnológiai vállalatok (mint például a Monsanto, a Syngenta, a Bayer, a Dow, a DuPont és a BASF) a profitért mérgezik az embereket a GMO-kkal és a növényvédő szerekkel. A tudatos fogyasztó ezért vásárolja meg bioélelmiszer cégek „GMO- és vegyszermentesnek” reklámozott termékeit magasabb áron. A legnagyobb átverés az egészben, hogy a fogyasztó nem létező előnyökért fizet felárat az organikus, azaz biotermékekért.
+Az antihumanista zöldek azért ellenzik a GMO-élelmiszereket és folytatnak a GMO-cégek ellen kampányokat, mert a nagy organikus élelmiszeripari cégek (mint például a Whole Food Market, a Stonyfield Organic, az Applegate Organic, az Earthbound Farm és a Lundberg) hatalmas összegekkel finanszírozzák őket. A „szép és jóságos” biocégek üzleti stratégiája, hogy elhitetik az emberekkel, hogy a „csúnya és gonosz” nagy vegyipari és biotechnológiai vállalatok (mint például a Monsanto, a Syngenta, a Bayer, a Dow, a DuPont és a BASF) a profitért mérgezik az embereket a GMO-kkal és a növényvédő szerekkel. A tudatos fogyasztó ezért vásárolja meg a bioélelmiszer cégek „GMO- és vegyszermentesnek” reklámozott termékeit magasabb áron. A legnagyobb átverés az egészben, hogy a fogyasztó nem létező előnyökért fizet felárat az organikus, azaz biotermékekért.
 
 Röviden mit takar a „GMO” kifejezés? A „GMO” a „genetically modified organism”, azaz a genetikailag módosított organizmus rövidítése. Vagyis olyan élőlény (lehet állat és növény is), melynek génállományát molekuláris géntechnológiai eljárásokkal módosítják: például beültetnek egy gént egy haszonnövény génállományába stressz-, vírus-, baktérium-, rovar-, vagy növényvédőszer-rezisztencia kialakítása céljából, hogy ellenálljon ezeknek. A beültetett gén más növényből és baktériumból is származhat. Csak a növényekkel foglalkozom részletesen a továbbiakban.
 
@@ -43,9 +43,9 @@ A rovarok (kukoricabogár, kukoricamoly, Colorado-bogár) ellen védelmet nyújt
 
 A glifozát (többek között a Monsanto által gyártott RoundUp hatóanyaga) nem rákkeltő olyan koncentrációkban, ahogyan az élelmiszerekből szervezetbe kerül. A glifozát esetleges rákkeltő hatását tudományos kutatóintézetek és független ellenőrző szervek már többször kiértékelték. Ezek közül egy kivételével az összes szervezet arra a következtetésre jutott a tudományos szakirodalom áttanulmányozása és értékelése során, hogy az emberi szervezetbe kerülő dózisokban a glifozátnak nincsen rákkeltő hatása. A glifozát az alábbi szervezetek szerint biztonságos:
 
-* az USA Környezetvédelmi Ügynöksége (EPA, Environmental Protection Agency) kiértékelései (U. S. EPA 1993, 2016);
+* az USA Környezetvédelmi Ügynöksége (EPA, Environmental Protection Agency) kiértékelései (U. S. EPA 1993, 2016);
 
-* Európai Élelmiszerbiztonsági Hivatal (EFSA, European Food Safety Authority) (EFSA 2016);
+* Európai Élelmiszerbiztonsági Hivatal (EFSA, European Food Safety Authority) (EFSA 2016);
 
 * a német Szövetségi Kockázatértékelési Intézet (BfR, Bundesinstitut für Risikobewertigung) (BfR 2015);
 
@@ -156,7 +156,7 @@ A Monsanto-nak nagyon rossz a sajtója, amit az ellenfelei maximálisan kihaszn�
 
 Az organikus lobbiszervezetek szintén igyekeznek elérni, hogy a GMO-alapanyagokat tartalmazó élelmiszereket címkézzék, pontosabban megbélyegezzék. Az organikus élelmiszeripar szintén használ a saját ökotermékeire címkéket. Ez azt a célt szolgálja, hogy az organikus lobbi által megtévesztett fogyasztók könnyebben megkülönböztessék a „rossz” élelmiszereket a „jótól”, és a „bio” megjelölésű, tehát a „kóser” termékeket vegyék le a polcról. Majd később látni fogjuk, hogy a bio minősítésű termékek (2. kép) fogyasztása semmilyen többletelőnnyel nem jár. A gazdag nagyvárosiak a legnagyobb „tudatos” fogyasztói ezeknek a drága luxustermékeknek. Ezért is van olyan hatalmas üzlet a biotermékek gyártásában. A véleményem az, hogy általában nem jár rosszul az ember akkor, ha hazai termelőtől vásárol élelmiszert a piacon.
 
-![2. kép: Az EU bio logója. Amelyik terméken rajta van, az bio minősítésű (kép: Biokultúra Egyesület).](/assets/images/bio_logo.jpg)
+![2. kép: Az EU bio logója. Amelyik terméken rajta van, az bio minősítésű (kép: Biokultúra Egyesület).](/assets/images/bio_logo.jpg){.medium-img}
 
 ## Irodalom
 

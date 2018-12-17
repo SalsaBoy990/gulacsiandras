@@ -3,7 +3,7 @@
 
 @media (max-width: 400px) {
     body, html {
-        font-size: 14px !important
+        font-size: 16px !important
     }
 
     #mc_embed_signup {
@@ -27,14 +27,14 @@
     }
 
     body, html {
-        font-size: 16px !important
+        font-size: 18px !important
     }
 
 }
 
 @media (min-width: 86rem) {
     html, body {
-        font-size: 22px
+        font-size: 24px
     }
 }
 
@@ -527,6 +527,10 @@ form {
     background-color: #117bb8
 }
 
+.bg-gray {
+    background-color: #ccc
+}
+
 .white {
     color: #FFFFFF
 }
@@ -837,7 +841,7 @@ tr:nth-child(even) {
 
 body,
 html {
-    font-size: 20px;
+    font-size: 24px;
     font-family: 'PT Serif', Georgia, 'Times New Roman', Times, serif;
     line-height: 1.7;
     margin: 0;

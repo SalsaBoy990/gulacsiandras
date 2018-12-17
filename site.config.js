@@ -9,7 +9,7 @@ module.exports = {
     quote: 'Az ideológiai alapú, utópisztikus gondolkodás ellen veszem fel a küzdelmet a tények, a tapasztalatok és a józan ész segítségével, hogy ne váljon pusztító ideológiák martalékává a társadalom.',
     description: 'Üdvözöllek! Gulácsi András vagyok, UX designer, frontend fejlesztő, környezettudós és amatőr táncos.',
     github: 'SalsaBoy990',
-    linkedin: 'andrasgulacsi',
+    linkedin: 'andr%C3%A1s-gul%C3%A1csi-548b5a176',
     currentYear: new Date().getFullYear()
   }
 }

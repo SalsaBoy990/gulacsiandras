@@ -20,7 +20,7 @@ A sorozat első része: [Félelemkeltés a GMO-kkal és a vegyszerekkel. A zöld
 Minden bizonnyal hallottak már a molekuláris biológus Séralini-ról és a patkányetetési kísérletéről. Séralini professzor fő kutatási témája a Monsanto által kifejlesztett glifozát és a GMO-k veszélyeinek a „dokumentálása”. Séralini kutatócsoportjának a Food and Chemical Toxicology nevű rangos folyóiratban megjelent patkányetetési tanulmányát (SÉRALINI, G. E. et al. 2012) – amely a glifozát egészségkárosító hatásait hivatott „bizonyítani”, és amit utólag, szakmai nyomásra, visszavont a folyóirat (1. kép) –, valamint Séralini két könyvét és egy GMO-ellenes filmet, **3,2 millió euróval támogatott két francia organikus óriás: az Auchan és a Carrefour** (TRIBE, D. 2012a).
 
  
-![1. kép: Séralini et al. (2012) tanulmánya visszavonva (RETRACTED). (A cikk továbbra is elérhető, viszont egy vízjelet raktak a szövegbe „visszavonva” szöveggel.)](/assets/images/articles/1_seralini_paper.jpg)
+![1. kép: Séralini et al. (2012) tanulmánya visszavonva (RETRACTED). (A cikk továbbra is elérhető, viszont egy vízjelet raktak a szövegbe „visszavonva” szöveggel](/assets/images/1_seralini_paper.jpg){.medium-img}
 
 
 Az Auchan elismerte, míg a Carrefour tagadta, hogy finanszírozta volna Séralini-ék tanulmányát. Ez tényleg nagyon hihető mese, ugyanis a Carrefour 2000 és 2010 között képviseltette magát a CRIIGEN igazgatótanácsában. A **CRIIGEN** (Comittee of Research and Independent Information on Genetic Engineering) egy „független” „tudományos” kutatótestület, melynek **alapító tagjai közt ott találjuk Séralini-t.** Ő jelenleg a CRIIGEN tudományos testületének egyik tagja (forrás: CRIIGEN).
@@ -31,11 +31,11 @@ Arról már kevesebben hallottak, hogy léteznek olyan homeopátiás termékek, 
 
 A homeopátia az a bizarr, áltudományos elképzelés, hogy egy készítmény olyan összetevőkkel, melyeken olyan mértékű hígítást alkalmaznak, aminek eredményeként a végtermékben a kiindulási anyagból már semmi sincs, kigyógyít a betegségekből. Gyakorlatilag csak víz, amit jó pénzért el lehet adni.
 
-![2. kép: Homeopátiás „csodaszer”: Digeodren](/assets/images/articles/2_digeodren.jpg)
+![2. kép: Homeopátiás „csodaszer”: Digeodren](/assets/images/2_digeodren.jpg){.medium-img}
 
-Séralini egy másik tanulmánya PLOS One folyóiratban jelent meg (MESNAGE, R. et al. 2015), viszont az említett folyóirat **az érdekellentétek feltüntetésére kényszerítette** utólagosan. Az alábbi bekezdéssel kellett kiegészíteni a cikket (3. ábra):
+Séralini egy másik tanulmánya PLOS One folyóiratban jelent meg (MESNAGE, R. et al. 2015), viszont az említett folyóirat **az érdekellentétek feltüntetésére kényszerítette** utólagosan. Az alábbi bekezdéssel kellett kiegészíteni a cikket (3. kép):
  
-3. ábra: Érdekellentétek: A szerzők a mostani és a korábbi kutatásaikra támogatást kaptak az itt felsorolt „GMO-kat” ellenző, organikus lobbi szervezetektől (PLOS ONE 2015).
+![3. kép: Érdekellentétek: A szerzők a mostani és a korábbi kutatásaikra támogatást kaptak az itt felsorolt „GMO-kat” ellenző, organikus lobbi szervezetektől (PLOS ONE 2015)](/assets/images/3_seralini_conflict_of_interest.jpg)
 
 Ebből kiderült, hogy Séralini-t és kollégáit még kik támogatják:
 * Nature Viviante: egy kereskedelmi egyesület az „ökologikus életért”; a GMO-mentes, organikus életmódot reklámozza.
@@ -57,7 +57,9 @@ A **Testbiotech** a támogatói között feltünteti az FHP-t. A szervezet egyik
 A **Combat Monsanto** nevű szervezet Marie-Monique Robin „A Monsanto szerint a világ” című propagandafilmjének eredményeként jött létre, amihez **170 000 euróval járult hozzá** az FPH, 4. ábra (TRIBE, D. 2012b).
 
  
-4. ábra: A Foundations Charles Léopold Mayer for the Progress of Humankind alapítvány GMO-ellenes szervezetek számára az elérhető információk szerint több millió eurót folyósított (TRIBE, D. 2012b).
+![1. ábra: A Foundations Charles Léopold Mayer for the Progress of Humankind alapítvány GMO-ellenes szervezetek számára az elérhető információk szerint több millió eurót folyósított (TRIBE, D. 2012b)](/assets/images/4_charles_leopold_mayer.jpg)
+
+![A korrupt és csaló Séralini (középen, öltönyben) néhány munkatársa társaságában](/assets/images/5_a_korrupt_seralini_es_mtsai.jpg){.medium-img}
 
 
 ## A Séralini-ügy, 2. felvonás
@@ -68,7 +70,7 @@ A SÉRALINI, G-E. et al. (2012) „Egy Roundup herbicid és egy genetikailag mó
 
 „**A francia Biotechnológiai Főtanács elutasítja az NK603 jelű kukoricával végzett etetési kísérletet.**{.red} Immár másfél hónapja, hogy egy friss botrány újrafűtötte a génmódosított növények körüli vitát, elsősorban Európában. Daganatos patkányok képei járták be a sajtót, a média napokig korbácsolta az indulatokat a „rákot okozó GMO-k” körül. Miközben a bulvárhullám lecsengett, elkezdtek sorjázni a szakmai vélemények, tudományos kritikák a G. E. Séralini és munkacsoportja által publikált munkáról. **Az élettudományok területén dolgozó és megszólaló kutatók döntő többsége – vérmérsékletétől függő stílusban – kétségbe vonja e munka eredményeit.**{.red} Ebbe a sorba illeszkedik a francia Biotechnológiai Főtanács álláspontja is, mely egyértelműen elutasítja, hogy az NK603 jelű kukoricával végzett etetési kísérletetek következtetés-levonására alkalmasak lennének.
 
-8. ábra: Kisokos azok számára, akik meg szeretnék ismételni Séralini patkányetetős tanulmányát (ismeretlen szerző alapján lefordítva és módosítva).
+![2. ábra: Kisokos azok számára, akik meg szeretnék ismételni Séralini patkányetetős tanulmányát (ismeretlen szerző alapján lefordítva és módosítva)](/assets/images/)
 
 A francia biobiztonsági testület, a Biotechnológiai Főtanács, valamint a Nemzeti Egészségbiztonsági Felügyelet, az Anses egyöntetűen elutasította azt a közelmúltban napvilágot látott állítást, mely az NK603 jelű, genetikailag módosított, glifozát-toleráns kukorica egészségkárosító hatásáról számol be.
 

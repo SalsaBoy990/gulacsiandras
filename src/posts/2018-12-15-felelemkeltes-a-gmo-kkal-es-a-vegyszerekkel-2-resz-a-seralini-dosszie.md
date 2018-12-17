@@ -17,21 +17,21 @@ A sorozat első része: [Félelemkeltés a GMO-kkal és a vegyszerekkel. A zöld
 
 ## A Séralini botrány, 1. felvonás
 
-Minden bizonnyal hallottak már a molekuláris biológus Séralini-ról és a patkányetetési kísérletéről. Séralini professzor fő kutatási témája a Monsanto által kifejlesztett glifozát és a GMO-k veszélyeinek a „dokumentálása”. Séralini kutatócsoportjának a Food and Chemical Toxicology nevű rangos folyóiratban megjelent patkányetetési tanulmányát (SÉRALINI, G. E. et al. 2012) – amely a glifozát egészségkárosító hatásait hivatott „bizonyítani”, és amit utólag, szakmai nyomásra, visszavont a folyóirat (3. kép) –, valamint Séralini két könyvét és egy GMO-ellenes filmet, **3,2 millió euróval támogatott két francia organikus óriás: az Auchan és a Carrefour** (TRIBE, D. 2012a).
+Minden bizonnyal hallottak már a molekuláris biológus Séralini-ról és a patkányetetési kísérletéről. Séralini professzor fő kutatási témája a Monsanto által kifejlesztett glifozát és a GMO-k veszélyeinek a „dokumentálása”. Séralini kutatócsoportjának a Food and Chemical Toxicology nevű rangos folyóiratban megjelent patkányetetési tanulmányát (SÉRALINI, G. E. et al. 2012) – amely a glifozát egészségkárosító hatásait hivatott „bizonyítani”, és amit utólag, szakmai nyomásra, visszavont a folyóirat (1. kép) –, valamint Séralini két könyvét és egy GMO-ellenes filmet, **3,2 millió euróval támogatott két francia organikus óriás: az Auchan és a Carrefour** (TRIBE, D. 2012a).
 
  
-3. kép: Séralini et al. (2012) tanulmánya visszavonva (RETRACTED). (A cikk továbbra is elérhető, viszont egy vízjelet raktak a szövegbe „visszavonva” szöveggel.)
+![1. kép: Séralini et al. (2012) tanulmánya visszavonva (RETRACTED). (A cikk továbbra is elérhető, viszont egy vízjelet raktak a szövegbe „visszavonva” szöveggel.)](/assets/images/articles/1_seralini_paper.jpg)
 
 
 Az Auchan elismerte, míg a Carrefour tagadta, hogy finanszírozta volna Séralini-ék tanulmányát. Ez tényleg nagyon hihető mese, ugyanis a Carrefour 2000 és 2010 között képviseltette magát a CRIIGEN igazgatótanácsában. A **CRIIGEN** (Comittee of Research and Independent Information on Genetic Engineering) egy „független” „tudományos” kutatótestület, melynek **alapító tagjai közt ott találjuk Séralini-t.** Ő jelenleg a CRIIGEN tudományos testületének egyik tagja (forrás: CRIIGEN).
 
 További **1,5 millió eurót biztosított a CERES**, ami a CRIIGEN egyik támogató szervezete. A CERES Gérald Mulliez kezdeményezésére jött létre, aki nem más, mint az Auchan multinacionális cég alapítója! Ezen kívül **900 000 euró érkezett a Foundations Charles Léopold Mayer (FCLM) for the Progress of Humankind** organikus élelmiszereket támogató, GMO-ellenes alapítványtól.
 
-Arról már kevesebben hallottak, hogy léteznek olyan homeopátiás termékek, melyek semlegesítik a glifozát mérgező hatásait az emberi szervezetben! A francia Gilles-Eric **Séralini a „természetes” termékeket gyártó Sevene Pharma cégnél tanácsadó.** A feltalált homeopátiás „gyógyszer” neve **Digeodren** (4. kép), ami az állítások szerint „visszafordítja a glifozátnak való hosszú távú kitettség káros hatásait” (Sic!) (PORTERFIELD, A. 2016).
+Arról már kevesebben hallottak, hogy léteznek olyan homeopátiás termékek, melyek semlegesítik a glifozát mérgező hatásait az emberi szervezetben! A francia Gilles-Eric **Séralini a „természetes” termékeket gyártó Sevene Pharma cégnél tanácsadó.** A feltalált homeopátiás „gyógyszer” neve **Digeodren** (2. kép), ami az állítások szerint „visszafordítja a glifozátnak való hosszú távú kitettség káros hatásait” (Sic!) (PORTERFIELD, A. 2016).
 
 A homeopátia az a bizarr, áltudományos elképzelés, hogy egy készítmény olyan összetevőkkel, melyeken olyan mértékű hígítást alkalmaznak, aminek eredményeként a végtermékben a kiindulási anyagból már semmi sincs, kigyógyít a betegségekből. Gyakorlatilag csak víz, amit jó pénzért el lehet adni.
 
-4. kép: Homeopátiás „csodaszer” (kép: Genetic Literacy Project).
+![2. kép: Homeopátiás „csodaszer”: Digeodren](/assets/images/articles/2_digeodren.jpg)
 
 Séralini egy másik tanulmánya PLOS One folyóiratban jelent meg (MESNAGE, R. et al. 2015), viszont az említett folyóirat **az érdekellentétek feltüntetésére kényszerítette** utólagosan. Az alábbi bekezdéssel kellett kiegészíteni a cikket (3. ábra):
  

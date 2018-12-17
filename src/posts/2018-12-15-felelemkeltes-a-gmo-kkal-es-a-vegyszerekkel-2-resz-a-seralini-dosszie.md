@@ -60,7 +60,7 @@ A **Combat Monsanto** nevű szervezet Marie-Monique Robin „A Monsanto szerint 
  
 ![1. ábra: A Foundations Charles Léopold Mayer for the Progress of Humankind alapítvány GMO-ellenes szervezetek számára az elérhető információk szerint több millió eurót folyósított (TRIBE, D. 2012b)](/assets/images/4_charles_leopold_mayer.jpg)
 
-![A korrupt és csaló Séralini (középen, öltönyben) néhány munkatársa társaságában](/assets/images/5_a_korrupt_seralini_es_mtsai.jpg){.medium-img}
+![4. kép: A korrupt és csaló Séralini (középen, öltönyben) néhány munkatársa társaságában](/assets/images/5_a_korrupt_seralini_es_mtsai.jpg){.medium-img}
 
 
 ## A Séralini-ügy, 2. felvonás
@@ -93,7 +93,9 @@ Továbbá az sem elhanyagolható tény, hogy Séralini és csoportja **egy olyan
 
 Az OECD irányelvei szerint a Séralini és csoportja által végzett és ehhez hasonló kísérletekben a vizsgált állatok legalább 50%-ának el kell érnie a kísérletben kitűzött életkort – jelen esetben a 104 hetet –, rosszabb túlélési arány esetében pedig az állatok számát nemenként 50-ről 65-re kell emelni. A kutatáshoz választott fajta azonban nemcsak nem teljesíti a fenti kitételt, de a csoport által vizsgált, nemenként 10-10 állat messze elmarad a statisztikailag értékelhető egyedszámtól” (NAGY-RADICS B. 2012).
 
-Összefoglalva, olyan patkányfajt vizsgáltak tehát, amelynél **két év alatt spontán, magától is 60-80%-ban kialakul rák.** A tanulmányban szereplő horrorisztikus felvételek ugyanannyira lehetnek a kontrollcsoportból, mint a GMO-sból. **Miért nem mutatnak képeket a kontrollcsoportból is?** A kontrollcsoport az, amit hagyományos (nem-GMO) táppal etettek, és ezzel hasonlítják össze a GM-kukoricával etetett csoportokat – Roundup-pal kezelt GM-kukorica, Roundup-pal nem kezelt GM-kukorica etetése, Roundup hozzáadása a patkányok ivóvizébe eseteket vizsgálták –, hogy van-e kimutatható különbség a kontroll és a kezelt csoportok egyedei között, amiből a glifozát lehetséges egészségkárosító hatásaira következtetni lehet. Egy 10 fős mintából viszont, ahol természetes úton is elrákosodik 6-8 közötti példány, kimutathatatlan, hogy azt a GMO-s etetés okozta vagy sem. **Az eredményekből semmilyen tudományos következtetést nem lehet levonni** (2. melléklet).
+Összefoglalva, olyan patkányfajt vizsgáltak tehát, amelynél **két év alatt spontán, magától is 60-80%-ban kialakul rák.** A tanulmányban szereplő horrorisztikus felvételek ugyanannyira lehetnek a kontrollcsoportból, mint a GMO-sból. **Miért nem mutatnak képeket a kontrollcsoportból is?** A kontrollcsoport az, amit hagyományos (nem-GMO) táppal etettek, és ezzel hasonlítják össze a GM-kukoricával etetett csoportokat – Roundup-pal kezelt GM-kukorica, Roundup-pal nem kezelt GM-kukorica etetése, Roundup hozzáadása a patkányok ivóvizébe eseteket vizsgálták –, hogy van-e kimutatható különbség a kontroll és a kezelt csoportok egyedei között, amiből a glifozát lehetséges egészségkárosító hatásaira következtetni lehet. Egy 10 fős mintából viszont, ahol természetes úton is elrákosodik 6-8 közötti példány, kimutathatatlan, hogy azt a GMO-s etetés okozta vagy sem. **Az eredményekből semmilyen tudományos következtetést nem lehet levonni** (3. ábra).
+
+![3. ábra: Az egyik ábra Séralini et al. (2012) visszavont tanulmányából. Tumorok Sprague-Dawley patkányokon a kezelt csoportból. A kontroll csoport patkányairól nem mutat képet (azokon is ilyen tumorok nőttek, hiszen ez a patkánytörzs hajlamos spontán tumorosodásra). A „retracted” szó jelentése: visszavonva.](/assets/images/seralini_retracted.jpg)
 
 „A Francia Tudományos Akadémia felveti, hogy
 

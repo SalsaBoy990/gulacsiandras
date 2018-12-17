@@ -13,6 +13,8 @@ coverImage: gmo_corn.jpg
 comments: true
 topic: gmo
 ---
+A sorozat első része: [Félelemkeltés a GMO-kkal és a vegyszerekkel. A zöld szervezetek kapcsolata az organikus élelmiszerlobbival.](https://www.gulacsiandras.blog/2018/12/03/felelemkeltes-a-gmo-kkal-es-a-vegyszerekkel-a-zold-szervezetek-kapcsolata-az-organikus-elelmiszerlobbival)
+
 ## A Séralini botrány, 1. felvonás
 
 Minden bizonnyal hallottak már a molekuláris biológus Séralini-ról és a patkányetetési kísérletéről. Séralini professzor fő kutatási témája a Monsanto által kifejlesztett glifozát és a GMO-k veszélyeinek a „dokumentálása”. Séralini kutatócsoportjának a Food and Chemical Toxicology nevű rangos folyóiratban megjelent patkányetetési tanulmányát (SÉRALINI, G. E. et al. 2012) – amely a glifozát egészségkárosító hatásait hivatott „bizonyítani”, és amit utólag, szakmai nyomásra, visszavont a folyóirat (3. kép) –, valamint Séralini két könyvét és egy GMO-ellenes filmet, **3,2 millió euróval támogatott két francia organikus óriás: az Auchan és a Carrefour** (TRIBE, D. 2012a).

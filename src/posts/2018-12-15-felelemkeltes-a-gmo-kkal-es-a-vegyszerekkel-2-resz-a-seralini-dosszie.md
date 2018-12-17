@@ -70,7 +70,7 @@ A SÉRALINI, G-E. et al. (2012) „Egy Roundup herbicid és egy genetikailag mó
 
 „**A francia Biotechnológiai Főtanács elutasítja az NK603 jelű kukoricával végzett etetési kísérletet.**{.red} Immár másfél hónapja, hogy egy friss botrány újrafűtötte a génmódosított növények körüli vitát, elsősorban Európában. Daganatos patkányok képei járták be a sajtót, a média napokig korbácsolta az indulatokat a „rákot okozó GMO-k” körül. Miközben a bulvárhullám lecsengett, elkezdtek sorjázni a szakmai vélemények, tudományos kritikák a G. E. Séralini és munkacsoportja által publikált munkáról. **Az élettudományok területén dolgozó és megszólaló kutatók döntő többsége – vérmérsékletétől függő stílusban – kétségbe vonja e munka eredményeit.**{.red} Ebbe a sorba illeszkedik a francia Biotechnológiai Főtanács álláspontja is, mely egyértelműen elutasítja, hogy az NK603 jelű kukoricával végzett etetési kísérletetek következtetés-levonására alkalmasak lennének.
 
-![2. ábra: Kisokos azok számára, akik meg szeretnék ismételni Séralini patkányetetős tanulmányát (ismeretlen szerző alapján lefordítva és módosítva)](/assets/images/)
+![2. ábra: Kisokos azok számára, akik meg szeretnék ismételni Séralini patkányetetős tanulmányát (ismeretlen szerző alapján lefordítva és módosítva)](/assets/images/hogyan_ismeteld_meg_seralini_patkanyeteteses_kiserletet.jpg)
 
 A francia biobiztonsági testület, a Biotechnológiai Főtanács, valamint a Nemzeti Egészségbiztonsági Felügyelet, az Anses egyöntetűen elutasította azt a közelmúltban napvilágot látott állítást, mely az NK603 jelű, genetikailag módosított, glifozát-toleráns kukorica egészségkárosító hatásáról számol be.
 

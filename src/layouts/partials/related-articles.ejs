@@ -1,0 +1,30 @@
+<section>
+  <div>
+    <% var count = 0; %>
+    <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+      <% if (postsDataForIndexPage[i].topic === topic) { %>
+        <% count = count + 1; %>
+      <% } %>
+    <% } %>
+    
+    <% if (count > 1) { %>
+    <h4 class="mb1">Kapcsolódó cikkek</h4>
+    <% } %>
+    
+    <ul class="no-bullets m0">
+    <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+    <% if (postsDataForIndexPage[i].topic === topic) { %>
+      
+      <% if (postsDataForIndexPage[i].dateFormatted != date) { %>
+      
+      <li class="pbhalf fs-22 mb1">
+        <a href="<%= postsDataForIndexPage[i].pathToPost %>" class="black-link">
+          <%= postsDataForIndexPage[i].title %>
+        </a><span class="medium-gray">(<%= postsDataForIndexPage[i].dateFormatted %>)</span>
+      </li>
+      <% } %>
+    <% } %>
+    <% } %>
+    </ul>
+  </div>
+</section>

@@ -1,5 +1,5 @@
 ---
-title: Valóban túlnépesedett az emberiség? 2/2. rész
+title: Valóban túlnépesedett az emberiség? 2. rész
 date: '2018-11-13'
 excerpt: >-
   A cikksorozatban a világnépesség jövőbeli alakulásának prognózisait, a
@@ -97,7 +97,8 @@ Ebben a szakaszban vannak ma a népességrobbanáson már túljutott arab, ázsi
 
 Újra egyensúlyba kerül a népesség. A születések és a halálozások alacsony szinten állandósulnak. A népesség öregedő korszerkezetet mutat.
 
-Ezek az országok tartoznak ide: USA, Kanada, Ausztrália, Új-Zéland, Franciaország, Belgium, Hollandia, Nagy-Britannia, Svájc, Svédország és a Koreai Köztársaság (Dél-Korea).
+Ezek az országok tartoznak ide: USA, Kanada, Ausztrália, Új-Zéland, Franciaország, Belgium, Hollandia, Nagy-Britannia, Svájc, Svédország és a Koreai Köztársaság
+ (Dél-Korea).
 
 Földünk számos, főként európai országában a születések száma úgy lecsökkent, hogy a népesség fogyásnak indult: Olaszország, Németország, Lengyelország, Horvátország, Csehország, Magyarország, Szlovénia, Oroszország, Bulgária, Észtország, Ukrajna, Japán stb. esetén.
 

@@ -5,9 +5,9 @@
   <%- include partials/header %>
   <main>
     <div>
-      <div class="container p1 bg-white">
-        <div class="row">
-          <div id="article" class="mt2 mb0 p1 col-sm-12"> 
+      <div class="container-fluid p0 m0">
+        <div class="row mx-responsive">
+          <div id="article" class="mt2 mb0 col-12 p0"> 
           <%- include partials/post-title %>
           <%- body %>
           <%- include partials/share %>
@@ -15,10 +15,17 @@
           </div>
         </div>
       </div>
+      <div class="container-fluid p0 m0 bg-pattensblue">
+        <div class="row mx-responsive p0">
+          <div class="m0 col-12 p0"> 
+          <%- include partials/related-articles %>
+          </div>
+        </div>
+      </div>
     </div>
   </main>
   <%- include partials/footer %>
-  <%- include partials/bootstrap %>
+  <%- include partials/scripts %>
   <%- include partials/tracking %>
   <script id="dsq-count-scr" src="//gulacsi-andras.disqus.com/count.js" async></script>
 </body>

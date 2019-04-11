@@ -1,5 +1,5 @@
 ---
-title: Valóban túlnépesedett az emberiség? 1/2. rész
+title: Valóban túlnépesedett az emberiség? 1. rész
 date: '2018-11-10'
 excerpt: >-
   A cikksorozatban a világnépesség jövőbeli alakulásának prognózisait, a
@@ -130,11 +130,13 @@ A cikksorozatom második részében a világnépesség jövőbeli alakulásával
 
 5. Thomas Robert Malthus (1826): [An Essay on the Principle of Population, or a View of its Past and Present Effects on Human Happiness; with an Inquiry into our Prospects respecting the Future Removal or Mitigation of the Evils which it Occasions. 6. kiadás, 2. kötet.](http://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-vol-2-1826-6th-ed) John Murray, London.
 
-6. Willis Eschenbach 2010: [I Am So Tired of Malthus.](https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/) WUWT.
+6. Willis Eschenbach 2010: [I Am So Tired of Malthus.](https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/
+) WUWT.
 
 7. Willis Eschenbach 2017: [Malthus Redux.](https://wattsupwiththat.com/2017/12/10/malthus-redux/) WUWT.
 
-* [FAOSTAT](http://www.fao.org/faostat/en/#data/CC)
+* [FAOSTAT](http://www.fao.org/faostat/en/#data/CC
+)
 
 
 ## Melléklet

@@ -10,7 +10,7 @@ excerpt: >-
   nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja.
 coverImage: gabona.jpg
 comments: true
-topic: szén-dioxid
+topic: Klímahisztéria
 ---
 *A tanulmányom*
 
@@ -20,15 +20,18 @@ Az alábbi részletek [Dr. Mőcsényi Mihály (1919–2017)](https://hu.wikipedi
 
 Annyit hozzátennék, hogy a szén-dioxid koncentráció emelkedése mellett, ebben a terméshozam-növekedésben a műtrágyák és a növényvédő szerek és a nagyobb hozamú fajták kinemesítése, valamint a mezőgazdaság gépesítése döntő szerepet játszott. Így teljes a kép.
 
-> „A szén-dioxid növényi táplálék, légtrágya. **A növények szárazanyag-tartalmának 1%-a kerül a talajból a növényzetbe. A tápanyagok zömét (99%-át) a levegőből veszi fel a vegetáció.**{.red} Az asszimilált szárazanyag tartalom 99%-ából 50% a szén, 45% a hidrogén, 0,5-1% szervetlen anyag (P, K, Na), a többi oxigén. A növények a táplálékot vízben oldottan veszik fel, továbbá azért is van szükségük H~2~O-ra, hogy a testhőmérsékletüket optimális szinten tartsák. 20-25 °C-nál a legtermelékenyebbek. A C3-as típusú növényekhez képest a C4-esek lényegesen magasabb hőmérsékleten fotoszintetizálnak és produktivitásuk is magasabb. Az első fotoszintézis folyamatban 4 szénatomot kötnek meg.”
+> „A szén-dioxid növényi táplálék, légtrágya. **A növények szárazanyag-tartalmának 1%-a kerül a talajból a növényzetbe. A tápanyagok zömét (99%-át) a levegőből veszi fel a vegetáció.**{.red} Az asszimilált szárazanyag tartalom 99%-ából 50% a szén, 45% a hidrogén, 0,5-1% szervetlen anyag (P, K, Na), a többi oxigén. A növények a táplálékot vízben oldottan veszik fel, továbbá azért is van szükségük H~2~O-ra, hogy a testhőmérsékletüket optimális szinten tartsák. 20-25 °C-nál a legtermelékenyebbek. A C3-as típusú növényekhez képest a C4-esek lényegesen magasabb hőmérsékleten fotoszintetizálnak és produktivitásuk is magasabb. Az első fotoszintézis folyamatban 4 szénatomot kötnek meg.
+”
 
 > „1 m^2^-nyi földfelületen élő növényzet, ami a levélfelületet tekintve általában 5-szöröse vagy több az alapterületnek (levélfelületi index), 1 óra alatt 25 légköbméter levegő szén-dioxidját az utolsó molekuláig elhasználja! A karbon korszak óriáspáfrányai a lényegesen nagyobb légköri CO~2~-koncentráció lehetőségét hasznosították, sokkal produktívabbak voltak [a hatalmas karbon kori kőszéntelepek megléte is bizonyítja a fokozott biomassza termelést], viszont a CO~2~-koncentráció csökkenésével nagy részük kipusztulhatott. **Amennyiben nem volna a légkörnek CO~2~-utánpótlása (bomlás, fosszilis tüzelőanyagok égetése), 35 év alatt a levegő összes szén-dioxid-tartalma elfogyna!**{.red}”
 
-> „**A második világháborút megelőzően egy hektárnyi mezőgazdasági területen átlagosan 14 mázsa búza, 20-22 mázsa kukorica termett. Napjainkban, ha a csapadékmennyiség kielégítő, 80-100 mázsa búza, illetve 120-150 mázsa kukorica terem egy hektáron. Az 50 évvel ezelőtti 6-7-szerese.**{.red}”
+> „**A második világháborút megelőzően egy hektárnyi mezőgazdasági területen átlagosan 14 mázsa búza, 20-22 mázsa kukorica termett. Napjainkban, ha a csapadékmennyiség kielégítő, 80-100 mázsa búza, illetve 120-150 mázsa kukorica terem egy hektáron. Az 50 évvel ezelőtti 6-7-szerese.**{.red}
+”
  
 A növények anyagcseréjében (metabolizmusában) központi szerepet játszik a CO~2~. Fotoszintetizáló organizmusok a légköri CO~2~-t a szén kémiai redukciójával veszik fel. Ezzel nyerik a kémiai energiát életműködésük fenntartásához és saját szerves szervezetük felépítéséhez szükséges szerves molekulákat. A szerves molekulákba fotoszintézisen keresztül asszimilált szén, hidrogén és oxigén egy tipikus növény teljes szárazanyag-tartalmának 96 %-át teszi ki (Marschner, H. 1995).
 
-Az emelkedett CO~2~-koncentráció vegetációra gyakorolt hatását úgy szokás vizsgálni, hogy a CO~2~ a mostani és a jövőbeli, megemelkedett légköri koncentrációjánál, általában üvegházakban vagy kamrákban termesztett növények növekedését hasonlítják össze, eltéréseket után kutatva. Viszont a valóságnak jobban megfelelnek a szabad levegőn végzett szén-dioxid dúsítási technikákkal ([Free-Air Carbon Dioxide Enrichment](http://en.wikipedia.org/wiki/Free-air_concentration_enrichment), FACE) végzett kutatások, melyek során vízszintes vagy függőleges csövekkel vesznek körül egy kísérleti parcellát, amik szén-dioxidban dúsított levegőt áramoltatnak a növények közé. A CO~2~-koncentrációt szenzorokkal mérik, és visszajeleznek a számítógépnek, ami a csövekben áramló CO~2~ áramlását szabályozza. Az 1. képen körkörös kialakítású kísérleti parcellák láthatók.
+Az emelkedett CO~2~-koncentráció vegetációra gyakorolt hatását úgy szokás vizsgálni, hogy a CO~2~ a mostani és a jövőbeli, megemelkedett légköri koncentrációjánál, általában üvegházakban vagy kamrákban termesztett növények növekedését hasonlítják össze, eltéréseket után kutatva. Viszont a valóságnak jobban megfelelnek a szabad levegőn végzett szén-dioxid dúsítási technikákkal ([Free-Air Carbon Dioxide Enrichment](http://en.wikipedia.org/wiki/Free-air_concentration_enrichment), FACE) végzett kutatások, melyek során vízszintes vagy függőleges csövekkel vesznek körül egy kísérleti parcellát, amik szén-dioxidban dúsított levegőt áramoltatnak a növények közé. A CO~2~-koncentrációt szenzorokkal mérik, és visszajeleznek a számítógépnek, ami a csövekben áramló CO~2~ áramlását szabályozza. Az 1. képen körkörös kialakítású kísérleti parcellák láthatók
+.
 
 ![1. kép: FACE kísérleti parcellák a szén-dioxid növényzetre gyakorolt hatásainak kutatására](/assets/images/face.jpg)
 
@@ -87,7 +90,8 @@ A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica 
 
 5. de Graaff, M. A. – van Groenigen, K. J. et al. 2006: Interactions between plant growth and soil nutrient cycling under elevated CO2: a meta-analysis. – Global Change Biology 12. pp. 2077-2091.
 
-6. Donohue, R. J. – Roderick, M. L. – McVicar, T. R. – Farquhar, G. D. 2013: [Impact of CO2 fertilization on maximum foliage cover across the globe’s warm, arid environments.](http://onlinelibrary.wiley.com/doi/10.1002/grl.50563/pdf) – Geophysical Research Letters 40. 12. pp. 3031-3035.
+6. Donohue, R. J. – Roderick, M. L. – McVicar, T. R. – Farquhar, G. D. 2013: [Impact of CO2 fertilization on maximum foliage cover across the globe’s warm, arid environments.](http://onlinelibrary.wiley.com/doi/10.1002/grl.50563/pdf
+) – Geophysical Research Letters 40. 12. pp. 3031-3035.
 
 7. Leakey, A. D. B. – AINSWORTH, E. A. et al. 2009: Elevated CO2 effects on plant carbon, nitrogen, and water relations; six important lessons from FACE. – Journal of Experimental Botany 60. pp. 2859-2876.
 
@@ -103,10 +107,12 @@ A 3. ábrán a BEST globális átlaghőmérséklet adatsort a búza, a kukorica 
 
 13. Starr, S. (nincs év). [Catastrophic Climatic Consequences of Nuclear Conflict](http://inesap.org/node/11). International Network of Engineers and Scientists Against Proliferation, INESAP.
 
-14. Taub, D. R. 2010: [Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants.](http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108) – Nature Education Knowledge 3. 10. :21 
+14. Taub, D. R. 2010: [Effects of Rising Atmospheric Concentrations of Carbon Dioxide on Plants.](http://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108
+) – Nature Education Knowledge 3. 10. :21 
 
 
 * [BEST hőmérsékleti adatsor](http://berkeleyearth.lbl.gov/auto/Global/Full_TAVG_complete.txt)
 
-* [FAO terméshozam adatok](http://faostat3.fao.org/download/Q/*/E)
+* [FAO terméshozam adatok](http://faostat3.fao.org/download/Q/*/E
+)
 

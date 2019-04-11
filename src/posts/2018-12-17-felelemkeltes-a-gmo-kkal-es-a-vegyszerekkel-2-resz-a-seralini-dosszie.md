@@ -1,5 +1,5 @@
 ---
-title: 'Félelemkeltés a GMO-kkal és a vegyszerekkel. 2. rész: A Séralini-dosszié.'
+title: 'GMO-hisztéria 2: A Séralini-dosszié'
 date: '2018-12-17'
 excerpt: >-
   Séralini egy korrupt molekuláris biológus, akit egyes organikus
@@ -9,11 +9,10 @@ excerpt: >-
   röviden. Nem létezik egyetlen egy olyan tudományos publikáció sem, amely a
   GMO-élelmiszerek kapcsán hihetően alátámasztott volna bármilyen, az emberek
   vagy az állatok egészségére gyakorolt károsító hatást.
-coverImage: gmo_corn.jpg
+coverImage: corn.jpg
 comments: true
-topic: gmo
+topic: GMO
 ---
-A sorozat első része: [Félelemkeltés a GMO-kkal és a vegyszerekkel. A zöld szervezetek kapcsolata az organikus élelmiszerlobbival.](https://www.gulacsiandras.blog/2018/12/03/felelemkeltes-a-gmo-kkal-es-a-vegyszerekkel-a-zold-szervezetek-kapcsolata-az-organikus-elelmiszerlobbival)
 
 ## A Séralini botrány, 1. felvonás
 
@@ -120,241 +119,41 @@ Egy olasz kutatócsoport **összesen 1783**, 2002 és 2012 között publikált, 
 
 ## Irodalom
 
-* ÁBRAHÁM R. – ÉRSEK T. – KUROLI G. – NÉMETH L. – REISINGER P. (2011). [Növényvédelem. Rezisztencia kialakulása a növényvédő szerekkel szemben. (internetes tananyag)](http://www.tankonyvtar.hu/hu/tartalom/tamop425/0010_1A_Book_08_Novenyvedelem/ch05s03.html
-)
-
-* AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE (AAAS) (2012). [Statement by the AAAS Board of Directors On Labeling of Genetically Modified Foods, 2012-10-20.](http://www.aaas.org/sites/default/files/AAAS_GM_statement.pdf
-)
-
-* AMES, B. N. – PROFET, M. – GOLD, L. S. (1990). Dietary pesticides (99.99% all natural). – Proc. Natl. Acad. Sci. USA (Medical Sciences) 87. pp. 7777-7781.
-
-* [Az Európai Parlament és a Tanács 2001/18/EK irányelve (2001. március 12.) a géntechnológiával módosított szervezetek környezetbe történő szándékos kibocsátásáról és a 90/220/EGK tanácsi irányelv hatályon kívül helyezéséről.](http://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri=CELEX:32001L0018&rid=4
-)
-
-* BfR (2015). [BfR-contribution to the EU-approval process of glyphosate is finalised. BfR Communication No. 008/2015.](http://www.bfr.bund.de/cm/349/bfr-contribution-to-the-eu-approval-process-of-glyphosate-is-finalised.pdf
-)
-
-* Céleres Ambiental (2009). [Social and Environmental Benefits from the Agricultural Biotechnology in Brazil: 1996 – 2009.](http://www.celeresambiental.com.br/pdf/PressRelease2009_Ambiental01_Eng.pdf
-)
-
-* CHOUDHARY, B. – GAUR, K. (2015.) [Biotech Cotton in India, 2002 to 2014. ISAAA Series of Biotech Crop Profiles. – ISAAA: Ithaca, NY. 34 p.](https://www.isaaa.org/resources/publications/biotech_crop_profiles/bt_cotton_in_india-a_country_profile/download/Bt_Cotton_in_India-2002-2014.pdf
-)
-
-* CLIVE, J. (2016). [ISAAA Brief 52-2016: Executive Summary. ISAAA (International Service for the Acquisition of Agri-biotech Applications).](http://www.isaaa.org/resources/publications/briefs/52/executivesummary/default.asp
-)
-
-* DARVAS B. (1999). [Nézőpontok, ha különböznek (Homage to Árpád Pusztai).](http://mek.oszk.hu/03200/03216/html/#76
-) – Biokémia 23, pp. 99-102.
-
-* EFSA (2016). [Glyphosate: EFSA responds to critics.](http://www.efsa.europa.eu/en/press/news/160113
-)
-
-* EFSA (2017). [The 2015 European Union report on pesticide residues in food.](http://onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4791/full
-) EFSA Journal 15(4): e04791 DOI:10.2903/j.efsa.2017.4791
-
-* FAO/WHO (2016). [Joint FAO/WHO Meeting On Pesticide Residues.](http://www.who.int/foodsafety/jmprsummary2016.pdf?ua=1
-) Summary Report.
- 
-* FOX, J. L. 1996: Bt cotton infestations renew resistance concerns. – Nature Biotechnology 14, pp. 1070-1071.
-
-* GEORGE, S. (2009). Lugánói tanulmány. Kairosz Kiadó, Budapest. 266 p.
-
-* HOWARD, P. H. (2009). [Visualizing Consolidation in the Global Seed Industry: 1996-2008. – Sustainability](http://www.mdpi.com/2071-1050/1/4/1266/pdf
-) 1. pp. 1266-1287. DOI:10.3390/su1041266
-
-* KLÜMPER, W.  –  QAIM, M. (2014). A Meta-Analysis of the Impacts of Genetically Modified Crops. – PLoS ONE 9(11): e111629. doi:10.1371/journal.pone.0111629
-
-* KUTASI J. (2007). [Fermentációs biotechnológia. (internetes tananyag)](http://www.tankonyvtar.hu/hu/tartalom/tkt/fermentacios/ch02s05.html
-)
-
-* LOMBARDO, L. (2014). Genetic use restriction technologies: a review. – Plant Biotechnology Journal 12(8), pp. 995-1005. DOI:10.1111/pbi.12242 http://onlinelibrary.wiley.com/doi/10.1111/pbi.12242/full
-
-* [Magyarország Alaptörvénye.](https://net.jogtar.hu/jr/gen/hjegy_doc.cgi?docid=A1100425.ATV
-)
-
 * MESNAGE, R. – DEFARGE, N. – ROCQUE, L-M. – DE VENDÔMOIS, J. S. – SÉRALINI , G-E. (2015). [Laboratory Rodent Diets Contain Toxic Levels of Environmental Contaminants: Implications for Regulatory Tests.](https://doi.org/10.1371/journal.pone.0128429
 ) – PLoS ONE 10(7): e0128429. 
-
-* Nébih (2017). [ECHA szakvélemény: nincs rákkeltő hatása a glifozátnak.](http://portal.nebih.gov.hu/-/echa-szakvelemeny-nincs-rakkelto-hatasa-a-glifozatnak
-)
 
 * NICOLIA, A. – MANZO, A. – VERONESI, F. – ROSELLINI, D. (2013). [An overview of the last 10 years of genetically engineered crop safety research.](https://geneticliteracyproject.org/wp-content/uploads/2013/10/Nicolia-20131.pdf
 ) – Critical Reviews in Biotechnology 34(1), pp. 77-88.
 
-* PLEWIS, I. (2014a). [Indian farmer suicides: Is GM cotton to blame?](https://doi.org/10.1111/j.1740-9713.2014.00719.x
-) – Significance, Special Issue: Poverty and development.
-
-* PLEWIS, I. (2014b). [Hard Evidence: does GM cotton lead to farmer suicide in India? The Conversation.](https://theconversation.com/hard-evidence-does-gm-cotton-lead-to-farmer-suicide-in-india-24045
-)
-
 * PLOS ONE (2015). [Correction: Laboratory Rodent Diets Contain Toxic Levels of Environmental Contaminants: Implications for Regulatory Tests.](https://doi.org/10.1371/journal.pone.0135542
 ) PLoS ONE 10(8): e0135542.
-
-* SCHROEDER, J. – CHASSY, B. – TRIBE, D. – BROOKES, G. – KERSHEN, D. (2015). [Organic Marketing Report. –  Academic Review.](http://hoards.com/sites/default/files/Academics-Review_Organic-Marketing-Report.pdf)
-http://organicnetwork.biz/organic-marketing-report-2015/
 
 * SÉRALINI, G-E. – CLAIR, E. – MESNAGE, R. – GRESS, S. – DEFARGE, N. – MALATESTA, M.  – HENNEQUIN, D. – DE VENDÔMOIS, J. S. (2012). [Long term toxicity of a Roundup herbicide and a Roundup-tolerant genetically modified maize.](http://www.sciencedirect.com/science/article/pii/S0278691512005637
 ) – Food and Chemical Toxicology 50(11), pp. 4221-4231.
 
-* SÉRALINI, G-E. – CLAIR, E. – MESNAGE, R. – GRESS, S. – DEFARGE, N. – MALATESTA, M. – HENNEQUIN, D. – DE VENDÔMOIS, J. S. (2014). Republished study: long-term toxicity of a Roundup herbicide and a Roundup-tolerantgenetically modified maize. – Environmental Sciences Europe 26(14). DOI: 10.1186/s12302-014-0014-5
-
-* SMITH-SPANGLER, C. – BRANDEAU, M. L. – HUNTER, G. E. – BAVINGER, J. C. – PEARSON, M. – ESCHBACH, P. J. – SUNDARAM, V. – LIU, H. – SCHIRMER, P. – STAVE, C. – OLKIN, I. –BRAVATA, D. M. (2012). Are Organic Foods Safer or Healthier Than Conventional Alternatives? A Systematic Review. – Annals of Internal Medicine 157. 5. pp. 348-366.
-
-* TUOMISTO, L. H. – HODGE, D. I. – RIORDAN, P. – MACDONALD, W. D. (2012). Does organic farming reduce environmental impacts? – A meta-analysis of European research. – Journal of Environmental Management 112. pp. 309-320.
-
-* U.S. EPA (1993). [R.E.D. Facts. Glyphosate. EPA-738-F-93-011](https://www3.epa.gov/pesticides/chem_search/reg_actions/reregistration/fs_PC-417300_1-Sep-93.pdf)
-
-* U.S. EPA (2016). [Glyphosate Issue Paper: Evaluation of Carcinogenic Potential.](http://src.bna.com/iE2
-)
-
-* VENETIANER P. (2011). [4. A géntechnológia helye a genetikai beavatkozások között.](http://zoldbiotech.hu/articles/2012-04/6/book-small_MAGYAR%20VEGSO.pdf
-) – In. BALÁZS E. – DUDITS D. – SÁGI L. (szerk.): Genetikailag módosított élőlények (GMO-k) a tények tükrében. Magyar fehér könyv. – Szeged. pp. 13-18.
- 
-* WHO IARC (2015). [IARC Monographs Volume 112: evaluation of five organophosphate insecticides and herbicides.](http://www.iarc.fr/en/media-centre/iarcnews/pdf/MonographVolume112.pdf
-)
+* SÉRALINI, G-E. – CLAIR, E. – MESNAGE, R. – GRESS, S. – DEFARGE, N. – MALATESTA, M. – HENNEQUIN, D. – DE VENDÔMOIS, J. S. (2014). Republished study: long-term toxicity of a Roundup herbicide and a Roundup-tolerant genetically modified maize. – Environmental Sciences Europe 26(14). DOI: 10.1186/s12302-014-0014-5
 
 
 ### Internetes források
 
-* [A Monsanto Intern 2016.](http://www.amonsantointern.com/blog/2016/6/12/myth-number-one-monsanto-employees-only-eat-organic-non-gmo
-)
-
-* [Agent Orange, Wikipedia.](https://hu.wikipedia.org/wiki/Agent_Orange
-)
-
-* ANTICS K. (2013). [A génmódosított növények kockázatairól. Gazdazóna.](http://www.gazdazona.hu/2013/05/08/a-genmodositott-novenyek-kockazatairol/
-)
-
-* [Argumentum ad nauseam, Wikipedia.](https://hu.wikipedia.org/wiki/Argumentum_ad_nauseam
-)
-
-* [Authority Nutrition (2016).](https://authoritynutrition.com/how-much-caffeine-in-coffee/
-)
-
-* [BBC Science Focus (2012). Szabadtéri Agrármúzeum?](http://m.cdn.blog.hu/cr/criticalbiomass/image/201203/bbc_science_focus_2012_01_02-PoppJ_interj%C3%BA.pdf
-)
-
-* BOOBIS, A. –MORETTO, A. –COHEN, S. (2017). [WHO’s IARC under fire for ignoring exculpatory data on glyphosate: Should it be reformed or abolished?](https://geneticliteracyproject.org/2017/06/16/whos-iarc-fire-ignoring-exculpatory-data-glyphosate-reformed-abolished/
-) Genetic Literacy Project.
-
-* [Canadian Centre for Occupational Health and Safety.](https://www.ccohs.ca/oshanswers/chemicals/ld50.html
-)
-
-* [Collegium Ramazzini.](http://www.collegiumramazzini.org/fellows.asp
-)
 
 * [CRIIGEN.](http://www.criigen.org/Qui-Sommes-Nous#element-equipe-list--content
 )
 
-* DA SILVEIRA, E. (2013). [More cellulose per square centimeter.](http://revistapesquisa.fapesp.br/en/2013/04/01/more-cellulose-per-square-centimeter/
-) Pesquisa FAPESP.
-
 * DESPAIN, D. (2015). [Organic industry and other funders behind Séralini’s anti-GMO studies.](https://geneticliteracyproject.org/2015/06/18/organic-industry-and-other-funders-behind-seralinis-anti-gmo-studies/
 ) Genetic Literacy Project. 
 
-* EDF (2016). [Annual Report 2016.](https://www.edf.org/sites/default/files/EDF_AR2016.pdf
-)
-
-* GM Watch (2002). [Prodigene officials may face jail/Contamination could be AIDS vaccine or blood thickener.](http://www.gmwatch.org/en/latest-listing/41-2002/3278-prodigene-officials-may-face-jailcontamination-could-be-aids-vaccine-or-blood-thickener
-)
-
-* HILTON, C. W. (2012). [Monsanto & the Global Glyphosate Market: Case Study.](http://www.wiglafjournal.com/pricing/2012/06/monsanto-the-global-glyphosate-market-case-study/
-) The Wiglaf Journal. 
-
-* Idők Jelei (2012). [Biotech farmok: Vakcinák és gyógyszerek a GMO termésben.](http://idokjelei.hu/2012/10/biotech-farmok-vakcinak-es-gyogyszerek-a-gmo-termesben/
-) (A honlap nem megbízható hírforrás!) 
-
-* [Index (2012). GMO-élelmiszerek mellett érvelt, kirúgták.](http://index.hu/tudomany/2012/03/29/genmodositott_elelmiszerek_mellett_ervelt_kirugtak/
-)
-
-* KATIRAEE, L. (2015a). [GMOs and Patents: Part 1 – Terminator Genes. Biology Fortified.](https://www.biofortified.org/2015/12/gmos-and-patents-part-1-terminator-genes/
-)
-
-* KATIRAEE, L. (2015b). [GMOs and Patents: Part 2 – Lawsuits against Farmers.](https://www.biofortified.org/2015/12/lawsuits-against-farmers/
-) Biology Fortified.
-
-* KATIRAEE, L. (2015c). [GMOs and Patents: Part 3 – Lawsuits for inadvertent contamination. Biology Fortified.](https://www.biofortified.org/2015/12/lawsuits-for-inadvertent-contamination/)
-
-* KELLY, J. – STIER, J. (2017). [Who’s Getting Money from NIH?. National Review.](http://www.nationalreview.com/article/446335/nih-grants-ramazzini-iarc-may-not-meet-scientific-standards
-)
-
-* KLOOR, K. (2014). [The Rich Allure of a Peasant Champion. Discover.](http://blogs.discovermagazine.com/collideascape/2014/10/23/rich-allure-vandana-shiva/#.WTm7uzd94nT
-)
-
-* KOTTKE, J. (2013). [The magical Brassica oleracea plant.](http://kottke.org/13/09/the-magical-brassica-oleracea-plant)
-
-* KOVÁCS V. (nincs év).[ Inzulin. Gruiz Katalin Biotechnológiai ismeretek c. tárgyához készült prezentáció, BME.](http://enfo.agt.bme.hu/drupal/sites/default/files/inzulinGKj%20%281%29.pdf
-)
-
-* Laissez-Faire Republic. [Right-Wing Conspiracy Theories and Left-Wing Conspiracy Theories Compared.](http://laissez-fairerepublic.com/paranoias.htm
-)
-
-* MarketWatch. A [Monsanto](http://www.marketwatch.com/investing/stock/mon/financials) és a [Whole Foods](http://www.marketwatch.com/investing/stock/wfm/financials
-).
-
-* MCCARTHY, M. (1999). [GM food banned in Monsanto canteen. The Independent.](http://www.independent.co.uk/environment/gm-food-banned-in-monsanto-canteen-737948.html
-)
-
-* MILLER, M. (2016). [Who funds the grassroots anti-GMO movement?](https://geneticliteracyproject.org/2016/09/15/funds-grassroots-anti-gmo-movement/
-) Genetic Literacy Project. 
-
-* [Millions Against Monsanto.](https://www.organicconsumers.org/campaigns/millions-against-monsanto/what-you-need-know-about-gmo-labeling
-)
-
-* Monsanto (2015). [2015 TUG. U.S. Technology Use Guide and IRM Overview.](http://www.monsanto.com/sitecollectiondocuments/technology-use-guide.pdf) (pp. 32-33.)
-
-* [Monsanto.](http://www.monsanto.com/newsviews/pages/what-monsanto-serves-in-its-cafeterias.aspx
-)
-
 * NAGY-RADICS B. (2012). [A Séralini-kísérlet kritikája – A GM-érme két oldala.](http://www.zoldbiotech.hu/cikk/323-A-S-ralini-k-s-rlet-kritik-ja-A-GM-rme-k-t-oldala
 ) Zöldbiotech.
- 
-* Natural Society (2012). [‘Biofarms’ to Integrate Vaccines, Pharmaceuticals into GMO ‘Biopharmaceutical’ Crops.](http://naturalsociety.com/biofarms-vaccines-pharmaceuticals-gmo-biopharmaceutical-crops/
-) (A honlap nem megbízható hírforrás!)
-
-* NORERO, D. (2015). [Latin American GMO powerhouse Brazil expands portfolio of crops with intro of new herbicide resistant soy.](https://www.geneticliteracyproject.org/2015/09/09/latin-american-gmo-powerhouse-brazil-expands-portfolio-of-crops-with-intro-of-new-herbicide-resistant-soy/
-) Genetic Literacy Project. 
-
-* OKSENBERG, N. (2015). [Why don’t farmers save seeds?](https://www.biofortified.org/2015/06/why-dont-farmers-save-seeds/
-) Biology Fortified.
 
 * ORANSKY, I. (2014). [Republished Seralini GMO-rat study was not peer-reviewed, says editor. Retraction Watch.](http://retractionwatch.com/2014/06/26/republished-seralini-gmo-rat-study-was-not-peer-reviewed-says-editor/
 )
 
-* OTA (2015). [U.S. organic sales post new record of $43.3 billion in 2015.](https://www.ota.com/news/press-releases/19031
-)
-
 * PORTERFIELD, A. (2016). [Can water protect you from glyphosate ‘poisoning’? Gilles-Eric Séralini’s homeopathy “detox” hoax.](https://www.geneticliteracyproject.org/2016/12/21/can-water-protect-glyphosate-poisoning-gilles-eric-seralinis-homeopathy-detox-hoax/
 ) Genetic Literacy Project.
-
-* [Promar International.](http://www.promar-international.com/default.aspx
-)
-
-* [Ramazzini Institute.](https://www.ramazzini.org/en/
-)
-
-* SHIVA, V. (2013). [Seed Monopolies, GMOs and Farmer Suicides in India – A response to Nature. Navdanya's Diary.](http://www.navdanya.org/blog/?p=744
-)
-
-* SPECTER, M. (2014). [Seeds Of Doubt. An activist’s controversial crusade against genetically modified crops.](http://www.newyorker.com/magazine/2014/08/25/seeds-of-doubt
-) The New Yorker.
-
-* Syngenta (2016). [Syngenta Seeds, LLC Stewardship Agreement.](http://www.syngenta-us.com/stewardship/downloads/syngentastewardshipagreement.pdf
-)
 
 * TRIBE, D. (2012a). [Auchan and Carrefour financed CRIIGEN studies on GMOs.](http://gmopundit.blogspot.hu/2012/09/auchan-and-carrefour-financed-criigen.html
 ) GMO Pundit.
 
 * TRIBE, D. (2012b). [Etude Anti-Ogm de Séralini : les petits soldats de la Fondation pour le progrès de l’homme.](http://gmopundit.blogspot.hu/2012/11/etude-anti-ogm-de-seralini-les-petits.html
 ) GMO Pundit. 
-
-* Umweltinstitut München (2016). [Hopfen und Malz verloren: Glyphosat-Rückstände im deutschen Bier.](http://www.umweltinstitut.org/fileadmin/Mediapool/Downloads/02_Mitmach-Aktionen/11_Rettet_das_Reinheitsgebot/Glyphosat_Untersuchung_Umweltinstitut_2016.pdf
-)
-
-* Urinale (2015). [Auswertung von 2011 Humanurinproben auf ihren Glyphosatgehalt.](http://www.urinale.org/wp-content/uploads/2016/03/PK-Daten-Handout.pdf
-)
-
-* VARGA M. (2012). [A józan ész és a GMO-mentesség.](http://www.zoldbiotech.hu/cikk/15-A-jozan-esz-es-a-GMO-mentesseg
-) Zöldbiotech.
-
-

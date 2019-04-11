@@ -5,7 +5,7 @@ excerpt: >-
   Hosszú távon még a nem-megújuló erőforrások is kevésbé szűkössé fognak válni, mivel azokat végső soron az állandóan megújuló és örökké növekvő emberi intellektus hozza létre...
 coverImage: banyaszat.jpg
 comments: true
-topic: természeti erőforrások
+topic: erőforrások
 ---
 A vészmadarak évek óta azt hajtogatják, hogy az ásványi erőforrások, beleértve az olajkészleteket, a közeljövőben ki fognak merülni. Ezek a félelemkeltő jóslatok állandóan tévesek és pontatlanok, mert a hisztérikusok egyszerűen dilettánsok a témában.
 

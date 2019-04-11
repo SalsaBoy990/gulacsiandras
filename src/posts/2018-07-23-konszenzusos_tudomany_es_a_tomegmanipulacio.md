@@ -1,10 +1,11 @@
 ---
-title: "A „konszenzusos tudomány” és a tömegmanipuláció"
-date: "2018-07-23"
-excerpt: "Edward Bernays lehetővé tette a tehetős ügyfeleinek, hogy a háttérben rejtőzködve saját érdekeik szerint befolyásolhassák az emberek tömegeit. Úgy vélte, hogy a közvélemény tudományos manipulálása szükséges a társadalmi káosz és konfliktus elkerülése érdekében. Mestere volt annak, hogyan győzzön meg tömegeket arról, hogy szükségtelen dolgokra vágyjanak. Röviden: a tudat alatt rejtőző vágyaikat tömegcikk vásárlásában éljék ki a profit maximalizálása érdekében"
-coverImage: "beechnutpackingco.jpg"
+title: A „konszenzusos tudomány” és a tömegmanipuláció
+date: '2018-07-23'
+excerpt: >-
+  Edward Bernays lehetővé tette a tehetős ügyfeleinek, hogy a háttérben rejtőzködve saját érdekeik szerint befolyásolhassák az emberek tömegeit. Úgy vélte, hogy a közvélemény tudományos manipulálása szükséges a társadalmi káosz és konfliktus elkerülése érdekében. Mestere volt annak, hogyan győzzön meg tömegeket arról, hogy szükségtelen dolgokra vágyjanak. Röviden: a tudat alatt rejtőző vágyaikat tömegcikk vásárlásában éljék ki a profit maximalizálása érdekében
+coverImage: beechnutpackingco.jpg
 comments: true
-topic: "pszichológia"
+topic: Pszichológia
 ---
 
 Az osztrák-amerikai származású [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)-t (1891-1995) a modern propaganda atyjaként és a PR úttörőjeként tartjuk számon (PR - public relations, közönségkapcsolatok). Bernays a nagybácsijától, a bécsi pszichoanalitikus Sigmund Freud-tól sok mindent elsajátított. Bernays-ra nagy hatást gyakoroltak Gustave Le Bon, Wilfred Trotter, Walter Lippmann és a nagybátyjának munkái. A tömeget irracionálisan viselkedőnek és a csordaszellemtől függőnek tekintette, és körvonalazta hogyan lehetnek képesek a tömegpszichológiát és a pszichoanalízist alkalmazó szakemberek irányítani őket a kívánt módon.
@@ -15,9 +16,10 @@ Bernays az 1920-as években képes volt meggyőzni az amerikai társadalmat arr�
 
 >„Sok évvel ezelőtt a Beech-Nut Packing Company volt az egyik ügyfelünk. A szalonna eladása komoly nehézséget okozott számukra. Kutatást végeztünk, és arra jutottunk, hogy az USA lakossága nagyon könnyű reggelit fogyasztott, ami kávéból, talán egy kifliből és narancsléből állt. Ezért úgy döntöttünk, az egyetlen módja, hogy változtassunk a helyzeten a következő volt: az orvosokkal közösen arra jutottunk, hogy a nehéz reggeli az egészség szempontjából jobb, mint a könnyű reggeli, mivel a test energiát veszít az éjszaka folyamán, amire szüksége lenne napközben.”
 
->„Amikor az orvosunkkal ezt megbeszéltük, megkérdeztük, hogy hajlandó lenne-e a mi költségünkre 5000 másik orvosnak írni, hogy a véleményük különbözik-e az övétől, hogy megerősítik-e azt? Az orvosunk boldogan beleegyezett. Elküldtük a levelet 5000 orvosnak. Természetesen mindannyian megerősítették, kb. 4500 választ kaptunk, hogy az amerikai emberek egészségének jobbat tesz a nehéz reggeli, mint a könnyű. Mindezt folyóiratokban publikálták; országszerte az újságok címoldalán írtak arról, hogy **4500 orvos nehéz reggelit javasol az amerikai emberek egészségének elősegítése érdekében, sokan közülük hozzátette, hogy a szalonna és a tojás a megfelelő reggeli**{.red}, aminek következtében több szalonna kelt el.”
+>„Amikor az orvosunkkal ezt megbeszéltük, megkérdeztük, hogy hajlandó lenne-e a mi költségünkre 5000 másik orvosnak írni, hogy a véleményük különbözik-e az övétől, hogy megerősítik-e azt? Az orvosunk boldogan beleegyezett. Elküldtük a levelet 5000 orvosnak. Természetesen mindannyian megerősítették, kb. 4500 választ kaptunk, hogy az amerikai emberek egészségének jobbat tesz a nehéz reggeli, mint a könnyű. Mindezt folyóiratokban publikálták; **országszerte az újságok címoldalán írtak arról, hogy 4500 orvos nehéz reggelit javasol az amerikai emberek egészségének elősegítése érdekében, sokan közülük hozzátette, hogy a szalonna és a tojás a megfelelő reggeli**, aminek következtében több szalonna kelt el.”
 
-![A Beech-Nut Packing Company egyik csarnoka, ahol a marhahúst csomagolják nagy higéniában.](/assets/images/beechnutpackingco.jpg)
+
+![A Beech-Nut Packing Company egyik csarnoka, ahol a marhahúst csomagolták nagy higéniában.](/assets/images/beechnutpackingco.jpg)
 
 Manapság se szeri se száma azoknak az úgynevezett „civil szervezeteknek” (nem-kormányzati szervezetek), amelyek egy része valójában korrupt lobbicsoportnak tekinthető, amit valamilyen iparág finanszíroz. Magyarországon is. Az [Activist Facts](https://www.activistfacts.com/) (Aktivista Tények) honlapot a [Center for Organizational Research and Education (CORE)](https://coreprojects.com/) készítette annak érdekében, hogy részletes és naprakész információkat szolgáltasson a különböző nem-kormányzati szervezetekről és aktivistákról az USA-ban. Egy tekintélyes adatbázist hoztak létre újságcikkek, hivatalos közlemények és kormányzati dokumentumok (pl. IRS 990 űrlapok) elemzéséből. Minden szervezetnek van egy részletes profilja és egy átfogó képet adnak arról, hogy honnan származik a pénzük. Néhány szervezetnek több tíz vagy száz millió dolláros éves bevétele van! Például a [Natural Resources Defense Council](https://www.activistfacts.com/organizations/19-natural-resources-defense-council/) éves bevétele 155 millió, a [Sierra Club](https://www.activistfacts.com/organizations/194-sierra-club/)-é 109 millió, míg a [Greenpeace](https://www.activistfacts.com/organizations/131-greenpeace/)-é 36 millió dollár volt 2015-ben.
 

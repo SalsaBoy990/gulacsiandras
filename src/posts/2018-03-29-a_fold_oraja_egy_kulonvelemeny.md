@@ -1,10 +1,11 @@
 ---
-title: "A Föld Órája – egy különvélemény"
-date: "2018-03-29"
-excerpt: "Az egész mentalitás Föld Órája mögött az elektromosságot démonizálja. Én ezt nem tehetem, hanem helyette ünneplem azt, és mindazt, amit biztosított az emberiség számára."
-coverImage: "villamossag.jpg"
+title: A Föld Órája – egy különvélemény
+date: '2018-03-29'
+excerpt: >-
+  Az egész mentalitás Föld Órája mögött az elektromosságot démonizálja. Én ezt nem tehetem, hanem helyette ünneplem azt, és mindazt, amit biztosított az emberiség számára.
+coverImage: villamossag.jpg
 comments: true
-topic: "antihumanizmus"
+topic: Antihumanizmus
 ---
 
 **Ross McKitrick**:
@@ -40,12 +41,10 @@ Szeretek a természetben járni, de nem akarok ott élni, és megtagadom annak a
 
 **Ross McKitrick**
 
-*közgazdász professzor*
-
-*Guelph-i Egyetem, Kanada*
+*közgazdász professzor, Guelph-i Egyetem, Kanada*
 
 
-## Irodalom
+### Irodalom
 
 * Ross McKitrick: [Earth Hour: A Dissent](https://www.mises.ca/earth-hour-a-dissent/). Mises Canada, 2012-04-01.
 

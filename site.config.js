@@ -7,7 +7,7 @@ module.exports = {
     defaultImage: 'https://www.gulacsiandras.blog/assets/images/rak_kod.jpg',
     author: 'Gulácsi András',
     quote: 'Az ideológiai alapú, utópisztikus gondolkodás ellen veszem fel a küzdelmet a tények, a tapasztalatok és a józan ész segítségével, hogy ne váljon pusztító ideológiák martalékává a társadalom.',
-    description: 'Üdvözöllek! Gulácsi András vagyok, UX designer, frontend fejlesztő, környezettudós és amatőr táncos.',
+    description: 'Üdvözöllek a blogomon! Gulácsi András vagyok, környezettudós | UI/UX designer | webfejlesztő.',
     github: 'SalsaBoy990',
     linkedin: 'andr%C3%A1s-gul%C3%A1csi-548b5a176',
     currentYear: new Date().getFullYear()

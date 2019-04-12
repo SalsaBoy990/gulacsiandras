@@ -9,9 +9,8 @@ coverImage: corn.jpg
 comments: true
 topic: GMO
 ---
-# A GMO-kkal kapcsolatos összeesküvés-elméletek cáfolatai
+A legelterjedtebb GMO-kal kapcsolatos összeesküvés-elméletek cáfolatait is nagyon fontosnak tartom közre adni. Ezeket a nevetséges teóriákat az organikus élelmiszeripar lobbiszervezetei és a konteósok terjesztik, kihasználva az emberek tájékozatlanságát és hiszékenységét. Lássunk néhányat!
 
-A legelterjedtebb GMO-kal kapcsolatos összeesküvés-elméletek cáfolatait is nagyon fontosnak tartom közre adni. Ezeket a nevetséges teóriákat az organikus élelmiszeripar lobbiszervezetei terjesztik, kihasználva az emberek tájékozatlanságát és hiszékenységét. Lássunk néhányat!
 
 ## 1. A terminátor gén
 
@@ -24,6 +23,8 @@ A farmereknek minden évben egyébként is meg kell venniük az új vetőmagokat
 ## 2. A szabadalomsértések
 
 >a Monsanto bepereli **a hagyományos vetőmagokat a következő évre elrakó gazdákat véletlen GMO-szennyezés miatt** (Sic!), mert átfújja a szomszédos GMO-parcellákról a szél a polleneket: a GM-növény a szomszédos parcellán termesztett nem-GM növényt megtermékenyíti keresztbeporzással. És a gazdák a félrerakott „szennyezett” vetőmagokat a következő évben elvetik, ellopva ezzel a Monsanto vetőmagját. A »Monsanto szerint a világ« című propaganda filmben is szerepel ez az elképzelés.
+
+[!Propagandaplakát: „A Monsanto beperelheti a gazdákat, ha a veteményükben a GMO-szennyezés eléri az 1%-ot” (Sic!).]()
 
 Ha alkalmaznák a terminátor gént az előző legenda szerint, akkor nem lehetne eltenni a vetőmagokat. A két konteó egymást kizárja és egyik sem igaz.
 
@@ -51,7 +52,11 @@ Ide kapcsolódik még két idézet:
 
 – állította Vandana Shiva, az indiai filozófus és radikális zöld mozgalmár (SPECTER, M. 2014). Továbbá:
 
-> „270 ezer indiai farmer követett már el öngyilkosságot mióta a Monsanto megjelent az indiai vetőmagpiacon. Ez népirtás.” (Sic!)  – mondta Vandana Shiva (SHIVA, V. 2013).
+> „270 ezer indiai farmer követett már el öngyilkosságot mióta a Monsanto megjelent az indiai vetőmagpiacon. Ez népirtás.” (Sic!)
+
+– mondta Vandana Shiva (SHIVA, V. 2013).
+
+[!Vandana Shiva, az indiai filozófus és radikális zöld mozgalmár]()
 
 Hihetetlen, hogy mennyire köszönő viszonyban sincsenek ezek a kijelentések a valósággal! Nézzük csak szépen sorjában:
 1. Az eladott magok nem sterilek, mert nem alkalmazzák a terminátor gént.
@@ -59,11 +64,29 @@ Hihetetlen, hogy mennyire köszönő viszonyban sincsenek ezek a kijelentések a
 3. Nem lesz egyre több gazda öngyilkos a GM-gyapot miatt Indiában.
 4. Az öngyilkos gazdák száma 2000-es évek óta kicsit csökkent.
 
-Nem áll fenn ok-okozati kapcsolat az öngyilkosságok és a GMO-k megjelenése között. **A génmódosított Bt-gyapotot termesztő gazdák 15%-kal fizetnek többet a vetőmagért, viszont a növényvédő-szerek költségei 50%-kal alacsonyabbak.** Mióta a GM-vetőmagokat behozták az országba **a terméshozamok több mint 150%-kal nőttek** (CHOUDHARY, B. – GAUR, K. 2015). Lásd a 2. ábrát és az 1. táblázatot.
+Nem áll fenn ok-okozati kapcsolat az öngyilkosságok és a GMO-k megjelenése között. **A génmódosított Bt-gyapotot termesztő gazdák 15%-kal fizetnek többet a vetőmagért, viszont a növényvédő-szerek költségei 50%-kal alacsonyabbak.** Mióta a GM-vetőmagokat behozták az országba, **a terméshozamok több mint 150%-kal nőttek** (CHOUDHARY, B. – GAUR, K. 2015). Lásd a 2. ábrát és az 1. táblázatot.
 
 India még két évtizeddel ezelőtt gyapotimportra szorult, míg most exportra is jut belőle. Indiában **az öngyilkossági arányok alacsonyabbak a farmerek körében** (100 ezer lakosra 29 fő jut), mint a „nem-farmerek” esetén (100 ezer lakosra 35 fő jut). Rosszabbak az arányok, mint Angliában és Walesben (12 fő/100 ezer lakos), azonban **nem rosszabb a helyzet, mint például Skóciában vagy Franciaországban** (PLEWIS, I. 2014a, 2014b). **Az utóbbi évtizedben enyhén csökkent is az öngyilkosságok száma a farmerek körében, Indiában** (2. ábra).
 
 Adalékként még annyit, hogy Vandana Shiva, aki az indiai öngyilkosságokkal kapcsolatos kitalációit a világturnéin terjeszti, egy beszédéért 40 ezer dollárt kér (KLOOR, K. 2014).
+
+2. ábra: Az öngyilkosságot elkövető farmerek száma (lila vonal) és a Bt-gyapot termőterületének változása (zöld vonal). Egyértelműen látszik, hogy míg a Bt-gyapot termőterülete meredeken emelkedett, addig az öngyilkosságok száma enyhén csökkent (CHOUDHARY, B. – GAUR, K. 2015).
+
+Időszak | Gyapot termésátlag (kg/ha)
+--- | --- 
+2002-03	| 302
+2003-04	| 399
+2004-05	| 463
+2005-06	| 467
+2006-07	| 521
+2007-08	| 567
+2008-09	| 525
+2009-10	| 503
+2010-11	| 475
+2011-12	| 493
+2012-13	| 489
+2013-14	| 541
+[1. táblázat: A gyapot termésátlagának alakulása a Bt-gyapot indiai megjelenése után. Egyértelműen jelentős növekedés figyelhető meg, bár egy-két rosszabb évben kisebb visszaesés volt megfigyelhető (CHOUDHARY, B. – GAUR, K. 2015).]
 
 ## 4. „A Monsanto kantinjában nem szolgálnak fel GMO-élelmiszereket”
 

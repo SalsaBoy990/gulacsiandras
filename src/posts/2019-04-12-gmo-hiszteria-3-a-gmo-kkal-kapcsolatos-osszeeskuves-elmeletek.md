@@ -16,7 +16,9 @@ A legelterjedtebb GMO-kal kapcsolatos összeesküvés-elméletek cáfolatait is 
 
 >egy városi legenda szerint a GMO-vetőmagoknál alkalmazzák az ún. „terminátor gén” technológiát (Genetic Use Restriction Technology, röviden GURT). **A GM-növények által hozott magok a terminátor gén miatt sterilek, ami arra kényszeríti a földművelőket, hogy újra megvegyék a boltban a vetőmagokat a következő szezonra.** (Sic!)
 
-Tényleg létezik a valóságban a terminátor gén, de soha sem került kereskedelmi forgalomba. Más módon biztosítják a GMO-cégek **a szabadalmaztatott vetőmagok jogosulatlan használatának megakadályozását.** Egy mindössze két oldalas szerződést íratnak alá a vevővel, amivel egy éves felhatalmazást kapnak a vetőmag használatára (1. ábra). A céggel kötött szerződés nem zárja ki annak lehetőségét, hogy hagyományos vagy GMO-vetőmagot szerezzen be a vevő máshonnan. A hagyományos vetőmagoknál is van szabadalmaztatott fajta, aminél szintén szerződést kell kötni. Például a BASF Clearfield magjai (herbicid toleráns, de nem GMO) esetén (KATIRAEE, L. 2015a). A „terminátor gén” technológiáról részletesen egy áttekintő cikkben olvashattok angolul, lásd LOMBARDO, L. (2014).
+Tényleg létezik a valóságban a terminátor gén, de soha sem került kereskedelmi forgalomba. Más módon biztosítják a GMO-cégek **a szabadalmaztatott vetőmagok jogosulatlan használatának megakadályozását.** Egy mindössze két oldalas szerződést íratnak alá a vevővel, amivel egy éves felhatalmazást kapnak a vetőmag használatára (a Syngenta szerződése: 1. ábra, [a Monsanto-szerződése (pdf, 42-47. old.)](https://monsanto.com/app/uploads/2018/04/2018_TUG_US.pdf)). A céggel kötött szerződés nem zárja ki annak lehetőségét, hogy hagyományos vagy GMO-vetőmagot szerezzen be a vevő máshonnan. A hagyományos vetőmagoknál is van szabadalmaztatott fajta, aminél szintén szerződést kell kötni. Például a BASF Clearfield magjai (herbicid toleráns, de nem GMO) esetén (KATIRAEE, L. 2015a). A „terminátor gén” technológiáról részletesen egy áttekintő cikkben olvashattok angolul, lásd LOMBARDO, L. (2014).
+
+![1. ábra: A Sygenta vegyipari és biotechnológiai cég a fenti szerződést tölteti ki a gazdákkal a szabadalom alatt álló vetőmagok használatához (Syngenta 2016). A Monsanto is ehhez hasonló szerződését írat alá a gazdákkal (Monsanto 2015).](/assets/images/syngenta_seeds.png)
 
 A farmereknek minden évben egyébként is meg kell venniük az új vetőmagokat, akkor is, ha nem GMO-k vagy nem liszenszesek, ugyanis a növények **keresztezett hibridek**. Az előnyös jellemvonásaik a hozott magoknak csak egy részében öröklődnek tovább, a többiben nem. Éppen ezért a földműveseknek jobban megéri újra megvenni a vetőmagokat, mint elrakni azokat a termésből (OKSENBERG, N. 2015). Csak nagyon kevesen rakják el a vetőmagokat a következő évre.
 
@@ -70,7 +72,7 @@ Hihetetlen, hogy mennyire köszönő viszonyban sincsenek ezek a kijelentések a
 
 Nem áll fenn ok-okozati kapcsolat az öngyilkosságok és a GMO-k megjelenése között. **A génmódosított Bt-gyapotot termesztő gazdák 15%-kal fizetnek többet a vetőmagért, viszont a növényvédő-szerek költségei 50%-kal alacsonyabbak.** Mióta a GM-vetőmagokat behozták az országba, **a terméshozamok több mint 150%-kal nőttek** (CHOUDHARY, B. – GAUR, K. 2015). Lásd az 1. ábrát és az 1. táblázatot.
 
-
+![1. ábra: Az indiai gyapottermesztés alakulása az 1950-es évektől napjainkig. Fekete pontvonal: az összes gyapot termőterülete (millió ha), világoszöld vonal: a Bt-gyapot termőterülete (millió ha), és sötétzöld vonal: gyapottermelés (millió bála) (CHOUDHARY, B. – GAUR, K. 2015). Egy gyapotbála súlya 177,8 kg.](/assets/images/india_cotton_production.png)
 
 Időszak | Gyapot termésátlag (kg/ha)
 --- | --- 
@@ -90,9 +92,11 @@ Időszak | Gyapot termésátlag (kg/ha)
 
 India még két évtizeddel ezelőtt gyapotimportra szorult, míg most exportra is jut belőle. Indiában **az öngyilkossági arányok alacsonyabbak a farmerek körében** (100 ezer lakosra 29 fő jut), mint a „nem-farmerek” esetén (100 ezer lakosra 35 fő jut). Rosszabbak az arányok, mint Angliában és Walesben (12 fő/100 ezer lakos), azonban **nem rosszabb a helyzet, mint például Skóciában vagy Franciaországban** (PLEWIS, I. 2014a, 2014b). **Az utóbbi évtizedben enyhén csökkent is az öngyilkosságok száma a farmerek körében, Indiában** (2. ábra).
 
-Adalékként még annyit, hogy Vandana Shiva, aki az indiai öngyilkosságokkal kapcsolatos kitalációit a világturnéin terjeszti, egy beszédéért 40 ezer dollárt kér (KLOOR, K. 2014).
-
 ![2. ábra: Az öngyilkosságot elkövető farmerek száma (lila vonal) és a Bt-gyapot termőterületének változása (zöld vonal). Egyértelműen látszik, hogy míg a Bt-gyapot termőterülete meredeken emelkedett, addig az öngyilkosságok száma enyhén csökkent (CHOUDHARY, B. – GAUR, K. 2015).](/assets/images/india_farmer_suicides.jpg)
+
+Adalékként még annyit, hogy Vandana Shiva, aki az indiai öngyilkosságokkal kapcsolatos kitalációit a világturnéin terjeszti, **egy beszédéért 40 ezer dollárt kér (!)**, ez 11,2 millió forintnak megfelelő összeg (KLOOR, K. 2014).
+
+![Itt a bizonyíték, hogy Vandana Shiva nem ingyen dolgozik.](/assets/images/vandana_shiva_speaking_fee.png)
 
 
 ## 4. „A Monsanto kantinjában nem szolgálnak fel GMO-élelmiszereket”

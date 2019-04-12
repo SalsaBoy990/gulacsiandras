@@ -24,7 +24,7 @@ A farmereknek minden évben egyébként is meg kell venniük az új vetőmagokat
 
 >a Monsanto bepereli **a hagyományos vetőmagokat a következő évre elrakó gazdákat véletlen GMO-szennyezés miatt** (Sic!), mert átfújja a szomszédos GMO-parcellákról a szél a polleneket: a GM-növény a szomszédos parcellán termesztett nem-GM növényt megtermékenyíti keresztbeporzással. És a gazdák a félrerakott „szennyezett” vetőmagokat a következő évben elvetik, ellopva ezzel a Monsanto vetőmagját. A »Monsanto szerint a világ« című propaganda filmben is szerepel ez az elképzelés.
 
-[!Propagandaplakát: „A Monsanto beperelheti a gazdákat, ha a veteményükben a GMO-szennyezés eléri az 1%-ot” (Sic!).]()
+![Propagandaplakát: „A Monsanto beperelheti a gazdákat, ha a veteményükben a GMO-szennyezés eléri az 1%-ot” (Sic!).](/assets/images/gmo_contamination_propaganda.jpg){.medium-img}
 
 Ha alkalmaznák a terminátor gént az előző legenda szerint, akkor nem lehetne eltenni a vetőmagokat. A két konteó egymást kizárja és egyik sem igaz.
 
@@ -36,9 +36,13 @@ Percy Schmeiser gazda repcét termesztett. A magok egy részét félrerakta, maj
 
 Nem véletlen beporzás miatt perelte be a Monsanto a gazdát. 1998-ban a vizsgálat kiderítette, hogy **Schmeiser 1000 holdas földjének 90%-a Round-Up Ready volt, amit nem okozhatott véletlen beporzás.** A Kanadai Legfelsőbb Bíróság a Monsanto javára döntött. A beperelt gazdának végül nem kellett semmit fizetnie. Adalékként megjegyzendő, hogy a bírósági tárgyaláson két gazdálkodó is tanúskodott arról, hogy felhívták a Monsanto-t, hogy távolítsa el a földjükről a nem kívánt Round-Up Ready repcét. A kérésnek a Monsanto eleget tett (KATIRAEE, L. 2015b).
 
+![Percy Schmeiser](/assets/images/monsanto_percy_schmeiser.jpg){.medium-img}
+
 ### A Bowman kontra Monsanto per
 
 Vernon Hugh Bowman, indianai farmer, minden évben a Monsanto Round-Up Ready gyomirtó-toleráns szójababját vásárolta meg és termesztette a földjén. Bowman viszont be akart zsúfolni még egy második vetést is az évbe. Hogy csökkentse a kockázatosabb kései vetésének költségeit, **egy magtártól fogyasztási célú szójababot vásárolt, és elültette a földjén.** (A magtárak a termelőktől vásárolják fel a terményt, és mint ismertes a termesztett szója nagy része GMO.) **Ezután lefújta az elültetett szóját glifozát gyomirtóval, így csak a gyomirtó-toleráns növények maradtak életben.** Ezután nyolc tenyészidőszakon keresztül elrakta a vetőmagokat, és abból vetett. Itt sem véletlen „szennyezésről” volt szó.
+
+![Vernon Hugh Bowman](/assets/images/monsanto_vernon_hugh_bowman.jpeg){.medium-img}
 
 A Monsanto senkit nem perelt be véletlen „GMO-szennyezés” miatt, ahogyan az organikus lobbi ijesztgeti az embereket. 1997 óta mindössze 147 pert indított a Monsanto a farmerek ellen szabadalomsértés miatt. Átlagban 8 per volt évente. A Monsanto vállalat összesen 325 000 gazdával áll szerződésben az USA-ban (KATIRAEE, L. 2015c).
 
@@ -56,7 +60,7 @@ Ide kapcsolódik még két idézet:
 
 – mondta Vandana Shiva (SHIVA, V. 2013).
 
-[!Vandana Shiva, az indiai filozófus és radikális zöld mozgalmár]()
+![Vandana Shiva, az indiai filozófus és radikális zöld mozgalmár](/assets/images/vandana_shiva.jpg){.medium-img}
 
 Hihetetlen, hogy mennyire köszönő viszonyban sincsenek ezek a kijelentések a valósággal! Nézzük csak szépen sorjában:
 1. Az eladott magok nem sterilek, mert nem alkalmazzák a terminátor gént.
@@ -64,13 +68,9 @@ Hihetetlen, hogy mennyire köszönő viszonyban sincsenek ezek a kijelentések a
 3. Nem lesz egyre több gazda öngyilkos a GM-gyapot miatt Indiában.
 4. Az öngyilkos gazdák száma 2000-es évek óta kicsit csökkent.
 
-Nem áll fenn ok-okozati kapcsolat az öngyilkosságok és a GMO-k megjelenése között. **A génmódosított Bt-gyapotot termesztő gazdák 15%-kal fizetnek többet a vetőmagért, viszont a növényvédő-szerek költségei 50%-kal alacsonyabbak.** Mióta a GM-vetőmagokat behozták az országba, **a terméshozamok több mint 150%-kal nőttek** (CHOUDHARY, B. – GAUR, K. 2015). Lásd a 2. ábrát és az 1. táblázatot.
+Nem áll fenn ok-okozati kapcsolat az öngyilkosságok és a GMO-k megjelenése között. **A génmódosított Bt-gyapotot termesztő gazdák 15%-kal fizetnek többet a vetőmagért, viszont a növényvédő-szerek költségei 50%-kal alacsonyabbak.** Mióta a GM-vetőmagokat behozták az országba, **a terméshozamok több mint 150%-kal nőttek** (CHOUDHARY, B. – GAUR, K. 2015). Lásd az 1. ábrát és az 1. táblázatot.
 
-India még két évtizeddel ezelőtt gyapotimportra szorult, míg most exportra is jut belőle. Indiában **az öngyilkossági arányok alacsonyabbak a farmerek körében** (100 ezer lakosra 29 fő jut), mint a „nem-farmerek” esetén (100 ezer lakosra 35 fő jut). Rosszabbak az arányok, mint Angliában és Walesben (12 fő/100 ezer lakos), azonban **nem rosszabb a helyzet, mint például Skóciában vagy Franciaországban** (PLEWIS, I. 2014a, 2014b). **Az utóbbi évtizedben enyhén csökkent is az öngyilkosságok száma a farmerek körében, Indiában** (2. ábra).
 
-Adalékként még annyit, hogy Vandana Shiva, aki az indiai öngyilkosságokkal kapcsolatos kitalációit a világturnéin terjeszti, egy beszédéért 40 ezer dollárt kér (KLOOR, K. 2014).
-
-2. ábra: Az öngyilkosságot elkövető farmerek száma (lila vonal) és a Bt-gyapot termőterületének változása (zöld vonal). Egyértelműen látszik, hogy míg a Bt-gyapot termőterülete meredeken emelkedett, addig az öngyilkosságok száma enyhén csökkent (CHOUDHARY, B. – GAUR, K. 2015).
 
 Időszak | Gyapot termésátlag (kg/ha)
 --- | --- 
@@ -88,6 +88,13 @@ Időszak | Gyapot termésátlag (kg/ha)
 2013-14	| 541
 [1. táblázat: A gyapot termésátlagának alakulása a Bt-gyapot indiai megjelenése után. Egyértelműen jelentős növekedés figyelhető meg, bár egy-két rosszabb évben kisebb visszaesés volt megfigyelhető (CHOUDHARY, B. – GAUR, K. 2015).]
 
+India még két évtizeddel ezelőtt gyapotimportra szorult, míg most exportra is jut belőle. Indiában **az öngyilkossági arányok alacsonyabbak a farmerek körében** (100 ezer lakosra 29 fő jut), mint a „nem-farmerek” esetén (100 ezer lakosra 35 fő jut). Rosszabbak az arányok, mint Angliában és Walesben (12 fő/100 ezer lakos), azonban **nem rosszabb a helyzet, mint például Skóciában vagy Franciaországban** (PLEWIS, I. 2014a, 2014b). **Az utóbbi évtizedben enyhén csökkent is az öngyilkosságok száma a farmerek körében, Indiában** (2. ábra).
+
+Adalékként még annyit, hogy Vandana Shiva, aki az indiai öngyilkosságokkal kapcsolatos kitalációit a világturnéin terjeszti, egy beszédéért 40 ezer dollárt kér (KLOOR, K. 2014).
+
+![2. ábra: Az öngyilkosságot elkövető farmerek száma (lila vonal) és a Bt-gyapot termőterületének változása (zöld vonal). Egyértelműen látszik, hogy míg a Bt-gyapot termőterülete meredeken emelkedett, addig az öngyilkosságok száma enyhén csökkent (CHOUDHARY, B. – GAUR, K. 2015).](/assets/images/india_farmer_suicides.jpg)
+
+
 ## 4. „A Monsanto kantinjában nem szolgálnak fel GMO-élelmiszereket”
 
 > Egy másik, GMO-ellenesek által terjesztett városi legenda szerint **GMO-élelmiszereket nem szolgálnak fel a Monsanto önkiszolgáló étkezőiben. A Monsanto dolgozói csak organikus és nem-GMO ételeket fogyasztanak.** (Sic!) Ezzel a nevetséges, bulvár szintű álhírrel akarják meggyőzni az embereket, hogy a GMO-k nem biztonságosak.
@@ -95,6 +102,8 @@ Időszak | Gyapot termésátlag (kg/ha)
 A legelső hír 1999-ben röppent fel a The Independent lapban (MCCARTHY, M. 1999). Abban egy szó sem volt arról, hogy a Monsanto kantinjaiban csak GMO-mentes, illetve organikus élelmiszereket szolgálnak fel.
 
 A Monsanto hight wycombe-i (Buckinghamshire megye, Nagy-Britannia) gyógyszerészeti üzemében **a Granada Group tulajdonában lévő Sutcliffe Catering nevű cég által üzemeltetett kantinban** szolgáltak fel csak GMO-mentes élelmiszereket. **Tehát nem a Monsanto, hanem egy külső cég étkezdőjéről van szó!** Viszont a Monsanto cambridge-i agrárüzleti üzemének dolgozói előszeretettel fogyasztanak GMO-termékeket, mert azokat kevesebbet permetezik. És itt a Monsanto saját étkezdőjéről van szó. (Megjegyzés: ezek az üzemek már nem bezártak.)
+
+![Monsanto-kantin](/assets/images/monsanto_etkezde.jpg){.medium-img}
 
 **Minden fajta élelmiszert felszolgálnak a Monsanto-nál, legyen az hagyományos (beleértve a GMO-t) vagy organikus („bio”).** Valójában csak akkor vettek le egy élelmiszert az étlapról, amikor pár évvel ezelőtt egy külső cég bejelentette, hogy visszahívja az általa forgalomba hozott spenótot egy lehetséges *E. coli* szennyeződés miatt. A múlt évben is volt egy kisebb spenót-visszahívás egy lehetséges *Listeria* baktérium szennyeződés miatt. A spenót mindkét esetben bio minősítésű volt. 2012-es a hír (Monsanto, A Monsanto Intern 2016).
 

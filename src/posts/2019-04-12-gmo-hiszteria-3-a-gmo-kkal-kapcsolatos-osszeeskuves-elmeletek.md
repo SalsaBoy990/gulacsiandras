@@ -18,7 +18,7 @@ A legelterjedtebb GMO-kal kapcsolatos összeesküvés-elméletek cáfolatait is 
 
 Tényleg létezik a valóságban a terminátor gén, de soha sem került kereskedelmi forgalomba. Más módon biztosítják a GMO-cégek **a szabadalmaztatott vetőmagok jogosulatlan használatának megakadályozását.** Egy mindössze két oldalas szerződést íratnak alá a vevővel, amivel egy éves felhatalmazást kapnak a vetőmag használatára (a Syngenta szerződése: 1. ábra, [a Monsanto-szerződése (pdf, 42-47. old.)](https://monsanto.com/app/uploads/2018/04/2018_TUG_US.pdf)). A céggel kötött szerződés nem zárja ki annak lehetőségét, hogy hagyományos vagy GMO-vetőmagot szerezzen be a vevő máshonnan. A hagyományos vetőmagoknál is van szabadalmaztatott fajta, aminél szintén szerződést kell kötni. Például a BASF Clearfield magjai (herbicid toleráns, de nem GMO) esetén (KATIRAEE, L. 2015a). A „terminátor gén” technológiáról részletesen egy áttekintő cikkben olvashattok angolul, lásd LOMBARDO, L. (2014).
 
-![1. ábra: A Sygenta vegyipari és biotechnológiai cég a fenti szerződést tölteti ki a gazdákkal a szabadalom alatt álló vetőmagok használatához (Syngenta 2016). A Monsanto is ehhez hasonló szerződését írat alá a gazdákkal (Monsanto 2015).](/assets/images/syngenta_seeds.png)
+![1. ábra: A Sygenta vegyipari és biotechnológiai cég a fenti szerződést tölteti ki a gazdákkal a szabadalom alatt álló vetőmagok használatához (Syngenta 2016). A Monsanto is ehhez hasonló szerződését írat alá a gazdákkal (Monsanto 2018).](/assets/images/syngenta_seeds.png)
 
 A farmereknek minden évben egyébként is meg kell venniük az új vetőmagokat, akkor is, ha nem GMO-k vagy nem liszenszesek, ugyanis a növények **keresztezett hibridek**. Az előnyös jellemvonásaik a hozott magoknak csak egy részében öröklődnek tovább, a többiben nem. Éppen ezért a földműveseknek jobban megéri újra megvenni a vetőmagokat, mint elrakni azokat a termésből (OKSENBERG, N. 2015). Csak nagyon kevesen rakják el a vetőmagokat a következő évre.
 
@@ -105,7 +105,7 @@ Adalékként még annyit, hogy Vandana Shiva, aki az indiai öngyilkosságokkal 
 
 A legelső hír 1999-ben röppent fel a The Independent lapban (MCCARTHY, M. 1999). Abban egy szó sem volt arról, hogy a Monsanto kantinjaiban csak GMO-mentes, illetve organikus élelmiszereket szolgálnak fel.
 
-A Monsanto hight wycombe-i (Buckinghamshire megye, Nagy-Britannia) gyógyszerészeti üzemében **a Granada Group tulajdonában lévő Sutcliffe Catering nevű cég által üzemeltetett kantinban** szolgáltak fel csak GMO-mentes élelmiszereket. **Tehát nem a Monsanto, hanem egy külső cég étkezdőjéről van szó!** Viszont a Monsanto cambridge-i agrárüzleti üzemének dolgozói előszeretettel fogyasztanak GMO-termékeket, mert azokat kevesebbet permetezik. És itt a Monsanto saját étkezdőjéről van szó. (Megjegyzés: ezek az üzemek már nem bezártak.)
+A Monsanto hight wycombe-i (Buckinghamshire megye, Nagy-Britannia) gyógyszerészeti üzemében **a Granada Group tulajdonában lévő Sutcliffe Catering nevű cég által üzemeltetett kantinban** szolgáltak fel csak GMO-mentes élelmiszereket. **Tehát nem a Monsanto, hanem egy külső cég étkezdőjéről van szó!** Viszont a Monsanto cambridge-i agrárüzleti üzemének dolgozói előszeretettel fogyasztanak GMO-termékeket, mert azokat kevesebbet permetezik. És itt a Monsanto saját étkezdőjéről van szó. (Megjegyzés: ezek az üzemek már bezártak.)
 
 ![Monsanto-kantin](/assets/images/monsanto_etkezde.jpg){.medium-img}
 
@@ -140,4 +140,64 @@ Ebben egyébként nincsen semmilyen újdonság, mivel köztudottnak kellene lenn
 Egyébként **ezeket a megfertőzött táblákat szigorúan el kell különíteni az élelem vagy takarmány célból termelő gabonatábláktól. Az ügynek semmi köze nincsen a GMO-k veszélyességéhez, mert a gyógyszeripari és az élelmiszeripari termés gondatlanságból való összekeveréséről volt itt szó**, de hát nem szabad veszni hagyni egy jó ügyet, ha a géntechnológiát kell ostorozni és hibáztatni mindenért! 13 500 tonna szóját fertőztek meg, és mint ismeretes, az USA-ban termesztett szója nagy része „génmódosított” fajta. Ezzel befejeztem a GMO-kkal kapcsolatos összeesküvés-elméletek valós tényekkel való megcáfolását.
 
 *A GMO-hisztéria sorozat folytatása következik...*
+
+
+## Irodalom
+
+* ÁBRAHÁM R. – ÉRSEK T. – KUROLI G. – NÉMETH L. – REISINGER P. (2011). [Növényvédelem. Rezisztencia kialakulása a növényvédő szerekkel szemben. (internetes tananyag)](http://www.tankonyvtar.hu/hu/tartalom/tamop425/0010_1A_Book_08_Novenyvedelem/ch05s03.html)
+
+* CHOUDHARY, B. – GAUR, K. (2015.) [Biotech Cotton in India, 2002 to 2014. ISAAA Series of Biotech Crop Profiles. – ISAAA: Ithaca, NY. 34 p.](https://www.isaaa.org/resources/publications/biotech_crop_profiles/bt_cotton_in_india-a_country_profile/download/Bt_Cotton_in_India-2002-2014.pdf)
+
+* FOX, J. L. 1996: Bt cotton infestations renew resistance concerns. – Nature Biotechnology 14, pp. 1070-1071.
+
+* GEORGE, S. (2009). Lugánói tanulmány. Kairosz Kiadó, Budapest. 266 p.
+
+* KUTASI J. (2007). [Fermentációs biotechnológia. (internetes tananyag)](http://www.tankonyvtar.hu/hu/tartalom/tkt/fermentacios/ch02s05.html)
+
+* LOMBARDO, L. (2014). Genetic use restriction technologies: a review. – Plant Biotechnology Journal 12(8), pp. 995-1005. DOI:10.1111/pbi.12242 http://onlinelibrary.wiley.com/doi/10.1111/pbi.12242/full
+
+* PLEWIS, I. (2014a). [Indian farmer suicides: Is GM cotton to blame?](https://doi.org/10.1111/j.1740-9713.2014.00719.x) – Significance, Special Issue: Poverty and development.
+
+* PLEWIS, I. (2014b). [Hard Evidence: does GM cotton lead to farmer suicide in India? The Conversation.](https://theconversation.com/hard-evidence-does-gm-cotton-lead-to-farmer-suicide-in-india-24045)
+
+### Internetes források
+
+* [A Monsanto Intern 2016.](http://www.amonsantointern.com/blog/2016/6/12/myth-number-one-monsanto-employees-only-eat-organic-non-gmo)
+
+* ANTICS K. (2013). [A génmódosított növények kockázatairól. Gazdazóna.](http://www.gazdazona.hu/2013/05/08/a-genmodositott-novenyek-kockazatairol/)
+
+* GM Watch (2002). [Prodigene officials may face jail/Contamination could be AIDS vaccine or blood thickener.](http://www.gmwatch.org/en/latest-listing/41-2002/3278-prodigene-officials-may-face-jailcontamination-could-be-aids-vaccine-or-blood-thickener
+)
+
+* Idők Jelei (2012). [Biotech farmok: Vakcinák és gyógyszerek a GMO termésben.](http://idokjelei.hu/2012/10/biotech-farmok-vakcinak-es-gyogyszerek-a-gmo-termesben/) (A honlap nem megbízható hírforrás!) 
+
+* KATIRAEE, L. (2015a). [GMOs and Patents: Part 1 – Terminator Genes. Biology Fortified.](https://www.biofortified.org/2015/12/gmos-and-patents-part-1-terminator-genes/)
+
+* KATIRAEE, L. (2015b). [GMOs and Patents: Part 2 – Lawsuits against Farmers.](https://www.biofortified.org/2015/12/lawsuits-against-farmers/) Biology Fortified.
+
+* KATIRAEE, L. (2015c). [GMOs and Patents: Part 3 – Lawsuits for inadvertent contamination. Biology Fortified.](https://www.biofortified.org/2015/12/lawsuits-for-inadvertent-contamination/)
+
+* KLOOR, K. (2014). [The Rich Allure of a Peasant Champion. Discover.](http://blogs.discovermagazine.com/collideascape/2014/10/23/rich-allure-vandana-shiva/#.WTm7uzd94nT)
+
+* MCCARTHY, M. (1999). [GM food banned in Monsanto canteen. The Independent.](http://www.independent.co.uk/environment/gm-food-banned-in-monsanto-canteen-737948.html
+)
+
+* Monsanto (2018). [2018 TUG. U.S. TECHNOLOGY USE GUIDE and INSECT RESISTANCE MANAGEMENT OVERVIEW
+2018 TUG](https://monsanto.com/app/uploads/2018/04/2018_TUG_US.pdf) (pp. 32-33.)
+
+* [Monsanto.](http://www.monsanto.com/newsviews/pages/what-monsanto-serves-in-its-cafeterias.aspx)
+
+* Natural Society (2012). [‘Biofarms’ to Integrate Vaccines, Pharmaceuticals into GMO ‘Biopharmaceutical’ Crops.](http://naturalsociety.com/biofarms-vaccines-pharmaceuticals-gmo-biopharmaceutical-crops/
+) (A honlap nem megbízható hírforrás!)
+
+* OKSENBERG, N. (2015). [Why don’t farmers save seeds?](https://www.biofortified.org/2015/06/why-dont-farmers-save-seeds/
+) Biology Fortified.
+
+* SHIVA, V. (2013). [Seed Monopolies, GMOs and Farmer Suicides in India – A response to Nature. Navdanya's Diary.](http://www.navdanya.org/blog/?p=744)
+
+* SPECTER, M. (2014). [Seeds Of Doubt. An activist’s controversial crusade against genetically modified crops.](http://www.newyorker.com/magazine/2014/08/25/seeds-of-doubt) The New Yorker.
+
+* Syngenta (2016). [Syngenta Seeds, LLC Stewardship Agreement.](http://www.syngenta-us.com/stewardship/downloads/syngentastewardshipagreement.pdf)
+
+
 

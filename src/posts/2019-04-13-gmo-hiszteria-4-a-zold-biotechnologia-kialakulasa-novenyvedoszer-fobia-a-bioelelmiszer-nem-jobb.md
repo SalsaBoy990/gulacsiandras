@@ -3,14 +3,19 @@ title: >-
   GMO-hisztéria 4: A zöld biotechnológia kialakulása, növényvédőszer-fóbia, a
   bioélelmiszer nem jobb
 date: '2019-04-13'
-excerpt: Még gondolkodom rajta
+excerpt: >-
+  Szó lesz a mezőgazdasági biotechnológia kialakulásáról, a szintetikus
+  növényvédőszer-maradványok kockázatának jelentéktelenségéről, illetve arról,
+  hogy a biotermesztésből származó élelmiszerek nem jobbak a hagyományos
+  megfelelőiknél; a burgonyavész-ellenálló GM-burgonyáról, végül az inzulint
+  géntechnológiával történő előállításáról.
 coverImage: corn.jpg
 comments: true
 topic: GMO
 ---
 ## Egy kis történelem
 
-Venetianer Pál akadémikus a tudománynépszerűsítő könyvében a mezőgazdasági géntechnológia (ezt zöld biotechnológiának is nevezik) fejlődéstörténetét lényegre törően összefoglalta:
+Venetianer Pál akadémikus lényegre törően összefoglalta a mezőgazdasági géntechnológia (ezt zöld biotechnológiának is nevezik) fejlődéstörténetét:
 
 > „A mezőgazdasági géntechnológiát lehetővé tevő tudományos felfedezés egy egyszerű biokémiai eljárás, amelynek pontosabb neve: in vitro DNS-rekombináció. (...) Általánosan alkalmazható technikává Stanley Cohen és Herbert Boyer (és munkatársaik) 1973-ban közölt kísérletei tették. Ők kimutatták, hogy a néhány évvel korábban felfedezett restrikciós endonukleáz enzimek felhasználásával meghatározott pontokon elvágható és más enzimek segítségével összekapcsolható a DNS, így a magnetofon, film, vagy videoszalag vágásához hasonlóan, különböző forrásból származó DNS-szakaszok összekapcsolhatók vagy átrendezhetők, és ezek, élő sejtbe történő bevitel után, megőrizhetik működőképességüket. (...)
 

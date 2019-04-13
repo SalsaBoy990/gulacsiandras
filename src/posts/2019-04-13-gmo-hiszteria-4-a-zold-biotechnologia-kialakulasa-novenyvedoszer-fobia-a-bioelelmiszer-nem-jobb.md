@@ -7,7 +7,7 @@ excerpt: >-
   Szó lesz a mezőgazdasági biotechnológia kialakulásáról, a szintetikus
   növényvédőszer-maradványok kockázatának jelentéktelenségéről, illetve arról,
   hogy a biotermesztésből származó élelmiszerek nem jobbak a hagyományos
-  megfelelőiknél; a burgonyavész-ellenálló GM-burgonyáról, végül az inzulint
+  megfelelőiknél; a burgonyavész-ellenálló GM-burgonyáról, végül az inzulin
   géntechnológiával történő előállításáról.
 coverImage: corn.jpg
 comments: true

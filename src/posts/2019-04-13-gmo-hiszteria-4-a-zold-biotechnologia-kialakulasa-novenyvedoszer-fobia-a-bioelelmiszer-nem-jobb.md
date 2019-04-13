@@ -55,7 +55,7 @@ Más szóval, azok a fogyasztók, akik **azért vesznek drága organikus élelmi
 
 Az Európai Élelmiszerbiztonsági Hatóság (EFSA, European Food Safety Authority) legfrissebb jelentése (EFSA 2017) feltárta, hogy **az Európai Unió szerte 2015-ben gyűjtött élelmiszerminták 97%-ában a szintetikus növényvédőszer-maradványok a megengedett határértéken belül voltak, és 53%-uk egyáltalán nem tartalmazott (kimutatható mértékben) szintetikus növényvédőszer-maradékot.** Tehát az Európában fogyasztott élelmiszerek nagyobb része szintetikus szermaradvány nélküli vagy a megengedett határérték alatti. A hatóság azt a következtetést vonta le (a 2014-es felméréséhez hasonlóan), hogy az ebből származó egészségügyi kockázat alacsony, tehát **biztonsággal fogyaszthatók.** Határérték felett többnyire az Európán kívülről érkezett élelmiszerek tartalmazhat szermaradványokat (főleg Laosz, Suriname, Kambodzsa, Kína, Vietnam, Jordánia, Etiópia, Thaiföld, Pakisztán, India és Sri Lanka).
 
-![Növényvédőszer- illetve GMO-ellenes aktivisták „Halloweenkor beöltözve” (kép: Greenfo). Tőlük nem várhatunk objektív és racionális érveket, csupán az érzelmekre ható félelemkeltést.]()
+![Növényvédőszer- illetve GMO-ellenes aktivisták „Halloweenkor beöltözve” (kép: Greenfo). Tőlük nem várhatunk objektív és racionális érveket, csupán az érzelmekre ható félelemkeltést.](/assets/images/gmo_ellenes_aktivistak.jpg){.medium-img}
 
 ## Az organikus gyümölcs és zöldség nem jobb
 
@@ -67,7 +67,7 @@ A környezetvédők azt feltételezik, hogy az organikus termesztési módszer j
 
 Egy másik metaelemzés 147 tanulmány elemzése után arra az eredményre jutott, hogy **a GM-technológia átlagosan 37%-kal csökkentette a rovarirtó szerek alkalmazását, e mellett 22%-kal növelte a terméshozamokat, valamint 68%-kal növelte a gazdálkodók nyereségét** (1. ábra) (KLÜMPER W. – QAIM M. 2014). A tanulmány erre nem tért ki, de hozzá kell tenni, hogy a helytelen gyomirtó-használat rezisztens gyomok kialakulásához vezethet, ami növelheti a herbicid-használatot („nem hat már úgy a szer a gyomokra, ezért még többet permetezek belőle”). Egyébként **sok amerikai gazda, bár a Monsanto vetőmagjai veszi meg, mégsem használ glifozátot a földjén.** Ha nem muszáj, akkor nem is kell permetezni, így a gyomirtó költségét is megspórolják.
 
-![1. ábra: Százalékos eltérés a GM-növények és a nem-GM növények termesztése között a terméshozam, a használt rovarirtó szerek mennyisége és ára, a teljes termelési költség és a gazdálkodók nyeresége tekintetében (KLÜMPER W. – QAIM M. 2014). A három csillaggal jelölt változók esetén statisztikailag szignifikáns eltérés van 1%-os szinten a GMO/nem-GMO között. (Rövid magyarázat: 1% a valószínűsége, hogy a kapott eltérést az adatokban lévő véletlen változékonyság eredményezte).]()
+![1. ábra: Százalékos eltérés a GM-növények és a nem-GM növények termesztése között a terméshozam, a használt rovarirtó szerek mennyisége és ára, a teljes termelési költség és a gazdálkodók nyeresége tekintetében (KLÜMPER W. – QAIM M. 2014). A három csillaggal jelölt változók esetén statisztikailag szignifikáns eltérés van 1%-os szinten a GMO/nem-GMO között. (Rövid magyarázat: 1% a valószínűsége, hogy a kapott eltérést az adatokban lévő véletlen változékonyság eredményezte).](/assets/images/gmo_elonyok.png)
 
 ## Burgonyavész-álló GM-burgonya
 

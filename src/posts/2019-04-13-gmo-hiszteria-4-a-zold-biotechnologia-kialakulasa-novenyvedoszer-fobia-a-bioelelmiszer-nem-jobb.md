@@ -15,24 +15,26 @@ Venetianer Pál akadémikus a tudománynépszerűsítő könyvében a mezőgazda
 > 1982-ben (...) sikerült idegen DNS működőképes bevitele állatokba, majd növényekbe is. E siker eredményeképpen 1994-ben köztermesztésbe került az első „transzgénikus” növény, és az ilyen növények (és állatok, mikroorganizmusok) elnevezésére meghonosodott a némileg félrevezető GMO (genetically modified organism = genetikailag módosított élőlény) elnevezés. A név azért nem pontos, mert nyilvánvalóan a hagyományos nemesítés is módosítja genetikailag tárgyait, sőt azt is mondhatjuk, hogy minden ember az anyai genetikai állomány apa általi genetikai módosításának köszönheti életét. Természetesen még rosszabb a magyar sajtóban kiirthatatlanul elterjedt „génkezelt” kifejezés, ami azt sugallja, mintha gének oldatába mártották volna a növényt, netán ecseteléssel juttatták volna be azokat. GMO-nak valójában olyan élőlényt nevezünk, amelynek örökletes állományába célzott, tervezett módon bevittek valamilyen DNS-szakaszt, a természetes kereszteződés kikerülésével (ha a bevitt DNS idegen fajból származott, akkor „transzgénikus”, ha saját fajból, akkor „ciszgénikus” a neve az így nemesített növénynek vagy állatnak). (...) 
 
 > Az első tisztázandó kérdés: igaz-e, hogy a géntechnológia forradalmian új, a hagyományos nemesítéstől alapvetően különböző eljárás? Ahelyett, hogy elvitatkoznánk a „forradalmian új” kifejezés definícióján, kíséreljük meg áttekinteni, hogy miben különbözik a kettő egymástól, és miben nem.
-Nincs különbség abban, hogy: 
-* az eljárás nem természetes, hanem mesterséges;
-* természetben elő nem forduló konstrukciót is létrehozhat;
-* átlépheti a fajok közti határokat;
-* kikerüli az evolúció szűrőjét;
-* vezethet toxikus, a fogyasztóra ártalmas növény létrejöttéhez;
-* a létrehozott növény árthat a környezetnek, az ökoszisztémának;
-* csökkentheti a biodiverzitást.
 
-A fentebb felsorolt állítások valamennyien elhangzanak időnként vádként a géntechnológia ellen, de nyilvánvalóan ugyanúgy igazak a hagyományos nemesítés számos eljárására, illetve produktumára is.
+>Nincs különbség abban, hogy: 
+>* az eljárás nem természetes, hanem mesterséges;
+>* természetben elő nem forduló konstrukciót is létrehozhat;
+>* átlépheti a fajok közti határokat;
+>* kikerüli az evolúció szűrőjét;
+>* vezethet toxikus, a fogyasztóra ártalmas növény létrejöttéhez;
+>* a létrehozott növény árthat a környezetnek, az ökoszisztémának;
+>* csökkentheti a biodiverzitást.
 
-Az alapvető különbség mindössze annyi, hogy:
-* míg a hagyományos nemesítésnél mindig gének tízezrei keverednek véletlenszerűen gének tízezreivel, addig a géntechnológia tervezetten visz be egyetlen (vagy olykor egynéhány) ismert gént.
-* a bevitt gén az élővilág bármely fajából származhat, akár mesterségesen előállított is lehet. (...)
+> A fentebb felsorolt állítások valamennyien elhangzanak időnként vádként a géntechnológia ellen, de nyilvánvalóan ugyanúgy igazak a hagyományos nemesítés számos eljárására, illetve produktumára is.
 
-Lehet-e veszélyes, hogy a bevitt DNS „idegen”? Nem, mert a DNS szerkezete és a genetikai kód az egész élővilágban azonos, a gének csereszabatosak. (...) Az emberi táplálkozásban kizárólag „idegen” DNS-t fogyasztunk (kivéve a kannibálokat), a legkülönbözőbb fajokét egymás mellett, és ez nyilvánvalóan nem árt senkinek” (VENETIANER P. 2011).
+>Az alapvető különbség mindössze annyi, hogy:
+>* míg a hagyományos nemesítésnél mindig gének tízezrei keverednek véletlenszerűen gének tízezreivel, addig a géntechnológia tervezetten visz be egyetlen (vagy olykor egynéhány) ismert gént.
+>* a bevitt gén az élővilág bármely fajából származhat, akár mesterségesen előállított is lehet. (...)
 
-Egy példa arra, hogy a hagyományos nemesítés is vezethet emberre mérgező növény keletkezéséhez: 
+>Lehet-e veszélyes, hogy a bevitt DNS „idegen”? Nem, mert a DNS szerkezete és a genetikai kód az egész élővilágban azonos, a gének csereszabatosak. (...) Az emberi táplálkozásban kizárólag „idegen” DNS-t fogyasztunk (kivéve a kannibálokat), a legkülönbözőbb fajokét egymás mellett, és ez nyilvánvalóan nem árt senkinek” (VENETIANER P. 2011).
+
+Egy példa arra, hogy a hagyományos nemesítés is vezethet emberre mérgező növény keletkezéséhez:
+
 > „Az USA-ban a zeller hagyományos szelekciójával sikerült olyan fajtát nemesíteni, amely a Bosnyákon a „csodás” minősítést kapta volna, **ha nem termel elképesztő mennyiségű 8-metoxi-pszoralént, amelyet lehetséges rákkeltőnek tartunk.** Ez a fajta sohasem kapott termesztési engedélyt” (DARVAS B. 1999).
 
 És mégsem követeli senki a hagyományos nemesítés betiltását. Ahogyan a félresikerült „génmódosított” fajták, amelyek toxikusak, sem kapnak a termesztésre engedélyt, hanem meg kell semmisíteni őket.
@@ -41,7 +43,7 @@ Egy példa arra, hogy a hagyományos nemesítés is vezethet emberre mérgező n
 
 A növényvédő-szerek nagy mennyiségben kerülnek bele a felszíni és felszín alatt vizekbe, és a talajba. Az élelmiszerek elfogyasztásával az emberi szervezetbe is bekerülnek. Meglepő módon azonban a szintetikus vegyszermaradékokkal szennyezett élelmiszerek fogyasztása nem feltétlenül egészségkárosító, ugyanis a kutatók kimutatták, hogy
 
-> „az amerikaiak étrendjében jelenlévő **rovarirtó szerek súlyának 99,99 tömegszázalékát olyan vegyületek teszik ki, amelyeket maguk a növények termelnek saját védelmükre**. A természetes rovarölő szerek közül eddig csak ötvenkettőt vizsgáltak nagy dózist alkalmazó, állatokon végzett karcinogén teszttel, és ezeknek körülbelül a fele (27) a rágcsálók számára rákkeltőnek mutatkozott; ez a 27 anyag sok közönséges élelmiszerben jelen van. Ezek közül néhány példa: szafrol, pirokatechin, esztragol, D-limonén, 5-metoxipszorálen, 8-metoxipszorálen, etil-akrilát, klorogénsav, neochlorogenic sav, szezamol, szinigrin, allil-izotiocianát stb.).
+> „az amerikaiak étrendjében jelenlévő **rovarirtó szerek súlyának 99,99 tömegszázalékát olyan vegyületek teszik ki, amelyeket maguk a növények termelnek saját védelmükre**. A természetes rovarölő szerek közül eddig csak ötvenkettőt vizsgáltak nagy dózist alkalmazó, állatokon végzett karcinogén teszttel, és ezeknek körülbelül a fele (27) a rágcsálók számára rákkeltőnek mutatkozott; ez a 27 anyag sok közönséges élelmiszerben jelen van. Ezek közül néhány példa: szafrol, pirokatechin, esztragol, D-limonén, 5-metoxipszorálen, 8-metoxipszorálen, etil-akrilát, klorogénsav, neoklorogénsav, szezamol, szinigrin, allil-izotiocianát stb.).
 
 Ebből az a tanulság, hogy a természetes eredetű vegyi anyagok éppolyan valószínűséggel bizonyulhatnak rákkeltőknek a rágcsálókkal végzett tesztekben (ahol nagy dózisban adagolják az említett vegyületeket), mint a szintetikus anyagok, és
 

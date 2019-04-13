@@ -32,17 +32,20 @@ Az alapvető különbség mindössze annyi, hogy:
 
 Lehet-e veszélyes, hogy a bevitt DNS „idegen”? Nem, mert a DNS szerkezete és a genetikai kód az egész élővilágban azonos, a gének csereszabatosak. (...) Az emberi táplálkozásban kizárólag „idegen” DNS-t fogyasztunk (kivéve a kannibálokat), a legkülönbözőbb fajokét egymás mellett, és ez nyilvánvalóan nem árt senkinek” (VENETIANER P. 2011).
 
-Egy példa arra, hogy a hagyományos nemesítés is vezethet emberre mérgező növény keletkezéséhez: „Az USA-ban a zeller hagyományos szelekciójával sikerült olyan fajtát nemesíteni, amely a Bosnyákon a „csodás” minősítést kapta volna, ha nem termel elképesztő mennyiségű 8-metoxi-pszoralént, amelyet lehetséges rákkeltőnek tartunk. Ez a fajta sohasem kapott termesztési engedélyt” (DARVAS B. 1999). És mégsem követeli senki a hagyományos nemesítés betiltását. Ahogyan a félresikerült „génmódosított” fajták, amelyek toxikusak, sem kapnak a termesztésre engedélyt, hanem meg kell semmisíteni őket.
+Egy példa arra, hogy a hagyományos nemesítés is vezethet emberre mérgező növény keletkezéséhez: 
+> „Az USA-ban a zeller hagyományos szelekciójával sikerült olyan fajtát nemesíteni, amely a Bosnyákon a „csodás” minősítést kapta volna, **ha nem termel elképesztő mennyiségű 8-metoxi-pszoralént, amelyet lehetséges rákkeltőnek tartunk.** Ez a fajta sohasem kapott termesztési engedélyt” (DARVAS B. 1999).
 
-## Növényvédő szer fóbia
+És mégsem követeli senki a hagyományos nemesítés betiltását. Ahogyan a félresikerült „génmódosított” fajták, amelyek toxikusak, sem kapnak a termesztésre engedélyt, hanem meg kell semmisíteni őket.
 
-A növényvédő szerek nagy mennyiségben kerülnek bele a felszíni és felszín alatt vizekbe, és a talajba. Az élelmiszerek elfogyasztásával az emberi szervezetbe is bekerülnek. Meglepő módon azonban a szintetikus vegyszermaradékokkal szennyezett élelmiszerek fogyasztása nem feltétlenül egészségkárosító, ugyanis a kutatók kimutatták, hogy
+## Növényvédő-szer fóbia
 
-> „az amerikaiak étrendjében jelenlévő **rovarirtó szerek súlyának 99,99 tömegszázalékát olyan vegyületek teszik ki, amelyeket maguk a növények termelnek saját védelmükre**. A természetes rovarölő szerek közül eddig csak ötvenkettőt vizsgáltak nagy dózist alkalmazó, állatokon végzett karcinogén teszttel, és ezeknek körülbelül a fele (27) a rágcsálók számára rákkeltőnek mutatkozott; ez a 27 anyag sok közönséges élelmiszerben jelen van. Ezek közül néhány példa: szafrol, pirokatechin, esztragol, D-limonén, 5-metoxipszorálen, 8-metoxipszorálen, etil-akrilát, chlorogenic sav, neochlorogenic sav, szezamol, szinigrin, allil-izotiocianát stb.).
+A növényvédő-szerek nagy mennyiségben kerülnek bele a felszíni és felszín alatt vizekbe, és a talajba. Az élelmiszerek elfogyasztásával az emberi szervezetbe is bekerülnek. Meglepő módon azonban a szintetikus vegyszermaradékokkal szennyezett élelmiszerek fogyasztása nem feltétlenül egészségkárosító, ugyanis a kutatók kimutatták, hogy
+
+> „az amerikaiak étrendjében jelenlévő **rovarirtó szerek súlyának 99,99 tömegszázalékát olyan vegyületek teszik ki, amelyeket maguk a növények termelnek saját védelmükre**. A természetes rovarölő szerek közül eddig csak ötvenkettőt vizsgáltak nagy dózist alkalmazó, állatokon végzett karcinogén teszttel, és ezeknek körülbelül a fele (27) a rágcsálók számára rákkeltőnek mutatkozott; ez a 27 anyag sok közönséges élelmiszerben jelen van. Ezek közül néhány példa: szafrol, pirokatechin, esztragol, D-limonén, 5-metoxipszorálen, 8-metoxipszorálen, etil-akrilát, klorogénsav, neochlorogenic sav, szezamol, szinigrin, allil-izotiocianát stb.).
 
 Ebből az a tanulság, hogy a természetes eredetű vegyi anyagok éppolyan valószínűséggel bizonyulhatnak rákkeltőknek a rágcsálókkal végzett tesztekben (ahol nagy dózisban adagolják az említett vegyületeket), mint a szintetikus anyagok, és
 
-**„mivel az emberek a legtöbb esetben alacsony dózisban vannak kitéve a szintetikus rovarirtószer-maradványoknak, ezek viszonylagos kockázata jelentéktelen”** (AMES, B. N. et al. 1990).
+> **„mivel az emberek a legtöbb esetben alacsony dózisban vannak kitéve a szintetikus rovarirtószer-maradványoknak, ezek viszonylagos kockázata jelentéktelen”** (AMES, B. N. et al. 1990).
 
 Más szóval azok a fogyasztók, akik **azért vesznek drága organikus élelmiszereket, hogy elkerüljék a rovarirtó szerek hatását, az élelmiszereikben előforduló rovarirtó szerek 0,01 százalékával foglalkoznak.** Az USA-ban egy személy egy napi szintetikus növényvédőszer-bevitele mindössze 0,09 mg, míg napi természetes növényvédőszer-bevitele 1,5 g (150 mg) az idézett tanulmány adatai szerint. A haszonnövényeink által termelt természetes eredetű növényvédő szerek sem jelentenek egészségügyi kockázatot, mert nagyon alacsony dózisban kerülnek a szervezetbe. És mint tudjuk, a dózis teszi a mérget.
 

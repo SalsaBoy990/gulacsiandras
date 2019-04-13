@@ -48,3 +48,27 @@ Más szóval azok a fogyasztók, akik **azért vesznek drága organikus élelmis
 
 Az Európai Élelmiszerbiztonsági Hatóság (EFSA, European Food Safety Authority) legfrissebb jelentése (EFSA 2017) feltárta, hogy **az Európai Unió szerte 2015-ben gyűjtött élelmiszerminták 97%-ában a szintetikus növényvédőszer-maradványok a megengedett határértéken belül voltak, és 53%-uk egyáltalán nem tartalmazott (kimutatható mértékben) szintetikus növényvédőszer-maradékot.** Tehát az Európában fogyasztott élelmiszerek nagyobb része szintetikus szermaradvány nélküli vagy a megengedett határérték alatti. A hatóság azt a következtetést vonta le (a 2014-es felméréséhez hasonlóan), hogy az ebből származó egészségügyi kockázat alacsony, tehát **biztonsággal fogyaszthatók.** Határérték felett többnyire az Európán kívülről érkezett élelmiszerek tartalmazhat szermaradványokat (főleg Laosz, Suriname, Kambodzsa, Kína, Vietnam, Jordánia, Etiópia, Thaiföld, Pakisztán, India és Sri Lanka).
 
+## Az organikus gyümölcs és zöldség nem jobb
+
+Egy 2012-ben készült, 240 cikk adatait feldolgozó metaelemzés úgy találta, hogy **az organikus gyümölcsök és zöldségek nem voltak átlagosan magasabb tápértékűek olcsóbb, hagyományos megfelelőiknél, és nem voltak kevésbé szennyezettek *E. coli* vagy *Salmonella* baktériummal**, ami magukat a kutatókat is meglepte. (SMITH-SPANGLER, C. et al. 2012).
+
+## A biotermesztés károsabb a környezetre nézve
+
+A környezetvédők azt feltételezik, hogy az organikus termesztési módszer jobbat tesz a természetes környezetnek. Ám az organikus mezőgazdasági módszerekkel **a valóságban elérhető alacsony hozamok, amelyek tipikusan 20-50 %-kal elmaradnak a hagyományos** (gépesített, szintetikus növényvédőszer és műtrágyahasználó) **mezőgazdaság hozamaitól**, különféle stresszhatásokat okoznak a termőföldön és jelentősen növelik a vízfogyasztást. Egy nemrég készült brit metaelemzés szerint **az egységnyi termelési eredményre számított ammóniakibocsátás, nitrogénkimosódás és nitrogénoxid-kibocsátás az organikus rendszerekben magasabb volt, mint a hagyományos mezőgazdaságban, éppúgy, mint a földhasználat, valamint az eutrofizálódási és a savasodási potenciál** (TUOMISTO, L. H. et al. 2012).
+
+Egy másik metaelemzés 147 tanulmány elemzése után arra az eredményre jutott, hogy **a GM-technológia átlagosan 37%-kal csökkentette a rovarirtó szerek alkalmazását, e mellett 22%-kal növelte a terméshozamokat, valamint 68%-kal növelte a gazdálkodók nyereségét** (9. ábra) (KLÜMPER W. – QAIM M. 2014). A tanulmány erre nem tért ki, de hozzá kell tenni, hogy a helytelen gyomirtó-használat rezisztens gyomok kialakulásához vezethet, ami növelheti a herbicid-használatot („nem hat már úgy a szer a gyomokra, ezért még többet permetezek belőle”). Egyébként **sok amerikai gazda, bár a Monsanto vetőmagjai veszi meg, mégsem használ glifozátot a földjén.** Ha nem muszáj, akkor nem is kell permetezni, így a gyomirtó költségét is megspórolják.
+
+## Burgonyavész-álló GM-burgonya
+
+A géntechnológia alkalmazásának egy pozitív példájáról.
+
+>„A BBC Worldwide egyik kiadványa írta decemberben a burgonyatermesztés történetéről a következőket. A 19. század közepén Írországban a krumpliültetvényeket váratlanul megtámadta a *Phytophtora infestans* nevű gomba, aminek következtében a levelek elfeketedtek, és a növények viharos gyorsasággal elpusztultak. Ennek következtében akkor egy millió ember halt éhen, és két millióan elvándoroltak. **Ez a növénybetegség ma is itt van velünk és a világ évi kb. 320 millió tonna terméséből 20 %-ot pusztít el. A hagyományos növénynemesítéssel nem sikerült ellenálló fajtákat létrehozni, így az egyetlen védelem a vegyszeres permetezés. A réztartalmú gombaölő vegyszerek rendkívül mérgezőek állatra és emberre egyaránt. A permetezést általában 10-15 alkalommal végzik még a biogazdaságokban is!** (...) A géntudomány viszont megoldotta a problémát, éppen most van engedélyezés alatt az az angol kutatók és a német BASF cég laboratóriumai által kifejlesztett, **genetikailag úgy módosított burgonya**, hogy **vegyszerek nélkül is ellenáll** ennek a betegségnek” (VARGA M. 2012).
+
+## Az inzulint is géntechnológiával állítják elő
+
+Talán kevesen tudják, de a cukorbetegek számára ma már szintetikusan, géntechnológia alkalmazásával gyártják az inzulint:
+
+> „Az évtized elejéig az inzulint szarvasmarha vagy sertés hasnyálmirigyéből vonták ki. Egy átlagos (40 egység/nap) inzulinkezelésre szoruló cukorbeteg 20 év alatt hozzávetőlegesen 4000 sertés vagy 600 szarvasmarha hasnyálmirigyét „használta” el. Az emberi inzulinnal azonos humán inzulin előállítása először szintetikus úton történt a nyolcvanas évek elején. A sertésinzulinban kicserélték azt az egyetlen aminosavat, amely különbözött az emberétől. Azonban ez a módszer nem vált be, mivel növelte az állati hasnyálmirigy-szükségletet, ugyanis a gyártás során nagyobb lett a veszteség.
+
+> **1987-ben az emberi vastagbélben normálisan is jelenlevő *Escherichia coli* baktériumba beültetett emberi inzulin gén segítségével előállított „humán” inzulin került a gyógyszerpiacra. 1991-től közönséges sütőélesztőbe bejuttatott szintetikus DNS segítségével is gyártanak inzulint. Napjainkra a géntechnológiával előállított készítmények teljesen kiszorították az állati inzulinokat.** Magyarországon 1996-ban fejeződött be a cukorbetegek átállítása humán inzulinokra” (KOVÁCS V. nincs év).
+

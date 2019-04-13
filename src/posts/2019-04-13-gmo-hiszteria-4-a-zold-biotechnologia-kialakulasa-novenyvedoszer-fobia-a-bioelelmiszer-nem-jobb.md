@@ -83,7 +83,29 @@ Talán kevesen tudják, de a cukorbetegek számára ma már szintetikusan, gént
 
 > **1987-ben az emberi vastagbélben normálisan is jelenlevő *Escherichia coli* baktériumba beültetett emberi inzulin gén segítségével előállított „humán” inzulin került a gyógyszerpiacra. 1991-től közönséges sütőélesztőbe bejuttatott szintetikus DNS segítségével is gyártanak inzulint. Napjainkra a géntechnológiával előállított készítmények teljesen kiszorították az állati inzulinokat.** Magyarországon 1996-ban fejeződött be a cukorbetegek átállítása humán inzulinokra” (KOVÁCS V. nincs év).
 
-*A GMO-hisztéria sorozat folytatása következik az befejező résszel...*
+*A GMO-hisztéria sorozat folytatása következik a befejező résszel...*
 
 ## Irodalom
+
+* AMES, B. N. – PROFET, M. – GOLD, L. S. (1990). Dietary pesticides (99.99% all natural). – Proc. Natl. Acad. Sci. USA (Medical Sciences) 87. pp. 7777-7781.
+
+* DARVAS B. (1999). [Nézőpontok, ha különböznek (Homage to Árpád Pusztai).](http://mek.oszk.hu/03200/03216/html/#76) – Biokémia 23, pp. 99-102.
+
+* EFSA (2017). [The 2015 European Union report on pesticide residues in food.](http://onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4791/full) EFSA Journal 15(4): e04791 DOI:10.2903/j.efsa.2017.4791
+
+* KLÜMPER, W.  –  QAIM, M. (2014). A Meta-Analysis of the Impacts of Genetically Modified Crops. – PLoS ONE 9(11): e111629. doi:10.1371/journal.pone.0111629
+
+* SMITH-SPANGLER, C. – BRANDEAU, M. L. – HUNTER, G. E. – BAVINGER, J. C. – PEARSON, M. – ESCHBACH, P. J. – SUNDARAM, V. – LIU, H. – SCHIRMER, P. – STAVE, C. – OLKIN, I. – BRAVATA, D. M. (2012). Are Organic Foods Safer or Healthier Than Conventional Alternatives? A Systematic Review. – Annals of Internal Medicine 157. 5. pp. 348-366.
+
+* TUOMISTO, L. H. – HODGE, D. I. – RIORDAN, P. – MACDONALD, W. D. (2012). Does organic farming reduce environmental impacts? – A meta-analysis of European research. – Journal of Environmental Management 112. pp. 309-320.
+
+* VENETIANER P. (2011). [4. A géntechnológia helye a genetikai beavatkozások között.](http://zoldbiotech.hu/articles/2012-04/6/book-small_MAGYAR%20VEGSO.pdf) – In. BALÁZS E. – DUDITS D. – SÁGI L. (szerk.): Genetikailag módosított élőlények (GMO-k) a tények tükrében. Magyar fehér könyv. – Szeged. pp. 13-18.
+
+
+### Internetes források
+
+* KOVÁCS V. (nincs év).[Inzulin. Gruiz Katalin Biotechnológiai ismeretek c. tárgyához készült prezentáció, BME.](http://enfo.agt.bme.hu/drupal/sites/default/files/inzulinGKj%20%281%29.pdf)
+
+* VARGA M. (2012). [A józan ész és a GMO-mentesség.](http://www.zoldbiotech.hu/cikk/15-A-jozan-esz-es-a-GMO-mentesseg) Zöldbiotech.
+
 

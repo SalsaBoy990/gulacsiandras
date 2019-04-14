@@ -49,7 +49,7 @@ Ország | Termésterület (millió hektár)
 **Összesen** | **185,1**
 [1. táblázat: A GM-növények termőterülete országonként a világon 2016-ban (CLIVE, J. 2016)]
 
-![2. ábra: A biotechnológiai haszonnövényeket termesztő országok a Földön 2016-ban (CLIVE, J. 2016)]()
+![2. ábra: A biotechnológiai haszonnövényeket termesztő országok a Földön 2016-ban (CLIVE, J. 2016).]()
 
 ## A brazil példa
 
@@ -58,6 +58,8 @@ Nem sokan tudják, de a hatalmas **Brazília maga is állít elő saját GM-növ
 2014-ben 104 millió hold földterületen termesztettek szóját Brazíliában (ebből 72 millió holdon „génmódosított” fajtát), ezzel a világon a második legnagyobb szójatermesztő országa az Egyesült Államok után (NORERO, D. 2015).
 
 A FuturaGene Brasil Technology Ltd. pedig egy gyorsnövésű **„génmódosított” eukaliptuszfajt** is létrehozott, 20%-kal nagyobb produktivitással, cellulózgyártásra és bioüzemanyagok előállítására, 1. kép (NORERO, D. 2015). A bioüzemanyagokat ellenzem egyrészről azért, mert alacsony a befektetett energia (költség) és a kinyert energia (bevétel) aránya, tehát a megtérülés nem igazán kedvező, másrészről hatalmas esőerdőirtással járna annyi ültetvény létrehozása, ami észrevehető módon hozzájárulna az energiaigényekhez.
+
+![1. kép: 6 éves génmódosított eukaliptusz ültetvény Angatuba-ban, São Paulo államban (DA SILVEIRA, E. 2013).]()
 
 De jól jönne a Homokhátságra egy szárazságot jobban tűrő transzgenikus fafajta. Csak örülni tudnék, ha hazánk is képes volna mindezt véghezvinni!
 

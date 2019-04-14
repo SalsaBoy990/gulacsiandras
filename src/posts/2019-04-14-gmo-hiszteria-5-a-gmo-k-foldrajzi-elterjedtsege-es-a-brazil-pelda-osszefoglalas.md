@@ -87,6 +87,8 @@ Ma liszenkóizmus van Magyarországon a GMO-k ügyében, ugyanis
 
 >„Eltanácsolták a vidékfejlesztési tárca **Agrárgazdasági Kutató Intézetéből (AKI) Popp József főigazgató-helyettest** – értesült a Figyelő. Popp József a BBC Science Focus januári számában megjelent interjúban beszélt arról, hogy a génmódosított növények hasznosak a világélelmezés és Magyarország szempontjából is. A lap szerint sok szakember úgy tudja, ezzel a véleményével sokakat magára haragított a Vidékfejlesztési Minisztériumban az uniós berkekben elismert szaktekintély; mondandóját úgy értelmezték, hogy az alaptörvénnyel ellentétes tevékenységet végzett. Ennek némileg ellentmond, hogy a kérdéses interjút Popp decemberben adta, amikor az új alkotmány még nem is lépett életbe” (Index 2012).
 
+![Dr. Popp József, az MTA doktora, agrármérnök, mérnök-közgazdász](/assets/images/popp_jozsef.jpg){.medium-img}
+
 Popp József az alábbiakat nyilatkozta az interjúban, amivel egyet is értek (BBC Science Focus 2012):
 
 > „A hazai mezőgazdaság külkereskedelmi szerkezete leginkább **egy gyarmati ország gazdálkodására emlékeztet. Hogy miért? Mert főleg alapanyagokat** – gabonát és olajnövényeket – **exportálunk, miközben magas hozzáadott értékű készterméket importálunk.**”

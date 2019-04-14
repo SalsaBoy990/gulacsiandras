@@ -2,7 +2,7 @@
 title: >-
   GMO-hisztéria 5: A GMO-k földrajzi elterjedtsége és a brazil példa.
   Összefoglalás.
-date: '2019-04-14'
+date: '2019-04-15'
 excerpt: Még kitalálom
 coverImage: corn.jpg
 comments: true
@@ -57,9 +57,9 @@ Nem sokan tudják, de a hatalmas **Brazília maga is állít elő saját GM-növ
 
 2014-ben 104 millió hold földterületen termesztettek szóját Brazíliában (ebből 72 millió holdon „génmódosított” fajtát), ezzel a világon a második legnagyobb szójatermesztő országa az Egyesült Államok után (NORERO, D. 2015).
 
-A FuturaGene Brasil Technology Ltd. pedig egy gyorsnövésű **„génmódosított” eukaliptuszfajt** is létrehozott, 20%-kal nagyobb produktivitással, cellulózgyártásra és bioüzemanyagok előállítására, 1. kép (NORERO, D. 2015). A bioüzemanyagokat ellenzem egyrészről azért, mert alacsony a befektetett energia (költség) és a kinyert energia (bevétel) aránya, tehát a megtérülés nem igazán kedvező, másrészről hatalmas esőerdőirtással járna annyi ültetvény létrehozása, ami észrevehető módon hozzájárulna az energiaigényekhez.
+A FuturaGene Brasil Technology Ltd. pedig egy gyorsnövésű **„génmódosított” eukaliptuszfajt** is létrehozott, 20%-kal nagyobb produktivitással, cellulózgyártásra és bioüzemanyagok előállítására, 1. kép (NORERO, D. 2015, DA SILVEIRA, E. 2013). A bioüzemanyagokat ellenzem egyrészről azért, mert alacsony a befektetett energia (költség) és a kinyert energia (bevétel) aránya, tehát a megtérülés nem igazán kedvező, másrészről hatalmas esőerdőirtással járna annyi ültetvény létrehozása, ami észrevehető módon hozzájárulna az energiaigényekhez.
 
-![1. kép: 6 éves génmódosított eukaliptusz ültetvény Angatuba-ban, São Paulo államban (DA SILVEIRA, E. 2013).]()
+![1. kép: Génmódosított eukaliptusz ültetvény](/assets/images/gmo_eukaliptusz.jpg){.medium-img}
 
 De jól jönne a Homokhátságra egy szárazságot jobban tűrő transzgenikus fafajta. Csak örülni tudnék, ha hazánk is képes volna mindezt véghezvinni!
 

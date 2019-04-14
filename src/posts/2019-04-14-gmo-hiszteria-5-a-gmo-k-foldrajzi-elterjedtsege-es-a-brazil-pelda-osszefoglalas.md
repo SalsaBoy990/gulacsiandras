@@ -22,7 +22,7 @@ Nem sokan tudják, de a hatalmas **Brazília maga is állít elő saját GM-növ
 
 2014-ben 104 millió hold földterületen termesztettek szóját Brazíliában (ebből 72 millió holdon „génmódosított” fajtát), ezzel a világon a második legnagyobb szójatermesztő országa az Egyesült Államok után (NORERO, D. 2015).
 
-A FuturaGene Brasil Technology Ltd. pedig egy gyorsnövésű **„génmódosított” eukaliptuszfajt** is létrehozott, 20%-kal nagyobb produktivitással, cellulózgyártásra és bioüzemanyagok előállítására, 1. kép (NORERO, D. 2015). A bioüzemanyagokat ellenzem egyrészről azért, mert alacsony a befektetett energia (költség) és a kinyert energia (bevétel) aránya, tehát a megtérülés nem igazán kedvező, másrészről hatalmas esőerdő-irtással járna annyi ültetvény létrehozása, ami észrevehető módon hozzájárulna az energiaigényekhez.
+A FuturaGene Brasil Technology Ltd. pedig egy gyorsnövésű **„génmódosított” eukaliptuszfajt** is létrehozott, 20%-kal nagyobb produktivitással, cellulózgyártásra és bioüzemanyagok előállítására, 1. kép (NORERO, D. 2015). A bioüzemanyagokat ellenzem egyrészről azért, mert alacsony a befektetett energia (költség) és a kinyert energia (bevétel) aránya, tehát a megtérülés nem igazán kedvező, másrészről hatalmas esőerdőirtással járna annyi ültetvény létrehozása, ami észrevehető módon hozzájárulna az energiaigényekhez.
 
 De jól jönne a Homokhátságra egy szárazságot jobban tűrő transzgenikus fafajta. Csak örülni tudnék, ha hazánk is képes volna mindezt véghezvinni!
 
@@ -30,7 +30,7 @@ A Centro de Tecnologia Canavieira (CTC) pedig „génmódosított” cukornád-v
 
 Azt mindenképpen hozzá kell tenni a történethez, hogy **a braziloknak van saját „génmódosított” fajtákat engedélyeztető és szabályozó szervük**, ami a **CTNBio** (Brazilian National Technical Commission on Biosafety) nevet viseli. Tehát itt sem ellenőrizetlenül használják a technológiát, hanem meg kell felelniük az előállított növényeknek a szigorú követelményeknek.
 
-A GM-növényekből származó nyeresége Brazíliának **2003-13 tíz éves időszakára 11,8 milliárd USA dollár volt** (2013-ban egyedül 3,4 milliárd dollár) (BROOKES, G. – BARFOOT, P. 2013). Ezen felül, a GMO-k használata **a környezeti hatásokat csökkentette** a hagyományos haszonnövényekhez viszonyított **kisebb növényvédőszer-használat** miatt. Továbbá 1996 és 2009 között a GMO-k több mint **12 milliárd liter** (12 millió m^3^) **víz**, valamint **105 millió liter gázolaj**, amit a traktorok elhasználtak volna, **megtakarítását eredményezték** (bár ezek nagyságrendjüket tekintve nem kimondottan jelentősek) (Céleres Ambiental 2009).
+A GM-növényekből származó nyeresége Brazíliának **2003-13 időszakára 19,8 milliárd USA dollár volt** (2016-ban egyedül 3,8 milliárd dollár) (BROOKES, G. – BARFOOT, P. 2018). Ezen felül, a GMO-k használata **a környezeti hatásokat csökkentette** a hagyományos haszonnövényekhez viszonyított **kisebb növényvédőszer-használat** miatt. Továbbá 1996 és 2009 között a GMO-k több mint **12 milliárd liter** (12 millió m^3^) **víz**, valamint **105 millió liter gázolaj**, amit a traktorok elhasználtak volna, **megtakarítását eredményezték** (bár ezek nagyságrendjüket tekintve nem kimondottan jelentősek) (Céleres Ambiental 2009).
 
 ## Összefoglalás
 
@@ -48,9 +48,9 @@ Amellett, hogy környezetvédelmi szempontból is előnyösek, gazdaságilag is 
 
 Ma liszenkóizmus van Magyarországon a GMO-k ügyében, ugyanis
 
->„Eltanácsolták a vidékfejlesztési tárca Agrárgazdasági Kutató Intézetéből (AKI) Popp József főigazgató-helyettest – értesült a Figyelő. Popp József a BBC Science Focus januári számában megjelent interjúban beszélt arról, hogy a génmódosított növények hasznosak a világélelmezés és Magyarország szempontjából is. A lap szerint sok szakember úgy tudja, ezzel a véleményével sokakat magára haragított a Vidékfejlesztési Minisztériumban az uniós berkekben elismert szaktekintély; mondandóját úgy értelmezték, hogy az alaptörvénnyel ellentétes tevékenységet végzett. Ennek némileg ellentmond, hogy a kérdéses interjút Popp decemberben adta, amikor az új alkotmány még nem is lépett életbe” (Index 2012).
+>„Eltanácsolták a vidékfejlesztési tárca **Agrárgazdasági Kutató Intézetéből (AKI) Popp József főigazgató-helyettest** – értesült a Figyelő. Popp József a BBC Science Focus januári számában megjelent interjúban beszélt arról, hogy a génmódosított növények hasznosak a világélelmezés és Magyarország szempontjából is. A lap szerint sok szakember úgy tudja, ezzel a véleményével sokakat magára haragított a Vidékfejlesztési Minisztériumban az uniós berkekben elismert szaktekintély; mondandóját úgy értelmezték, hogy az alaptörvénnyel ellentétes tevékenységet végzett. Ennek némileg ellentmond, hogy a kérdéses interjút Popp decemberben adta, amikor az új alkotmány még nem is lépett életbe” (Index 2012).
 
-Popp József az alábbiakat nyilatkozta az interjúban, amivel egyet is értek:
+Popp József az alábbiakat nyilatkozta az interjúban, amivel egyet is értek (BBC Science Focus 2012):
 
 > „A hazai mezőgazdaság külkereskedelmi szerkezete leginkább **egy gyarmati ország gazdálkodására emlékeztet. Hogy miért? Mert főleg alapanyagokat** – gabonát és olajnövényeket – **exportálunk, miközben magas hozzáadott értékű készterméket importálunk.**”
 
@@ -59,6 +59,23 @@ Popp József az alábbiakat nyilatkozta az interjúban, amivel egyet is értek:
 *Ez volt GMO-hisztéria sorozat utolsó része.*
 
 ## Irodalom
+
+* BROOKES, G. – BARFOOT, P. 2018. [Farm income and production impacts of using GM crop technology 1996–2016.](https://doi.org/10.1080/21645698.2018.1464866) – GM Crops & Food, 9(2), pp. 59-89.
+
+* Céleres Ambiental (2009). [Social and Environmental Benefits from the Agricultural Biotechnology in Brazil: 1996 – 2009.](http://www.celeresambiental.com.br/pdf/PressRelease2009_Ambiental01_Eng.pdf
+)
+
+* CLIVE, J. (2016). [ISAAA Brief 52-2016: Executive Summary. ISAAA (International Service for the Acquisition of Agri-biotech Applications).](http://www.isaaa.org/resources/publications/briefs/52/executivesummary/default.asp)
+
+### Internetes források
+
+* [BBC Science Focus (2012). Szabadtéri Agrármúzeum?](http://m.cdn.blog.hu/cr/criticalbiomass/image/201203/bbc_science_focus_2012_01_02-PoppJ_interj%C3%BA.pdf)
+
+* DA SILVEIRA, E. (2013). [More cellulose per square centimeter.](http://revistapesquisa.fapesp.br/en/2013/04/01/more-cellulose-per-square-centimeter/) Pesquisa FAPESP.
+
+* [Index (2012). GMO-élelmiszerek mellett érvelt, kirúgták.](http://index.hu/tudomany/2012/03/29/genmodositott_elelmiszerek_mellett_ervelt_kirugtak/)
+
+* NORERO, D. (2015). [Latin American GMO powerhouse Brazil expands portfolio of crops with intro of new herbicide resistant soy.](https://www.geneticliteracyproject.org/2015/09/09/latin-american-gmo-powerhouse-brazil-expands-portfolio-of-crops-with-intro-of-new-herbicide-resistant-soy/) Genetic Literacy Project. 
 
 
 

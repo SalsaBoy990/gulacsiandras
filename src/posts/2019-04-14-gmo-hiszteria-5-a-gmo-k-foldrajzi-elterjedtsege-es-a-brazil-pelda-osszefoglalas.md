@@ -3,7 +3,12 @@ title: >-
   GMO-hisztéria 5: A GMO-k földrajzi elterjedtsége és a brazil példa.
   Összefoglalás.
 date: '2019-04-15'
-excerpt: Még kitalálom
+excerpt: >-
+  Az első GM-vetőmagok 1996-os megjelenése óta a GM-növények vetésterülete meg
+  száztízszereződött. Röviden bemutatásra kerül Brazília mint a GMO-termelő
+  országok egyik nagyágyúja. Hazánk is példát vehetne Brazíliáról, és
+  túlléphetne már néhány, politikai és emocionális megfontolásból tabuként
+  kezelt témán, s engedélyezhetné a GM-növények termesztését.
 coverImage: corn.jpg
 comments: true
 topic: GMO

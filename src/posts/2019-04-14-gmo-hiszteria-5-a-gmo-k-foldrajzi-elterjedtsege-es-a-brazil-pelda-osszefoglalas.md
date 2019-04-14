@@ -10,11 +10,46 @@ topic: GMO
 ---
 ## A termesztett GM-növények földrajzi elterjedése
 
-A transzgenikus vetőmagok földrajzi elterjedéséről közlök néhány érdekes adatot. 2016-ban 26 ország összesen 185,1 millió hektár területen termesztett GM-növényeket. Ez 5,3 millió hektáros vagy 3%-os növekedés 2015-höz képest, amikor 179,7 millió volt a GM-növények termőterülete a világon (10. ábra). 1996 óta, az első transzgenikus vetőmagok üzleti megjelenésétől kezdve, mindössze 21 év alatt 1,7 millióról 185,1 millió hektárra, vagyis **száztízszeresére növekedett a GMO-k vetésterülete.** A fejlődő országokban együttvéve nagyobb a GMO-k termőterülete (99,6 millió ha), mint a fejlett országokban (85,5 millió ha) (CLIVE, J. 2016).
+A transzgenikus vetőmagok földrajzi elterjedéséről közlök néhány érdekes adatot. 2016-ban 26 ország összesen 185,1 millió hektár területen termesztett GM-növényeket. Ez 5,3 millió hektáros vagy 3%-os növekedés 2015-höz képest, amikor 179,7 millió volt a GM-növények termőterülete a világon (1. ábra). 1996 óta, az első transzgenikus vetőmagok üzleti megjelenésétől kezdve, mindössze 21 év alatt 1,7 millióról 185,1 millió hektárra, vagyis **száztízszeresére növekedett a GMO-k vetésterülete.** A fejlődő országokban együttvéve nagyobb a GMO-k termőterülete (99,6 millió ha), mint a fejlett országokban (85,5 millió ha) (CLIVE, J. 2016).
+
+![1. ábra: A biotechnológiai haszonnövényeket termesztő országok a Földön 2016-ban (CLIVE, J. 2016).]()
 
 A világ legjelentősebb termesztett transzgenikus haszonnövényei (sorrendben) a szójabab (91,4 millió ha) a kukorica, a szójabab, a gyapot és a repce. A világ szójabab-termő területének 79%-a, gyapottermő területének 64%-a, kukoricatermő területének 26%-a, míg repceföldek 24%-a volt génmódosított (CLIVE, J. 2016).
 
-A legnagyobb GMO-termelő országok sorrendben: **az Egyesült Államok, Brazília, Argentína, Kanada és India. A GMO-termőterületek 91%-a, 168,2 millió ha ezekben az országokban található** (1. táblázat, 1. ábra) (CLIVE, J. 2016).
+A legnagyobb GMO-termelő országok sorrendben: **az Egyesült Államok, Brazília, Argentína, Kanada és India. A GMO-termőterületek 91%-a, 168,2 millió ha ezekben az országokban található** (1. táblázat, 2. ábra) (CLIVE, J. 2016).
+
+Ország | Termésterület (millió hektár)
+--- | ---
+1. USA | 72,9
+2. Brazília | 49,1
+3. Argentína | 23,8
+4. Kanada | 11,6
+5. India | 10,8
+6. Paraguay | 3,6
+7. Pakisztán | 2,9
+8. Kína | 2,8
+9. Dél-Afrika | 2,7
+10. Uruguay | 1,3
+11. Bolívia | 1,2
+12. Ausztrália | 0,9
+13. Fülöp-szigetek | 0,8
+14. Mianmar | 0,3
+15. Spanyolország | 0,1
+16. Szudán | 0,1
+17. Mexikó | 0,1
+18. Kolumbia | 0,1
+19. Vietnám | <0,1
+20. Honduras | <0,1
+21. Chile | <0,1
+22. Portugália | <0,1
+23. Banglades | <0,1
+24. Costa Rica | <0,1
+25. Szlovákia | <0,1
+26. Csehország | <0,1
+**Összesen** | **185,1**
+[1. táblázat: A GM-növények termőterülete országonként a világon 2016-ban (CLIVE, J. 2016)]
+
+![2. ábra: A biotechnológiai haszonnövényeket termesztő országok a Földön 2016-ban (CLIVE, J. 2016)]()
 
 ## A brazil példa
 
@@ -62,8 +97,7 @@ Popp József az alábbiakat nyilatkozta az interjúban, amivel egyet is értek (
 
 * BROOKES, G. – BARFOOT, P. 2018. [Farm income and production impacts of using GM crop technology 1996–2016.](https://doi.org/10.1080/21645698.2018.1464866) – GM Crops & Food, 9(2), pp. 59-89.
 
-* Céleres Ambiental (2009). [Social and Environmental Benefits from the Agricultural Biotechnology in Brazil: 1996 – 2009.](http://www.celeresambiental.com.br/pdf/PressRelease2009_Ambiental01_Eng.pdf
-)
+* Céleres Ambiental (2009). [Social and Environmental Benefits from the Agricultural Biotechnology in Brazil: 1996 – 2009.](http://www.celeresambiental.com.br/pdf/PressRelease2009_Ambiental01_Eng.pdf)
 
 * CLIVE, J. (2016). [ISAAA Brief 52-2016: Executive Summary. ISAAA (International Service for the Acquisition of Agri-biotech Applications).](http://www.isaaa.org/resources/publications/briefs/52/executivesummary/default.asp)
 

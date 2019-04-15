@@ -17,7 +17,7 @@ topic: GMO
 
 A transzgenikus vetőmagok földrajzi elterjedéséről közlök néhány érdekes adatot. 2016-ban 26 ország összesen 185,1 millió hektár területen termesztett GM-növényeket. Ez 5,3 millió hektáros vagy 3%-os növekedés 2015-höz képest, amikor 179,7 millió volt a GM-növények termőterülete a világon (1. ábra). 1996 óta, az első transzgenikus vetőmagok üzleti megjelenésétől kezdve, mindössze 21 év alatt 1,7 millióról 185,1 millió hektárra, vagyis **száztízszeresére növekedett a GMO-k vetésterülete.** A fejlődő országokban együttvéve nagyobb a GMO-k termőterülete (99,6 millió ha), mint a fejlett országokban (85,5 millió ha) (CLIVE, J. 2016).
 
-![1. ábra: A biotechnológiai haszonnövényeket termesztő országok a Földön 2016-ban (CLIVE, J. 2016).](/assets/images/gmo_map_2016.jpg)
+![1. ábra: A biotechnológiai haszonnövényeket termesztő országok a Földön 2016-ban (CLIVE, J. 2016).](/assets/images/gmo_areas_2016.png)
 
 A világ legjelentősebb termesztett transzgenikus haszonnövényei (sorrendben) a szójabab (91,4 millió ha) a kukorica, a szójabab, a gyapot és a repce. A világ szójabab-termő területének 79%-a, gyapottermő területének 64%-a, kukoricatermő területének 26%-a, míg repceföldek 24%-a volt génmódosított (CLIVE, J. 2016).
 
@@ -54,7 +54,7 @@ Ország | Termésterület (millió hektár)
 **Összesen** | **185,1**
 [1. táblázat: A GM-növények termőterülete országonként a világon 2016-ban (CLIVE, J. 2016)]
 
-![2. ábra: A biotechnológiai haszonnövényeket termesztő országok a Földön 2016-ban (CLIVE, J. 2016).](/assets/images/gmo_areas_2016.png)
+![2. ábra: A biotechnológiai haszonnövényeket termesztő országok a Földön 2016-ban (CLIVE, J. 2016).](/assets/images/gmo_map_2016.jpg)
 
 ## A brazil példa
 

@@ -60,7 +60,7 @@ A jövőbe látó vészmadaraink néhány évtizedenként mindig pánikot kelten
 
 **Az olajcsúcs hívei legutóbb 2005-2007 környékén harangozták be az olajcsúcs eljövetelét** (LEGGETT, J. 2008), vagyis az olajtermelés el fogja érni a csúcspontját, azaz tetőzni fog, majd utána drasztikusan csökkenni fog. Ezúttal sem következett be. A közbeszédből már néhány éve ki is veszett az olajcsúccsal és a vele járó apokalipszissel való riogatás.
 
-M. King Hubbert az 1956-ban kiszámolta, hogy 1971-re az USA olajtermelése el fogja érni a tetőpontját, amely akkor be is következett. A kitermelés hozama egy harang alakú görbét írt le. 1860-tól kezdve (amikor Pennsylvaniában megnyílt az első kút), az újabb és újabb mezők feltárásával és üzembe állításával a kitermelés üteme exponenciálisan növekedett, mígnem elérte az olajcsúcsot, vagyis azt a pontot, amikor a termelés tetőzik és tovább már nem növelhető. Ezután nem fedeztek fel újabb jelentős mezőket, aminek következtében rohamosan apadni kezdtek a hozamok, így aztán az Egyesült Államok is kőolajimportra szorul. **Az olajcsúcs-elmélet hívei szerint a globális termelés is hasonló görbe mentén halad, és szintén el fogja érni tetőpontját, amit az olajkínálat csökkenése fog követni** - írta Leggett még 2007-ben (LEGGETT, J. 2008).
+M. King Hubbert az 1956-ban kiszámolta, hogy 1971-re az USA olajtermelése el fogja érni a tetőpontját, amely akkor be is következett. A kitermelés hozama egy harang alakú görbét írt le. 1860-tól kezdve (amikor Pennsylvaniában megnyílt az első kút), az újabb és újabb mezők feltárásával és üzembe állításával a kitermelés üteme exponenciálisan növekedett, mígnem elérte az olajcsúcsot, vagyis azt a pontot, amikor a termelés tetőzik és tovább már nem növelhető. Ezután nem fedeztek fel újabb jelentős mezőket, aminek következtében rohamosan apadni kezdtek a hozamok, így aztán az Egyesült Államok is kőolajimportra szorul. **Az olajcsúcs-elmélet hívei szerint a globális termelés is hasonló görbe mentén halad, és szintén el fogja érni tetőpontját, amit az olajkínálat csökkenése fog követni** – írta Leggett még 2007-ben (LEGGETT, J. 2008).
 
 (Jeremy Leggett olajgeológus az Egyesült Királyság legnagyobb napenergetikai cégének, a [SolarCentury](https://en.wikipedia.org/wiki/Solarcentury)-nak az alapítója! Tehát amikor a megújuló energiákat reklámozza az olaj alternatívájaként, akkor a saját érdekei mentén teszi azt.) 
 
@@ -68,7 +68,7 @@ Az azóta bekövetkezett változások teljes egészében **cáfolták** a fenti 
 
 A világ bizonyított olajtartalékai 2017-ben 1696,6 milliárd hordót tettek ki (beleértve az újabb, nem konvencionális tartalékokat is: palaolaj/márgaolaj stb.; 1 hordó = 159 liter).
 
-A nem-konvencionális készletek kitermelése az utóbbi időben hihetetlen mértékben emelkedett az USA-ban. Egy kiváló szakmai cikkben olvasható ([Bogdán Z. 2016](http://www.innoteka.hu/cikk/a_hazai_olaj_es_gazipar_meg_a_palaforradalom.1378.html)):
+A nem-konvencionális készletek kitermelése az utóbbi időben hihetetlen mértékben emelkedett az USA-ban. Egy kiváló szakmai cikkben olvasható ([BOGDÁN Z. 2016](http://www.innoteka.hu/cikk/a_hazai_olaj_es_gazipar_meg_a_palaforradalom.1378.html)):
 
 >„A legújabb, 2015-ös termelési adatok például azt mutatják, hogy már több (51 százalék) nem hagyományos olajat termelnek, mint hagyományost, ami csak azért is döbbenetes érték, mert tíz évvel ezelőtt az arány még 5-95 százalék volt. Az arány a gáznál is közelíti már az 50 százalékot, és évről évre hasonlóan gyors ütemben növekszik.”
 
@@ -105,7 +105,7 @@ Egy termékeny földdel és egész évben meleg éghajlattal (leginkább szubtr�
 
 Elsőként a szocializmus felbomlása Kelet-Közép-Európában 1989-ben, azt követően pedig a Szovjetunió összeomlása 1990-ben egy súlyos gazdasági válságba sodorta Kubát. A szigetország gyakorlatilag egyik napról a másikra elveszítette felvásárlópiacának 80 százalékát és az ország behozatala 20 százalékára, 8 milliárd dollárról 1,7 milliárd dollárra csökkent. A foglalkoztatottság, a gazdasági termelés és az életszínvonal hatalmasat zuhant. A városokban a buszok nem jártak, az erőművek nem termeltek elektromos áramot és gyárüzemek zártak be, munkanélküli tömegeket zúdítva ki magukból. Sok kubai számára akkoriban elsődleges tevékenységgé vált a napi betevő megszerzése. Persze azóta már nagyon sokat javult a helyzet.
 
-A Kubai Kommunista Párt (Cuban Communist Party) negyedik kongresszusán Fidel Castro elnök fájlalva sorolta az egykori szövetségese nem teljesített vállalásait:
+A Kubai Kommunista Párt (Cuban Communist Party) negyedik kongresszusán Fidel Castro elnök fájlalva sorolta az egykori szövetségese nem teljesített vállalásait (Oxfam 2001):
 
 >„[1992] Szeptember 30-ától semennyi rizst sem kaptunk, a sárgaborsó felét, a növényi olaj 16 %-át, a disznózsír 7 %-át, a sűrített tej 11 %-át, a vaj 47 %-át, a húskonzervek 18 %-át, a tejpor 22 %-át, a friss és konzerves hal 11 %-át, a műtrágyák 16 %-át kaptuk meg, semennyi ként sem kaptunk...”
 
@@ -122,6 +122,8 @@ A kubai általános gazdasági válság inkább azon államok számára intő p�
 * BOGDÁN Z. 2016. [A hazai olaj- és gázipar meg a „palaforradalom”.](http://www.innoteka.hu/cikk/a_hazai_olaj_es_gazipar_meg_a_palaforradalom.1378.html) – Innotéka.
 
 * BP 2018. [Statistical Review of World Energy 2018.](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+
+* Energy Information Administration (EIA) 2019. [U.S. Field Production of Crude Oil (Thousand Barrels).](http://www.eia.gov/dnav/pet/hist_xls/MCRFPUS1a.xls)
 
 * FRIEDRICHS, J. 2010: Global energy crunch: How different parts of the world would react to peak oil scenario. – Energy Policy 38. 8. pp. 4562-4569.
 

@@ -119,6 +119,8 @@ A kubai általános gazdasági válság inkább azon államok számára intő p�
 
 * BOGDÁN Z. 2016. [A hazai olaj- és gázipar meg a „palaforradalom”.](http://www.innoteka.hu/cikk/a_hazai_olaj_es_gazipar_meg_a_palaforradalom.1378.html) – Innotéka.
 
+* BP 2018. [Statistical Review of World Energy 2018.](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+
 * FRIEDRICHS, J. 2010: Global energy crunch: How different parts of the world would react to peak oil scenario. – Energy Policy 38. 8. pp. 4562-4569.
 
 * Gaswirth, S.B., French, K.L., Pitman, J.K., Marra, K.R., Mercier, T.J., Leathers-Miller, H.M., Schenk, C.J., Tennyson, M.E., Woodall, C.A., Brownfield, M.E., Finn, T.M., and Le, P.A., 2018. [Assessment of undiscovered continuous oil and gas resources in the Wolfcamp Shale and Bone Spring Formation of the Delaware Basin, Permian Basin Province, New Mexico and Texas, 2018.](https://doi.org/10.3133/fs20183073). U.S. Geological Survey Fact Sheet 2018–3073, 4 p.

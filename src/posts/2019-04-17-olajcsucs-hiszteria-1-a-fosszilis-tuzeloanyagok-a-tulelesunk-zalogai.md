@@ -67,8 +67,23 @@ Olyannyira elválaszthatatlan az olaj az életünkben, hogy a hiánya súlyos ga
 
 A szintén tervutasításos szocialista gazdaságú Kuba esetén az alábbiak történtek: **az 1990-es évek elején az Oroszországból Kubába irányuló kőolajszállítmányok harmadára estek vissza**, azonban FRIEDRICHS, J. (2010) szerint ott ez nem okozott komoly problémákat. Az erős társadalmi kohézió és a kubai vezetés már a kezdetektől támogatta az alulról szerveződő helyi közösségek létesítését, és a meglévőek megerősítését. A hagyományos földművelési ismeretek sem vesztek el, mert a hagyományos háztáji mezőgazdaság sem szűnt meg. Ennek következtében létrejöhettek a hagyományos fajtákat termesztő ellenálló kisgazdaságok. Még a városokban is minden szabad földfelszínt megművelnek. A mag- és fajtacsere az együttműködéssel és a kölcsönös segítséggel megvalósult (FRIEDRICHS, J. 2010).
 
-Tehát azt láthatjuk, hogy
+Ez mind szépnek és jónak hangzik, de lássuk csak, tényleg ez a valós helyzet?
 
+Egy termékeny földdel és egész évben meleg éghajlattal (leginkább szubtrópusi monszun) rendelkező országhoz képest az élelmiszertermelés import hiányában nem képes ellátni a népességet, annak ellenére, hogy minden lehetséges helyen feltörték és művelés alá vonják már a földterületeket, még a városokban is (kép). Kuba importfüggését az élelmiszerek terén a táblázat mutatja. Az 50-es években 20-30 % körüli volt az élelmiszerimport aránya, míg 1980-ban volt a legmagasabb: 70,7 %. Ezután lassan csökkenve 1997-re egészen 42 %-ra csökkent a behozatal.
+
+Elsőként a szocializmus felbomlása Kelet-Közép-Európában 1989-ben, azt követően pedig a Szovjetunió összeomlása 1990-ben egy súlyos gazdasági válságba sodorta Kubát. A szigetország gyakorlatilag egyik napról a másikra elveszítette felvásárlópiacának 80 százalékát és az ország behozatala 20 százalékára, 8 milliárd dollárról 1,7 milliárd dollárra csökkent. A foglalkoztatottság, a gazdasági termelés és az életszínvonal hatalmasat zuhant. A városokban a buszok nem jártak, az erőművek nem termeltek elektromos áramot és gyárüzemek zártak be, munkanélküli tömegeket zúdítva ki magukból. Sok kubai számára akkoriban elsődleges tevékenységgé vált a napi betevő megszerzése. Persze azóta már nagyon sokat javult a helyzet.
+
+A Kubai Kommunista Párt (Cuban Communist Party) negyedik kongresszusán Fidel Castro elnök fájlalva sorolta az egykori szövetségese nem teljesített vállalásait:
+
+>„[1992] Szeptember 30-ától semennyi rizst sem kaptunk, a sárgaborsó felét, a növényi olaj 16 %-át, a disznózsír 7 %-át, a sűrített tej 11 %-át, a vaj 47 %-át, a húskonzervek 18 %-át, a tejpor 22 %-át, a friss és konzerves hal 11 %-át, a műtrágyák 16 %-át kaptuk meg, semennyi ként sem kaptunk...”
+
+A kubai gazdaság kőolaj igénye a 80-as évek óta napjainkig alig csökkent: az 1990-ben kitört válság alatt 225 000 hordó volt az összes napi olajfogyasztás, ami az azt követő három évben a nem olyan drasztikus mértékben, 17,8 százalékkal (40 ezer hordóval) csökkent. 2012-ben a napi olajfogyasztás 171 ezer hordót tett ki (ábra). Nincs jelentős csökkenés, Kuba messze nem független az import-kőolajtól.
+
+A válságban nem egyedüli szerepet játszott a kőolajhiány, hiszen ahogyan Castro elnök beszédéből is kiderül, hogy alapvető árucikkekből is súlyos hiányban szenvedett a szigetország, és ezek együttesen vezettek a krízishez.
+
+A kubai vezetés természetesen azóta sem volt tétlen: dollármilliókat invesztáltak a mezőgazdasági célú zöld biotechnológiai kutatásokba és fejlesztésekbe a megalapított „Genetikai Mérnökség és Biotechnológia Központ” (Center for Genetic Engineering and Biotechnology (CIGB)) központon keresztül. A géntechnológiával előállított GM-vetőmagok kifejlesztése a produktivitás növelését, a növények stressztűrését és a kártevők elleni védelmet célozza. A kubai biotechnológia teljesen mentes a vállalati ellenőrzéstől és a más országokban alkalmazott szellemi tulajdonjog-rendszertől.
+
+A kubai általános gazdasági válság inkább azon államok számára intő példa, amelyek jelentős negatív külkereskedelmi mérleggel rendelkeznek. Ha egy állam az alapvető, mindennapi életben nélkülözhetetlen árucikkek jelentős hányadát kénytelen importálni, akkor az rendkívüli mértékben kiszolgáltatottá teszi az állampolgárait a világgazdaságban és a világpolitikában zajló folyamatoktól. Ezt a függést (energia és élelmiszer) kell Magyarországnak, ha jól akar élni és fennmaradni, mihamarabb leküzdenie.
 
 
 

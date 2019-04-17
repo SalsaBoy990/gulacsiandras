@@ -97,6 +97,8 @@ Olyannyira elválaszthatatlan az olaj az életünkben, hogy a hiánya súlyos ga
 
 A szintén tervutasításos szocialista gazdaságú Kuba esetén az alábbiak történtek: **az 1990-es évek elején az Oroszországból Kubába irányuló kőolajszállítmányok harmadára estek vissza**, azonban FRIEDRICHS, J. (2010) szerint ott ez nem okozott komoly problémákat. Az erős társadalmi kohézió és a kubai vezetés már a kezdetektől támogatta az alulról szerveződő helyi közösségek létesítését, és a meglévőek megerősítését. A hagyományos földművelési ismeretek sem vesztek el, mert a hagyományos háztáji mezőgazdaság sem szűnt meg. Ennek következtében létrejöhettek a hagyományos fajtákat termesztő ellenálló kisgazdaságok. Még a városokban is minden szabad földfelszínt megművelnek. A mag- és fajtacsere az együttműködéssel és a kölcsönös segítséggel megvalósult (FRIEDRICHS, J. 2010).
 
+![Városi mezőgazdaság a városokban](/assets/images/cuba.jpg)
+
 Ez mind szépnek és jónak hangzik, de lássuk csak, tényleg ez a valós helyzet?
 
 Egy termékeny földdel és egész évben meleg éghajlattal (leginkább szubtrópusi monszun) rendelkező országhoz képest az élelmiszertermelés import hiányában nem képes ellátni a népességet, annak ellenére, hogy minden lehetséges helyen feltörték és művelés alá vonják már a földterületeket, még a városokban is (kép). Kuba importfüggését az élelmiszerek terén a táblázat mutatja. Az 50-es években 20-30 % körüli volt az élelmiszerimport aránya, míg 1980-ban volt a legmagasabb: 70,7 %. Ezután lassan csökkenve 1997-re egészen 42 %-ra csökkent a behozatal.

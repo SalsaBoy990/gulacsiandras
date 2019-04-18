@@ -124,7 +124,7 @@ A kubai gazdaság kőolaj igénye a 80-as évek óta napjainkig alig csökkent: 
 
 ![6. ábra: Kuba olajimportja és az energiaimport az energiahasználat százalékában (EIAb 2019 és a Világbank 2019 adatai)]()
 
-Kuba mezőgazdaságának gépesítettsége gyakorlatilag semmit sem változott az 1960-as évek óta, továbbra is 200 traktor esik 100 km^2^ szántóterületre. A szántóterületek arány az összes földterülethez képest 60%-on állandósult. Az élelemtermelési index 1990 ótán 50%-kal esett vissza a válság hatására. A termelés volumene az 1970-es évek első felével megegyező nagyságú. A műtrágyahasználatról (csak 2002-től találtam adatokat) növekvő trendet mutat, a legfrissebb adatok szerint átlagosan 50 kg műtrágya jut hektáronként a szántóföldekre. Az adatok forrása a [Világbank](https://datacatalog.worldbank.org/).
+Kuba mezőgazdaságának gépesítettsége gyakorlatilag semmit sem változott az 1960-as évek óta, továbbra is 200 traktor jut 100 km^2^ szántóterületre. A szántóterületek arány az összes földterülethez képest 60%-on állandósult. Az élelemtermelési index 1990 után 50%-kal esett vissza a válság hatására. A termelés volumene az 1970-es évek első felével megegyező nagyságú. A műtrágyahasználatról (csak 2002-től találtam adatokat) növekvő trendet mutat, a legfrissebb adatok szerint átlagosan 50 kg műtrágya jut hektáronként a szántóföldekre. Az adatok forrása a [Világbank](https://datacatalog.worldbank.org/).
 
 ![6. ábra: Kuba mezőgazdaságának helyzete néhány mutató alapján (Világbank 2019)]()
 
@@ -144,9 +144,9 @@ A kubai általános gazdasági válság inkább azon államok számára intő p�
 
 * FRIEDRICHS, J. 2010: Global energy crunch: How different parts of the world would react to peak oil scenario. – Energy Policy 38. 8. pp. 4562-4569.
 
-* GGASWIRTH, S.B., FRENCH, K.L., PITMAN, J.K., MARRA, K.R., MERCIER, T.J., LEATHERS-MILLER, H.M., SCHENK, C.J., TENNYSON, M.E., WOODALL, C.A., BROWNFIELD, M.E., FINN, T.M., LE, P.A. 2018. [Assessment of undiscovered continuous oil and gas resources in the Wolfcamp Shale and Bone Spring Formation of the Delaware Basin, Permian Basin Province, New Mexico and Texas, 2018.](https://doi.org/10.3133/fs20183073). U.S. Geological Survey Fact Sheet 2018–3073, 4 p.
+* GASWIRTH, S.B., FRENCH, K.L., PITMAN, J.K., MARRA, K.R., MERCIER, T.J., LEATHERS-MILLER, H.M., SCHENK, C.J., TENNYSON, M.E., WOODALL, C.A., BROWNFIELD, M.E., FINN, T.M., LE, P.A. 2018. [Assessment of undiscovered continuous oil and gas resources in the Wolfcamp Shale and Bone Spring Formation of the Delaware Basin, Permian Basin Province, New Mexico and Texas, 2018.](https://doi.org/10.3133/fs20183073). U.S. Geological Survey Fact Sheet 2018–3073, 4 p.
 
-* HUBBERT, M. K. 1956: [Nuclear energy and the fossil fuels.](http://www.hubbertpeak.com/hubbert/1956/1956.pdf) – Shell Development Company Expolration and Production Research Division. – Houston,Texas. 40 p.
+* HUBBERT, M. K. 1956: [Nuclear energy and the fossil fuels.](http://www.hubbertpeak.com/hubbert/1956/1956.pdf) – Shell Development Company Exploration and Production Research Division. – Houston,Texas. 40 p.
 
 * LEGGETT, J. 2008: A fele elfogyott. Olaj, gáz, forró levegő és a globális energiaválság. – Typotex Kiadó, Budapest.
 

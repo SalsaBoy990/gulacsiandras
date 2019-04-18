@@ -29,9 +29,11 @@ Szélenergia | 254,0 | 1,9
 Geotermikus, biomassza, egyéb | 132,6 | 1,0
 Napenergia | 100,2 | 0,7
 Összesen | 13511,2 | 100
-[1. táblázat: A világ éves energiafogyasztása energiahordozók szerint 2017-ben (British Petrol 2018) TOE: tonna kőolaj-egyenérték]
+[1. táblázat: A világ éves energiafogyasztása energiahordozók szerint 2017-ben (British Petrol 2018) Mtoe: millió tonna kőolaj-egyenérték]
 
-1. ábra
+![1. ábra: A világ éves energiafogyasztása (Mtoe) energiahordozók szerint 2017-ben (BP 2018)]()
+
+![2. ábra: A világ éves energiafogyasztásának százalékos megoszlása energiahordozók szerint 2017-ben (BP 2018)]()
 
 Energiaforrás | Áramtermelés, 2017 (TWh) | %
 ---|---|---
@@ -46,6 +48,8 @@ Napenergia | 442,6 | 1,7
 Egyéb | 182,6 | 0,7
 Összesen | 25551.3 | 100,0
 [2. táblázat: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban (BP 2018)]
+
+![3. ábra: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban (BP 2018)]()
 
 Ha a globális áramtermelést tekintjük, akkor **az összes áram 3/4-rész származik fosszilis forrásból**, míg a megújuló arány csak 24,3%. A megújuló hányad kb. 2/3-része vízenergia. **A globális áramtermelés 4,4%-áért felel a szélenergia, és mindössze 1,7%-ért a napenergia. Az atomenergia részaránya 10,3%, 23,2%-ot biztosít a földgáz és 38,1%-ot a kőszén.** A kőolaj 3,5%-ban járul hozzá az áramtermeléshez, tehát duplaakkora arányban, mint a napenergia.
 
@@ -64,9 +68,13 @@ M. King Hubbert az 1956-ban kiszámolta, hogy 1971-re az USA olajtermelése el f
 
 (Jeremy Leggett olajgeológus az Egyesült Királyság legnagyobb napenergetikai cégének, a [SolarCentury](https://en.wikipedia.org/wiki/Solarcentury)-nak az alapítója! Tehát amikor a megújuló energiákat reklámozza az olaj alternatívájaként, akkor a saját érdekei mentén teszi azt.) 
 
-Az azóta bekövetkezett változások teljes egészében **cáfolták** a fenti állításokat, ugyanis **2005-höz képest 2017-re majdnem megkétszereződött az USA olajkitermelése** (2005: 6,9 millió hordó, 2017: 13,0 millió hordó)! **Az olajtartalékok pedig 67%-kal nőttek 2005 óta** (2005: 29,9 milliárd hordó, 2017: 50,0 milliárd hordó). 
+Az azóta bekövetkezett változások teljes egészében **cáfolták**, hogy az USA termelése tetőzött volna, ugyanis **2005-höz képest 2017-re majdnem megkétszereződött az USA olajkitermelése** (2005: 6,9 millió hordó, 2017: 13,0 millió hordó)! **Az olajtartalékok pedig 67%-kal nőttek 2005 óta** (2005: 29,9 milliárd hordó, 2017: 50,0 milliárd hordó).
 
-A világ bizonyított olajtartalékai 2017-ben 1696,6 milliárd hordót tettek ki (beleértve az újabb, nem konvencionális tartalékokat is: palaolaj/márgaolaj stb.; 1 hordó = 159 liter).
+ ![4. ábra: Az USA olajtartalékainak és olajtermelésének alakulása (BP 2018, EIA 2019a)]()
+
+A világ bizonyított olajtartalékai 2017-ben 1696,6 milliárd hordót tettek ki (beleértve az újabb, nem konvencionális tartalékokat is: palaolaj/márgaolaj stb.; 1 hordó = 159 liter). Továbbra is megfigyelhető az olajtermelés növekedése: már napi 90 millió hordó felett járunk és továbbra sincsen semmi jele csökkenésnek. Az olajtartalékok nagyjából 10 évente szoktak megnövekedni, amikor újabb olajkészleteket konvertálnak át tartalékká. Bővebben [ebben a cikkemben](https://www.gulacsiandras.blog/2018/11/07/a-termeszeti-eroforrasok-kimerulese-a-romai-klub-elorejelzeseinek-kudarca) olvashattok erről.
+
+![5. ábra: A globális olajtartalék és olajtermelés alakulása 2017-ig (BP 2018)]()
 
 A nem-konvencionális készletek kitermelése az utóbbi időben hihetetlen mértékben emelkedett az USA-ban. Egy kiváló szakmai cikkben olvasható ([BOGDÁN Z. 2016](http://www.innoteka.hu/cikk/a_hazai_olaj_es_gazipar_meg_a_palaforradalom.1378.html)):
 
@@ -77,7 +85,8 @@ Mindez az úgynevezett **„palagáz és palaolaj forradalomnak”** köszönhet
 > „A palaolaj, palagáz, illetve a „tight gas” és „tight oil” összetételében nagyjából megegyezik a „hagyományos” kőolaj- és földgáztelepekből kitermelhető folyadékokkal, csak más technológiával hozzák a felszínre. Ez az úgynevezett hidraulikus réteg­repesztés. Vertikális, majd horizontális fúrással magas nyomáson víz, homok (granulátum) és különböző vegyi anyagok keverékét juttatják a mélybe, amely megrepeszti a rendkívül szilárd és rossz áteresztőképességű, de rideg, könnyen repeszthető, töredező, „tömött” kőzetet. A kemikáliák csökkentik a folyadék kőzethez tapadását, mobilisabbá teszik a szénhidrogént, a homok pedig megakadályozza, hogy a repedések elzáródjanak, így azokon keresztül nyerik ki a gázt és az olajat. Elterjedt tévhit, hogy (nukleáris) robbantással is lehet szénhidrogén-tartalmú kőzeteket repeszteni, ám erre csak a hatvanas években volt néhány elvetélt kísérlet a Szovjetunióban, sehol máshol nem próbálkoztak vele. A hidraulikus repesztés egyébként nem igazi újdonság, kihozatalt növelő technológiaként évtizedek óta használják a „hagyományos” mezőkön is. A valódi különbség ott rejlik, hogy a konvencionális terepen mintegy az elérhető többletért, szabadon választható ez a módszer, míg a pala- vagy a „tight” nyersanyagok kitermelése elképzelhetetlen a „hydraulic fracturing” nélkül.”
 
 Olyannyira megnövekedett az USA olajtermelése (13,0 millió hordó/nap), hogy 2017-ben megelőzte benne Szaúd-Arábiát (11,9 millió hordó/nap), így jelenleg az USA a világ legnagyobb olajtermelő országa. Oroszország a harmadik helyezett (BP 2018). Az olajtartalékok nagyságát tekintve viszont messze elmarad Szaúd-Arábiától, ahol a világ legnagyobb olajmezője, a Ghawar-mező található.
-**2018 decemberében Texas és Új-Mexikó államok határán felfedeztek egy óriási szénhidrogén mezőt nem hagyományos szénhidrogén-készletekkel, amely még akár meg is duplázhatja az USA tartalékait.** A geológiai felmérés szerint a technológiailag kitermelhető készletek nagysága 46,3 milliárd hordó olaj (az USA jelenlegi olajtartalékai 50 milliárd hordót tesznek ki) és 7,9 ezer milliárd köbméter (az USA gáztartaléka 2017-ben 8,7 ezer milliárd köbméter volt) (GASWIRTH, S.B. et al. 2018). A kitermelés elé akadályt gördít a lelőhely földrajzi helyzete, ugyanis viszonylag bent helyezkedik el a szárazföldön, ezért ki kell építeni az infrastruktúrát, beleértve az olajvezetékeket. Várhatóan a BP új jelentésében meg fog duplázódni az USA szénhidrogén-tartaléka. Kíváncsian várom a fejleményeket.
+
+**2018 decemberében Texas és Új-Mexikó államok határán felfedeztek egy óriási szénhidrogénmezőt nem hagyományos szénhidrogén-készletekkel, amely még akár meg is duplázhatja az USA tartalékait.** A geológiai felmérés szerint a technológiailag kitermelhető készletek nagysága 46,3 milliárd hordó olaj (az USA jelenlegi olajtartalékai 50 milliárd hordót tesznek ki) és 7,9 ezer milliárd köbméter (az USA gáztartaléka 2017-ben 8,7 ezer milliárd köbméter volt) (GASWIRTH, S.B. et al. 2018). A kitermelés elé akadályt gördít a lelőhely földrajzi helyzete, ugyanis viszonylag bent helyezkedik el a szárazföldön, ezért ki kell építeni az infrastruktúrát, beleértve az olajvezetékeket. Kíváncsian várom a fejleményeket.
 
 **Ma az USA gáztermelése a legnagyobb a világon** (2017: 734,5 milliárd köbméter/év). Oroszország, bár gázkészletei több mint háromszor akkorák (2017: 35 ezer milliárd köbméter), kb. 100 milliárd köbméterrel kevesebb gázt termel ki (2017: 635,6 milliárd köbméter/év). A BP (2018) adatai.
 
@@ -97,23 +106,29 @@ Olyannyira elválaszthatatlan az olaj az életünkben, hogy a hiánya súlyos ga
 
 A szintén tervutasításos szocialista gazdaságú Kuba esetén az alábbiak történtek: **az 1990-es évek elején az Oroszországból Kubába irányuló kőolajszállítmányok harmadára estek vissza**, azonban FRIEDRICHS, J. (2010) szerint ott ez nem okozott komoly problémákat. Az erős társadalmi kohézió és a kubai vezetés már a kezdetektől támogatta az alulról szerveződő helyi közösségek létesítését, és a meglévőek megerősítését. A hagyományos földművelési ismeretek sem vesztek el, mert a hagyományos háztáji mezőgazdaság sem szűnt meg. Ennek következtében létrejöhettek a hagyományos fajtákat termesztő ellenálló kisgazdaságok. Még a városokban is minden szabad földfelszínt megművelnek. A mag- és fajtacsere az együttműködéssel és a kölcsönös segítséggel megvalósult (FRIEDRICHS, J. 2010).
 
-![Városi mezőgazdaság a városokban](/assets/images/cuba.jpg)
+![Városi mezőgazdaság a szuburbiában](/assets/images/cuba.jpg)
 
-Ez mind szépnek és jónak hangzik, de lássuk csak, tényleg ez a valós helyzet?
+Sokan Kubát tekintik a fenntarthatóság fellegvárának. Például az alábbi cikk: [„The World’s Most Sustainable Country: What? Cuba?”](https://www.dailyimpact.net/2015/02/09/the-worlds-most-sustainable-country-what-cuba/)
 
-Egy termékeny földdel és egész évben meleg éghajlattal (leginkább szubtrópusi monszun) rendelkező országhoz képest az élelmiszertermelés import hiányában nem képes ellátni a népességet, annak ellenére, hogy minden lehetséges helyen feltörték és művelés alá vonják már a földterületeket, még a városokban is (kép). Kuba importfüggését az élelmiszerek terén a táblázat mutatja. Az 50-es években 20-30 % körüli volt az élelmiszerimport aránya, míg 1980-ban volt a legmagasabb: 70,7 %. Ezután lassan csökkenve 1997-re egészen 42 %-ra csökkent a behozatal.
+De valóban ez a helyzet? A tények makacs dolgok és cáfolják ezt a naturalista utópiát, ugyanis Kuba olajimportja alig csökkent. **A felhasznált energia fele import kőolajból származik.**
 
-Elsőként a szocializmus felbomlása Kelet-Közép-Európában 1989-ben, azt követően pedig a Szovjetunió összeomlása 1990-ben egy súlyos gazdasági válságba sodorta Kubát. A szigetország gyakorlatilag egyik napról a másikra elveszítette felvásárlópiacának 80 százalékát és az ország behozatala 20 százalékára, 8 milliárd dollárról 1,7 milliárd dollárra csökkent. A foglalkoztatottság, a gazdasági termelés és az életszínvonal hatalmasat zuhant. A városokban a buszok nem jártak, az erőművek nem termeltek elektromos áramot és gyárüzemek zártak be, munkanélküli tömegeket zúdítva ki magukból. Sok kubai számára akkoriban elsődleges tevékenységgé vált a napi betevő megszerzése. Persze azóta már nagyon sokat javult a helyzet.
+Egy termékeny földdel és egész évben meleg éghajlattal (leginkább szubtrópusi monszun) rendelkező országhoz képest az élelmiszertermelés import hiányában nem képes ellátni a népességet, annak ellenére, hogy minden lehetséges helyen feltörték és művelés alá vonják már a földterületeket, még a városokban is. **Kuba élelmiszer ellátását 70-80 %-ban importból kénytelenek fedezni**, ami rendkívül kiszolgáltatottá teszi az országot (WFP).
+
+A Szovjetunió összeomlása 1990-ben egy súlyos gazdasági válságba sodorta Kubát. A szigetország gyakorlatilag egyik napról a másikra elveszítette felvásárlópiacának 80 százalékát és az ország behozatala a 20 százalékára, 8 milliárd dollárról 1,7 milliárd dollárra csökkent. A foglalkoztatottság, a gazdasági termelés és az életszínvonal hatalmasat zuhant. A városokban a buszok nem jártak, az erőművek nem termeltek elektromos áramot és gyárüzemek zártak be, munkanélküli tömegeket zúdítva ki magukból. Sok kubai számára akkoriban elsődleges tevékenységgé vált a napi betevő megszerzése. Persze azóta már javult a helyzet.
 
 A Kubai Kommunista Párt (Cuban Communist Party) negyedik kongresszusán Fidel Castro elnök fájlalva sorolta az egykori szövetségese nem teljesített vállalásait (Oxfam 2001):
 
 >„[1992] Szeptember 30-ától semennyi rizst sem kaptunk, a sárgaborsó felét, a növényi olaj 16 %-át, a disznózsír 7 %-át, a sűrített tej 11 %-át, a vaj 47 %-át, a húskonzervek 18 %-át, a tejpor 22 %-át, a friss és konzerves hal 11 %-át, a műtrágyák 16 %-át kaptuk meg, semennyi ként sem kaptunk...”
 
-A kubai gazdaság kőolaj igénye a 80-as évek óta napjainkig alig csökkent: az 1990-ben kitört válság alatt 225 000 hordó volt az összes napi olajfogyasztás, ami az azt követő három évben a nem olyan drasztikus mértékben, 17,8 százalékkal (40 ezer hordóval) csökkent. 2012-ben a napi olajfogyasztás 171 ezer hordót tett ki (ábra). Nincs jelentős csökkenés, Kuba messze nem független az import-kőolajtól.
+A kubai gazdaság kőolaj igénye a 80-as évek óta napjainkig alig csökkent: az 1990-ben kitört válság alatt 225 000 hordó volt az összes napi olajfogyasztás, míg 2015-ben 183 ezer, illetve 2016-ban 153 ezer hordó (ez a legfrissebb adat), tehát továbbra is jelentős maradt: Kuba messze nem független az importkőolajtól (ábra).
 
-A válságban nem egyedüli szerepet játszott a kőolajhiány, hiszen ahogyan Castro elnök beszédéből is kiderül, hogy alapvető árucikkekből is súlyos hiányban szenvedett a szigetország, és ezek együttesen vezettek a krízishez.
+![6. ábra: Kuba olajimportja és az energiaimport az energiahasználat százalékában (EIAb 2019 és a Világbank 2019 adatai)]()
 
-A kubai vezetés természetesen azóta sem volt tétlen: dollármilliókat invesztáltak a mezőgazdasági célú zöld biotechnológiai kutatásokba és fejlesztésekbe a megalapított „Genetikai Mérnökség és Biotechnológia Központ” (Center for Genetic Engineering and Biotechnology (CIGB)) központon keresztül. A géntechnológiával előállított GM-vetőmagok kifejlesztése a produktivitás növelését, a növények stressztűrését és a kártevők elleni védelmet célozza. A kubai biotechnológia teljesen mentes a vállalati ellenőrzéstől és a más országokban alkalmazott szellemi tulajdonjog-rendszertől.
+Kuba mezőgazdaságának gépesítettsége gyakorlatilag semmit sem változott az 1960-as évek óta, továbbra is 200 traktor esik 100 km^2^ szántóterületre. A szántóterületek arány az összes földterülethez képest 60%-on állandósult. Az élelemtermelési index 1990 ótán 50%-kal esett vissza a válság hatására. A termelés volumene az 1970-es évek első felével megegyező nagyságú. A műtrágyahasználatról (csak 2002-től találtam adatokat) növekvő trendet mutat, a legfrissebb adatok szerint átlagosan 50 kg műtrágya jut hektáronként a szántóföldekre. Az adatok forrása a [Világbank](https://datacatalog.worldbank.org/).
+
+![6. ábra: Kuba mezőgazdaságának helyzete néhány mutató alapján (Világbank 2019)]()
+
+Semmilyen szempontból nem igaz az állítás, hogy Kuba a "fenntarthatóság földi paradicsoma" lenne: erősen függ a kőolajimporttól (50%) és az élelmiszerimporttól (70-80%), a mezőgazdasága elavult, bár traktoraik vannak és kevés műtrágyát is alkalmaznak a földeken. A 2 év alatti gyerekek 31,6%-a vérszegénységben szenved! Az élelem alacsony változatossága és a kevés zöldségfogyasztás miatt az átlagos kubai család étrendje szegény a mikroelemekben (WFP 2018). Ez lenne a "fenntartható fejlődés" szocialista utópiája?
 
 A kubai általános gazdasági válság inkább azon államok számára intő példa, amelyek jelentős negatív külkereskedelmi mérleggel rendelkeznek. Ha egy állam az alapvető, mindennapi életben nélkülözhetetlen árucikkek jelentős hányadát kénytelen importálni, akkor az rendkívüli mértékben kiszolgáltatottá teszi az állampolgárait a világgazdaságban és a világpolitikában zajló folyamatoktól. Ezt a függést (energia és élelmiszer) kell Magyarországnak, ha jól akar élni és fennmaradni, mihamarabb leküzdenie.
 
@@ -123,15 +138,21 @@ A kubai általános gazdasági válság inkább azon államok számára intő p�
 
 * BP 2018. [Statistical Review of World Energy 2018.](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
-* Energy Information Administration (EIA) 2019. [U.S. Field Production of Crude Oil (Thousand Barrels).](http://www.eia.gov/dnav/pet/hist_xls/MCRFPUS1a.xls)
+* Energy Information Administration (EIA) 2019a. [U.S. Field Production of Crude Oil (Thousand Barrels).](http://www.eia.gov/dnav/pet/hist_xls/MCRFPUS1a.xls)
+
+* EIA 2019b. [Total Petroleum Consumption in Cuba.](https://www.eia.gov/beta/international/data/browser/?iso=CUB#/?pa=0000001&c=0000000000g&ct=0&tl_id=5-A&vs=INTL.5-2-CUB-TBPD.A&cy=2016&vo=0&v=T&end=2018)
 
 * FRIEDRICHS, J. 2010: Global energy crunch: How different parts of the world would react to peak oil scenario. – Energy Policy 38. 8. pp. 4562-4569.
 
-* Gaswirth, S.B., French, K.L., Pitman, J.K., Marra, K.R., Mercier, T.J., Leathers-Miller, H.M., Schenk, C.J., Tennyson, M.E., Woodall, C.A., Brownfield, M.E., Finn, T.M., and Le, P.A., 2018. [Assessment of undiscovered continuous oil and gas resources in the Wolfcamp Shale and Bone Spring Formation of the Delaware Basin, Permian Basin Province, New Mexico and Texas, 2018.](https://doi.org/10.3133/fs20183073). U.S. Geological Survey Fact Sheet 2018–3073, 4 p.
+* GGASWIRTH, S.B., FRENCH, K.L., PITMAN, J.K., MARRA, K.R., MERCIER, T.J., LEATHERS-MILLER, H.M., SCHENK, C.J., TENNYSON, M.E., WOODALL, C.A., BROWNFIELD, M.E., FINN, T.M., LE, P.A. 2018. [Assessment of undiscovered continuous oil and gas resources in the Wolfcamp Shale and Bone Spring Formation of the Delaware Basin, Permian Basin Province, New Mexico and Texas, 2018.](https://doi.org/10.3133/fs20183073). U.S. Geological Survey Fact Sheet 2018–3073, 4 p.
 
 * HUBBERT, M. K. 1956: [Nuclear energy and the fossil fuels.](http://www.hubbertpeak.com/hubbert/1956/1956.pdf) – Shell Development Company Expolration and Production Research Division. – Houston,Texas. 40 p.
 
-* LEGGETT, J. 2008: A fele elfogyott. Olaj, gáz, forró levegő és a globális energiaválság. – Typotex Kiadó, Budapest. pp. 30, 49-50, 54-55.
+* LEGGETT, J. 2008: A fele elfogyott. Olaj, gáz, forró levegő és a globális energiaválság. – Typotex Kiadó, Budapest.
+
+* [Világbank 2019 adatok](https://datacatalog.worldbank.org/)
+
+* World Food Programme (WFP) 2018. [Country Profile of Cuba.](https://www1.wfp.org/countries/cuba)
 
 
 

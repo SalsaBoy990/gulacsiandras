@@ -31,9 +31,11 @@ Napenergia | 100,2 | 0,7
 Összesen | 13511,2 | 100
 [1. táblázat: A világ éves energiafogyasztása energiahordozók szerint 2017-ben (British Petrol 2018) Mtoe: millió tonna kőolaj-egyenérték]
 
-![1. ábra: A világ éves energiafogyasztása (Mtoe) energiahordozók szerint 2017-ben (BP 2018)]()
+![1. ábra: A világ éves energiafogyasztása (Mtoe) energiahordozók szerint 2017-ben (BP 2018)](/assets/images/total_primer_energy_bp2018.png)
 
-![2. ábra: A világ éves energiafogyasztásának százalékos megoszlása energiahordozók szerint 2017-ben (BP 2018)]()
+![2. ábra: A világ éves energiafogyasztásának megoszlása energiahordozók szerint 2017-ben, Mtoe = millió tonna olaj egyenérték (BP 2018)](/assets/images/total_primer_energy_by_fuel_mtoe_bp2018.png)
+
+![3. ábra: A világ éves energiafogyasztásának százalékos megoszlása energiahordozók szerint 2017-ben (BP 2018)](/assets/images/total_primer_energy_by_fuel_percent_bp2018.png)
 
 Energiaforrás | Áramtermelés, 2017 (TWh) | %
 ---|---|---
@@ -49,9 +51,11 @@ Egyéb | 182,6 | 0,7
 Összesen | 25551.3 | 100,0
 [2. táblázat: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban (BP 2018)]
 
-![3. ábra: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban (BP 2018)]()
+![4. ábra: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban, TWh (BP 2018)](/assets/images/electricity_bp2018.png)
 
 Ha a globális áramtermelést tekintjük, akkor **az összes áram 3/4-rész származik fosszilis forrásból**, míg a megújuló arány csak 24,3%. A megújuló hányad kb. 2/3-része vízenergia. **A globális áramtermelés 4,4%-áért felel a szélenergia, és mindössze 1,7%-ért a napenergia. Az atomenergia részaránya 10,3%, 23,2%-ot biztosít a földgáz és 38,1%-ot a kőszén.** A kőolaj 3,5%-ban járul hozzá az áramtermeléshez, tehát duplaakkora arányban, mint a napenergia.
+
+![5.  ábra: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban, százalékban (BP 2018)](/assets/images/electricity_percent_bp2018.png)
 
 Az egyes országok eltérő földrajzi adottságokkal bírnak, így néhol (hegyvidékek nagy esésű és hozamú folyókkal, mint pl. Norvégia, Ausztria, Brazília stb.; Izlandon a geotermikus energia, Dániában a szélenergia stb. stb.) sokkal nagyobb jelentőséggel bírnak a megújuló energiák az áramtermelésben. (De ezek szintén erősen függnek a közlekedésben használt és egyéb kőolajtermékektől.) Nem ez az általános helyzet a legtöbb ország esetén. Ez inkább kivétel, mint szabály. De mondja ezt meg valaki az ELTE ~~megújuló energia propagandistáinak~~ geográfusainak is, akik el vannak ájulva a dánoktól és a németektől.
 Equadorra hivatkozni, hogy lehetséges a 100%-ban megújulókra alapozott áramtermelés, hatalmas csúsztatás. Nem teszik hozzá, hogy ez vízenergiából származik, és nem nap- és szélenergiából, amire a legtöbb laikus ember elsőként asszociál (a zöld propaganda nagyon erős). A vízenergia is lehet időjárásfüggő: súlyos aszály alatt a víztározók vízszintje leapad, így a turbinák termelése lecsökken. Tavaly nyáron ez történt Észak-Európában. A nap- és a szélenergia időjárásfüggésének kiküszöbölésére tartalékként (backup) csúcserőműként vagy szivattyús-tározós erőműveket (korlátozott lehetőségek, kétséges gazdaságosság) vagy pedig gázerőműveket (esetleg szénerőműveket, mint Németországban) lehet létesíteni. Ez jelentős  többletköltséget jelent, továbbá hálózatfejlesztési költségek is fellépnek. Tény tehát, hogy a „fosszilis tüzelőanyagokat kiváltó” nap- és szélenergia jelentős fosszilis tartalékokat igényel.
@@ -70,11 +74,11 @@ M. King Hubbert az 1956-ban kiszámolta, hogy 1971-re az USA olajtermelése el f
 
 Az azóta bekövetkezett változások teljes egészében **cáfolták**, hogy az USA termelése tetőzött volna, ugyanis **2005-höz képest 2017-re majdnem megkétszereződött az USA olajkitermelése** (2005: 6,9 millió hordó, 2017: 13,0 millió hordó)! **Az olajtartalékok pedig 67%-kal nőttek 2005 óta** (2005: 29,9 milliárd hordó, 2017: 50,0 milliárd hordó).
 
- ![4. ábra: Az USA olajtartalékainak és olajtermelésének alakulása (BP 2018, EIA 2019a)]()
+ ![6. ábra: Az USA olajtartalékainak és olajtermelésének alakulása (BP 2018, EIA 2019a)](/assets/images/us_oil_reserves_bp2018.png)
 
 A világ bizonyított olajtartalékai 2017-ben 1696,6 milliárd hordót tettek ki (beleértve az újabb, nem konvencionális tartalékokat is: palaolaj/márgaolaj stb.; 1 hordó = 159 liter). Továbbra is megfigyelhető az olajtermelés növekedése: már napi 90 millió hordó felett járunk és továbbra sincsen semmi jele csökkenésnek. Az olajtartalékok nagyjából 10 évente szoktak megnövekedni, amikor újabb olajkészleteket konvertálnak át tartalékká. Bővebben [ebben a cikkemben](https://www.gulacsiandras.blog/2018/11/07/a-termeszeti-eroforrasok-kimerulese-a-romai-klub-elorejelzeseinek-kudarca) olvashattok erről.
 
-![5. ábra: A globális olajtartalék és olajtermelés alakulása 2017-ig (BP 2018)]()
+![7. ábra: A globális olajtartalék és olajtermelés alakulása 2017-ig (BP 2018)](/assets/images/global_oil_reserves_bp2018.png)
 
 A nem-konvencionális készletek kitermelése az utóbbi időben hihetetlen mértékben emelkedett az USA-ban. Egy kiváló szakmai cikkben olvasható ([BOGDÁN Z. 2016](http://www.innoteka.hu/cikk/a_hazai_olaj_es_gazipar_meg_a_palaforradalom.1378.html)):
 

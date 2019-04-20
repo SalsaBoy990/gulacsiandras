@@ -48,12 +48,12 @@ Kőolaj | 883,0 | 3,5
 Geotermikus, biomassza, egyéb | 586.2 | 2,3
 Napenergia | 442,6 | 1,7
 Egyéb | 182,6 | 0,7
-Összesen | 25551.3 | 100,0
+Összesen | 25551,3 | 100,0
 [2. táblázat: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban (BP 2018)]
 
 ![4. ábra: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban, TWh (BP 2018)](/assets/images/electricity_bp2018.png)
 
-Ha a globális áramtermelést tekintjük, akkor **az összes áram 3/4-rész származik fosszilis forrásból**, míg a megújuló arány csak 24,3%. A megújuló hányad kb. 2/3-része vízenergia. **A globális áramtermelés 4,4%-áért felel a szélenergia, és mindössze 1,7%-ért a napenergia. Az atomenergia részaránya 10,3%, 23,2%-ot biztosít a földgáz és 38,1%-ot a kőszén.** A kőolaj 3,5%-ban járul hozzá az áramtermeléshez, tehát duplaakkora arányban, mint a napenergia.
+Ha a globális áramtermelést tekintjük, akkor **az összes áram 3/4-része származik fosszilis forrásból**, míg a megújuló arány csak 24,3%. A megújuló hányad kb. 2/3-része vízenergia. **A globális áramtermelés 4,4%-áért felel a szélenergia, és mindössze 1,7%-ért a napenergia. Az atomenergia részaránya 10,3%, 23,2%-ot biztosít a földgáz és 38,1%-ot a kőszén.** A kőolaj 3,5%-ban járul hozzá az áramtermeléshez, tehát duplaakkora arányban, mint a napenergia.
 
 ![5.  ábra: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban, százalékban kifejezve (BP 2018)](/assets/images/electricity_percent_bp2018.png)
 
@@ -65,7 +65,7 @@ A zöld mozgalmárok által hangoztatott **„megújuló forradalom” sosem lé
 
 ## Az olajcsúcs-hisztéria ismét lefújva
 
-A jövőbe látó vészmadaraink néhány évtizedenként mindig pánikot keltenek (hazánkban a Hetesi Zsolt „csillagész” riogatott), hogy nem lesz elég olaj a gazdaság számára. Legelsőnek M. King Hubbert jósolta ezt 1956-ban az USA olajtermeléséről, majd folytatta 1968-ban a Róma Klub „A növekedés határai” címet viselő jelentésében. A tények viszont azt mutatják, hogy az olajkorszak messze nem ért véget.
+A jövőbe látó vészmadaraink néhány évtizedenként mindig pánikot keltenek (hazánkban a „csillagész” Hetesi Zsolt riogatott), hogy nem lesz elég olaj a gazdaság számára. Legelsőnek M. King Hubbert jósolta ezt 1956-ban az USA olajtermeléséről, majd folytatta 1968-ban a Róma Klub „A növekedés határai” címet viselő jelentésében. A tények viszont azt mutatják, hogy az olajkorszak messze nem ért véget.
 
 **Az olajcsúcs hipotézis felkent papjai legutóbb 2005-2007 környékén harangozták be az olajcsúcs eljövetelét** (LEGGETT, J. 2008), vagyis az olajtermelés el fogja érni a csúcspontját, azaz tetőzni fog, majd utána drasztikusan csökkenni fog. Ezúttal sem következett be. A közbeszédből már néhány éve ki is veszett az olajcsúccsal és a vele járó apokalipszissel való riogatás.
 
@@ -95,9 +95,9 @@ Olyannyira megnövekedett az USA olajtermelése (13,0 millió hordó/nap), hogy 
 
 **Ma az USA gáztermelése a legnagyobb a világon** (2017: 734,5 milliárd köbméter/év). Oroszország, bár gázkészletei több mint háromszor akkorák (2017: 35 ezer milliárd köbméter), kb. 100 milliárd köbméterrel kevesebb gázt termel ki (2017: 635,6 milliárd köbméter/év). A BP (2018) adatai.
 
-Az emberi jólétünk alapjait ma a fosszilis energiahordozók jelentik, melyekhez képest a nap- és a szélenergia úgy eltörpülnek, mint elefánthoz képest a kisegér. Jelenleg a fosszilis tüzelőanyagoknak nincs igazi alternatívája. A velük járó előnyök messze meghaladják a hátrányokat (civilizáció, fejlett orvoslás, mezőgazdaság, tudomány stb. kontra károsanyag- és szén-dioxid-kibocsátás). Egy fejlett, iparosodott társadalomnak van egyedül esélye az éghajlatváltozáshoz való alkalmazkodóképességben. A fosszilis tüzelőanyagok kiváltásának, így a szén-dioxid emisszió jelentős csökkentésének nincs reális lehetősége, hacsak nem akarjuk a civilizációnkat felszámolni. Az emberiség nem egy élősködő horda, mint ahogyan az antihumanista ökológusok, sötétzöldek rá tekintenek, hanem igenis törődik a környezetével, hiszen tudósok és szakemberek milliói dolgoznak a környezet védelméért. És itt nem azokról a semmirekellő, aljas, uszító, undorító, erényfitogtató és képmutató zöld aktivistákról, agitátorokról, öko-luddistákról beszélünk, akik csak pusztítani tudnak, de építeni nem!
+Az emberi jólétünk alapjait ma a fosszilis energiahordozók jelentik, melyekhez képest a nap- és a szélenergia úgy eltörpülnek, mint elefánthoz képest a kisegér. Jelenleg a fosszilis tüzelőanyagoknak nincs igazi alternatívája. A velük járó előnyök messze meghaladják a hátrányokat (civilizáció, fejlett orvoslás, mezőgazdaság, tudomány stb. kontra károsanyag- és szén-dioxid-kibocsátás). Egy fejlett, iparosodott társadalomnak van egyedül esélye az éghajlatváltozáshoz való alkalmazkodásban. A fosszilis tüzelőanyagok kiváltásának, így a szén-dioxid emisszió jelentős csökkentésének nincs reális lehetősége, hacsak nem akarjuk a civilizációnkat felszámolni. Az emberiség nem egy élősködő horda, mint ahogyan az antihumanista ökológusok, sötétzöldek rá tekintenek, hanem igenis törődik a környezetével, hiszen tudósok és szakemberek milliói dolgoznak a környezet védelméért. És itt nem azokról a semmirekellő, aljas, uszító, undorító, erényfitogtató és képmutató zöld aktivistákról, agitátorokról, öko-luddistákról beszélünk, akik csak pusztítani tudnak, de építeni nem!
 
-Az éghajlatváltozást nem lehet feketén-fehéren megítélni: vannak pozitív és negatív hatásai is. Az 1970-es években az eljövendő jégkorszaktól rettegtek a klímatudósok, most pedig a globális felmelegedéstől, illetve a klímaváltozástól. Ez is olyan hisztériakeltés, mint a GMO-k, az olajcsúcs, a túlnépesedés, a savas esők, az ózonréteg pusztulása, a nukleáris háború stb. stb. A jövő előrejelzése nehéz: eddig mindenki megbukott benne.
+Az éghajlatváltozást nem lehet feketén-fehéren megítélni: vannak pozitív és negatív hatásai is. Az 1970-es években az eljövendő jégkorszaktól rettegtek a klímatudósok, most pedig a globális felmelegedéstől, illetve a klímaváltozástól. Ez is olyan hisztériakeltés, mint a GMO-k, az olajcsúcs, a túlnépesedés, a savas esők, az ózonréteg pusztulása, a nukleáris tél stb. stb. A jövő előrejelzése nehéz: eddig mindenki megbukott benne.
 
 Az életünktől olyannyira elválaszthatatlan az olaj, hogy a hiánya súlyos gazdasági válsághoz vezet. Két súlyos olajválságra szeretném felhívni a figyelmet a 90-es évekből.
 
@@ -125,17 +125,17 @@ A Kubai Kommunista Párt (Cuban Communist Party) negyedik kongresszusán Fidel C
 
 >„[1992] Szeptember 30-ától semennyi rizst sem kaptunk, a sárgaborsó felét, a növényi olaj 16 %-át, a disznózsír 7 %-át, a sűrített tej 11 %-át, a vaj 47 %-át, a húskonzervek 18 %-át, a tejpor 22 %-át, a friss és konzerves hal 11 %-át, a műtrágyák 16 %-át kaptuk meg, semennyi ként sem kaptunk...”
 
-A kubai gazdaság kőolaj igénye a 80-as évek óta napjainkig alig csökkent: az 1990-ben kitört válság alatt 225 000 hordó volt az összes napi olajfogyasztás, míg 2015-ben 183 ezer, illetve 2016-ban 153 ezer hordó (ez a legfrissebb adat), tehát továbbra is jelentős maradt: Kuba messze nem független az importkőolajtól (ábra).
+A kubai gazdaság kőolaj igénye a 80-as évek óta napjainkig alig csökkent: az 1990-ben kitört válság alatt 225 000 hordó volt az összes napi olajfogyasztás, míg 2015-ben 183 ezer, illetve 2016-ban 153 ezer hordó (ez a legfrissebb adat), tehát továbbra is jelentős maradt: Kuba messze nem független az importált kőolajtól (ábra).
 
 ![6. ábra: Kuba olajimportja és az energiaimport az energiahasználat százalékában (EIAb 2019 és a Világbank 2019 adatai)]()
 
-Kuba mezőgazdaságának gépesítettsége gyakorlatilag semmit sem változott az 1960-as évek óta, továbbra is 200 traktor jut 100 km^2^ szántóterületre. A szántóterületek arány az összes földterülethez képest 60%-on állandósult. Az élelemtermelési index 1990 után 50%-kal esett vissza a válság hatására. A termelés volumene az 1970-es évek első felével megegyező nagyságú. A műtrágyahasználatról (csak 2002-től találtam adatokat) növekvő trendet mutat, a legfrissebb adatok szerint átlagosan 50 kg műtrágya jut hektáronként a szántóföldekre. Az adatok forrása a [Világbank](https://datacatalog.worldbank.org/).
+Kuba mezőgazdaságának gépesítettsége gyakorlatilag semmit sem változott az 1960-as évek óta, továbbra is 200 traktor jut 100 km^2^ szántóterületre. A szántóterületek aránya az összes földterülethez képest 60%-on állandósult. Az élelemtermelési index 1990 után 50%-kal esett vissza a válság hatására. A termelés volumene az 1970-es évek első felével megegyező nagyságú. A műtrágyahasználat (csak 2002-től találtam adatokat) növekvő trendet mutat, a legfrissebb adatok szerint átlagosan 50 kg műtrágya jut hektáronként a szántóföldekre. Az adatok forrása a [Világbank](https://datacatalog.worldbank.org/).
 
 ![6. ábra: Kuba mezőgazdaságának helyzete néhány mutató alapján (Világbank 2019)]()
 
-Semmilyen szempontból nem igaz az állítás, hogy Kuba a „fenntarthatóság földi paradicsoma” lenne: erősen függ a kőolajimporttól (50%) és az élelmiszerimporttól (70-80%), a mezőgazdasága elavult, bár traktoraik vannak és kevés műtrágyát is alkalmaznak a földeken. A 2 év alatti gyerekek 31,6%-a vérszegénységben szenved! Az élelem alacsony változatossága és a kevés zöldségfogyasztás miatt az átlagos kubai család étrendje szegény a mikroelemekben (WFP 2018). Ez lenne a „fenntartható fejlődés” szocialista utópiája?
+Semmilyen szempontból nem igaz az állítás, hogy Kuba a „fenntarthatóság földi paradicsoma” lenne: erősen függ a kőolajimporttól (50%) és az élelmiszerimporttól (70-80%), a mezőgazdasága elavult, bár traktoraik vannak és kevés műtrágyát is alkalmaznak a földeken. A 2 év alatti gyerekek 31,6%-a vérszegénységben szenved! Az élelem alacsony változatossága és a kevés zöldségfogyasztás miatt az átlagos kubai család étrendje szegény mikroelemekben (WFP 2018). Ez lenne a „fenntartható fejlődés” szocialista utópiája?
 
-A kubai általános gazdasági válság inkább azon államok számára intő példa, amelyek jelentős negatív külkereskedelmi mérleggel rendelkeznek. Ha egy állam az alapvető, mindennapi életben nélkülözhetetlen árucikkek jelentős hányadát kénytelen importálni, akkor az rendkívüli mértékben kiszolgáltatottá teszi az állampolgárait a világgazdaságban és a világpolitikában zajló folyamatoktól. Ezt a függést (energia és élelmiszer) kell Magyarországnak, ha jól akar élni és fennmaradni, mihamarabb leküzdenie.
+A kubai általános gazdasági válság azon államok számára intő példa, amelyek jelentős negatív külkereskedelmi mérleggel rendelkeznek. Ha egy állam az alapvető, mindennapi életben nélkülözhetetlen árucikkek jelentős hányadát kénytelen importálni, akkor az rendkívüli mértékben kiszolgáltatottá teszi az állampolgárait a világgazdaságban és a világpolitikában zajló folyamatoktól. Ezt a függést (energia és élelmiszer) kell Magyarországnak, ha jól akar élni és fennmaradni, mihamarabb leküzdenie.
 
 ## Irodalom
 

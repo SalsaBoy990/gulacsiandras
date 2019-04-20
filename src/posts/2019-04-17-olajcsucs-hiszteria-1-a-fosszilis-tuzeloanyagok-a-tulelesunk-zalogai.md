@@ -1,6 +1,6 @@
 ---
 title: Olajcsúcs-hisztéria 1. A fosszilis tüzelőanyagok a túlélésünk zálogai.
-date: '2019-04-18'
+date: '2019-04-20'
 excerpt: >-
   Elemeztem a British Petrol (BP) legújabb adatait 2017-ből. Nem volt
   „olajcsúcs”. A nap- és a szélenergia nem váltják ki a fosszilis
@@ -127,11 +127,11 @@ A Kubai Kommunista Párt (Cuban Communist Party) negyedik kongresszusán Fidel C
 
 A kubai gazdaság kőolaj igénye a 80-as évek óta napjainkig alig csökkent: az 1990-ben kitört válság alatt 225 000 hordó volt az összes napi olajfogyasztás, míg 2015-ben 183 ezer, illetve 2016-ban 153 ezer hordó (ez a legfrissebb adat), tehát továbbra is jelentős maradt: Kuba messze nem független az importált kőolajtól (ábra).
 
-![6. ábra: Kuba olajimportja és az energiaimport az energiahasználat százalékában (EIAb 2019 és a Világbank 2019 adatai)]()
+![8. ábra: Kuba olajimportja és az energiaimport az energiahasználat százalékában (EIAb 2019 és a Világbank 2019 adatai)](/assets/images/cuba_energia.png)
 
 Kuba mezőgazdaságának gépesítettsége gyakorlatilag semmit sem változott az 1960-as évek óta, továbbra is 200 traktor jut 100 km^2^ szántóterületre. A szántóterületek aránya az összes földterülethez képest 60%-on állandósult. Az élelemtermelési index 1990 után 50%-kal esett vissza a válság hatására. A termelés volumene az 1970-es évek első felével megegyező nagyságú. A műtrágyahasználat (csak 2002-től találtam adatokat) növekvő trendet mutat, a legfrissebb adatok szerint átlagosan 50 kg műtrágya jut hektáronként a szántóföldekre. Az adatok forrása a [Világbank](https://datacatalog.worldbank.org/).
 
-![6. ábra: Kuba mezőgazdaságának helyzete néhány mutató alapján (Világbank 2019)]()
+![6. ábra: Kuba mezőgazdaságának helyzete néhány mutató alapján (Világbank 2019)](/assets/images/cuba_agriculture.png)
 
 Semmilyen szempontból nem igaz az állítás, hogy Kuba a „fenntarthatóság földi paradicsoma” lenne: erősen függ a kőolajimporttól (50%) és az élelmiszerimporttól (70-80%), a mezőgazdasága elavult, bár traktoraik vannak és kevés műtrágyát is alkalmaznak a földeken. A 2 év alatti gyerekek 31,6%-a vérszegénységben szenved! Az élelem alacsony változatossága és a kevés zöldségfogyasztás miatt az átlagos kubai család étrendje szegény mikroelemekben (WFP 2018). Ez lenne a „fenntartható fejlődés” szocialista utópiája?
 
@@ -151,9 +151,11 @@ A kubai általános gazdasági válság azon államok számára intő példa, am
 
 * GASWIRTH, S.B., FRENCH, K.L., PITMAN, J.K., MARRA, K.R., MERCIER, T.J., LEATHERS-MILLER, H.M., SCHENK, C.J., TENNYSON, M.E., WOODALL, C.A., BROWNFIELD, M.E., FINN, T.M., LE, P.A. 2018. [Assessment of undiscovered continuous oil and gas resources in the Wolfcamp Shale and Bone Spring Formation of the Delaware Basin, Permian Basin Province, New Mexico and Texas, 2018.](https://doi.org/10.3133/fs20183073). U.S. Geological Survey Fact Sheet 2018–3073, 4 p.
 
-* HUBBERT, M. K. 1956: [Nuclear energy and the fossil fuels.](http://www.hubbertpeak.com/hubbert/1956/1956.pdf) – Shell Development Company Exploration and Production Research Division. – Houston,Texas. 40 p.
+* HUBBERT, M. K. 1956. [Nuclear energy and the fossil fuels.](http://www.hubbertpeak.com/hubbert/1956/1956.pdf) – Shell Development Company Exploration and Production Research Division. – Houston,Texas. 40 p.
 
-* LEGGETT, J. 2008: A fele elfogyott. Olaj, gáz, forró levegő és a globális energiaválság. – Typotex Kiadó, Budapest.
+* LEGGETT, J. 2008. A fele elfogyott. Olaj, gáz, forró levegő és a globális energiaválság. – Typotex Kiadó, Budapest.
+
+* Oxfam 2001. [Cuba: Going Against the Grain](https://www.oxfamamerica.org/explore/research-publications/cuba-going-against-the-grain/) 
 
 * [Világbank 2019 adatok](https://datacatalog.worldbank.org/)
 

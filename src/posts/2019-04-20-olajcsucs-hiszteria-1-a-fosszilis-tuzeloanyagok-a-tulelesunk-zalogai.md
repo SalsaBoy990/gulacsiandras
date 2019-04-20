@@ -8,7 +8,7 @@ excerpt: >-
   előnyökkel és hátrányokkal is járnak. Olajválságok Észak-Koreában és Kubában.
 coverImage: olajkut.jpg
 comments: true
-topic: Erőforrások
+topic: erőforrások
 ---
 ## A világ primer energia-fogyasztása és villamosáram-termelése
 
@@ -71,13 +71,16 @@ A jövőbe látó vészmadaraink néhány évtizedenként mindig pánikot kelten
 
 M. King Hubbert az 1956-ban kiszámolta, hogy 1971-re az USA olajtermelése el fogja érni a tetőpontját, amely akkor be is következett. A kitermelés hozama egy harang alakú görbét írt le. 1860-tól kezdve (amikor Pennsylvaniában megnyílt az első kút), az újabb és újabb mezők feltárásával és üzembe állításával a kitermelés üteme exponenciálisan növekedett, mígnem elérte az olajcsúcsot, vagyis azt a pontot, amikor a termelés tetőzik és tovább már nem növelhető. Ezután nem fedeztek fel újabb jelentős mezőket, aminek következtében rohamosan apadni kezdtek a hozamok, így aztán az Egyesült Államok is kőolajimportra szorul. **Az olajcsúcs-elmélet hívei szerint a globális termelés is hasonló görbe mentén halad, és szintén el fogja érni tetőpontját, amit az olajkínálat csökkenése fog követni** – írta Leggett még 2007-ben (LEGGETT, J. 2008).
 
-(Jeremy Leggett olajgeológus az Egyesült Királyság legnagyobb napenergetikai cégének, a [SolarCentury](https://en.wikipedia.org/wiki/Solarcentury)-nak az alapítója! Tehát amikor a megújuló energiákat reklámozza az olaj alternatívájaként, akkor a saját érdekei mentén teszi azt.) 
+(Jeremy Leggett olajgeológus az Egyesült Királyság legnagyobb napenergetikai cégének, a [SolarCentury](https://en.wikipedia.org/wiki/Solarcentury
+)-nak az alapítója! Tehát amikor a megújuló energiákat reklámozza az olaj alternatívájaként, akkor a saját érdekei mentén teszi azt.) 
 
 Az azóta bekövetkezett változások teljes egészében **cáfolták**, hogy az USA termelése tetőzött volna, ugyanis **2005-höz képest 2017-re majdnem megkétszereződött az USA olajkitermelése** (2005: 6,9 millió hordó, 2017: 13,0 millió hordó)! **Az olajtartalékok pedig 67%-kal nőttek 2005 óta** (2005: 29,9 milliárd hordó, 2017: 50,0 milliárd hordó).
 
- ![6. ábra: Az USA olajtartalékainak és olajtermelésének alakulása (BP 2018, EIA 2019a)](/assets/images/us_oil_reserves_bp2018.png)
+ 
+![6. ábra: Az USA olajtartalékainak és olajtermelésének alakulása (BP 2018, EIA 2019a)](/assets/images/us_oil_reserves_bp2018.png)
 
-A világ bizonyított olajtartalékai 2017-ben 1696,6 milliárd hordót tettek ki (beleértve az újabb, nem konvencionális tartalékokat is: palaolaj/márgaolaj stb.; 1 hordó = 159 liter). Továbbra is megfigyelhető az olajtermelés növekedése: már napi 90 millió hordó felett járunk és továbbra sincsen semmi jele csökkenésnek. Az olajtartalékok nagyjából 10 évente szoktak megnövekedni, amikor újabb olajkészleteket konvertálnak át tartalékká. Bővebben [ebben a cikkemben](https://www.gulacsiandras.blog/2018/11/07/a-termeszeti-eroforrasok-kimerulese-a-romai-klub-elorejelzeseinek-kudarca) olvashattok erről.
+A világ bizonyított olajtartalékai 2017-ben 1696,6 milliárd hordót tettek ki (beleértve az újabb, nem konvencionális tartalékokat is: palaolaj/márgaolaj stb.; 1 hordó = 159 liter).
+ Továbbra is megfigyelhető az olajtermelés növekedése: már napi 90 millió hordó felett járunk és továbbra sincsen semmi jele csökkenésnek. Az olajtartalékok nagyjából 10 évente szoktak megnövekedni, amikor újabb olajkészleteket konvertálnak át tartalékká. Bővebben [ebben a cikkemben](https://www.gulacsiandras.blog/2018/11/07/a-termeszeti-eroforrasok-kimerulese-a-romai-klub-elorejelzeseinek-kudarca) olvashattok erről.
 
 ![7. ábra: A globális olajtartalék és olajtermelés alakulása 2017-ig (BP 2018)](/assets/images/global_oil_reserves_bp2018.png)
 
@@ -151,7 +154,8 @@ A kubai általános gazdasági válság azon államok számára intő példa, am
 
 * GASWIRTH, S.B., FRENCH, K.L., PITMAN, J.K., MARRA, K.R., MERCIER, T.J., LEATHERS-MILLER, H.M., SCHENK, C.J., TENNYSON, M.E., WOODALL, C.A., BROWNFIELD, M.E., FINN, T.M., LE, P.A. 2018. [Assessment of undiscovered continuous oil and gas resources in the Wolfcamp Shale and Bone Spring Formation of the Delaware Basin, Permian Basin Province, New Mexico and Texas, 2018.](https://doi.org/10.3133/fs20183073). U.S. Geological Survey Fact Sheet 2018–3073, 4 p.
 
-* HUBBERT, M. K. 1956. [Nuclear energy and the fossil fuels.](http://www.hubbertpeak.com/hubbert/1956/1956.pdf) – Shell Development Company Exploration and Production Research Division. – Houston,Texas. 40 p.
+* HUBBERT, M. K. 1956. [Nuclear energy and the fossil fuels.](http://www.hubbertpeak.com/hubbert/1956/1956.pdf
+) – Shell Development Company Exploration and Production Research Division. – Houston,Texas. 40 p.
 
 * LEGGETT, J. 2008. A fele elfogyott. Olaj, gáz, forró levegő és a globális energiaválság. – Typotex Kiadó, Budapest.
 

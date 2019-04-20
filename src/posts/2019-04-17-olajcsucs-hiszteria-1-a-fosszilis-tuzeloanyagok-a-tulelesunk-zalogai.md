@@ -12,13 +12,13 @@ topic: Erőforrások
 ---
 ## A világ primer energia-fogyasztása és villamosáram-termelése
 
-A világ primer energiafogyasztása és áramtermelése törtetlenül növekszik továbbra is, bár észrevehető egy kisebb csökkenés a 2008-as világgazdasági válságok követő években (az áramtermelés adatok csak 1985-től állnak rendelkezésre). 1965 óta 2017-ig az primer energiafogyasztás több mint három és félszeresére (3,65), míg 1985 óta az áramtermelés a kettő és félszeresére (2,59) emelkedett. **A világ primer energiatermelésének 89,6%-a alapul a fosszilis energiahordozókon**, kategóriák szerint az alábbi megoszlásban: 34,2% kőolaj, 27,6% kőszén, 23,4% földgáz és 4,4% atomenergia (1. táblázat, 1. ábra).
+A világ primer energiafogyasztása és áramtermelése töretlenül növekszik továbbra is, bár észrevehető egy kisebb csökkenés a 2008-as világgazdasági válságok követő években (az áramtermelés adatok csak 1985-től állnak rendelkezésre). 1965 óta 2017-ig az primer energiafogyasztás több mint három és félszeresére (3,65), míg 1985 óta az áramtermelés a kettő és félszeresére (2,59) emelkedett. **A világ primer energiatermelésének 89,6%-a alapul a fosszilis energiahordozókon**, kategóriák szerint az alábbi megoszlásban: 34,2% kőolaj, 27,6% kőszén, 23,4% földgáz és 4,4% atomenergia (1. táblázat, 1. ábra).
 
 A legjelentősebb természetesen a kőolaj a maga 34,2%-ával, mely elsősorban a közlekedésben játszik jelentős szerepet, ellenben viszont, a villamosenergia előállításában a szerepe elhanyagolhatóan kicsi!
 
 A primer energiafogyasztásban a szélenergia részesedése 1,9%, míg a napenergiájé 0,7%. Az áramtermelésben viszont a megújulók aránya magasabb, de ebben megint a vízenergiának van oroszlánrésze.
 
-Energiahordozó | Fogyasztás (millió TOA) | Százalékos megoszlás
+Energiahordozó | Fogyasztás (Mtoe) | Százalékos megoszlás
 ---|---|---
 Kőolaj | 4621,9 | 34,2
 Kőszén | 3731,5 | 27,6
@@ -29,13 +29,13 @@ Szélenergia | 254,0 | 1,9
 Geotermikus, biomassza, egyéb | 132,6 | 1,0
 Napenergia | 100,2 | 0,7
 Összesen | 13511,2 | 100
-[1. táblázat: A világ éves energiafogyasztása energiahordozók szerint 2017-ben (British Petrol 2018) Mtoe: millió tonna kőolaj-egyenérték]
+[1. táblázat: A világ éves primer energiafogyasztása energiahordozók szerint 2017-ben (British Petrol 2018) Mtoe: millió tonna kőolaj-egyenérték]
 
-![1. ábra: A világ éves energiafogyasztása (Mtoe) energiahordozók szerint 2017-ben (BP 2018)](/assets/images/total_primer_energy_bp2018.png)
+![1. ábra: A világ éves primer energiafogyasztása (Mtoe) energiahordozók szerint 2017-ben (BP 2018)](/assets/images/total_primer_energy_bp2018.png)
 
-![2. ábra: A világ éves energiafogyasztásának megoszlása energiahordozók szerint 2017-ben, Mtoe = millió tonna olaj egyenérték (BP 2018)](/assets/images/total_primer_energy_by_fuel_mtoe_bp2018.png)
+![2. ábra: A világ éves primer energiafogyasztásának megoszlása energiahordozók szerint 2017-ben, Mtoe = millió tonna olaj egyenérték (BP 2018)](/assets/images/total_primer_energy_by_fuel_mtoe_bp2018.png)
 
-![3. ábra: A világ éves energiafogyasztásának százalékos megoszlása energiahordozók szerint 2017-ben (BP 2018)](/assets/images/total_primer_energy_by_fuel_percent_bp2018.png)
+![3. ábra: A világ éves primer energiafogyasztásának százalékos megoszlása energiahordozók szerint 2017-ben (BP 2018)](/assets/images/total_primer_energy_by_fuel_percent_bp2018.png)
 
 Energiaforrás | Áramtermelés, 2017 (TWh) | %
 ---|---|---
@@ -55,7 +55,7 @@ Egyéb | 182,6 | 0,7
 
 Ha a globális áramtermelést tekintjük, akkor **az összes áram 3/4-rész származik fosszilis forrásból**, míg a megújuló arány csak 24,3%. A megújuló hányad kb. 2/3-része vízenergia. **A globális áramtermelés 4,4%-áért felel a szélenergia, és mindössze 1,7%-ért a napenergia. Az atomenergia részaránya 10,3%, 23,2%-ot biztosít a földgáz és 38,1%-ot a kőszén.** A kőolaj 3,5%-ban járul hozzá az áramtermeléshez, tehát duplaakkora arányban, mint a napenergia.
 
-![5.  ábra: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban, százalékban (BP 2018)](/assets/images/electricity_percent_bp2018.png)
+![5.  ábra: A világ áramtermelése 2017-ben,  energiahordozók szerinti bontásban, százalékban kifejezve (BP 2018)](/assets/images/electricity_percent_bp2018.png)
 
 Az egyes országok eltérő földrajzi adottságokkal bírnak, így néhol (hegyvidékek nagy esésű és hozamú folyókkal, mint pl. Norvégia, Ausztria, Brazília stb.; Izlandon a geotermikus energia, Dániában a szélenergia stb. stb.) sokkal nagyobb jelentőséggel bírnak a megújuló energiák az áramtermelésben. (De ezek szintén erősen függnek a közlekedésben használt és egyéb kőolajtermékektől.) Nem ez az általános helyzet a legtöbb ország esetén. Ez inkább kivétel, mint szabály. De mondja ezt meg valaki az ELTE ~~megújuló energia propagandistáinak~~ geográfusainak is, akik el vannak ájulva a dánoktól és a németektől.
 
@@ -65,7 +65,7 @@ A zöld mozgalmárok által hangoztatott **„megújuló forradalom” sosem lé
 
 ## Az olajcsúcs-hisztéria ismét lefújva
 
-A jövőbe látó vészmadaraink néhány évtizedenként mindig pánikot keltenek, hogy nem lesz elég olaj a gazdaság számára. Legelsőnek M. King Hubbert jósolta ezt 1956-ban az USA olajtermeléséről, majd folytatta 1968-ban a Róma Klub „A növekedés határai” címet viselő jelentésében. A tények viszont azt mutatják, hogy az olajkorszak messze nem ért véget.
+A jövőbe látó vészmadaraink néhány évtizedenként mindig pánikot keltenek (hazánkban a Hetesi Zsolt „csillagész” riogatott), hogy nem lesz elég olaj a gazdaság számára. Legelsőnek M. King Hubbert jósolta ezt 1956-ban az USA olajtermeléséről, majd folytatta 1968-ban a Róma Klub „A növekedés határai” címet viselő jelentésében. A tények viszont azt mutatják, hogy az olajkorszak messze nem ért véget.
 
 **Az olajcsúcs hipotézis felkent papjai legutóbb 2005-2007 környékén harangozták be az olajcsúcs eljövetelét** (LEGGETT, J. 2008), vagyis az olajtermelés el fogja érni a csúcspontját, azaz tetőzni fog, majd utána drasztikusan csökkenni fog. Ezúttal sem következett be. A közbeszédből már néhány éve ki is veszett az olajcsúccsal és a vele járó apokalipszissel való riogatás.
 

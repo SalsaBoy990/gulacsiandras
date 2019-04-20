@@ -754,7 +754,7 @@ a:focus, a:hover {
 
 .black-link:hover, .black-link:active {
   transition: ease-in 0.3s;
-  color: #292726;
+  color: #2F354A;
   text-decoration: none; }
 
 /*
@@ -1117,6 +1117,8 @@ label {
   ol,
   ul {
     font-size: 17px; }
+  table {
+    font-size: 15px; }
   .small-size {
     font-size: 15px !important; }
   .min-size {

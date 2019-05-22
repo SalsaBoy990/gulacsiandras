@@ -116,6 +116,18 @@ A bauxitból a Bayer-eljárással gyártottak timföldet. Az eljárás során a 
 
 [Az ajkai vörösiszap-katasztrófa](https://hu.wikipedia.org/wiki/Ajkai_vörösiszap-katasztrófa): Kolontáron egy ilyen zagytározó földgátja szakadt át 2009-ben. A vörösiszap felett a tározóban nátronlúgot tároltak. A vörösiszap önmagában nem veszélyes, viszont itt a valós veszélyt a nátronlúg jelentette, ugyanis a nátronlúg erősen maró hatású, súlyos égési sérüléseket okoz, pH értéke 13, tehát erősen lúgos kémhatású. A zagyár megölt 10 és megsebesített 150 embert a MAL Zrt. nemtörődömsége és gondatlansága miatt. A tározó a település felett, magasabban helyezkedett el, így a zagyár a település felé zúdult le.
 
+A magyarországi bauxit jellemző radioaktivitása (Bq/kg):
+
+Ac-228 | Pa-234m | Bi-214 | K-40
+- | - | - | -
+163-191 | 203-438 | 223-263 | 10-66
+
+A magyarországi vörösiszapok jellemző radioaktivitása (Bq/kg):
+
+Ac-228 | Pa-234m | Bi-214 | K-40
+- | - | - | -
+250-392| 369-949 | 250-568 | 38-101
+
 ## Irodalom
 
 * BÓDIZS DÉNES, GÁSPÁR LÁSZLÓ, KEÖMLEY GÁBOR (1992). Radioaktív emisszió széntüzelésű erőművekből. Fizikai Szemle 42(4), pp. 135-139.

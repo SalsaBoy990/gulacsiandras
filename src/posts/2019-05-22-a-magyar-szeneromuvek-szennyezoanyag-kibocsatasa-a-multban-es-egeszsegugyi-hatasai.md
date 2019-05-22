@@ -21,6 +21,19 @@ A Környezeti Tanulmányok Nemzetközi Irodája (International Bureau for Enviro
 
 Az 1. táblázatban közölt területeken bányászták egykor a világátlagnál többször nagyobb radioaktivitású kőszeneket Magyarországon. Ezek közül ma már csak a visontai (és bükkábrányi) lignitbányában folyik a szénkitermelés, külszíni fejtéssel. Hazánk utolsó működő mélyművelésű szénbányája volt az Eocén program keretén belül a Gerecsében 1981-ben termelésbe vont márkushegyi bánya (Oroszlány), amit 2015-ben zártak be véglegesen (Forrás: Vértesi Erőmű).
 
+Bányavidék | 238U sorozat | 232Th sorozat | 40K
+---|---|---|---
+Oroszlány (Márkushegy) | 99 | 24 | 163
+Ajka | 120-480 | 12-35 | 56-190
+Borsod (Berente) | 38-52 | 32-62 | 190-264
+Pécs | 175 | 127 | 560
+Várpalota | 220 | 20 | 30
+Visonta | 20 | 15 | 80
+Komló | 150 | 97 | 384
+Dorog | 40 | 36  | 194
+Tata | 100-140 | 30 | 162-270
+[1. táblázat: A magyar szénmeddők természetes radioizotópokból származó átlagos radioaktivitása (Bq/kg), (INTAILRISK 2004-2007). Ezek közül már csak visontai/bükkábrányi bánya üzemel. Izotóp = azonos rendszámú, de eltérő tömegszámú elemek, az atommagban több a neutron, mint a proton, hogy ellensúlyozza a nagy taszítóerőt a sok proton között az atommagban. Az atommag instabil, ezért radioaktív bomlással igyekszik stabil állapotba kerülni, mely során az izotóp átalakul más elemekké (leányelemekké), amik további bomlással megint más leányelemekké alakulnak, mígnem elérünk egy olyan elemhez, ami már stabil atommaggal rendelkezik, tehát már nem szenved több radioaktív bomlást. Ez a bomlássor. A radioaktív bomlás spontán részecskekibocsátással és energialeadással (sugárzással) jár (az atommag tömegcsökkenése energiafelszabaduláshoz vezet. Nagy vonalakban így viselkednek a radioizotópok.]
+
 Az U és a Th sorozat az urán és a tórium leányelemeit (pl. rádium, radon, polónium, ólom, bizmut) is magában foglalja.
 
 Összehasonlításképpen, egy emberben másodpercenként több mint 10000 bomlás játszódik le, azaz **egy ember aktivitása 10000 Becquerel (Bq).** Aktivitás (A) = másodpercenkénti radioaktív bomlások száma, mértékegysége a Becquerel (rövidítve Bq, 1 Bq = 1 bomlás/másodperc). Az emberi szervezetben az alábbi főbb természetes radioizotópok találhatók meg: ^40^K, ^14^C, ^3^H (trícium), ^226^Ra (rádium - a ^222^Rn, radon bomlásából). 7000-8000 Bq származik a ^40^K, 2000-3000 Bq a ^14^C, szintén 2000-3000 Bq a trícium aktivitásából, míg a radon (gáz) fajlagos aktivitása bennünk: 100-300 Bq/m^3^.
@@ -41,7 +54,19 @@ Egy amerikai tanulmány szerint
 
 Nos, BÓDIZS D. et al. (1992) eredményei egybevágnak ezzel a megállapítással, sőt eseteként több százszorosan is meghaladhatja szénerőművek radioaktív kibocsátása az atomerőművekét!
 
-Mostanra már a legtöbb szénerőművünk részben vagy teljesen átállt biomassza vagy földgáz tüzelésére, amelyek szintén tartalmaznak radioizotópokat (mint például a földgázban is található radongáz) és ként, így továbbra is légszennyezők. A hazai, jelenleg is működő (illetve már bezárt) szénerőművek és teljesítményük a 2. táblázatban van feltüntetve. Az 1. képen látható Inotai Erőmű 1951-ben kezdte meg működését, majd végül 2001-ben zárta be a kapuit.
+Mostanra már a legtöbb szénerőművünk részben vagy teljesen átállt biomassza vagy földgáz tüzelésére, amelyek szintén tartalmaznak radioizotópokat (mint például a földgázban is található radongáz) és ként, így továbbra is légszennyezők. A hazai, jelenleg is működő (illetve már bezárt) szénerőművek és teljesítményük a 2. táblázatban van feltüntetve. Az 1. képen látható Inotai Erőmű 1951-ben kezdte meg működését, majd 2001-ben zárta be a kapuit végleg.
+
+Erőmű|Teljesítmény (MW)|Tulajdonos|Megjegyzés
+---|---|---|---
+1. Ajkai Hőerőmű | 102 | Bakonyi Erőmű Zrt. (Veolia Csoport tagja) | nagyrészt biomassza, kis részt széntüzelésű
+~~Inotai Hőerőmű~~ | ~~52~~ | bezárt | bezárt
+2. Visontai Hőerőmű | ~~836~~ 966 | Mátrai Erőmű Zrt. | maradt a lignittüzelés, plusz 2*33 MW gáztüzelés
+3. Pécsi Hőerőmű (Pannon Erőmű) | ~~190~~ 85 | Pannonpower Kft. Veolia Magyarország | biomasszára váltott)
+~~Borsodi Hőerőmű (Berente)~~ | ~~137~~ 71 | AES Borsodi Energetikai Kft. (felszámolás alatt) | erőmű leállítva
+~~Tiszapalkonyai Hőerőmű~~ | ~~200~~ 90 | AES Borsodi Energetikai Kft. (felszámolás alatt) | erőmű leállítva
+4. Oroszlányi Hőerőmű | ~~235~~ 240 | Vértesi Erőmű Zrt. | biomassza-szalma tüzelésre állítva
+5. Tatabányai Hőerőmű | 34 | Tatabánya Erőmű Kft. | földgáz-fűtőolaj tüzelésre állítva)
+[2. táblázat: A hazai (széntüzelésű) hőerőművek és teljesítményük (INTAILRISK 2004-2007), aktualizálva a MAVIR 2019-es adataival. Az elavult számok és a már megszűnt erőművek áthúzással jelölve.]
 
 Az Ajkai Erőmű kazánjait napjainkban részben import kőszénnel, részben pedig biomasszával (fa, faipari melléktermék, tűzifa-apríték, szalma, mezőgazdasági hulladékok) fűtik fel. A Visontai Erőmű döntő részt a hazai külszíni fejtésű lignitet használ, kis részt pedig földgázt. A Pécsi Erőmű biomassza-tüzelésű. Az Oroszlányi Erőmű is biomassza tüzelésre váltott. A Tatabányai Erőművet földgáz-kőolaj tüzelésű kazánokkal szerelték fel, szenet már nem használ. Az amerikai kézbe került AES Borsodi Energetikai Kft. 2012-ben megszűnt, így a Berentei és a Tiszapalkonyai Erőművek az Inotai Erőműhöz hasonlóan már nem üzemelnek.
 
@@ -51,7 +76,7 @@ A komoly méreteket öltő szocialista iparosítás alatt jelentős mennyiségű
 
 >„A mosótornyokban a felfelé áramló 120-130°C-os füstgázba vizes mészkőpor-szuszpenziót permeteznek be. A több szinten bepermetezett mészkő-szuszpenzió hatására a forró füstgáz lehűl, a kémiai reakciók eredményeként pedig a mészkő megköti a kéndioxid gázt, miközben kalciumszulfittá alakul. A mosóberendezések zsompjában összegyűlő szulfitiszapot állandó keverés közben, sűrített levegő bevezetésével kalciumszulfáttá, azaz gipsszé oxidálják.”
 
-Szintén alkalmaznak porleválasztást (elektrofilterekkel), valamint a nitrogén oxidok (NO~x~, azaz nitrogén-dioxid NO~2~ és nitrogén-oxid NO) csökkentése karbamid (CO(NH~2~)~2~) beadagolás segítségével (ún. „szelektív katalitikus redukciós”, azaz [SCR rendszer]()). A reakcióhoz magas hőmérsékletre (min. 250 °C) van szükség. A hő hatására felszabaduló ammónia (NH~3~) reakcióba lép a füstgáz nitrogén-oxidjaival, és nitrogénné, valamint vízzé alakítja át azokat.
+Szintén alkalmaznak porleválasztást (elektrofilterekkel), valamint a nitrogén oxidok (NO~x~, azaz nitrogén-dioxid NO~2~ és nitrogén-oxid NO) csökkentése karbamid (CO(NH~2~)~2~) beadagolás segítségével (ún. „szelektív katalitikus redukciós”, azaz [SCR rendszer](http://hu.greenchem-adblue.com/greenchem-has-a-new-product-5/)). A reakcióhoz magas hőmérsékletre (min. 250 °C) van szükség. A hő hatására felszabaduló ammónia (NH~3~) reakcióba lép a füstgáz nitrogén-oxidjaival, és nitrogénné, valamint vízzé alakítja át azokat.
 
 A szénerőművek magas kén emissziója a múltban hozzájárult a Londoni típusú szmogok kialakulásához a szocialista bányavárosokban. A belélegzett kén-dioxiddal szennyezett levegő a légutakban és a tüdőben található nedvességgel kénsavat (H~2~SO~4~) képez, amely erősen irritáló és maró hatású. A hosszú távú kitettség számos súlyos betegségekhez vezethet: hörghurut, asztmás rohamok, gégegörcsök és végül légzésbénulás és halál. A gyerekek és az idősek a legveszélyeztetettebbek. Egy remek szakdolgozatban olvastam (Fülöp Ildikó 2009):
 
@@ -61,7 +86,22 @@ Az 1991-ben végzett népegészségügyi vizsgálatok alapján Várpalota térs�
 
 Habár az ezredfordulón jelentős mértékben csökkent Várpalota és Inota levegőterhelése,
 
->az egészségügyi mutatókban csak lassan tapasztalható javulás, ugyanis még 2004-ben is emelkedő tendenciát mutatott a légzőszervi megbetegedések száma (Fülöp I. 2009). 2. ábra, 4-5. táblázat.
+>az egészségügyi mutatókban csak lassan tapasztalható javulás, ugyanis még 2004-ben is emelkedő tendenciát mutatott a légzőszervi megbetegedések száma (Fülöp I. 2009). 2. ábra, 3-4. táblázat.
+
+| | Rosszindulatú daganatok || Idült alsó légúti megbetegedések ||
+| | Várpalota | Veszprém megye | Várpalota | Veszprém
+------ | :------: | :------: |  :------: | :------: 
+férfi | 74,1 | 18,5 | 61,9 | 37,2
+nő | 116,8 | 22,5 | 59,3 | 29,5
+összesen | 95,4 | 20,6 | 60,6 | 33,2
+[3. táblázat: A megbetegedések előfordulási gyakorisága a háziorvosi jelentések alapján, Várpalotán és Veszprém megye átlagában, 2003-ban (Fülöp I. 2009)]
+
+
+Megnevezés | 2002 | 2003 | 2004
+-|-|-|-
+Légzőszervi megbetegedések | 2889 | 3363 | 3504
+Kronikus bronchitis | 206 | 225 | 232
+[4. táblázat: Morbiditási adatok Várpalotán (Fülöp I. 2009)]
 
 
 ## Kiegészítés: A hazai bauxit radioaktivitása
@@ -71,6 +111,21 @@ Az 1970-es-80-as években intenzív bauxitbányászat folyt főként a Dunántú
 A bauxitból a Bayer-eljárással gyártottak timföldet. Az eljárás során a sokösszetevős bauxitból NaOH (nátrium-hidroxid, nátronlúg) segítségével iparilag tiszta alumínium-oxidot, más néven timföldet nyertek ki; amely a fémalumínium elektrolitikus kohósításának kiindulási terméke. 1 tonna timföld gyártásával kb. 1,2-1,45 tonna vörösiszap keletkezik, amit zagytározókban tárolnak.
 
 [Az ajkai vörösiszap-katasztrófa](https://hu.wikipedia.org/wiki/Ajkai_vörösiszap-katasztrófa): Kolontáron egy ilyen zagytározó földgátja szakadt át 2009-ben. A vörösiszap felett a tározóban nátronlúgot tároltak. A vörösiszap önmagában nem veszélyes, viszont itt a valós veszélyt a nátronlúg jelentette, ugyanis a nátronlúg erősen maró hatású, súlyos égési sérüléseket okoz, pH értéke 13, tehát erősen lúgos kémhatású. A zagyár megölt 10 és megsebesített 150 embert a MAL Zrt. nemtörődömsége és gondatlansága miatt. A tározó a település felett, magasabban helyezkedett el, így a zagyár a település felé zúdult le.
+
+## Irodalom
+
+* FÜLÖP I. (2009). Várpalota térségének levegőminősége és változása. Diplomadolgozat. Pannon Egyetem, Mérnöki Kar, Környezetmérnöki Intézet, Veszprém. 86 p.
+
+* BÓDIZS DÉNES, GÁSPÁR LÁSZLÓ, KEÖMLEY GÁBOR (1992). Radioaktív emisszió széntüzelésű erőművekből. Fizikai Szemle 42(4), pp. 135-139.
+
+* IBES (International Bureau for Environmental Studies) (2004-2007). [INTAILRISK - Assessment of Environmental Risk for Use of Radioactively Contaminated Industrial Tailings, contract n° INCO-CT-2004-509214, 2004-2007](http://www.ibes.be/intailrisk). Sajnos már nem érhető el, még 2013-ban töltöttem le. Viszont lementettem az oldalt, itt tölthető le (zip fájl).
+
+* [Bakonyi Erőmű (Ajka)](http://bakonyi.hu/)
+* [Mátrai Erőmű (Visonta)](http://www.mert.hu/cegtortenet)
+* [Pannon Erőmű (Pécs)](https://www.veolia.hu/hu/letesitmenyeink)
+* [Tatabányai Erőmű](http://www.tber.hu/rolunk/a-vallalat-tortenete)
+* [Vértesi Erőmű (Oroszlány)](http://www.vert.hu/oroszlany.aspx)
+
 
 
 

@@ -46,7 +46,7 @@ A széntüzelésű erőművek ezután csak importált szénnel működtek továb
 
 A legmagasabb ^232^Th koncentrációt a Pannonpower Kft. zagytározóiban mérték Pécs városának közelében (186 Bq/kg), míg a legkisebbet az Ajkai Erőmű hamujában (19 Bq/kg). Az ^238^U koncentráció viszont az Ajkai Erőmű esetén volt a legnagyobb (1459 Bq/kg), addig Inotán a legkisebb. Meglepő módon az Inotai Erőmű fajlagos, azaz 1 MW-nyi előállított elektromos áramra eső radioizotóp-kibocsátása volt a legmagasabb. Továbbá, a várpalotai barnaszenet és a visontai lignitet leszámítva, a többi szenünkben viszonylag magas a ^40^K (kálium) izotóp aktivitása is. Azt itt fontos leszögezni, hogy ezzel ellentétben a Paksi Atomerőmű által kibocsátott radioaktivitás teljesen minimális. Elég csak ránézni az 1. ábrára, ahol a szénerőművek és az atomerőművek egy MW leadott elektromos teljesítményre (MW(e)) eső radioaktív emissziója látható logaritmikus skálán.
 
-![1. ábra: Radioaktív emisszió szén- és atomerőművekből, 1988-ban (BÓDIZS D. et al. 1992). Az adatokat a tanulmányban szereplő ábra digitalizálásából nyertem.](https://www.dropbox.com/s/zkkypjgcb3rxatr/atomeromu_vs_szeneromu.png)
+![1. ábra: Radioaktív emisszió szén- és atomerőművekből, 1988-ban (BÓDIZS D. et al. 1992). Az adatokat a tanulmányban szereplő ábra digitalizálásából nyertem.](https://dl.dropboxusercontent.com/s/zkkypjgcb3rxatr/atomeromu_vs_szeneromu.png)
 
 Egy amerikai tanulmány szerint
 
@@ -90,7 +90,7 @@ Habár az ezredfordulón jelentős mértékben csökkent Várpalota és Inota le
 
 >az egészségügyi mutatókban csak lassan tapasztalható javulás, ugyanis még 2004-ben is emelkedő tendenciát mutatott a légzőszervi megbetegedések száma (Fülöp I. 2009). 2. ábra, 3-4. táblázat.
 
-![2. ábra: Az 1000 lakosra jutó rosszindulatú daganatok és idült alsó légúti megbetegedések száma a háziorvosi jelentések alapján, Várpalotán és Veszprém megye átlagában, 2003-ban (Fülöp I. 2009)](https://www.dropbox.com/s/kmvtu9gde3qwq0o/v%C3%A1rpalota.png?dl=0)
+![2. ábra: Az 1000 lakosra jutó rosszindulatú daganatok és idült alsó légúti megbetegedések száma a háziorvosi jelentések alapján, Várpalotán és Veszprém megye átlagában, 2003-ban (Fülöp I. 2009)](https://dl.dropboxusercontent.com/s/kmvtu9gde3qwq0o/v%C3%A1rpalota.png)
 
 | | Rosszindulatú daganatok || Idült alsó légúti megbetegedések ||
 | | Várpalota | Veszprém megye | Várpalota | Veszprém

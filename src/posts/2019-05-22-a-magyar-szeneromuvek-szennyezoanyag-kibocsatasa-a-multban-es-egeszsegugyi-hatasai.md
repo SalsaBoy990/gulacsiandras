@@ -15,7 +15,7 @@ coverImage: inota.jpg
 comments: true
 topic: erőforrások
 ---
-A szénerőművek radioaktív kibocsátásairól, a légszennyezésükről és egészségre gyakorolt hatásaikról lesz szó. Előre leszögezem: **a szóban forgó radioaktív emisszió olyan kicsi, hogy semmilyen egészségügyi kockázatot nem jelent**, ellentétben a SO~2~ (kén-dioxid), NO~X~ (nitrogén-oxid) és szálló por kibocsátással. De mégsem hisztériáznak a „környezetvédőként” tetszelgő zöld aktivisták a szénerőművek ellen a radioaktív kibocsátásuk miatt, ami akár százszorosan is meghaladja az atomerőművek radioaktív emisszióját! Ez egyértelmű bizonyítéka annak, hogy őket nem érdeklik a tények, ha az atomenergiát kell támadni, amitől úgy rettegnek.
+A szénerőművek radioaktív kibocsátásairól, a légszennyezésükről és egészségre gyakorolt hatásaikról lesz szó. Előre leszögezem: **a szóban forgó radioaktív emisszió olyan kicsi, hogy semmilyen egészségügyi kockázatot nem jelent**, ellentétben a SO~2~ (kén-dioxid), NO~x~ (nitrogén-oxid) és szálló por kibocsátással. De mégsem hisztériáznak a „környezetvédőként” tetszelgő zöld aktivisták a szénerőművek ellen a radioaktív kibocsátásuk miatt, ami akár százszorosan is meghaladja az atomerőművek radioaktív emisszióját! Ez egyértelmű bizonyítéka annak, hogy őket nem érdeklik a tények, ha az atomenergiát kell támadni, amitől úgy rettegnek.
 
 A Környezeti Tanulmányok Nemzetközi Irodája (International Bureau for Environmental Studies, IBES) megbízásából létrehozott INTAILRISK projekt keretén belül felmérték a szén- és alumíniumiparból származó ipari hulladékok (pernye, salak és hamu alkotta meddők, vörösiszap) környezeti kockázatait, megmérték radioaktivitásukat, illetve kiértékelték a hulladékok újrahasznosításának, és környezet helyreállításának lehetőségeit.
 
@@ -59,14 +59,16 @@ Mostanra már a legtöbb szénerőművünk részben vagy teljesen átállt bioma
 Erőmű|Teljesítmény (MW)|Tulajdonos|Megjegyzés
 ---|---|---|---
 1. Ajkai Hőerőmű | 102 | Bakonyi Erőmű Zrt. (Veolia Csoport tagja) | nagyrészt biomassza, kis részt széntüzelésű
-~~Inotai Hőerőmű~~ | ~~52~~ | bezárt | bezárt
+~~Inotai Hőerőmű~~ | ~~52~~ | bezárt | bezárt
 2. Visontai Hőerőmű | ~~836~~ 966 | Mátrai Erőmű Zrt. | maradt a lignittüzelés, plusz 2*33 MW gáztüzelés
 3. Pécsi Hőerőmű (Pannon Erőmű) | ~~190~~ 85 | Pannonpower Kft. Veolia Magyarország | biomasszára váltott)
-~~Borsodi Hőerőmű (Berente)~~ | ~~137~~ 71 | AES Borsodi Energetikai Kft. (felszámolás alatt) | erőmű leállítva
-~~Tiszapalkonyai Hőerőmű~~ | ~~200~~ 90 | AES Borsodi Energetikai Kft. (felszámolás alatt) | erőmű leállítva
+~~Borsodi Hőerőmű (Berente)~~ | ~~137~~ 71 | AES Borsodi Energetikai Kft. (felszámolás alatt)| erőmű leállítva
+~~Tiszapalkonyai Hőerőmű~~ | ~~200~~ 90| AES Borsodi Energetikai Kft. (felszámolás alatt)| erőmű leállítva
 4. Oroszlányi Hőerőmű | ~~235~~ 240 | Vértesi Erőmű Zrt. | biomassza-szalma tüzelésre állítva
 5. Tatabányai Hőerőmű | 34 | Tatabánya Erőmű Kft. | földgáz-fűtőolaj tüzelésre állítva)
 [2. táblázat: A hazai (széntüzelésű) hőerőművek és teljesítményük (INTAILRISK 2004-2007), aktualizálva a MAVIR 2019-es adataival. Az elavult számok és a már megszűnt erőművek áthúzással jelölve.]
+
+![1. kép: A Várpalota melletti Inotai Erőmű egy 1972. november 7-én készült fotón]() 
 
 Az Ajkai Erőmű kazánjait napjainkban részben import kőszénnel, részben pedig biomasszával (fa, faipari melléktermék, tűzifa-apríték, szalma, mezőgazdasági hulladékok) fűtik fel. A Visontai Erőmű döntő részt a hazai külszíni fejtésű lignitet használ, kis részt pedig földgázt. A Pécsi Erőmű biomassza-tüzelésű. Az Oroszlányi Erőmű is biomassza tüzelésre váltott. A Tatabányai Erőművet földgáz-kőolaj tüzelésű kazánokkal szerelték fel, szenet már nem használ. Az amerikai kézbe került AES Borsodi Energetikai Kft. 2012-ben megszűnt, így a Berentei és a Tiszapalkonyai Erőművek az Inotai Erőműhöz hasonlóan már nem üzemelnek.
 
@@ -78,7 +80,7 @@ A komoly méreteket öltő szocialista iparosítás alatt jelentős mennyiségű
 
 Szintén alkalmaznak porleválasztást (elektrofilterekkel), valamint a nitrogén oxidok (NO~x~, azaz nitrogén-dioxid NO~2~ és nitrogén-oxid NO) csökkentése karbamid (CO(NH~2~)~2~) beadagolás segítségével (ún. „szelektív katalitikus redukciós”, azaz [SCR rendszer](http://hu.greenchem-adblue.com/greenchem-has-a-new-product-5/)). A reakcióhoz magas hőmérsékletre (min. 250 °C) van szükség. A hő hatására felszabaduló ammónia (NH~3~) reakcióba lép a füstgáz nitrogén-oxidjaival, és nitrogénné, valamint vízzé alakítja át azokat.
 
-A szénerőművek magas kén emissziója a múltban hozzájárult a Londoni típusú szmogok kialakulásához a szocialista bányavárosokban. A belélegzett kén-dioxiddal szennyezett levegő a légutakban és a tüdőben található nedvességgel kénsavat (H~2~SO~4~) képez, amely erősen irritáló és maró hatású. A hosszú távú kitettség számos súlyos betegségekhez vezethet: hörghurut, asztmás rohamok, gégegörcsök és végül légzésbénulás és halál. A gyerekek és az idősek a legveszélyeztetettebbek. Egy remek szakdolgozatban olvastam (Fülöp Ildikó 2009):
+A szénerőművek magas kén emissziója a múltban hozzájárult a Londoni típusú szmogok kialakulásához a szocialista bányavárosokban. A belélegzett kén-dioxiddal szennyezett levegő a légutakban és a tüdőben található nedvességgel kénsavat (H~2~SO~4~) képez, amely erősen irritáló és maró hatású. A hosszú távú kitettség számos súlyos betegségekhez vezethet: hörghurut, asztmás rohamok, gégegörcsök és végül légzésbénulás és halál. A gyerekek és az idősek a legveszélyeztetettebbek. Egy remek szakdolgozatban olvastam (Fülöp I. 2009):
 
 >A magyar lakosság egészségi állapotát befolyásoló és halandóságai kockázati tényezői közül jelentősek a környezeti ártalmakból származó egészségkárosító hatások is.
 Felmérések szerint a halálozások 14-16%-át környezeti hatásokkal összefüggő megbetegedések okozzák. Hazánkban is folyamatosan nő az allergiás betegek száma, a nyilvántartott szénanáthás betegek száma az elmúlt tíz évben megtízszereződött, míg az asztmásoké megháromszorozódott.
@@ -87,6 +89,8 @@ Az 1991-ben végzett népegészségügyi vizsgálatok alapján Várpalota térs�
 Habár az ezredfordulón jelentős mértékben csökkent Várpalota és Inota levegőterhelése,
 
 >az egészségügyi mutatókban csak lassan tapasztalható javulás, ugyanis még 2004-ben is emelkedő tendenciát mutatott a légzőszervi megbetegedések száma (Fülöp I. 2009). 2. ábra, 3-4. táblázat.
+
+![2. ábra: Az 1000 lakosra jutó rosszindulatú daganatok és idült alsó légúti megbetegedések száma a háziorvosi jelentések alapján, Várpalotán és Veszprém megye átlagában, 2003-ban (Fülöp I. 2009)]()
 
 | | Rosszindulatú daganatok || Idült alsó légúti megbetegedések ||
 | | Várpalota | Veszprém megye | Várpalota | Veszprém
@@ -114,17 +118,23 @@ A bauxitból a Bayer-eljárással gyártottak timföldet. Az eljárás során a 
 
 ## Irodalom
 
-* FÜLÖP I. (2009). Várpalota térségének levegőminősége és változása. Diplomadolgozat. Pannon Egyetem, Mérnöki Kar, Környezetmérnöki Intézet, Veszprém. 86 p.
-
 * BÓDIZS DÉNES, GÁSPÁR LÁSZLÓ, KEÖMLEY GÁBOR (1992). Radioaktív emisszió széntüzelésű erőművekből. Fizikai Szemle 42(4), pp. 135-139.
 
+* FÜLÖP I. (2009). Várpalota térségének levegőminősége és változása. Diplomadolgozat. Pannon Egyetem, Mérnöki Kar, Környezetmérnöki Intézet, Veszprém. 86 p.
+
 * IBES (International Bureau for Environmental Studies) (2004-2007). [INTAILRISK - Assessment of Environmental Risk for Use of Radioactively Contaminated Industrial Tailings, contract n° INCO-CT-2004-509214, 2004-2007](http://www.ibes.be/intailrisk). Sajnos már nem érhető el, még 2013-ban töltöttem le. Viszont lementettem az oldalt, itt tölthető le (zip fájl).
+
+* Magyar Villamosenergia-ipari Átviteli Rendszerirányító ZRt. (MAVIR)  (2019). [A Magyar Villamosenergia-rendszer közép- és hosszú távú forrásoldali kapacitásfejlesztése 2018.](http://mavir.hu/documents/10258/15461/Forr%C3%A1selemz%C3%A9s_2018_IG.pdf/fc043982-a8ea-e49f-6061-418b254a6391) MAVIR-RTO-DOK-0018-00-2018-10-08, Budapest. 61 p.
+
 
 * [Bakonyi Erőmű (Ajka)](http://bakonyi.hu/)
 * [Mátrai Erőmű (Visonta)](http://www.mert.hu/cegtortenet)
 * [Pannon Erőmű (Pécs)](https://www.veolia.hu/hu/letesitmenyeink)
 * [Tatabányai Erőmű](http://www.tber.hu/rolunk/a-vallalat-tortenete)
 * [Vértesi Erőmű (Oroszlány)](http://www.vert.hu/oroszlany.aspx)
+
+
+* Az Inotai Erőmű fotója, 1972 (Forrás: [Fortepan](http://www.fortepan.hu/_photo/display/31049.jpg))
 
 
 

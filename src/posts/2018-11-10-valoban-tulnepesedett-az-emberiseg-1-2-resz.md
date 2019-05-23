@@ -50,6 +50,8 @@ Ez idő tájt még a sokgyerekes családmodell volt az egyeduralkodó, amely a m
 Magyarország esetén a természetes szaporodás a 19. század végén érte el a csúcspontját. Ehhez hozzájárult például az Alföldön az artézi kutak fúrása is, hiszen azelőtt a fertőző talajvízből vagy folyóvízből nyerték az ivóvizet, ennek következtében félelmetes arányokat öltött a vérhas, a tífusz, a gyomor- és a májbaj. Nem csoda hát, hogy a gyermekhalandóság magas volt. Így aztán a kutak megfúrásával tiszta ivóvíz rendelkezésre állt, melynek következtében a halandóság radikálisan csökkent – köszönhetően többek közt Zsigmondy Vilmosnak és fiának, Zsigmondy Bélának. Az első nyilvános artézi kutat 1879-80-ban, Hódmezővásárhelyen adták át (CHOLNOKY J. 1936).
 
 Móra Ferenc A kincskereső kisködmön című könyvéből jól ismert betegség, a diftéria, azaz a torokgyík is szedte áldozatait – a védőoltások elterjedésével azonban fokozatosan visszaszorult.
+
+Az 1900-as évek elején az ivóvíz klóros fertőtlenítésével sikerült közel teljesen kiküszöbölni a vízen keresztül terjedő betegségeket. A klórnál hatékonyabb fertőtlenítőszer alig létezik. [A klór a vízzel kapcsolatba lépve sósavat képez, ami a legtöbb baktériumot (és számos vírust) elpusztítja.](https://www.livescience.com/37122-how-chlorine-kills-pool-germs.html)
 *A kiegészítés vége.*
 
 Természetesen ezek a demográfiai és gazdasági átalakulási folyamatok időben és térben eltérő sebességgel, időtranszgresszióval terjedtek el szerte a világban. A fejlődő országok „fejletlenségének” oka az a földrajzi szerencsétlenség volt, hogy egyrészt nem volt lehetőségük igavonó állat háziasítására, másrészt pedig olyan növények nemesítésére volt csak lehetőségük, amelyeket csak kézzel lehetett ültetni és learatni. Mivel nem volt lehetőségük igavonó állatok háziasítására (mert földrajzi helyzetből adódóan nem volt arra alkalmas csordaállat), így az állati erő sem állt rendelkezésre, ezért mindenkinek az élelemtermeléssel kellett foglalkozni, hogy az alacsony produktivitás miatt ne haljanak éhen. Ennek következtében az embereknek nem volt idejük újításokat, technológiákat kiötleni, ami a fejlődésükhöz vezetett volna, bármennyire is legyenek okosak vagy ügyesek az ott élő népek (Diamond, J. 1999). Ez számomra túlságosan determinista megközelítés, vagyis a természeti tényezők szerepét túlhangsúlyozó szemlélet.
@@ -129,18 +131,20 @@ A cikksorozatom második részében a világnépesség jövőbeli alakulásával
 
 1. Anthony Watts (2013): [Great moments in failed predictions.](https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/) WUWT.
 
-2. Jared Diamond (1999): Guns, Germs, and Steel: The Fates of Human Societies. W. W. Norton & Company, Inc., New York, NY. 496 p.
+2. Cholnoky Jenő (1936): A Föld élete: Világrészek, országok, emberek. Franklin-társulat, Budapest. pp. 188-213.
 
-3. Julian Lincoln Simon (1981): The Ultimate Resource. Princeton University Press, UK. 418 p.
+3. Jared Diamond (1999): Guns, Germs, and Steel: The Fates of Human Societies. W. W. Norton & Company, Inc., New York, NY. 496 p.
 
-4. Paul Ralph Ehrlich 1968: The Population Bomb. Ballantine Books, New York. 223 p.
+4. Julian Lincoln Simon (1981): The Ultimate Resource. Princeton University Press, UK. 418 p.
 
-5. Thomas Robert Malthus (1826): [An Essay on the Principle of Population, or a View of its Past and Present Effects on Human Happiness; with an Inquiry into our Prospects respecting the Future Removal or Mitigation of the Evils which it Occasions. 6. kiadás, 2. kötet.](http://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-vol-2-1826-6th-ed) John Murray, London.
+5. Paul Ralph Ehrlich (1968): The Population Bomb. Ballantine Books, New York. 223 p.
 
-6. Willis Eschenbach 2010: [I Am So Tired of Malthus.](https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/
+6. Thomas Robert Malthus (1826): [An Essay on the Principle of Population, or a View of its Past and Present Effects on Human Happiness; with an Inquiry into our Prospects respecting the Future Removal or Mitigation of the Evils which it Occasions. 6. kiadás, 2. kötet.](http://oll.libertyfund.org/titles/malthus-an-essay-on-the-principle-of-population-vol-2-1826-6th-ed) John Murray, London.
+
+7. Willis Eschenbach (2010): [I Am So Tired of Malthus.](https://wattsupwiththat.com/2010/09/08/i-am-so-tired-of-malthus/
 ) WUWT.
 
-7. Willis Eschenbach 2017: [Malthus Redux.](https://wattsupwiththat.com/2017/12/10/malthus-redux/) WUWT.
+8. Willis Eschenbach (2017): [Malthus Redux.](https://wattsupwiththat.com/2017/12/10/malthus-redux/) WUWT.
 
 * [FAOSTAT](http://www.fao.org/faostat/en/#data/CC
 )

@@ -23,7 +23,9 @@ Hogy a szülés traumát kiváltó esemény is lehet, erre kevesen gondolnak. Mi
 
 ## A trauma normává vált
 
->„A társadalom igyekszik segíteni azoknak a nőknek, akik családon belüli erőszakot vagy megerőszakolást szenvedtek el. Azonban azokhoz, akik azzal állnak elő, hogy a kórházon belüli traumatizáló erőszakos viselkedés áldozataivá váltak, azokhoz nem így állunk hozzá,” mutat rá az egész probléma gyökerére Michaela. Azok a nők, akiken szülésük közben fölösleges invazív beavatkozásokat hajtottak végre, a rossz orvosi eljárások áldozataivá váltak vagy nem kapták meg a megfelelő tájékoztatást arról, hogy mi történik velük vagy gyermekeikkel: Ez mind nagyon traumatizáló tapasztalattá válhat. Michaela kliensei sokszor olyan nők közül kerülnek ki, akik normális módon lettek várandósok, de olyan módon szültek, ami traumatizáló volt számukra. Ezeknek a nőknek a későbbiekben már pszichoszomatikus okokból kifolyólag nem lehet több gyermekük.”
+>„A társadalom igyekszik segíteni azoknak a nőknek, akik családon belüli erőszakot vagy megerőszakolást szenvedtek el. Azonban azokhoz, akik azzal állnak elő, hogy a kórházon belüli traumatizáló erőszakos viselkedés áldozataivá váltak, azokhoz nem így állunk hozzá,”
+
+mutat rá az egész probléma gyökerére Michaela. Azok a nők, akiken szülésük közben fölösleges invazív beavatkozásokat hajtottak végre, a rossz orvosi eljárások áldozataivá váltak vagy nem kapták meg a megfelelő tájékoztatást arról, hogy mi történik velük vagy gyermekeikkel: Ez mind nagyon traumatizáló tapasztalattá válhat. Michaela kliensei sokszor olyan nők közül kerülnek ki, akik normális módon lettek várandósok, de olyan módon szültek, ami traumatizáló volt számukra. Ezeknek a nőknek a későbbiekben már pszichoszomatikus okokból kifolyólag nem lehet több gyermekük.
 
 A cseh szülészeti ellátás keretein belül a negatív élmény valamilyen formájának megnyilvánulása, átélése megszokott jelenség. Michaela ezért kollektív traumáról beszél:
 

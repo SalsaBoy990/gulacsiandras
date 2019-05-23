@@ -64,7 +64,7 @@ szülészet emberibbé tételén fáradozik. Laikusoknak és szakembereknek tart
 
 foglalja össze.
 
-![Michaela Mrowetz klinikai szakpszichológus, pszichoterapeuta és törvényszéki szakértő]()
+![Michaela Mrowetz klinikai szakpszichológus, pszichoterapeuta és törvényszéki szakértő](https://dl.dropboxusercontent.com/s/j27qb0pbbkq5px0/Michaela_Mrowetz.jpg){.medium-img}
 
 * Szöveg: David Kopecký
 * Fordító: ismeretlen

@@ -100,13 +100,14 @@ Popp József az alábbiakat nyilatkozta az interjúban, amivel egyet is értek (
 
 > „Az amerikai gazdák szerint **Európa hamarosan szabadtéri múzeummá válik**, ahová ők azért járnak majd, hogy megnézzék, hogyan termeltek dédapáik a kisbirtokon. Úgy gondolják: Európában túlságosan ragaszkodnak az emberek a hagyományokhoz, a múlthoz, ami szép dolog ugyan, de a gazdasági fejlődés gátját is jelenheti, mert a legújabb ismeretek elutasítása akadályozza az alkalmazkodó képességet. Szerintem mindez fokozottan igaz a magyar mezőgazdaságra, hiszen mi még az amerikaiak szerint elavult nyugat-európai gazdálkodási módszerektől is távol vagyunk. Rengeteg technológiát kellene átvennünk, megtanulnunk és használnunk, ha lépést akarunk tartani a világgazdasággal. És túl kellene már lépni néhány, politikai és emocionális megfontolásból tabuként kezelt témán.”
 
-*Ez volt GMO-hisztéria sorozat utolsó része.*
+*Ez volt a GMO-hisztéria sorozat utolsó része.*
 
 ## Irodalom
 
 * BROOKES, G. – BARFOOT, P. 2018. [Farm income and production impacts of using GM crop technology 1996–2016.](https://doi.org/10.1080/21645698.2018.1464866) – GM Crops & Food, 9(2), pp. 59-89.
 
-* Céleres Ambiental (2009). [Social and Environmental Benefits from the Agricultural Biotechnology in Brazil: 1996 – 2009.](http://www.celeresambiental.com.br/pdf/PressRelease2009_Ambiental01_Eng.pdf)
+* Céleres Ambiental (2009). [Social and Environmental Benefits from the Agricultural Biotechnology in Brazil: 1996 – 2009.](http://www.celeresambiental.com.br/pdf/PressRelease2009_Ambiental01_Eng.pdf
+)
 
 * CLIVE, J. (2016). [ISAAA Brief 52-2016: Executive Summary. ISAAA (International Service for the Acquisition of Agri-biotech Applications).](http://www.isaaa.org/resources/publications/briefs/52/executivesummary/default.asp)
 

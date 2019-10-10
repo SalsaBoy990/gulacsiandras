@@ -1,28 +1,34 @@
-<div class="bg-tangaroa mb0">
+<div class="mb0">
   <div class="container-fluid p0 m0">
     <div class="row mx-responsive p0">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-8 p0 mt1">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 p0 m0">
         <div>
-          <p class="very-light-gray small-size m0 align-center ubuntu"><%= site.description %></p>
+          <h1 class="uppercase pt3 mb0">Írásaim</h1>
+          <h2 class="h3 gray-secondary-text mt2 mbhalf">Legfrissebb</h2>
         </div>
       </div>
     </div>
     <div class="row mx-responsive p0">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-8 p0 mt2 m-mt-1">
-        <div class="card bg-mamba phalf rounded-2 mb1 border-orange border-shadow">
-          <div class="row no-gutters p0">
-            <div class="card-body col-xs-12 col-sm-12 col-md-10 col-lg-8 col-xl-8 outer-container pt0 pbhalf">
-              <div class="inner-shape" aria-hidden="true">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 p0">
+        <div class="bg-blue-neutral-bg-darker rounded-2 mb1 border-shadow">
+          <div class="row p0">
+            <div
+              class="col-xs-12 col-sm-12 col-md-10 col-lg-5 col-xl-5 d-none d-sm-none d-md-none d-lg-block d-xl-block">
+              <img class="m0" src="/assets/images/articles/<%= currentPostCoverImage %>"" alt="
+                <%= currentPostTitle %>">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-10 col-lg-7 col-xl-7 outer-container pt0 pbhalf">
+              <!--<div class="inner-shape" aria-hidden="true">
                 <img aria-hidden="true" class="m0 csepp-shape" src="/assets/images/bullet.png">
-              </div>
-              <span class="min-size uppercase pattensblue ubuntu lh1">Új Cikk</span>
-              <h3 class="card-title no-underline mb1 white expanded m0"><a href="<%= currentPostLink %>" class="white-link pbhalf"><%= currentPostTitle %></a></h3>
-              <p class="m0 pbhalf white fs-22"><%= currentPostExcerpt %></p>
-              <a href="<%= currentPostLink %>" class="btn btn-lg bg-medium-orange uppercase min-size expanded no-underline">Tovább olvasom</a>
+              </div>-->
+
+              <h3 class="card-title h2 no-underline mb1 blue-heading-primary m0 pthalf"><a href="<%= currentPostLink %>"
+                  class="blue-heading-primary no-visited pbhalf"><%= currentPostTitle %></a></h3>
+              <p class="m0 pbhalf black-body"><%= currentPostExcerpt %></p>
+              <a href="<%= currentPostLink %>"
+                class="btn btn-lg bg-gold-highlight uppercase min-size expanded no-underline no-visited">Tovább olvasom</a>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-10 col-lg-4 col-xl-4 d-none d-sm-none d-md-none d-lg-block d-xl-block">
-              <img class="card-img m0 mthalf" src="/assets/images/<%= currentPostCoverImage %>"" alt="<%= currentPostTitle %>">
-            </div>
+
           </div>
         </div>
       </div>

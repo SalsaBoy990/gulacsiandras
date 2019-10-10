@@ -1,1 +1,9 @@
-@import "./base/base.scss";
+// @import "./base/fonts.scss";
+@import "./base/variables.scss";
+@import "./base/basic.scss";
+@import "./base/marginPadding.scss";
+@import "./base/textAlignment.scss";
+@import "./base/mediaQueries.scss";
+@import "./base/formsButtons.scss";
+@import "./base/bordersShadows.scss";
+@import "./base/customRules.scss";

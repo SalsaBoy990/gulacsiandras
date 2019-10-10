@@ -11,7 +11,7 @@ excerpt: >-
   mégsem hisztériáznak a „környezetvédőként” tetszelgő zöld aktivisták a
   szénerőművek ellen a radioaktív kibocsátásuk miatt, ami akár százszorosan is
   meghaladja az atomerőművek radioaktív emisszióját!
-coverImage: articles/inota.jpg
+coverImage: inota.jpg
 comments: true
 topic: erőforrások
 ---
@@ -48,7 +48,8 @@ A legmagasabb ^232^Th koncentrációt a Pannonpower Kft. zagytározóiban mért�
 
 ![1. ábra: Radioaktív emisszió szén- és atomerőművekből, 1988-ban (BÓDIZS D. et al. 1992). Az adatokat a tanulmányban szereplő ábra digitalizálásából nyertem. A szürke téglalapok a szénerőművek kibocsátásait mutatják. A fehér az atomerőmű.](https://dl.dropboxusercontent.com/s/1hf9emzu5u3r73s/atomeromu_vs_szeneromu.png?dl=0)
 
-Egy amerikai tanulmány szerint (MCBRIDE, J. P. et al. 1978)
+Egy amerikai tanulmány szerint
+ (MCBRIDE, J. P. et al. 1978)
 
 >az egy erőmű által kibocsátott szálló pernye, a villamosságért elégetett szén egy mellékterméke, a környezetébe 100-szor akkora sugárzást ad le, mint egy, az ugyanakkora mennyiségű energiát előállító atomerőmű.
 
@@ -80,7 +81,8 @@ A komoly méreteket öltő szocialista iparosítás alatt jelentős mennyiségű
 
 Szintén alkalmaznak porleválasztást (elektrofilterekkel), valamint a nitrogén oxidok (NO~x~, azaz nitrogén-dioxid (NO~2~) és nitrogén-oxid (NO)) csökkentése karbamid (CO(NH~2~)~2~) beadagolás segítségével (ún. „szelektív katalitikus redukciós”, azaz [SCR rendszer](http://hu.greenchem-adblue.com/greenchem-has-a-new-product-5/)). A reakcióhoz magas hőmérsékletre (min. 250 °C) van szükség. A hő hatására felszabaduló ammónia (NH~3~) reakcióba lép a füstgáz nitrogén-oxidjaival, és nitrogénné, valamint vízzé alakítja át azokat.
 
-A szénerőművek magas kén emissziója a múltban hozzájárult a **londoni típusú szmogok** kialakulásához a szocialista bányavárosokban. A belélegzett kén-dioxiddal szennyezett levegő a légutakban és a tüdőben található nedvességgel kénsavat (H~2~SO~4~) képez, amely erősen irritáló és maró hatású. A hosszú távú kitettség számos súlyos betegségekhez vezethet: hörghurut, asztmás rohamok, gégegörcsök és végül légzésbénulás és halál. A gyerekek és az idősek a legveszélyeztetettebbek. Egy remek szakdolgozatban olvastam (Fülöp I. 2009):
+A szénerőművek magas kén emissziója a múltban hozzájárult a **londoni típusú szmogok** kialakulásához a szocialista bányavárosokban. A belélegzett kén-dioxiddal szennyezett levegő a légutakban és a tüdőben található nedvességgel kénsavat (H~2~SO~4~) képez, amely erősen irritáló és maró hatású. A hosszú távú kitettség számos súlyos betegségekhez vezethet: hörghurut, asztmás rohamok, gégegörcsök és végül légzésbénulás és halál. A gyerekek és az idősek a legveszélyeztetettebbek. Egy remek szakdolgozatban olvastam (Fülöp I. 2009)
+:
 
 >A magyar lakosság egészségi állapotát befolyásoló és halandóságai kockázati tényezői közül jelentősek a környezeti ártalmakból származó egészségkárosító hatások is.
 Felmérések szerint a halálozások 14-16%-át környezeti hatásokkal összefüggő megbetegedések okozzák. Hazánkban is folyamatosan nő az allergiás betegek száma, a nyilvántartott szénanáthás betegek száma az elmúlt tíz évben megtízszereződött, míg az asztmásoké megháromszorozódott.
@@ -92,7 +94,8 @@ Habár az ezredfordulón jelentős mértékben csökkent Várpalota és Inota le
 
 ![2. ábra: Az 1000 lakosra jutó rosszindulatú daganatok és idült alsó légúti megbetegedések száma a háziorvosi jelentések alapján, Várpalotán és Veszprém megye átlagában, 2003-ban (Fülöp I. 2009)](https://dl.dropboxusercontent.com/s/kmvtu9gde3qwq0o/v%C3%A1rpalota.png)
 
-| | Rosszindulatú daganatok || Idült alsó légúti megbetegedések ||
+| | Rosszindulatú daganatok || Idült alsó légúti megbetegedések
+ ||
 | | Várpalota | Veszprém megye | Várpalota | Veszprém
 ------ | :------: | :------: |  :------: | :------: 
 férfi | 74,1 | 18,5 | 61,9 | 37,2
@@ -110,11 +113,13 @@ Kronikus bronchitis | 206 | 225 | 232
 
 ## Kiegészítés: A hazai bauxit radioaktivitása
 
-Az 1970-es-80-as években intenzív bauxitbányászat folyt főként a Dunántúli-középhegységben, a Bakonyban. Döntő részt karsztbauxitot bányásztak mélyművelésben, tehát a karsztvízszint alatt is, ami miatt szivattyúzni kellett a karsztvizet a vízbetörések elkerülése végett, aminek a következtében a karsztvízszintek jelentősen lecsökkentek. Szerencsére, a bányászat megszűntével mára kezd normalizálódni a vízszint. Timföldgyártás továbbra is folyik Ajkán, de importált bauxitot dolgoznak fel. Már Halimbán is megszűnt a bauxitbányászat (2013-ban). Tudomásom szerint ez volt az utolsó bánya, ami még működött. [Alumíniumgyártás még folyik Inotán](http://inotal.hu/) (Várpalota mellett, a bezárt Inotai Erőmű szomszédságában)
+Az 1970-es-80-as években intenzív bauxitbányászat folyt főként a Dunántúli-középhegységben, a Bakonyban. Döntő részt karsztbauxitot bányásztak mélyművelésben, tehát a karsztvízszint alatt is, ami miatt szivattyúzni kellett a karsztvizet a vízbetörések elkerülése végett, aminek a következtében a karsztvízszintek jelentősen lecsökkentek. Szerencsére, a bányászat megszűntével mára kezd normalizálódni a vízszint. Timföldgyártás továbbra is folyik Ajkán, de importált bauxitot dolgoznak fel. Már Halimbán is megszűnt a bauxitbányászat (2013-ban). Tudomásom szerint ez volt az utolsó bánya, ami még működött. [Alumíniumgyártás még folyik Inotán](http://inotal.hu/
+) (Várpalota mellett, a bezárt Inotai Erőmű szomszédságában)
 
 A bauxitból a Bayer-eljárással gyártottak timföldet. Az eljárás során a sokösszetevős bauxitból NaOH (nátrium-hidroxid, nátronlúg) segítségével iparilag tiszta alumínium-oxidot, más néven timföldet nyertek ki; amely a fémalumínium elektrolitikus kohósításának kiindulási terméke. 1 tonna timföld gyártásával kb. 1,2-1,45 tonna vörösiszap keletkezik, amit zagytározókban tárolnak.
 
-[Az ajkai vörösiszap-katasztrófa](https://hu.wikipedia.org/wiki/Ajkai_vörösiszap-katasztrófa): Kolontáron egy ilyen zagytározó földgátja szakadt át 2009-ben. A vörösiszap felett a tározóban nátronlúgot tároltak. A vörösiszap önmagában nem veszélyes, viszont itt a valós veszélyt a nátronlúg jelentette, ugyanis a nátronlúg erősen maró hatású, súlyos égési sérüléseket okoz, pH értéke 13, tehát erősen lúgos kémhatású. A zagyár megölt 10 és megsebesített 150 embert a MAL Zrt. nemtörődömsége és gondatlansága miatt. A tározó a település felett, magasabban helyezkedett el, így a zagyár a település felé zúdult le.
+[Az ajkai vörösiszap-katasztrófa](https://hu.wikipedia.org/wiki/Ajkai_vörösiszap-katasztrófa
+): Kolontáron egy ilyen zagytározó földgátja szakadt át 2009-ben. A vörösiszap felett a tározóban nátronlúgot tároltak. A vörösiszap önmagában nem veszélyes, viszont itt a valós veszélyt a nátronlúg jelentette, ugyanis a nátronlúg erősen maró hatású, súlyos égési sérüléseket okoz, pH értéke 13, tehát erősen lúgos kémhatású. A zagyár megölt 10 és megsebesített 150 embert a MAL Zrt. nemtörődömsége és gondatlansága miatt. A tározó a település felett, magasabban helyezkedett el, így a zagyár a település felé zúdult le.
 
 A magyarországi bauxitok jellemző radioaktivitása (Bq/kg):
 
@@ -143,9 +148,12 @@ Ezek megint olyan alacsonyak, hogy semmilyen egészségügyi kockázatot nem jel
 
 * [Bakonyi Erőmű (Ajka)](http://bakonyi.hu/)
 * [Mátrai Erőmű (Visonta)](http://www.mert.hu/cegtortenet)
-* [Pannon Erőmű (Pécs)](https://www.veolia.hu/hu/letesitmenyeink)
-* [Tatabányai Erőmű](http://www.tber.hu/rolunk/a-vallalat-tortenete)
-* [Vértesi Erőmű (Oroszlány)](http://www.vert.hu/oroszlany.aspx)
+* [Pannon Erőmű (Pécs)](https://www.veolia.hu/hu/letesitmenyeink
+)
+* [Tatabányai Erőmű](http://www.tber.hu/rolunk/a-vallalat-tortenete
+)
+* [Vértesi Erőmű (Oroszlány)](http://www.vert.hu/oroszlany.aspx
+)
 
 
 * Az Inotai Erőmű fotója, 1972 (Forrás: [Fortepan](http://www.fortepan.hu/_photo/display/31049.jpg))

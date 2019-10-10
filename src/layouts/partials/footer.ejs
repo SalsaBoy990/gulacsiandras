@@ -1,70 +1,65 @@
 <footer class="mt0">
-  <div class="bg-tangaroa">
+  <div class="bg-dark-blue">
     <div class="container-fluid p0 m0">
-      <div class="row mx-responsive">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7 p0">
-          
-          <img src="/assets/images/feather.png" alt="Madártoll, amivel régen írtak" class="signup-logo m0 mt1">
-          <h3 class="white mbhalf mt0">Iratkozz fel a hírlevelemre!</h3>
-          
-          <p class="very-light-gray small-size mb1">Havonta egy esszé. Bármikor leiratkozhatsz.</p>
-          <div class="row p0">
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-xl-10">
-              <!-- Begin Mailchimp Signup Form -->
-              <form action="https://gmail.us20.list-manage.com/subscribe/post?u=0a74bd7ad6e9b7577ec3fa73b&amp;id=9cea65df63" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="custom-form ws-validate mr2 clear-x-margin" target="_blank" novalidate>
-                <div class="form-group mbhalf">
-                  <label for="mce-EMAIL" class="small-size very-light-gray m0">E-mail cím</label>
-                  <input placeholder="E-mail" type="email" value="" name="EMAIL" id="mce-EMAIL" required>
-                </div>
-                <div class="form-group mbhalf">
-                  <label for="mce-FNAME" class="small-size very-light-gray m0">Név</label>
-                  <input placeholder="Név" type="text" value="" name="FNAME" class="" id="mce-FNAME" required>
-                </div>
-                <div class="form-group mb0">
-                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6cbbf883d98fba69287cc1e48_838b177b0a" tabindex="-1" value=""></div>
-                </div>
-                <div class="clearfix">
-                  <button type="submit" value="Feliratkozás" name="subscribe" class="float-right bg-medium-orange btn btn-lg min-size uppercase expanded bold-500">Feliratkozás</button>
-                </div>
-              </form>
-              <!--End mc_embed_signup-->
-              <p class="very-light-gray fs-22 mt2 m-mt-1 mb1 pr1 clear-x-padding">A blogomon az esszéimet jelentetem meg a valódi környezetvédelem és az energetika témakörében. Az írásaim tudományos és ismeretterjesztő jellegűek, az állításaimat empirikus adatokkal támasztom alá.</p>
+      <div class="row mx-responsive p0">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 col-xl-5 p0">
+          <a href="/">
+            <img class="profile-footer unselectable grayscale-100 mr2 mt2" src="/assets/images/logo.png"
+              alt="<%= site.author %>" /></a>
+          <p class="gray-e mt1 mb1 pr1 medium-size"><%= site.quote %></p>
+
+          <button type="button" class="btn-icon min-size" data-toggle="popover" data-placement="bottom"
+            title="E-mail cím" data-content="<%= site.email %>"><svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M22 44C34.1503 44 44 34.1503 44 22C44 9.84974 34.1503 0 22 0C9.84974 0 0 9.84974 0 22C0 34.1503 9.84974 44 22 44Z" fill="#B89C40"/>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M22.3065 20.7652C20.5879 20.7652 11.7333 15.744 11.7333 15.744V14.96C11.7333 13.9884 12.5218 13.2 13.4951 13.2H31.118C32.0921 13.2 32.8806 13.9884 32.8806 14.96L32.8665 15.84C32.8665 15.84 24.1079 20.7652 22.3065 20.7652ZM22.3065 23.1852C24.1906 23.1852 32.8665 18.48 32.8665 18.48L32.8806 29.04C32.8806 30.0115 32.0921 30.8 31.118 30.8H13.4951C12.5227 30.8 11.7333 30.0115 11.7333 29.04L11.7474 18.48C11.7465 18.48 20.5879 23.1852 22.3065 23.1852Z" fill="black"/>
+              </svg></button>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7 col-xl-6 p0 mb1">
+          <div class="border-gray plhalf pb2" style="margin-top: 3.2rem;">
+            <div class="clearfix mb1 pthalf">
+              <h1 id="kapcsolat" class="float-left h4 mb0 white">Kapcsolatfelvétel</h4>
+                <span class="float-right yellow-highlight prhalf" style="font-size: 12px;">* Kötelező mezők</span>
             </div>
+            <form name="contact" class="custom-form ws-validate" method="POST" action="/uzenet-elkuldve.html"
+              netlify-honeypot="bot-field" netlify>
+              <p class="hidden">
+                <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+              </p>
+              <div class="form-group">
+                <label for="inputEmail" class="medium-size blue-neutral-bg-lighter mb0">Az e-mail
+                  címed<span class="yellow-highlight">*</span></label>
+                <br>
+                <input type="email" name="EMAIL" id="inputEmail" class="border-round contact-input" placeholder="E-mail"
+                  required
+                  style="max-width: 280px; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg=='); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: pointer;" />
+              </div>
+              <div class="form-group">
+                <label for="inputName" class="medium-size blue-neutral-bg-lighter mb0">A teljes
+                  neved<span class="yellow-highlight">*</span></label>
+                <br>
+                <input style="max-width: 280px;" type="text" name="NAME" id="inputName" class="border-round"
+                  placeholder="Vállald fel, ha írsz nekem!" required>
+              </div>
+              <div class="form-group">
+                <label for="message" class="medium-size blue-neutral-bg-lighter mb0">Az üzeneted<span
+                    class="yellow-highlight">*</span></label>
+                <br>
+                <textarea name="message" id="message" placeholder="Az üzeneted számomra." class="mrhalf"
+                  required></textarea>
+              </div>
+              <button type="submit" class="float-left btn btn-lg min-size uppercase expanded">Mehet az
+                üzenet</button>
+            </form>
           </div>
         </div>
-        <div class="col-md-12 col-lg-5 p0 mb2">
-          <h4 id="kapcsolat" class="mb1 white m-mt-1 m-fs-20" style="margin-top: 3.25rem;">Kapcsolatfelvétel</h4>
-
-          <form name="contact" class="custom-form ws-validate" method="POST" action="/uzenet-elkuldve.html" netlify-honeypot="bot-field" netlify>
-            <p class="hidden">
-              <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-            </p>
-            <div class="form-group">
-              <label for="inputEmail" class="small-size very-light-gray m0">E-mail cím</label>
-              <br>
-              <input type="email" name="EMAIL" id="inputEmail" class="border-round" placeholder="E-mail" required
-                style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg=='); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: pointer;"
-              />
-            </div>
-            <div class="form-group" style="margin-bottom: 0.25rem">
-                <label for="message" class="small-size very-light-gray mb0">Üzenet</label>
-                <br>
-                <textarea name="message" id="message" placeholder="Üzenet" required></textarea>
-            </div>
-            <button type="submit" class="float-right btn btn-lg min-size uppercase bold-500 bg-medium-orange expanded">Üzenet elküldése</button>
-          </form>
-        </div>
+      </div>
+    </div>
+    <div class="row mx-responsive p0">
+      <div class="col-12 p0 pbhalf" >
+            <p class=" min-size white m0">&copy; <%= site.currentYear %> <%= site.author %>. Minden jog
+        fenntartva.</p>
       </div>
     </div>
   </div>
-  <div class="bg-blue" style="height:54px; line-height: 54px">
-    <div class="container-fluid p0 m0">
-      <div class="row mx-responsive p0">
-        <div class="col-12 p0">
-          <p class="min-size very-light-gray m0">&copy; <%= site.currentYear %> <%= site.author %>. Minden jog fenntartva.</p>
-        </div>
-      </div>
-    </div>
   </div>
 </footer>

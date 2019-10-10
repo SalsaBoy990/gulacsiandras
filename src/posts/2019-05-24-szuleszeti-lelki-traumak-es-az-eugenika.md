@@ -9,7 +9,7 @@ excerpt: >-
   közötti emocionális kötődés biológiai és pszichés alapja. A köztük lévő kapocs
   megkönnyíti az újszülött számára a külső világhoz való alkalmazkodást és
   támogatja a gyermek egészséges reakcióit.
-coverImage: articles/szuleszeti_traumak.jpg
+coverImage: szuleszeti_traumak.jpg
 comments: true
 topic: Pszichológia
 ---

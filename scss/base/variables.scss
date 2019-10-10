@@ -1,0 +1,270 @@
+@charset "UTF-8";
+/* Created by András Gulácsi (@andrasgulacsi / salsaboy990) */
+
+// Sizes
+$baseline:    1.5rem /* 30px */;
+$base-size:   20px;
+$lheight:     1.5;
+$h1-size:     2.4rem;
+$h2-size:     1.8rem;
+$h3-size:     1.2rem;
+$h4-size:     1rem;
+$medium-size:  0.8rem;
+$min-size:    0.7rem;
+
+.big-size {
+  font-size: $h3-size;
+}
+
+.medium-size {
+  font-size: $medium-size;
+}
+
+.min-size {
+  font-size: $min-size;
+}
+
+
+// Fonts
+$heading-font: 'Suez One', "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif; 
+$body-font:    'Literata', Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+$code-font:    'Consolas', 'Lucida Console', Monaco, monospace;
+
+
+// Color Variables
+$dark-blue:              #05073F;
+$black-body:             #2E2E32;
+$gray-secondary-text:    #666684;
+$gray-tertiary-text:     #8F8F9B;
+$blue-neutral-bg-darker: #C7C7D4;
+$blue-neutral-bg-lighter:#E9E9EF;
+$blue-heading-primary:   #25253F;
+$gold-highlight:         #B89C40;
+$red-error:              rgb(179, 80, 58);
+$yellow-info-dark:       #75711B;
+$yellow-info-light:      #C9C32D;
+$yellow-btn-active:      #F49109;
+$green-success:          #197E72;
+$blue-link:              #03567B; /*#0578AC;*/
+$blue-link-hover:        #00354D;
+
+// Default colors
+$white:   #FFF;
+$gray-e:  #eee;
+$gray-d:  #ddd;
+$gray-c:  #ccc;
+$gray-a:  #aaa;
+$black:   #000;
+$green:   #24C2B0;
+$red:     #c22424;
+$yellow:  #FFAE35;
+$blue:    #3575ff;
+$highlight: #FFFCB2;
+
+.bg-yellow-gradient {
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFAE35 100%);
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFAE35 100%);
+}
+
+.yellow-highlight {
+  color: $yellow-btn-active;
+}
+
+// Function to calculate margin sizes (n times the baseline grid size)
+@function margin-size($n) {
+  @return $n * $baseline;
+}
+
+.bg-dark-blue {
+  background-color: $dark-blue;
+}
+
+.bg-black-body {
+  background: $black-body;
+}
+
+.black-body {
+  color: $black-body;
+}
+
+.bg-gray-secondary-text {
+  background: $gray-secondary-text;
+}
+
+.gray-secondary-text {
+  color: $gray-secondary-text;
+}
+
+.bg-gray-tertiary-text {
+  background: $gray-tertiary-text;
+}
+
+.gray-tertiary-text {
+  color: $gray-tertiary-text;
+}
+
+.bg-blue-neutral-bg-darker {
+  background: $blue-neutral-bg-darker;
+}
+
+.blue-neutral-bg-darker {
+  color: $blue-neutral-bg-darker;
+}
+
+.bg-blue-neutral-bg-lighter {
+  background: $blue-neutral-bg-lighter;
+}
+
+.blue-neutral-bg-lighter {
+  color: $blue-neutral-bg-lighter;
+}
+
+.bg-blue-heading-primary {
+  background: $blue-heading-primary;
+}
+
+.blue-heading-primary {
+  color: $blue-heading-primary;
+}
+
+.bg-gold-highlight {
+  background: $gold-highlight;
+}
+
+.gold-highlight {
+  color: $gold-highlight;
+}
+
+.bg-red-error {
+  background: $red-error;
+}
+
+.red-error {
+  color: $red-error;
+}
+
+.bg-yellow-info-dark{
+  background: $yellow-info-dark;
+}
+
+.yellow-info-dark {
+  color: $yellow-info-dark;
+}
+
+/*
+.blue-link {
+  background: $blue-link;
+}*/
+
+.bg-yellow-info-light {
+  background: $yellow-info-light;
+}
+
+.yellow-info-light {
+  color: $yellow-info-light;
+}
+
+.bg-green-success {
+  color: $green-success;
+}
+
+.green-success {
+  color: $green-success;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.white {
+  color: $white;
+}
+
+.gray-e {
+  color: $gray-e;
+}
+
+.gray-d {
+  color: $gray-d;
+}
+
+.gray-c {
+  color: $gray-c;
+}
+
+.gray-a {
+  color: $gray-a;
+}
+
+.black {
+  color: $black;
+}
+
+.green {
+  color: $green;
+}
+
+.red {
+  color: $red;
+}
+
+.yellow {
+  color: $yellow;
+}
+
+.blue {
+  color: $blue;
+}
+
+.bg-none {
+  background: none;
+}
+
+.bg-white {
+  background: $white;
+}
+
+.bg-gray-e {
+  background: $gray-e;
+}
+
+.bg-gray-d {
+  background: $gray-d;
+}
+
+.bg-gray-c {
+  background: $gray-c;
+}
+
+.bg-gray-a {
+  background: $gray-a;
+}
+
+.bg-black {
+  background: $black;
+}
+
+.bg-green {
+  background: $green;
+}
+
+.bg-red {
+  background: $red;
+}
+
+.bg-yellow {
+  background: $yellow;
+}
+
+.bg-blue {
+  background: $blue;
+}

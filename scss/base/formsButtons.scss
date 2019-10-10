@@ -1,0 +1,110 @@
+.custom-form .ws-invalid label,
+.custom-form .ws-invalid h3 {
+  color: $red-error;
+  font-size: $medium-size;
+  font-weight: 400
+}
+.custom-form .ws-invalid input,
+.custom-form .ws-invalid textarea {
+  border-color: $red-error;
+}
+
+.custom-form .ws-success input,
+.custom-form .ws-success textarea {
+  border-color: $green-success;
+}
+
+.ws-errorbox {
+  padding-left: 0.5rem;
+  letter-spacing: 0;
+  font-weight: 700;
+  font-family: $body-font;
+}
+
+.ws-errorbox p {
+  color: $red-error;
+  font-size: $min-size;
+  font-weight: 400
+}
+
+.btn:hover {
+  color: $black;
+  background-color: $yellow-btn-active;
+}
+
+.btn:focus, .btn:active {
+  color: $black;
+  background-color: $yellow-btn-active;
+  border: 1px solid $blue-link-hover;
+}
+
+button:active {
+  border: 1px solid $blue-link-hover;
+}
+
+/*
+.btn:active, .btn:active {
+  background: $blue;
+  box-shadow: none;
+}*/
+
+.btn {
+  transition: all 0.5s ease 0s;
+  height: 44px;
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25); /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25); /* Firefox 3.5 - 3.6 */
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25); /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+  border: 0px solid #999;
+  border-radius: 0.25rem;
+  color: $black;
+  background: $gold-highlight;
+  //background-image: linear-gradient(to top, #c9c32d, #d7be2a, #e5b92a, #f3b42e, #ffae35);
+  font-family: $body-font;
+  line-height: 44px;
+  text-align: center;
+  padding: 0 15px;
+}
+
+.btn-icon {
+  transition: all 0.5s ease 0s;
+  height: 44px;
+  width: 44px;
+  border-radius: 50%;
+  border: none;
+  color: $black;
+  background: $dark-blue;
+  //background-image: linear-gradient(to top, #c9c32d, #d7be2a, #e5b92a, #f3b42e, #ffae35);
+  font-family: $body-font;
+  line-height: 44px;
+  text-align: center;
+  padding: 0;
+}
+
+.btn-lg,
+.btn-group-lg > .btn {
+  padding: 0px 30px;
+  /*font-size: 20px;*/
+  line-height: 44px;
+  border-radius: 2px;
+}
+
+/*
+.form-row>.col, .form-row>[class*=col-] {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+*/
+.form-control {
+  height: 44px;
+}
+
+.input-group-prepend {
+  height: 44px;
+  margin-top: 6px;
+  border-right: none;
+  background-color: $white
+}
+
+.search-bar {
+  border-left: none;
+}

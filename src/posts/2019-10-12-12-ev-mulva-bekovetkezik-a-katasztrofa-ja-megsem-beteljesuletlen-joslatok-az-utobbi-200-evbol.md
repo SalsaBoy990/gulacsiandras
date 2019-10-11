@@ -333,6 +333,10 @@ Egy indiai kormány által irányított szervezetnek („NITI Aayog”) a 2018-a
 
 * A lista még nem teljes, de majd folyamatosan bővülni fog.*
 
+### George Carlin—Saving the Planet :D :D
+@[youtube](v=7W33HRc1A6c)
+
+
 ## Utószó
 
 Az utóbbi évszázadokban sorra bombáztak minket hisztérikus és hazug jóslatokkal, melyek egyike sem következett be! Mindenki eldöntheti saját maga, hogy mit hisz el a tömegmédiában elhangzó félelemkeltő jóslatokból, manofakturált válságokból. Ide passzol egy népmese [a farkast kiáltó pásztorról](https://e-nyelvmagazin.hu/2015/08/10/farkast-kialtanak/):
@@ -345,6 +349,25 @@ Meghallották a falubeliek a segélykiáltást, s lóhalálában futottak a mez�
 
 A farkas tépte-szaggatta a juhokat, egyiket a másik után. A fiú pedig hiába kiabált torkaszakadtából, nem érkezett segítség. A farkas mind egy szálig végzett szegény állatokkal.
 – Nem hallottátok, hogy segítségért kiáltozok? – kérdezte a fiú sírva a vetésről éppen hazafelé tartó falusiakat.– Sokszor becsaptál minket, honnan tudhattuk volna, hogy most valóban veszély fenyeget?
+
+## Irodalom
+
+http://www.aei.org/publication/18-spectacularly-wrong-predictions-made-around-the-time-of-first-earth-day-in-1970-expect-more-this-year-3/
+
+https://wattsupwiththat.com/2014/07/29/a-brief-history-of-climate-panic-and-crisis-both-warming-and-cooling/
+
+https://wattsupwiththat.com/2014/07/29/a-brief-history-of-climate-panic-and-crisis-both-warming-and-cooling/
+
+https://wattsupwiththat.com/2017/10/30/some-failed-climate-predictions/
+
+https://wattsupwiththat.files.wordpress.com/2015/11/snowfalls-are-now-just-a-thing-of-the-past-the-independent.pdf
+
+https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/
+
+https://wattsupwiththat.com/2014/04/02/the-big-list-of-failed-climate-predictions/
+
+https://wattsupwiththat.com/2019/03/03/icymi-the-u-n-told-us-wed-have-disaster-by-year-2000-if-global-warming-was-not-checked/
+
 
 
 

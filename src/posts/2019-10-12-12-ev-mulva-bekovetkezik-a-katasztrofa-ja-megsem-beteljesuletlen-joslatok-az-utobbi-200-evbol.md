@@ -258,31 +258,31 @@ ahol egy évtizeden belül rendszeres nyári kereskedelmet várhatunk”
 Az Egyesült Nemzetek Környezetvédelmi Programja azt jósolta, hogy a klímaváltozás 2010-re 50 millió klímamenekültet hozna létre. Ezek az emberek katasztrófák egy sorától menekülnének, beleértve a tengerszint-emelkedést, a hurrikánok számának és erejének az emelkedését és az élelmiszertermelés zavarait.
 
 
-### 48. 2007 – „Az Arktisz 2013-ra jégmentes lesz”
+### 49. 2007 – „Az Arktisz 2013-ra jégmentes lesz”
 
 > „Wieslaw Maslowski professzor az Amerikai Geofizikai Unió találkozáján azt mondta, hogy a korábbi forgatókönyvek alábecsülték a jég fogyását jelenleg irányító folyamatokat. … tehát figyelembe véve e tényt, állíthatod azt, hogy a 2013-as forgatókönyvünk már túlságosan visszafogott lehet.”
 
 Nem. Még 2018-ban sem jégmentes, még nyáron sem. A legkisebb tengerjég-kiterjedés 2018-ban 4,6 millió km2 (szeptember 23-án), míg a legnagyobb 14,5 millió km2 (március 17-én) volt, [az NCIDC adatai szerint](https://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/ ).
 
 
-### 49. 2008 – „NSIDC – az északi-sarki olvadás meghaladta a pontot, aminél visszafordítható lenne”
+### 50. 2008 – „NSIDC – az északi-sarki olvadás meghaladta a pontot, aminél visszafordítható lenne”
 
 > „Utáljuk azt mondani, hogy megmondtuk, de mégis ezt tettük.”
 
 A tengerjég legkisebb kiterjedése 2008-ban, 2017-ben és 2018-ban majdnem teljesen egyforma volt [az NCID adatai szerint](https://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/)!
 
-## 50. [2012 – 4 éven belül elolvad az összes északi-sarki tengerjég (nyáron)](https://www.theguardian.com/environment/2012/sep/17/arctic-collapse-sea-ice)
+### 51. [2012 – 4 éven belül elolvad az összes északi-sarki tengerjég (nyáron)](https://www.theguardian.com/environment/2012/sep/17/arctic-collapse-sea-ice)
 
 Peter Wadhams professzor a Cambridge-i Egyetemtől azt nyilatkozta, hogy 4 év múlva a nyári hónapokra teljesen el fog olvadni a jég az Északi-sarkon.
 A National Snow & Ice Data Center (NSIDC) honlapja cáfolja, hogy nyárra eltűnt volna a tengerjég: [2018-ban szeptember 12-én volt a legkisebb jégborítás](https://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/), 4,59 millió km^2^, ami elég messze van a 0-tól.
 
-### 51. [2016 – Készítsd elő Noé bárkáját, mert a következő 20 évben nagyvárosok sora kerülhet víz alá](https://www.smithsonianmag.com/science-nature/melting-glaciers-are-wreaking-havoc-earths-crust-180960226/)
+### 52. [2016 – Készítsd elő Noé bárkáját, mert a következő 20 évben nagyvárosok sora kerülhet víz alá](https://www.smithsonianmag.com/science-nature/melting-glaciers-are-wreaking-havoc-earths-crust-180960226/)
 
 Jenny Chen a Smithsonian-ban írta:
 
 > „Most már kétségtelenül elárasztottak téged a globális tengerszint-emelkedés fenyegetésével. A jelenleg becsült 1/10 inch éves ütemű emelkedés mellett, a tengerszint emelkedés miatt olyan hatalmas városok sora, mint New York, Galveston és Norfolk tűnhet el a víz alatt a következő 20 évben.”
 
-### 52. [2017 – „A Föld hatodik kihalási eseménye úton van”](https://www.theguardian.com/environment/2017/jul/10/earths-sixth-mass-extinction-event-already-underway-scientists-warn)
+### 53. [2017 – „A Föld hatodik kihalási eseménye úton van”](https://www.theguardian.com/environment/2017/jul/10/earths-sixth-mass-extinction-event-already-underway-scientists-warn)
 
 – figyelmeztetnek a tudósok, tudósít róla a The Guardian napilap.
 
@@ -290,26 +290,26 @@ Jenny Chen a Smithsonian-ban írta:
 
 De hát már 1970-ben megmondták nekünk, hogy „25 éven belül az összes állatfaj 75-80%-a eltűnik.” Vagy mégsem pusztultak ki 2005-re? Lásd még a 33. és 38. pontot is. A tudományos cikk szerzői között ott van Paul Ehrlich is.
 
-### 53. [2017 – Csak 3 évünk van, hogy az éghajlatunkat biztosítsuk](https://www.nature.com/news/three-years-to-safeguard-our-climate-1.22201)
+### 54. [2017 – Csak 3 évünk van, hogy az éghajlatunkat biztosítsuk](https://www.nature.com/news/three-years-to-safeguard-our-climate-1.22201)
 
 Christiana Figueres (ENSZ diplomata, az ENSZ éghajlat-változási keretegyezményének ügyvezető titkára volt) és kollégái egy 6 pontból álló tervet állítottak össze a világ szén-dioxid-kibocsátásának 2020-ig történő visszafordítására.
 
 Durván 1 °C-os, az emberi tevékenység által vezérelt globális felmelegedés után a grönlandi és az antarktiszi jégtakaró már most növekvő ütemben veszít a tömegéből. A nyári tengerjég eltűnik az Északi-sarkon és a korallzátonyok a hőstressztől elpusztulnak – teljes ökoszisztémák kezdenek el összeomlani.
 
 
-### 54. [2018 – 12 év múlva itt világvége](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report)
+### 55. [2018 – 12 év múlva itt világvége](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report)
 
 > „12 évünk van, hogy kordában tartsuk a klímaváltozás katasztrófát”
 
 – figyelmeztetett az ENSZ. Sürgős beavatkozásra van szükség, hogy csökkentsük a szélsőséges hőség, az aszály, az áradások és a szegénység kockázatát – mondta az IPCC.
 
-### 55. [2018 –  „A klímaváltozás frontvonalán elhelyezkedő szigetek területe növekszik”]( https://dailycaller.com/2018/10/30/pacific-islands-growing-sea-level/)
+### 56. [2018 –  „A klímaváltozás frontvonalán elhelyezkedő szigetek területe növekszik”]( https://dailycaller.com/2018/10/30/pacific-islands-growing-sea-level/)
 
 > „Egy tanulmány azt találta, hogy az alacsonyan fekvő szigetek közel 90%-ának a területe stabil vagy növekszik, az emelkedő tengerszintek ellenére. Az ENSZ és más szervezetek arra figyelmeztetnek, hogy a Pacifikus- és az Indiai-óceán szigetlakói „klímamenekültekké” válnak. Azonban a tanulmány szerint a szigetek „sem zsugorodást, sem pedig partvonal visszahúzódást nem szenvedtek.””
 
 A Time magazin mostanában a tengerszintek emelkedése miatt [süllyedő szigetekről](https://time.com/longform/sinking-islands-climate-change/) jelentetett meg egy cikket
 
-### 56. [2019 – Hihetetlenül felgyorsult a rovarok kihalása, egyre nyilvánvalóbb, hogy összeomlik a földi ökoszisztéma](https://168ora.hu/tudas/hihetetlenul-felgyorsult-a-rovarok-kihalasa-egyre-nyilvanvalobb-hogy-osszeomlik-a-foldi-okoszisztema-163466)
+### 57. [2019 – Hihetetlenül felgyorsult a rovarok kihalása, egyre nyilvánvalóbb, hogy összeomlik a földi ökoszisztéma](https://168ora.hu/tudas/hihetetlenul-felgyorsult-a-rovarok-kihalasa-egyre-nyilvanvalobb-hogy-osszeomlik-a-foldi-okoszisztema-163466)
 
 Nyolcszor olyan gyors a rovarfajok kihalása, mint az emlősöké, madaraké vagy a hüllőké: a rovarfajok 40 százaléka kihalhat a következő évtizedekben, a fajok egyharmada veszélyeztetett kategóriába tartozik – írta a BBC.
 
@@ -318,7 +318,7 @@ A többi hibát más tudósok tárták fel például [itt](https://rethinkingeco
 
 Francisco Sánchez-Bayo, Kris A.G. Wyckhuys. Worldwide decline of the entomofauna: A review of its drivers. Biological Conservation, 2019; 232: 8 DOI: 10.1016/j.biocon.2019.01.020
 
-### 57. [2019 – A klímaváltozás 2050-re véget vet az emberi civilizációnak](https://nypost.com/2019/06/03/climate-change-could-end-human-civilization-by-2050-report/)
+### 58. [2019 – A klímaváltozás 2050-re véget vet az emberi civilizációnak](https://nypost.com/2019/06/03/climate-change-could-end-human-civilization-by-2050-report/)
 
 Egy „szívszaggató”, új jelentés szerint az emberiség lehet, hogy a kihalás útjára lépett, azt állítva, hogy amennyiben nem teszünk lépéseket az üvegházhatású gázok kibocsátása ellen, az emberi civilizáció „nagy valószínűséggel” 2050-re véget ér. A jelentés központi „2050-es forgatókönyve” szerint
 
@@ -326,7 +326,7 @@ Egy „szívszaggató”, új jelentés szerint az emberiség lehet, hogy a kiha
 
 Ez az elképzelés egy az egyben megegyezik Thomas Malthus 18. századi jóslatával: szerinte az élelmiszertermelés nem lesz majd képes ellátni a növekvő népességet, ami katasztrofális összeomláshoz, éhínségekhez, járványokhoz és háborúkhoz vezet. Lásd az 1. pontot.
 
-## 59. [2019 – Kifogynak a talajvízből Indiában. Százmilliók fognak szomjan halni.](https://edition.cnn.com/2019/06/27/india/india-water-crisis-intl-hnk/index.html)
+### 59. [2019 – Kifogynak a talajvízből Indiában. Százmilliók fognak szomjan halni.](https://edition.cnn.com/2019/06/27/india/india-water-crisis-intl-hnk/index.html)
 
 > „A CNN beszámolója szerint elkezdődött, amire a szakértők évtizedek óta figyelmeztetnek: a világ második legnépesebb országa, az 1,4 milliárd lakosú India öt éven belül gyakorlatilag kiszárad, százmilliók fognak szomjan halni vagy elvándorolni.
 Egy indiai kormány által irányított szervezetnek („NITI Aayog”) a 2018-as jelentése szerint az ország 21 legnagyobb városa egy éven belül teljesen kifogy a talajvízből.”
@@ -334,7 +334,7 @@ Egy indiai kormány által irányított szervezetnek („NITI Aayog”) a 2018-a
 * A lista még nem teljes, de majd folyamatosan bővülni fog.*
 
 ### George Carlin—Saving the Planet :D :D
-@[youtube](v=7W33HRc1A6c)
+@[youtube](7W33HRc1A6c)
 
 
 ### Utószó

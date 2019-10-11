@@ -253,7 +253,7 @@ Dr. David Viner szerint néhány éven belül a téli hóesés egy
 ahol egy évtizeden belül rendszeres nyári kereskedelmet várhatunk”
 – állította Peter Wadhams, a cambridge-i székhelyű Scott Sarkkutató Intézettől. Valóság: még ma sem.
 
-### 48. 2005 – az ENSZ szerint 2010-re [50 millió klímamenekült lesz a Földön](https://dailycaller.com/2011/04/16/the-un-disappears-50-million-climate-refugees-then-botches-the-cover-up/)
+### 48. 2005 – az ENSZ szerint 2010-re [50 millió klímamenekült lesz a Földön](https://dailycaller.com/2011/04/16/the-un-disappears-50-million-climate-refugees-then-botches-the-cover-up/)
 
 Az Egyesült Nemzetek Környezetvédelmi Programja azt jósolta, hogy a klímaváltozás 2010-re 50 millió klímamenekültet hozna létre. Ezek az emberek katasztrófák egy sorától menekülnének, beleértve a tengerszint-emelkedést, a hurrikánok számának és erejének az emelkedését és az élelmiszertermelés zavarait.
 

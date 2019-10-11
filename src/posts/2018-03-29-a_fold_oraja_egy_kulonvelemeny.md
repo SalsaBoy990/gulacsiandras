@@ -3,7 +3,7 @@ title: A Föld Órája – egy különvélemény
 date: '2018-03-29'
 excerpt: >-
   Az egész mentalitás Föld Órája mögött az elektromosságot démonizálja. Én ezt nem tehetem, hanem helyette ünneplem azt, és mindazt, amit biztosított az emberiség számára.
-coverImage: villamossag.jpg
+coverImage: /assets/images/articles/villamossag.jpg
 comments: true
 topic: egyéb
 ---

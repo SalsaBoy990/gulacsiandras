@@ -2,7 +2,7 @@
 title: "Paul Driessen és David Wojick: A luddista öko-imperialisták azt állítják, hogy ők erényesek"
 date: "2018-07-29"
 excerpt: "A primitív mezőgazdaságot és az alultápláltságot emberi jogokként szentesítő über-organikus kampány. Az Agroökológia GMO-ellenes „organikus” élelmiszer aktivizmus a köbön. Gyakorlatilag mindent elutasít, ami lehetővé tette a modern mezőgazdaságot, hogy milliárdokkal több embert lásson el kevesebb és kevesebb földterületből és felszámolhatná az éhezést és az alultápláltságot világszerte. Ellenzi a biotechnológiát, a monokultúrás termesztést, a „nem-organikus” trágyákat és „vegyi” növényvédő szereket..."
-coverImage: "szantas.jpg"
+coverImage: /assets/images/articles/szantas.jpg
 comments: true
 topic: mezőgazdaság
 ---

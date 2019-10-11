@@ -9,7 +9,7 @@ excerpt: >-
   hogy a biotermesztésből származó élelmiszerek nem jobbak a hagyományos
   megfelelőiknél; a burgonyavész-ellenálló GM-burgonyáról, végül az inzulin
   géntechnológiával történő előállításáról.
-coverImage: corn.jpg
+coverImage: /assets/images/articles/corn.jpg
 comments: true
 topic: gmo
 ---

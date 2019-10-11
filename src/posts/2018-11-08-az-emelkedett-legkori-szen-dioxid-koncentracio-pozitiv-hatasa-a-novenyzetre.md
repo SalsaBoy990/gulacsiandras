@@ -8,7 +8,7 @@ excerpt: >-
   vízfelhasználást és csökkent nitrogén és fehérje szöveti koncentrációt mutat.
   A szén-dioxid-koncentráció emelkedése nemcsak a mezőgazdasági termelés
   nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja.
-coverImage: szantas.jpg
+coverImage: /assets/images/articles/szantas.jpg
 comments: true
 topic: éghajlatváltozás
 ---

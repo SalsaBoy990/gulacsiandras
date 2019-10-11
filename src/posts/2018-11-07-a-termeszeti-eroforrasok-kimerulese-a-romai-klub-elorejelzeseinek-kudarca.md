@@ -3,7 +3,7 @@ title: A természeti erőforrások kimerülése? A Római Klub előrejelzéseine
 date: '2018-11-07'
 excerpt: >-
   Hosszú távon még a nem-megújuló erőforrások is kevésbé szűkössé fognak válni, mivel azokat végső soron az állandóan megújuló és örökké növekvő emberi intellektus hozza létre...
-coverImage: banyaszat.jpg
+coverImage: /assets/images/articles/banyaszat.jpg
 comments: true
 topic: erőforrások
 ---

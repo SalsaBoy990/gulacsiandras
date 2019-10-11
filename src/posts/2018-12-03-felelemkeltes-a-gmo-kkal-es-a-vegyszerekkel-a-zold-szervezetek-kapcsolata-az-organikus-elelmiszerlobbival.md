@@ -13,7 +13,7 @@ excerpt: >-
   vásárolja meg a bioélelmiszer cégek „GMO- és vegyszermentesnek” reklámozott
   termékeit magasabb áron. A legnagyobb átverés az egészben, hogy a fogyasztó
   nem létező előnyökért fizet felárat a biotermékekért.
-coverImage: gmo_corn.jpg
+coverImage: /assets/images/articles/gmo_corn.jpg
 comments: true
 topic: gmo
 ---

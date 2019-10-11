@@ -9,7 +9,7 @@ excerpt: >-
   röviden. Nem létezik egyetlen egy olyan tudományos publikáció sem, amely a
   GMO-élelmiszerek kapcsán hihetően alátámasztott volna bármilyen, az emberek
   vagy az állatok egészségére gyakorolt károsító hatást.
-coverImage: corn.jpg
+coverImage: /assets/images/articles/corn.jpg
 comments: true
 topic: gmo
 ---

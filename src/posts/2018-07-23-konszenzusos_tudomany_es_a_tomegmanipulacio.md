@@ -3,7 +3,7 @@ title: A „konszenzusos tudomány” és a tömegmanipuláció
 date: '2018-07-23'
 excerpt: >-
   Edward Bernays lehetővé tette a tehetős ügyfeleinek, hogy a háttérben rejtőzködve saját érdekeik szerint befolyásolhassák az emberek tömegeit. Úgy vélte, hogy a közvélemény tudományos manipulálása szükséges a társadalmi káosz és konfliktus elkerülése érdekében. Mestere volt annak, hogyan győzzön meg tömegeket arról, hogy szükségtelen dolgokra vágyjanak. Röviden: a tudat alatt rejtőző vágyaikat tömegcikk vásárlásában éljék ki a profit maximalizálása érdekében
-coverImage: beechnutpackingco.jpg
+coverImage: /assets/images/articles/beechnutpackingco.jpg
 comments: true
 topic: pszichológia
 ---

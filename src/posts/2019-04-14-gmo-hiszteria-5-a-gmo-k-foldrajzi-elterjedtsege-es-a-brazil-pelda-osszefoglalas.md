@@ -9,7 +9,7 @@ excerpt: >-
   országok egyik nagyágyúja. Hazánk is példát vehetne Brazíliáról, és
   túlléphetne már néhány, politikai és emocionális megfontolásból tabuként
   kezelt témán, s engedélyezhetné a GM-növények termesztését.
-coverImage: corn.jpg
+coverImage: /assets/images/articles/corn.jpg
 comments: true
 topic: gmo
 ---

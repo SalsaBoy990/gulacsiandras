@@ -6,7 +6,7 @@ excerpt: >-
   „olajcsúcs”. A nap- és a szélenergia nem váltják ki a fosszilis
   tüzelőanyagokat. A fosszilis energiák a civilizációnk alapjai, melyek
   előnyökkel és hátrányokkal is járnak. Olajválságok Észak-Koreában és Kubában.
-coverImage: olajkut.jpg
+coverImage: /assets/images/articles/olajkut.jpg
 comments: true
 topic: energetika
 ---

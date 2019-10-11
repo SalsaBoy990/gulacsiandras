@@ -11,7 +11,7 @@ excerpt: >-
   mégsem hisztériáznak a „környezetvédőként” tetszelgő zöld aktivisták a
   szénerőművek ellen a radioaktív kibocsátásuk miatt, ami akár százszorosan is
   meghaladja az atomerőművek radioaktív emisszióját!
-coverImage: inota.jpg
+coverImage: /assets/images/articles/inota.jpg
 comments: true
 topic: erőforrások
 ---

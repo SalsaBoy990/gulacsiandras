@@ -5,7 +5,7 @@ excerpt: >-
   Ezeket a nevetséges teóriákat az organikus élelmiszeripar lobbiszervezetei és
   a konteósok terjesztik, kihasználva az emberek tájékozatlanságát és
   hiszékenységét.
-coverImage: corn.jpg
+coverImage: /assets/images/articles/corn.jpg
 comments: true
 topic: gmo
 ---

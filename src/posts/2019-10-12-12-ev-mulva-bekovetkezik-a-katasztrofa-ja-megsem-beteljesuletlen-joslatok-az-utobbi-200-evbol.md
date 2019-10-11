@@ -178,7 +178,8 @@ Gaylord Nelson szenátor írta a Look-ban, hogy
 
 > „Dr. S. Dillon Ripley, a Smithsonian Intézet titkára úgy véli, hogy 25 éven belül az összes élő állatfaj 75-80 százaléka ki fog halni.”
 
-De hol vannak a tetemek? Még mindig csak több száz faj halt ki, főként szigeteken.
+De hol vannak a tetemek?
+ Még mindig csak több száz faj halt ki, főként szigeteken.
 
 ### 35. 1972 – A legfontosabb nyersanyagokból ki fogunk merülni
 
@@ -216,7 +217,8 @@ Viszont az Amerikai Gáz Szövetség azt mondta, hogy a földgázkészletek eleg
 
 ### 41. 1975 – Az új jégkorszak veszélye
 
-> „Az új jégkorszak veszélye ma már a nukleáris háború mellett állhat az emberiség tömeges halálozásának és nyomorának valószínű forrásaként”
+> „Az új jégkorszak veszélye ma már a nukleáris háború mellett állhat
+ az emberiség tömeges halálozásának és nyomorának valószínű forrásaként”
 
 – írta Nigel Calder, a New Scientist magazin szerkesztője, a Nemzetközi Vadvilág Magazinban (International Wildlife Magazin) megjelent cikkében.
 
@@ -253,7 +255,7 @@ Dr. David Viner szerint néhány éven belül a téli hóesés egy
 ahol egy évtizeden belül rendszeres nyári kereskedelmet várhatunk”
 – állította Peter Wadhams, a cambridge-i székhelyű Scott Sarkkutató Intézettől. Valóság: még ma sem.
 
-### 48. 2005 – az ENSZ szerint 2010-re [50 millió klímamenekült lesz a Földön](https://dailycaller.com/2011/04/16/the-un-disappears-50-million-climate-refugees-then-botches-the-cover-up/)
+### 48. 2005 – az ENSZ szerint 2010-re [50 millió klímamenekült lesz a Földön](https://dailycaller.com/2011/04/16/the-un-disappears-50-million-climate-refugees-then-botches-the-cover-up/)
 
 Az Egyesült Nemzetek Környezetvédelmi Programja azt jósolta, hogy a klímaváltozás 2010-re 50 millió klímamenekültet hozna létre. Ezek az emberek katasztrófák egy sorától menekülnének, beleértve a tengerszint-emelkedést, a hurrikánok számának és erejének az emelkedését és az élelmiszertermelés zavarait.
 
@@ -288,7 +290,8 @@ Jenny Chen a Smithsonian-ban írta:
 
 > „A vadvilág „biológiai megsemmisülése” az utóbbi évtizedekben azt jelenti, hogy a földtörténet hatodik tömeges kihalása folyamatban van és sokkal súlyosabb, amitől korábban féltek, a kutatás szerint.”
 
-De hát már 1970-ben megmondták nekünk, hogy „25 éven belül az összes állatfaj 75-80%-a eltűnik.” Vagy mégsem pusztultak ki 2005-re? Lásd még a 33. és 38. pontot is. A tudományos cikk szerzői között ott van Paul Ehrlich is.
+De hát már 1970-ben megmondták nekünk, hogy „25 éven belül az összes állatfaj 75-80%-a eltűnik.” Vagy mégsem pusztultak ki 2005-re? Lásd még a 33. és 38. pontot is.
+ A tudományos cikk szerzői között ott van Paul Ehrlich is.
 
 ### 54. [2017 – Csak 3 évünk van, hogy az éghajlatunkat biztosítsuk](https://www.nature.com/news/three-years-to-safeguard-our-climate-1.22201)
 
@@ -307,14 +310,17 @@ Durván 1 °C-os, az emberi tevékenység által vezérelt globális felmeleged�
 
 > „Egy tanulmány azt találta, hogy az alacsonyan fekvő szigetek közel 90%-ának a területe stabil vagy növekszik, az emelkedő tengerszintek ellenére. Az ENSZ és más szervezetek arra figyelmeztetnek, hogy a Pacifikus- és az Indiai-óceán szigetlakói „klímamenekültekké” válnak. Azonban a tanulmány szerint a szigetek „sem zsugorodást, sem pedig partvonal visszahúzódást nem szenvedtek.””
 
-A Time magazin mostanában a tengerszintek emelkedése miatt [süllyedő szigetekről](https://time.com/longform/sinking-islands-climate-change/) jelentetett meg egy cikket
+A Time magazin mostanában a tengerszintek emelkedése miatt [süllyedő szigetekről](https://time.com/longform/sinking-islands-climate-change/
+) jelentetett meg egy cikket
 
 ### 57. [2019 – Hihetetlenül felgyorsult a rovarok kihalása, egyre nyilvánvalóbb, hogy összeomlik a földi ökoszisztéma](https://168ora.hu/tudas/hihetetlenul-felgyorsult-a-rovarok-kihalasa-egyre-nyilvanvalobb-hogy-osszeomlik-a-foldi-okoszisztema-163466)
 
 Nyolcszor olyan gyors a rovarfajok kihalása, mint az emlősöké, madaraké vagy a hüllőké: a rovarfajok 40 százaléka kihalhat a következő évtizedekben, a fajok egyharmada veszélyeztetett kategóriába tartozik – írta a BBC.
 
 A Biological Conservation folyóiratban a „lenyűgöző tudású” ökológusok megjelentették a rovarok számának 40%-os csökkenéséről szóló áttekintő cikküket. Az online Web of Science adatbázisban rákerestek a „rovar” ÉS „csökkenés” ÉS „felmérés” kulcsszavakat tartalmazó tudományos cikkekre. Ezzel a saját torzításaikat vitték be az elemzésükbe: már előre eldöntötték a keresési feltételben, hogy a rovarok száma csökken. Más szóval, kimazsolázgatták a saját hipotézisükkel egyező adatokat és figyelmen kívül hagyták azokat, melyek cáfolják azt, ami az én szememben csalás. A tanulmányt el kellett volna utasítani. Ilyen „banális hibát” hogy nem szúrnak ki a lektorok? Hol vannak azok a felmérések a tanulmányban, melyeknél a rovarok száma növekedett? Kezdem azt hinni, hogy a tanulmány előre szándékolt célja valójában a pánikkeltés volt. És szokás szerint az „ipari mezőgazdaságot” és a „rovarölő szerek túlzott használatát” hibáztatják mindezért, ami azon munkálkodik, hogy a cikk képmutató szerzői is jól tápláltak legyenek.
-A többi hibát más tudósok tárták fel például [itt](https://rethinkingecology.pensoft.net/article/34440/) és [itt](https://www.sciencedaily.com/releases/2019/03/190319112211.htm).
+A többi hibát más tudósok tárták fel például [itt](https://rethinkingecology.pensoft.net/article/34440/
+) és [itt](https://www.sciencedaily.com/releases/2019/03/190319112211.htm
+).
 
 Francisco Sánchez-Bayo, Kris A.G. Wyckhuys. Worldwide decline of the entomofauna: A review of its drivers. Biological Conservation, 2019; 232: 8 DOI: 10.1016/j.biocon.2019.01.020
 

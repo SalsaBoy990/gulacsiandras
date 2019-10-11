@@ -5,6 +5,7 @@
   "main": "./lib/build.js",
   "scripts": {
     "sass": "node-sass --include-path ./src/assets/stylesheet/ ./scss/main.scss ./src/assets/stylesheet/main.css",
+    "purify": "node ./minify-css/purify-css",
     "build": "node ./lib/build.js",
     "heroku": "node ./lib/build.js && node ./lib/serve.js",
     "serve": "node ./lib/serve.js",
@@ -53,6 +54,7 @@
   },
   "devDependencies": {
     "ejs-lint": "^0.3.0",
+    "purify-css": "^1.2.5",
     "standard": "^11.0.1"
   },
   "bugs": {

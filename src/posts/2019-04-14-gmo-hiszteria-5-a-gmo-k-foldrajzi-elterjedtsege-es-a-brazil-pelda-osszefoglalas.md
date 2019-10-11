@@ -11,7 +11,7 @@ excerpt: >-
   kezelt témán, s engedélyezhetné a GM-növények termesztését.
 coverImage: corn.jpg
 comments: true
-topic: GMO
+topic: gmo
 ---
 ## A termesztett GM-növények földrajzi elterjedése
 

@@ -10,7 +10,7 @@ excerpt: >-
   nagyságát, hanem a táplálék minőségét is valószínűleg befolyásolni fogja.
 coverImage: szantas.jpg
 comments: true
-topic: Klímahisztéria
+topic: éghajlatváltozás
 ---
 *A tanulmányom*
 

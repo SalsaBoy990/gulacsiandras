@@ -14,16 +14,13 @@
   border-color: $green-success;
 }
 
-.ws-errorbox {
+.ws-errorbox p {
   padding-left: 0.5rem;
   letter-spacing: 0;
   font-weight: 700;
   font-family: $body-font;
-}
-
-.ws-errorbox p {
   color: $red-error;
-  font-size: $min-size;
+  font-size: $min-size !important;
   font-weight: 400
 }
 

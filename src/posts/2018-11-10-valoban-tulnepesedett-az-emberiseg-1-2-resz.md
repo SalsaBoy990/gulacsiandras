@@ -9,7 +9,7 @@ excerpt: >-
   cáfolják, hogy mindez így lenne. A Föld nem túlnépesedett.
 coverImage: tulnepesedes.jpg
 comments: true
-topic: Túlnépesedés
+topic: túlnépesedés
 ---
 A kérdés megválaszolásához, gondolatban vissza kell repülnünk a negyedidőszaki pleisztocén eljegesedések végéhez, a **holocén** földtörténeti kor kezdetéhez, tehát Kr. e. 10 000-ig. Ez volt az időszak, amikor az éghajlat erőteljes felmelegedésének a következtében a legutóbbi eljegesedés (Würm glaciális) a jégtakarók visszahúzódásával véget ért, lehetővé téve ezzel a letelepedést, az emberi civilizáció létrejöttét.
 

@@ -286,19 +286,9 @@ ul {
   line-height: 1.56; }
 
 blockquote {
-  border-left: 4px solid #B89C40;
-  background-color: #E9E9EF;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  margin-left: 0.5rem;
-  margin-right: 1rem;
-  margin-bottom: 1rem;
   font-style: italic;
-  font-family: "Literata", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif; }
-
-blockquote p {
-  padding-left: 0.5rem;
-  margin-bottom: 0; }
+  font-family: "Literata", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  padding: 0; }
 
 table {
   font-family: "Literata", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;

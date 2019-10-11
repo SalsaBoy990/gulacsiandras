@@ -5,7 +5,7 @@ excerpt: >-
   Az egész mentalitás Föld Órája mögött az elektromosságot démonizálja. Én ezt nem tehetem, hanem helyette ünneplem azt, és mindazt, amit biztosított az emberiség számára.
 coverImage: villamossag.jpg
 comments: true
-topic: Antihumanizmus
+topic: egyéb
 ---
 
 **Ross McKitrick**:

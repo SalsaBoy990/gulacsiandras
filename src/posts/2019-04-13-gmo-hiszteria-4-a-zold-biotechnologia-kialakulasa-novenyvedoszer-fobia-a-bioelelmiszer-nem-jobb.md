@@ -11,7 +11,7 @@ excerpt: >-
   géntechnológiával történő előállításáról.
 coverImage: corn.jpg
 comments: true
-topic: GMO
+topic: gmo
 ---
 ## Egy kis történelem
 
@@ -56,7 +56,8 @@ Ebből az a tanulság, hogy a természetes eredetű vegyi anyagok éppolyan val�
 
 > **„mivel az emberek a legtöbb esetben alacsony dózisban vannak kitéve a szintetikus rovarirtószer-maradványoknak, ezek viszonylagos kockázata jelentéktelen”** (AMES, B. N. et al. 1990).
 
-Más szóval, azok a fogyasztók, akik **azért vesznek drága organikus élelmiszereket, hogy elkerüljék a rovarirtó szerek hatását, az élelmiszereikben előforduló rovarirtó szerek 0,01 százalékával foglalkoznak.** Az USA-ban egy személy egy napi szintetikus növényvédőszer-bevitele mindössze 0,09 mg, míg napi természetes növényvédőszer-bevitele 1,5 g (150 mg) az idézett tanulmány adatai szerint. A haszonnövényeink által termelt természetes eredetű növényvédő szerek sem jelentenek egészségügyi kockázatot, mert nagyon alacsony dózisban kerülnek a szervezetbe. És mint tudjuk, a dózis teszi a mérget.
+Más szóval, azok a fogyasztók, akik **azért vesznek drága organikus élelmiszereket, hogy elkerüljék a rovarirtó szerek hatását, az élelmiszereikben előforduló rovarirtó szerek 0,01 százalékával foglalkoznak.** Az USA-ban egy személy egy napi szintetikus növényvédőszer-bevitele mindössze 0,09 mg, míg napi természetes növényvédőszer-bevitele 1,5 g (150 mg) az idézett tanulmány adatai szerint. A haszonnövényeink által termelt természetes eredetű növényvédő szerek sem jelentenek egészségügyi kockázatot, mert nagyon alacsony dózisban kerülnek a szervezetbe.
+ És mint tudjuk, a dózis teszi a mérget.
 
 Az Európai Élelmiszerbiztonsági Hatóság (EFSA, European Food Safety Authority) legfrissebb jelentése (EFSA 2017) feltárta, hogy **az Európai Unió szerte 2015-ben gyűjtött élelmiszerminták 97%-ában a szintetikus növényvédőszer-maradványok a megengedett határértéken belül voltak, és 53%-uk egyáltalán nem tartalmazott (kimutatható mértékben) szintetikus növényvédőszer-maradékot.** Tehát az Európában fogyasztott élelmiszerek nagyobb része szintetikus szermaradvány nélküli vagy a megengedett határérték alatti. A hatóság azt a következtetést vonta le (a 2014-es felméréséhez hasonlóan), hogy az ebből származó egészségügyi kockázat alacsony, tehát **biztonsággal fogyaszthatók.** Határérték felett többnyire az Európán kívülről érkezett élelmiszerek tartalmazhat szermaradványokat (főleg Laosz, Suriname, Kambodzsa, Kína, Vietnam, Jordánia, Etiópia, Thaiföld, Pakisztán, India és Sri Lanka).
 

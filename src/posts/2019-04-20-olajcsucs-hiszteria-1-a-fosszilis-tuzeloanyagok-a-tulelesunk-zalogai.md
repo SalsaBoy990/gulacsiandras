@@ -8,7 +8,7 @@ excerpt: >-
   előnyökkel és hátrányokkal is járnak. Olajválságok Észak-Koreában és Kubában.
 coverImage: olajkut.jpg
 comments: true
-topic: erőforrások
+topic: energetika
 ---
 ## A világ primer energia-fogyasztása és villamosáram-termelése
 

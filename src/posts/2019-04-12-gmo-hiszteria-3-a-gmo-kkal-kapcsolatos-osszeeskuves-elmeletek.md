@@ -7,7 +7,7 @@ excerpt: >-
   hiszékenységét.
 coverImage: corn.jpg
 comments: true
-topic: GMO
+topic: gmo
 ---
 A legelterjedtebb GMO-kal kapcsolatos összeesküvés-elméletek cáfolatait is nagyon fontosnak tartom közre adni. Ezeket a nevetséges teóriákat az organikus élelmiszeripar lobbiszervezetei és a konteósok terjesztik, kihasználva az emberek tájékozatlanságát és hiszékenységét. Lássunk néhányat!
 
@@ -105,7 +105,8 @@ Adalékként még annyit, hogy Vandana Shiva, aki az indiai öngyilkosságokkal 
 
 A legelső hír 1999-ben röppent fel a The Independent lapban (MCCARTHY, M. 1999). Abban egy szó sem volt arról, hogy a Monsanto kantinjaiban csak GMO-mentes, illetve organikus élelmiszereket szolgálnak fel.
 
-A Monsanto hight wycombe-i (Buckinghamshire megye, Nagy-Britannia) gyógyszerészeti üzemében **a Granada Group tulajdonában lévő Sutcliffe Catering nevű cég által üzemeltetett kantinban** szolgáltak fel csak GMO-mentes élelmiszereket. **Tehát nem a Monsanto, hanem egy külső cég étkezdőjéről van szó!** Viszont a Monsanto cambridge-i agrárüzleti üzemének dolgozói előszeretettel fogyasztanak GMO-termékeket, mert azokat kevesebbet permetezik. És itt a Monsanto saját étkezdőjéről van szó. (Megjegyzés: ezek az üzemek már bezártak.)
+A Monsanto hight wycombe-i (Buckinghamshire megye, Nagy-Britannia) gyógyszerészeti üzemében **a Granada Group tulajdonában lévő Sutcliffe Catering nevű cég által üzemeltetett kantinban** szolgáltak fel csak GMO-mentes élelmiszereket. **Tehát nem a Monsanto, hanem egy külső cég étkezdőjéről van szó!** Viszont a Monsanto cambridge-i agrárüzleti üzemének dolgozói előszeretettel fogyasztanak GMO-termékeket, mert azokat kevesebbet permetezik. És itt a Monsanto saját étkezdőjéről van szó.
+ (Megjegyzés: ezek az üzemek már bezártak.)
 
 ![Monsanto-kantin](/assets/images/monsanto_etkezde.jpg){.medium-img}
 
@@ -113,7 +114,8 @@ A Monsanto hight wycombe-i (Buckinghamshire megye, Nagy-Britannia) gyógyszerés
 
 ## 5. A „szupergyomok” és a gyomirtószer-tolerancia
 
-> „A Monsanto génmódosított rovarölő-kibocsátó (a hatóanyaga a Bt-toxin) gyapotja a gyapot rovarkártevőjének (bollworm) nyolcvan százalékét pusztítja el. Viszont „a 80 százalékos halálozás éppen az, amit a tudósok akkor használnak, ha rezisztens rovarfajt akarnak előállítani” (FOX, J. L. 1996).”
+> „A Monsanto génmódosított rovarölő-kibocsátó (a hatóanyaga a Bt-toxin) gyapotja a gyapot rovarkártevőjének (bollworm) nyolcvan százalékét pusztítja el. Viszont „a 80 százalékos halálozás éppen az, amit a tudósok akkor használnak, ha rezisztens rovarfajt akarnak előállítani” (FOX, J. L. 1996).
+”
 
 Valamint:
 

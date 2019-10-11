@@ -11,7 +11,7 @@ excerpt: >-
   vagy az állatok egészségére gyakorolt károsító hatást.
 coverImage: corn.jpg
 comments: true
-topic: GMO
+topic: gmo
 ---
 
 ## A Séralini botrány, 1. felvonás

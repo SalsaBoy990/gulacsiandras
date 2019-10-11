@@ -15,7 +15,7 @@ excerpt: >-
   nem létező előnyökért fizet felárat a biotermékekért.
 coverImage: gmo_corn.jpg
 comments: true
-topic: GMO
+topic: gmo
 ---
 Az antihumanista zöldek azért ellenzik a GMO-élelmiszereket és folytatnak a GMO-cégek ellen kampányokat, mert a nagy organikus élelmiszeripari cégek (mint például a Whole Food Market, a Stonyfield Organic, az Applegate Organic, az Earthbound Farm és a Lundberg) hatalmas összegekkel finanszírozzák őket. A „szép és jóságos” biocégek üzleti stratégiája, hogy elhitetik az emberekkel, hogy a „csúnya és gonosz” nagy vegyipari és biotechnológiai vállalatok (mint például a Monsanto, a Syngenta, a Bayer, a Dow, a DuPont és a BASF) a profitért mérgezik az embereket a GMO-kkal és a növényvédő szerekkel. A tudatos fogyasztó ezért vásárolja meg a bioélelmiszer cégek „GMO- és vegyszermentesnek” reklámozott termékeit magasabb áron. A legnagyobb átverés az egészben, hogy a fogyasztó nem létező előnyökért fizet felárat az organikus, azaz biotermékekért.
 

@@ -11,7 +11,7 @@ excerpt: >-
   támogatja a gyermek egészséges reakcióit.
 coverImage: szuleszeti_traumak.jpg
 comments: true
-topic: Pszichológia
+topic: pszichológia
 ---
 Interjú Mgr. Michaela Mrowetz-cel. [Cikk átvét egy cseh híroldalról.](http://www.hrdinou.cz/105-hrdinu/michaela-mrowetz-96)
 

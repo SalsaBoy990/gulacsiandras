@@ -5,7 +5,7 @@ excerpt: >-
   Edward Bernays lehetővé tette a tehetős ügyfeleinek, hogy a háttérben rejtőzködve saját érdekeik szerint befolyásolhassák az emberek tömegeit. Úgy vélte, hogy a közvélemény tudományos manipulálása szükséges a társadalmi káosz és konfliktus elkerülése érdekében. Mestere volt annak, hogyan győzzön meg tömegeket arról, hogy szükségtelen dolgokra vágyjanak. Röviden: a tudat alatt rejtőző vágyaikat tömegcikk vásárlásában éljék ki a profit maximalizálása érdekében
 coverImage: beechnutpackingco.jpg
 comments: true
-topic: Pszichológia
+topic: pszichológia
 ---
 
 Az osztrák-amerikai származású [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)-t (1891-1995) a modern propaganda atyjaként és a PR úttörőjeként tartjuk számon (PR - public relations, közönségkapcsolatok). Bernays a nagybácsijától, a bécsi pszichoanalitikus Sigmund Freud-tól sok mindent elsajátított. Bernays-ra nagy hatást gyakoroltak Gustave Le Bon, Wilfred Trotter, Walter Lippmann és a nagybátyjának munkái. A tömeget irracionálisan viselkedőnek és a csordaszellemtől függőnek tekintette, és körvonalazta hogyan lehetnek képesek a tömegpszichológiát és a pszichoanalízist alkalmazó szakemberek irányítani őket a kívánt módon.

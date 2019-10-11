@@ -9,7 +9,7 @@ excerpt: >-
   cáfolják, hogy mindez így lenne. A Föld nem túlnépesedett.
 coverImage: tulnepesedes.jpg
 comments: true
-topic: Túlnépesedés
+topic: túlnépesedés
 ---
 A cikksorozat első részét [itt érhetitek el.](https://www.gulacsiandras.blog/2018/11/10/valoban-tulnepesedett-az-emberiseg-1-2-resz)
 

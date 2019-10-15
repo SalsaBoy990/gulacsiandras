@@ -345,7 +345,7 @@ Egy indiai kormány által irányított szervezetnek („NITI Aayog”) a 2018-a
 
 ### Utószó
 
-Az utóbbi évszázadokban sorra bombáztak minket hisztérikus és hazug jóslatokkal, melyek egyike sem következett be! Mindenki eldöntheti saját maga, hogy mit hisz el a tömegmédiában elhangzó félelemkeltő jóslatokból, manofakturált válságokból. Ide passzol egy népmese [a farkast kiáltó pásztorról](https://e-nyelvmagazin.hu/2015/08/10/farkast-kialtanak/):
+Az utóbbi évszázadokban sorra bombáztak minket hisztérikus és hazug jóslatokkal, melyek egyike sem következett be! Mindenki eldöntheti saját maga, hogy mit hisz el a tömegmédiában elhangzó félelemkeltő jóslatokból, manufakturált válságokból. Ide passzol egy népmese [a farkast kiáltó pásztorról](https://e-nyelvmagazin.hu/2015/08/10/farkast-kialtanak/):
 
 „A pásztorfiú a réten őrizte a nyájat. A juhok csak legeltek és legeltek, a fiú pedig egyedül volt és unatkozott. Gondolt egyet, s torkaszakadtából kiabálni kezdett: – Farkas, farkas! Itt a farkas a juhok között! Segítsetek! Meghallották a falubeliek a segélykiáltást, otthagytak csapot-papot, s lóhalálában futottak a fiú segítségére. Amikor odaértek, a juhok békességben legelésztek, a fiú pedig a hasát fogta a nevetéstől.– Ha-ha-ha! Becsaptalak benneteket, ti meg milyen rémült képet vágtok!
 
@@ -358,22 +358,19 @@ A farkas tépte-szaggatta a juhokat, egyiket a másik után. A fiú pedig hiába
 
 ## Irodalom
 
-http://www.aei.org/publication/18-spectacularly-wrong-predictions-made-around-the-time-of-first-earth-day-in-1970-expect-more-this-year-3/
+Andy May 2017. [Some Failed Climate Predictions.](https://wattsupwiththat.com/2017/10/30/some-failed-climate-predictions/)
 
-https://wattsupwiththat.com/2014/07/29/a-brief-history-of-climate-panic-and-crisis-both-warming-and-cooling/
+Charles Onians 2000. [Snowfalls are now just a thing of the past. The Independent](https://wattsupwiththat.files.wordpress.com/2015/11/snowfalls-are-now-just-a-thing-of-the-past-the-independent.pdf)
 
-https://wattsupwiththat.com/2014/07/29/a-brief-history-of-climate-panic-and-crisis-both-warming-and-cooling/
+Mark J. Perry 2019. [18 spectacularly wrong predictions made around the time of first Earth Day in 1970, expect more this year.](http://www.aei.org/publication/18-spectacularly-wrong-predictions-made-around-the-time-of-first-earth-day-in-1970-expect-more-this-year-3/)
 
-https://wattsupwiththat.com/2017/10/30/some-failed-climate-predictions/
+Peter James Spielman 1989. [U.N. Predicts Disaster if Global Warming Not Checked. AP News](https://www.apnews.com/bd45c372caf118ec99964ea547880cd0). Ha esetleg leszedik az oldalról, [itt letöltheted pdf-ben.](https://wattsupwiththat.com/2019/03/03/icymi-the-u-n-told-us-wed-have-disaster-by-year-2000-if-global-warming-was-not-checked/)
 
-https://wattsupwiththat.files.wordpress.com/2015/11/snowfalls-are-now-just-a-thing-of-the-past-the-independent.pdf
+WUWT 2013. [Great moments in failed predictions](https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/)
 
-https://wattsupwiththat.com/2013/01/19/great-moments-in-failed-predictions/
+WUWT 2014a. [The big list of failed climate predictions](https://wattsupwiththat.com/2014/04/02/the-big-list-of-failed-climate-predictions/)
 
-https://wattsupwiththat.com/2014/04/02/the-big-list-of-failed-climate-predictions/
-
-https://wattsupwiththat.com/2019/03/03/icymi-the-u-n-told-us-wed-have-disaster-by-year-2000-if-global-warming-was-not-checked/
-
+WUWT 2014b. [A brief history of climate panic and crisis… both warming and cooling.](https://wattsupwiththat.com/2014/07/29/a-brief-history-of-climate-panic-and-crisis-both-warming-and-cooling/)
 
 
 

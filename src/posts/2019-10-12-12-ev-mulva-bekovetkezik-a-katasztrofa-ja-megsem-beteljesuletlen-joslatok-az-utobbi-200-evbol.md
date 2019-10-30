@@ -1,7 +1,6 @@
 ---
 title: >-
-  12 év múlva bekövetkezik a katasztrófa—ja mégsem. Beteljesületlen jóslatok az
-  utóbbi 200 évből
+  Beteljesületlen környezeti jóslatok az utóbbi 200 évből
 date: '2019-10-12'
 excerpt: >-
   Napi rendszerességgel kell eldöntenünk, hogy vajon a fenyegetések, melyekkel
@@ -14,7 +13,7 @@ topic: éghajlatváltozás
 ---
 Ezekkel a gondolatokkal vezetném be a be nem következett vészjósló környezeti fenyegetések listáját: Michael Crichton véleménye szerint
 
-> „az emberiség számára a legnagyobb kihívást a valóságnak fantáziától, az igazságnak a propagandától való megkülönböztetése. Az igazság megismerése mindig is az emberiség kihívása volt, de az információ korában (vagy ahogyan tekintek rá, a dezinformáció kora) rendkívül sürgetővé és jelentőssé válik.”
+> „az emberiség számára a legnagyobb kihívást a valóságnak fantáziától, az igazságnak a propagandától való megkülönböztetése jelenti. Az igazság megismerése mindig is az emberiség kihívása volt, de az információ korában (vagy ahogyan tekintek rá, a dezinformáció kora) rendkívül sürgetővé és jelentőssé válik.”
 
 > „Napi rendszerességgel kell eldöntenünk, hogy vajon a fenyegetések, melyekkel szemben állunk valódiak-e, vajon a számunkra nyújtott megoldások tesznek-e bármi jót, és vajon a problémák, melyekről az mondják nekünk, hogy léteznek, tényleg valódi problémák-e, avagy sem.”
 
@@ -67,7 +66,7 @@ Viszont az adatok szerint viszont az éves réztermelés 1973-ban 1,6 millió to
 
 ### 16. 1969 – „...az északi-sarki jégtáblák vékonyodnak és egy vagy két évtizeden belül az északi-sarki óceán [a Jeges-tenger] nyílt tengerré válhat”
 – New York Times, 1969. február 20.
-Még ma sem következett be a jégmentes állapot a Jeges-tengeren még nyáron se! Lásd még a 45., 46. és 49. pontot: a jómadár Peter Wadhams megjósolta 2012-ben, hogy 4 éven belül elolvad az összes északi-sarki tengerjég (nyáron). Nem következett be.
+Még ma sem következett be a jégmentes állapot a Jeges-tengeren még nyáron se! Lásd még a 47., 49. és 50. pontot: a jómadár Peter Wadhams megjósolta 2012-ben, hogy 4 éven belül elolvad az összes északi-sarki tengerjég (nyáron). Nem következett be.
 
 ### 17. 1969 – “Ha szerencsejátékos lennék, akkor még arra is fogadnék, hogy Anglia 2000-re már nem fog létezni”
 – mondta az ökológus Paul Ehrlich. Ajánlom még az erőforrások kimerülésével kapcsolatos cikkemet, amiben írok az elhíresült Julian Simon kontra Paul Ehrlich fogadásról is, amit Ehrlich-ék nem meglepő módon elveszítettek. Julian Simon híres amerikai közgazdász volt.
@@ -165,8 +164,7 @@ Ehrlich felhívta a figyelmet, hogy az 1946 óta született amerikaiak jelenleg 
 
 Az ökológus Kenneth Watt kinyilvánította:
 
-> „A 2000. évig, ha a jelenlegi trendek folytatódnak, a nyersolajat olyan ütemben fogjuk felélni..., hogy nem lesz több nyersolaj.
-Oda fogsz menni a kúthoz és azt mondod ’Töltsd teli, pajtás’, és ő azt fogja válaszolni, ’Nagyon sajnálom, de nincs belőle.’”
+> „A 2000. évig, ha a jelenlegi trendek folytatódnak, a nyersolajat olyan ütemben fogjuk felélni..., hogy nem lesz több nyersolaj. Oda fogsz menni a kúthoz és azt mondod ’Töltsd teli, pajtás’, és ő azt fogja válaszolni, ’Nagyon sajnálom, de nincs belőle.’”
 
 ### 33. „2000 után kifogyunk rézből, az ólom, az ón, a cink, az arany és az ezüst 1990 előtt elfogy”
 
@@ -178,8 +176,7 @@ Gaylord Nelson szenátor írta a Look-ban, hogy
 
 > „Dr. S. Dillon Ripley, a Smithsonian Intézet titkára úgy véli, hogy 25 éven belül az összes élő állatfaj 75-80 százaléka ki fog halni.”
 
-De hol vannak a tetemek?
- Még mindig csak több száz faj halt ki, főként szigeteken.
+De hol vannak a tetemek? Még mindig csak több száz faj halt ki, főként szigeteken.
 
 ### 35. 1972 – A legfontosabb nyersanyagokból ki fogunk merülni
 
@@ -189,7 +186,7 @@ A növekedés határai (Limits to Growth) 1972-ben az prognosztizálta, hogy a v
 
 1974-ben az USA Földtani Szolgálata bejelentette, hogy
 
-> „1974-es technológiai színvonalon és 1974-es árak mellett az USA-nak mindössze 10 évre elegendő földgázkészlete maradt.
+> „1974-es technológiai színvonalon és 1974-es árak mellett az USA-nak mindössze 10 évre elegendő földgázkészlete maradt.”
 (Ma az USA a világ egyik legnagyobb gáztermelő országa.)
 
 Viszont az Amerikai Gáz Szövetség azt mondta, hogy a földgázkészletek elegendőek lesznek az elkövetkező 1000-2500 évben (Julian Simon 1981)
@@ -241,7 +238,7 @@ Viszont az Amerikai Gáz Szövetség azt mondta, hogy a földgázkészletek eleg
 
 Egy magas rangú ENSZ környezetvédelmi tiszt azt állítja, hogy egész nemzetek tűnhetnek el a Föld színéről az emelkedő tengerszintek miatt, ha 2000-ig nem fordítjuk meg a globális felmelegedés trendjét.
 
-A tengerpartok elárasztása és a terméskimaradások „öko-menekültek” tömegeit eredményezhetik, politikai káosszal fenyegetve – mondta Noel Brown, az UNEP (ENSZ Környezeti Program) New York-i irodájának vezetője. Azt is mondta, hogy a kormányzatoknak 10 év alatt van lehetősége az üvegházhatás megoldani, mielőtt az kikerül az emberi ellenőrzés alól.
+A tengerpartok elárasztása és a terméskimaradások „öko-menekültek” tömegeit eredményezhetik, politikai káosszal fenyegetve – mondta Noel Brown, az UNEP (ENSZ Környezeti Program) New York-i irodájának vezetője. Azt is mondta, hogy a kormányzatoknak 10 év alatt van lehetősége az üvegházhatást megoldani, mielőtt az kikerül az emberi ellenőrzés alól.
 
 ### 46. [2000 – A hó a múlté!](https://realclimatescience.com/2017/11/thing-of-the-past-comes-to-the-uk/)
 
@@ -264,7 +261,7 @@ Az Egyesült Nemzetek Környezetvédelmi Programja azt jósolta, hogy a klímav�
 
 > „Wieslaw Maslowski professzor az Amerikai Geofizikai Unió találkozáján azt mondta, hogy a korábbi forgatókönyvek alábecsülték a jég fogyását jelenleg irányító folyamatokat. … tehát figyelembe véve e tényt, állíthatod azt, hogy a 2013-as forgatókönyvünk már túlságosan visszafogott lehet.”
 
-Nem. Még 2018-ban sem jégmentes, még nyáron sem. A legkisebb tengerjég-kiterjedés 2018-ban 4,6 millió km2 (szeptember 23-án), míg a legnagyobb 14,5 millió km2 (március 17-én) volt, [az NCIDC adatai szerint](https://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/ ).
+Nem. Még 2018-ban sem jégmentes, még nyáron sem. A legkisebb tengerjég-kiterjedés 2018-ban 4,6 millió km^2^ (szeptember 23-án), míg a legnagyobb 14,5 millió km^2^ (március 17-én) volt, [az NCIDC adatai szerint](https://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/ ).
 
 
 ### 50. 2008 – „NSIDC – az északi-sarki olvadás meghaladta a pontot, aminél visszafordítható lenne”
@@ -290,8 +287,7 @@ Jenny Chen a Smithsonian-ban írta:
 
 > „A vadvilág „biológiai megsemmisülése” az utóbbi évtizedekben azt jelenti, hogy a földtörténet hatodik tömeges kihalása folyamatban van és sokkal súlyosabb, amitől korábban féltek, a kutatás szerint.”
 
-De hát már 1970-ben megmondták nekünk, hogy „25 éven belül az összes állatfaj 75-80%-a eltűnik.” Vagy mégsem pusztultak ki 2005-re? Lásd még a 33. és 38. pontot is.
- A tudományos cikk szerzői között ott van Paul Ehrlich is.
+De hát már 1970-ben megmondták nekünk, hogy „25 éven belül az összes állatfaj 75-80%-a eltűnik.” Vagy mégsem pusztultak ki 2005-re? Lásd még a 33. és 38. pontot is. A tudományos cikk szerzői között ott van Paul Ehrlich is.
 
 ### 54. [2017 – Csak 3 évünk van, hogy az éghajlatunkat biztosítsuk](https://www.nature.com/news/three-years-to-safeguard-our-climate-1.22201)
 
@@ -311,7 +307,7 @@ Durván 1 °C-os, az emberi tevékenység által vezérelt globális felmeleged�
 > „Egy tanulmány azt találta, hogy az alacsonyan fekvő szigetek közel 90%-ának a területe stabil vagy növekszik, az emelkedő tengerszintek ellenére. Az ENSZ és más szervezetek arra figyelmeztetnek, hogy a Pacifikus- és az Indiai-óceán szigetlakói „klímamenekültekké” válnak. Azonban a tanulmány szerint a szigetek „sem zsugorodást, sem pedig partvonal visszahúzódást nem szenvedtek.””
 
 A Time magazin mostanában a tengerszintek emelkedése miatt [süllyedő szigetekről](https://time.com/longform/sinking-islands-climate-change/
-) jelentetett meg egy cikket
+) jelentetett meg egy cikket.
 
 ### 57. [2019 – Hihetetlenül felgyorsult a rovarok kihalása, egyre nyilvánvalóbb, hogy összeomlik a földi ökoszisztéma](https://168ora.hu/tudas/hihetetlenul-felgyorsult-a-rovarok-kihalasa-egyre-nyilvanvalobb-hogy-osszeomlik-a-foldi-okoszisztema-163466)
 
@@ -337,7 +333,7 @@ Ez az elképzelés egy az egyben megegyezik Thomas Malthus 18. századi jóslat�
 > „A CNN beszámolója szerint elkezdődött, amire a szakértők évtizedek óta figyelmeztetnek: a világ második legnépesebb országa, az 1,4 milliárd lakosú India öt éven belül gyakorlatilag kiszárad, százmilliók fognak szomjan halni vagy elvándorolni.
 Egy indiai kormány által irányított szervezetnek („NITI Aayog”) a 2018-as jelentése szerint az ország 21 legnagyobb városa egy éven belül teljesen kifogy a talajvízből.”
 
-* A lista még nem teljes, de majd folyamatosan bővülni fog.*
+A lista még nem teljes, de majd folyamatosan bővülni fog.{.red}
 
 ### George Carlin—Saving the Planet :D :D
 @[youtube](7W33HRc1A6c)
@@ -345,7 +341,7 @@ Egy indiai kormány által irányított szervezetnek („NITI Aayog”) a 2018-a
 
 ### Utószó
 
-Az utóbbi évszázadokban sorra bombáztak minket hisztérikus és hazug jóslatokkal, melyek egyike sem következett be! Mindenki eldöntheti saját maga, hogy mit hisz el a tömegmédiában elhangzó félelemkeltő jóslatokból, manufakturált válságokból. Ide passzol egy népmese [a farkast kiáltó pásztorról](https://e-nyelvmagazin.hu/2015/08/10/farkast-kialtanak/):
+Az utóbbi évszázadokban sorra bombáztak minket hisztérikus és hazug jóslatokkal, melyek egyike sem következett be! Mindenki eldöntheti saját maga, hogy mit hisz el a tömegmédiában elhangzó félelemkeltő jóslatokból, manufakturált válságokból. Ide kívánkozik egy népmese [a farkast kiáltó pásztorról](https://e-nyelvmagazin.hu/2015/08/10/farkast-kialtanak/):
 
 „A pásztorfiú a réten őrizte a nyájat. A juhok csak legeltek és legeltek, a fiú pedig egyedül volt és unatkozott. Gondolt egyet, s torkaszakadtából kiabálni kezdett: – Farkas, farkas! Itt a farkas a juhok között! Segítsetek! Meghallották a falubeliek a segélykiáltást, otthagytak csapot-papot, s lóhalálában futottak a fiú segítségére. Amikor odaértek, a juhok békességben legelésztek, a fiú pedig a hasát fogta a nevetéstől.– Ha-ha-ha! Becsaptalak benneteket, ti meg milyen rémült képet vágtok!
 
@@ -354,7 +350,7 @@ Az emberek fejüket csóválva visszatértek munkájukhoz. Néhány nap eltelté
 Meghallották a falubeliek a segélykiáltást, s lóhalálában futottak a mezőre. Amikor odaértek, a fiú megint csak a hasát fogta nevettében. Így ment ez még néhány alkalommal. Egy napon a farkas valóban megjelent, s rögvest el is kapta első áldozatát. – Farkas, farkas! Itt a farkas a juhok között! Jó emberek! Segítsetek!
 
 A farkas tépte-szaggatta a juhokat, egyiket a másik után. A fiú pedig hiába kiabált torkaszakadtából, nem érkezett segítség. A farkas mind egy szálig végzett szegény állatokkal.
-– Nem hallottátok, hogy segítségért kiáltozok? – kérdezte a fiú sírva a vetésről éppen hazafelé tartó falusiakat.– Sokszor becsaptál minket, honnan tudhattuk volna, hogy most valóban veszély fenyeget?
+– Nem hallottátok, hogy segítségért kiáltozok? – kérdezte a fiú sírva a vetésről éppen hazafelé tartó falusiakat.– Sokszor becsaptál minket, honnan tudhattuk volna, hogy most valóban veszély fenyeget?”
 
 ## Irodalom
 
